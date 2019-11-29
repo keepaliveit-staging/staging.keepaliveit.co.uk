@@ -9,7 +9,7 @@ Creating a new website may seem like an extremely stressful task for some people
 ## Phase 1: Knowledge & Requirements Gathering
 During the Knowledge & Requirements Gathering phase, the customer (you), and the developer (us) will discuss the mission & Unique Selling Point (USP) of your business or organisation. This will help both parties identify the customer needs and create a vision of what the customer hopes to achieve with their new Website. We’ll ask you some detailed questions about what your Website needs to do during this phase so that we have all the information we need to know. This will usually involve having a meeting in person - but don’t worry about this! We’ll throw some ideas at you if you get stuck during the meeting and it won’t be formal in any way.
 
-##Phase 2: Layout & Design
+## Phase 2: Layout & Design
 Once the developer has a better understanding of the business or organisation’s requirements, the design work begins. Based on the information provided by the customer in Phase 1, the designer will create a design and send it to you for review. The design is worked on until you are 100% satisfied* and love the way it looks. Once we’re given the go ahead with our design, we’re ready to move onto Phase 3, which is the Implementation phase.
 
 ## Phase 3: Implementation
