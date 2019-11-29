@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Commercial Business Services"
+    url: /services/business
+  - title: "Non-Profit Business Services"
+    url: /services/non-profit
+  - title: "Consumer Services"
+    url: /services/consumer
+  - title: "Company Blog"
+    url: /blog
+  - title: "Free Resources"
+    url: /blog
