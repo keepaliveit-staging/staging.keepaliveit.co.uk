@@ -16,7 +16,6 @@ Once the developer has a better understanding of the business or organisation’
 Now that we have a final design and a clear picture of what the client wants, we can begin building the actual Website. The implementation phase consists of coding the required functionality of the Website, and implementing the design we came up with in Phase 2. 
 After this phase is complete, the Website comes to life and you can start using its features. This is the most time consuming phase of our time working together, so it may be some time before you hear back from us depending on your project size.
 
-
 ## Phase 4: Feedback 
 Now that Website is ready, we want to hear your final feedback about it. If there’s anything that needs changing, we will make some last minute tweaks** to it before the Website goes ‘live’ for your company / customers/ organisation to use.
 
