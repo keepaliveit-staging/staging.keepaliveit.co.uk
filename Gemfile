@@ -25,9 +25,9 @@ platform :mswin, :mingw, :x64_mingw do
       gem "tzinfo", "~> 1.2"
       gem "tzinfo-data"
     end
-end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+    # Performance-booster for watching directories on Windows
+    gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+end
 
 gem "minimal-mistakes-jekyll"
