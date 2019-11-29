@@ -11,7 +11,7 @@ header:
       url: "/services/"
 excerpt: >
   Modern I.T Development & Operation Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Show Prices Excluding V.A.T</a></small>
+  <small><a href="#">Show Prices Excluding V.A.T</a></small>
 
 feature_row:
   - image_path: /assets/images/website-consultation.png
