@@ -207,6 +207,7 @@
     outline: none;
     background-color: transparent;
     cursor: pointer;
+    margin: 1em;
   }
 
   .visible-links {
@@ -255,7 +256,7 @@
   .hidden-links {
     position: absolute;
     top: 100%;
-    right: 0;
+    right: 1em;
     margin-top: 15px;
     padding: 5px;
     border: 1px solid $border-color;
