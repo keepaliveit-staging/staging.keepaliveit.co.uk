@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/software-development.JPG
   actions:
     - label: "<i class='fas fa-infinity'></i> View All I.T Services"
-      url: "/services/"
+      url: "/services"
 excerpt: >
   Modern I.T Development & Operation Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
   <small><a href="#">Show Prices Excluding V.A.T</a></small>
@@ -42,7 +42,7 @@ feature_row:
 ### What do we do?
 We're a one-stop-shop business who specialises in I.T Consultation, Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
 Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company requiring expertise advice with a Cloud 
-migration strategy; We cater for organisations of all size, no matter their technical literacy. 
+migration strategy; We plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy or employee count. 
 
 Keeping I.T Alive is what we do and we're pretty good at it. We're here to take your I.T Development & Operations frustrations away and keep your I.T Operational for the times you depend on it the most - at home or in the office.
 
