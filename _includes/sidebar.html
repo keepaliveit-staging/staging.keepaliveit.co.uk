@@ -1,5 +1,10 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
+
+    {% assign author = page.author | default: page.authors[0] | default: site.author %}
+    {% assign author = site.data.authors[author] | default: author %}
+    <p class="notice--info"><strong>Approved Guest Article:</strong> written by {{ author.name }}.</p>
+
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
