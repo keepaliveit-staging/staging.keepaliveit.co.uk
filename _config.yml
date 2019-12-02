@@ -200,10 +200,13 @@ collections:
   consultation:
     output: true
     permalink: /it-consultation/:path/
+  solutions:
+    output: true
+    permalink: /it-solutions/:path/
   services:
     output: true
     permalink: /:collection/:path/
-  planning:
+  resources:
     output: true
     permalink: /:collection/:path/
   docs:

@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Commercial Business Services"
-    url: /services/business
-  - title: "Non-Profit Business Services"
-    url: /services/non-profit
-  - title: "Consumer Services"
-    url: /services/consumer
+  - title: "Software Consultancy"
+    url: /software-consultancy
+  - title: "I.T Operations Consultancy"
+    url: /it-operations-consultancy
   - title: "Company Blog"
     url: /blog
   - title: "Free Resources"
-    url: /blog
+    url: /resources
