@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Carpet and Floor Fitter
-title: Carpet and Floor Fitter
-permalink: /carpet-and-floor-fitter
+title: I.T Consultation for Carpet and Floor Fitter Business
+permalink: /it-consultation-for-carpet-and-floor-fitter-business
 ---
+
+## I.T Consultation for Carpet and Floor Fitter Business

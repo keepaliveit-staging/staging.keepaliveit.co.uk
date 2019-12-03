@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Handyman
-title: Handyman
-permalink: /handyman
+title: I.T Consultation for Handyman Business
+permalink: /it-consultation-for-handyman-business
 ---
+
+## I.T Consultation for Handyman Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Fancy Dress Hire
-title: Fancy Dress Hire
-permalink: /fancy-dress-hire
+title: I.T Consultation for Fancy Dress Hire Business
+permalink: /it-consultation-for-fancy-dress-hire-business
 ---
+
+## I.T Consultation for Fancy Dress Hire Business

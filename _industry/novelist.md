@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Novelist
-title: Novelist
-permalink: /novelist
+title: I.T Consultation for Novelist Business
+permalink: /it-consultation-for-novelist-business
 ---
+
+## I.T Consultation for Novelist Business

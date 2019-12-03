@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Boat Storage Service
-title: Boat Storage Service
-permalink: /boat-storage-service
+title: I.T Consultation for Boat Storage Service Business
+permalink: /it-consultation-for-boat-storage-service-business
 ---
+
+## I.T Consultation for Boat Storage Service Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Comedy Writer
-title: Comedy Writer
-permalink: /comedy-writer
+title: I.T Consultation for Comedy Writer Business
+permalink: /it-consultation-for-comedy-writer-business
 ---
+
+## I.T Consultation for Comedy Writer Business

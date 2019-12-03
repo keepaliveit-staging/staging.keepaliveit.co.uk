@@ -37,7 +37,5 @@ as the world is more engaged towards internet usage, there are now more people t
 Examples:
 Google Docs
 
-Source code is hidden from prying eyes
-
-Software can't be cracked 
+Source code is hidden from prying eyes, meaning software can't be cracked 
 

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Musician
-title: Musician
-permalink: /musician
+title: I.T Consultation for Musician Business
+permalink: /it-consultation-for-musician-business
 ---
+
+## I.T Consultation for Musician Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Pamper Party Service
-title: Pamper Party Service
-permalink: /pamper-party-service
+title: I.T Consultation for Pamper Party Service Business
+permalink: /it-consultation-for-pamper-party-service-business
 ---
+
+## I.T Consultation for Pamper Party Service Business

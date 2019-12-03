@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Archery Instructor
-title: Archery Instructor
-permalink: /archery-instructor
+title: I.T Consultation for Archery Instructor Business
+permalink: /it-consultation-for-archery-instructor-business
 ---
+
+## I.T Consultation for Archery Instructor Business

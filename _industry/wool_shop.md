@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Wool Shop
-title: Wool Shop
-permalink: /wool-shop
+title: I.T Consultation for Wool Shop Business
+permalink: /it-consultation-for-wool-shop-business
 ---
+
+## I.T Consultation for Wool Shop Business

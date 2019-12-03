@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Dancewear Shop
-title: Dancewear Shop
-permalink: /dancewear-shop
+title: I.T Consultation for Dancewear Shop Business
+permalink: /it-consultation-for-dancewear-shop-business
 ---
+
+## I.T Consultation for Dancewear Shop Business

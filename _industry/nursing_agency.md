@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Nursing Agency
-title: Nursing Agency
-permalink: /nursing-agency
+title: I.T Consultation for Nursing Agency Business
+permalink: /it-consultation-for-nursing-agency-business
 ---
+
+## I.T Consultation for Nursing Agency Business

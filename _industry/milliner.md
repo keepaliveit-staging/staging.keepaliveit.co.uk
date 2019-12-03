@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Milliner
-title: Milliner
-permalink: /milliner
+title: I.T Consultation for Milliner Business
+permalink: /it-consultation-for-milliner-business
 ---
+
+## I.T Consultation for Milliner Business

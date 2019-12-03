@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Domestic Security Installer
-title: Domestic Security Installer
-permalink: /domestic-security-installer
+title: I.T Consultation for Domestic Security Installer Business
+permalink: /it-consultation-for-domestic-security-installer-business
 ---
+
+## I.T Consultation for Domestic Security Installer Business

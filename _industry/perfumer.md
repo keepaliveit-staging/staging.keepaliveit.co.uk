@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Perfumer
-title: Perfumer
-permalink: /perfumer
+title: I.T Consultation for Perfumer Business
+permalink: /it-consultation-for-perfumer-business
 ---
+
+## I.T Consultation for Perfumer Business

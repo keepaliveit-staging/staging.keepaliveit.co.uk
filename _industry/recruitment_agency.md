@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Recruitment Agency
-title: Recruitment Agency
-permalink: /recruitment-agency
+title: I.T Consultation for Recruitment Agency Business
+permalink: /it-consultation-for-recruitment-agency-business
 ---
+
+## I.T Consultation for Recruitment Agency Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Garden Centre
-title: Garden Centre
-permalink: /garden-centre
+title: I.T Consultation for Garden Centre Business
+permalink: /it-consultation-for-garden-centre-business
 ---
+
+## I.T Consultation for Garden Centre Business

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Keep Alive I.T’s 5 Phase Website Development Process
 permalink: /resources/website-development-checklist
 ---

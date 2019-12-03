@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: First-aid Trainer
-title: First-aid Trainer
-permalink: /first-aid-trainer
+title: I.T Consultation for First-aid Trainer Business
+permalink: /it-consultation-for-first-aid-trainer-business
 ---
+
+## I.T Consultation for First-aid Trainer Business

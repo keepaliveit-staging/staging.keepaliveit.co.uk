@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Organic Beauty Salon
-title: Organic Beauty Salon
-permalink: /organic-beauty-salon
+title: I.T Consultation for Organic Beauty Salon Business
+permalink: /it-consultation-for-organic-beauty-salon-business
 ---
+
+## I.T Consultation for Organic Beauty Salon Business

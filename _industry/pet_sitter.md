@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Pet Sitter
-title: Pet Sitter
-permalink: /pet-sitter
+title: I.T Consultation for Pet Sitter Business
+permalink: /it-consultation-for-pet-sitter-business
 ---
+
+## I.T Consultation for Pet Sitter Business

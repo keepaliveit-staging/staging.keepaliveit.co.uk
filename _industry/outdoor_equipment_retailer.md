@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Outdoor Equipment Retailer
-title: Outdoor Equipment Retailer
-permalink: /outdoor-equipment-retailer
+title: I.T Consultation for Outdoor Equipment Retailer Business
+permalink: /it-consultation-for-outdoor-equipment-retailer-business
 ---
+
+## I.T Consultation for Outdoor Equipment Retailer Business

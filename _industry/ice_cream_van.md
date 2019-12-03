@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Ice Cream Van
-title: Ice Cream Van
-permalink: /ice-cream-van
+title: I.T Consultation for Ice Cream Van Business
+permalink: /it-consultation-for-ice-cream-van-business
 ---
+
+## I.T Consultation for Ice Cream Van Business

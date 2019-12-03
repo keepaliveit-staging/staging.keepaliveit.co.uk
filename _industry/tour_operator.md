@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Tour Operator
-title: Tour Operator
-permalink: /tour-operator
+title: I.T Consultation for Tour Operator Business
+permalink: /it-consultation-for-tour-operator-business
 ---
+
+## I.T Consultation for Tour Operator Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Curtain and Soft Furnishing Retailer
-title: Curtain and Soft Furnishing Retailer
-permalink: /curtain-and-soft-furnishing-retailer
+title: I.T Consultation for Curtain and Soft Furnishing Retailer Business
+permalink: /it-consultation-for-curtain-and-soft-furnishing-retailer-business
 ---
+
+## I.T Consultation for Curtain and Soft Furnishing Retailer Business

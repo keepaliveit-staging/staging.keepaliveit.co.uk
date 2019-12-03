@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Wild Boar Farmer
-title: Wild Boar Farmer
-permalink: /wild-boar-farmer
+title: I.T Consultation for Wild Boar Farmer Business
+permalink: /it-consultation-for-wild-boar-farmer-business
 ---
+
+## I.T Consultation for Wild Boar Farmer Business

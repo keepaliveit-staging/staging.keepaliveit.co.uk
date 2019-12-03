@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Entertainment Agent
-title: Entertainment Agent
-permalink: /entertainment-agent
+title: I.T Consultation for Entertainment Agent Business
+permalink: /it-consultation-for-entertainment-agent-business
 ---
+
+## I.T Consultation for Entertainment Agent Business

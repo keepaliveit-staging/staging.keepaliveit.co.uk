@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Greeting Card Maker
-title: Greeting Card Maker
-permalink: /greeting-card-maker
+title: I.T Consultation for Greeting Card Maker Business
+permalink: /it-consultation-for-greeting-card-maker-business
 ---
+
+## I.T Consultation for Greeting Card Maker Business

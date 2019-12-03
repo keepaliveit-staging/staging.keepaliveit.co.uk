@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Outdoor and Extreme Sports Instructor
-title: Outdoor and Extreme Sports Instructor
-permalink: /outdoor-and-extreme-sports-instructor
+title: I.T Consultation for Outdoor and Extreme Sports Instructor Business
+permalink: /it-consultation-for-outdoor-and-extreme-sports-instructor-business
 ---
+
+## I.T Consultation for Outdoor and Extreme Sports Instructor Business

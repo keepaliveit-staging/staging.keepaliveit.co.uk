@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Wheelie Bin Cleaner
-title: Wheelie Bin Cleaner
-permalink: /wheelie-bin-cleaner
+title: I.T Consultation for Wheelie Bin Cleaner Business
+permalink: /it-consultation-for-wheelie-bin-cleaner-business
 ---
+
+## I.T Consultation for Wheelie Bin Cleaner Business

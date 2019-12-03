@@ -168,7 +168,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _industry
 keep_files:
   - .git
   - .svn

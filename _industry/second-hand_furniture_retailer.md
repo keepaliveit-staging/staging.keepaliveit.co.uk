@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Second-hand Furniture Retailer
-title: Second-hand Furniture Retailer
-permalink: /second-hand-furniture-retailer
+title: I.T Consultation for Second-hand Furniture Retailer Business
+permalink: /it-consultation-for-second-hand-furniture-retailer-business
 ---
+
+## I.T Consultation for Second-hand Furniture Retailer Business

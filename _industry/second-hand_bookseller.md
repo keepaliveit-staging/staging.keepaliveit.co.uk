@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Second-hand Bookseller
-title: Second-hand Bookseller
-permalink: /second-hand-bookseller
+title: I.T Consultation for Second-hand Bookseller Business
+permalink: /it-consultation-for-second-hand-bookseller-business
 ---
+
+## I.T Consultation for Second-hand Bookseller Business

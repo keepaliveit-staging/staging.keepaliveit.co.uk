@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Dental Practice
-title: Dental Practice
-permalink: /dental-practice
+title: I.T Consultation for Dental Practice Business
+permalink: /it-consultation-for-dental-practice-business
 ---
+
+## I.T Consultation for Dental Practice Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Domestic Appliance Repair Service
-title: Domestic Appliance Repair Service
-permalink: /domestic-appliance-repair-service
+title: I.T Consultation for Domestic Appliance Repair Service Business
+permalink: /it-consultation-for-domestic-appliance-repair-service-business
 ---
+
+## I.T Consultation for Domestic Appliance Repair Service Business

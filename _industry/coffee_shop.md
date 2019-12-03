@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Coffee Shop
-title: Coffee Shop
-permalink: /coffee-shop
+title: I.T Consultation for Coffee Shop Business
+permalink: /it-consultation-for-coffee-shop-business
 ---
+
+## I.T Consultation for Coffee Shop Business

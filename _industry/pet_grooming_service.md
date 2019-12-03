@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Pet Grooming Service
-title: Pet Grooming Service
-permalink: /pet-grooming-service
+title: I.T Consultation for Pet Grooming Service Business
+permalink: /it-consultation-for-pet-grooming-service-business
 ---
+
+## I.T Consultation for Pet Grooming Service Business

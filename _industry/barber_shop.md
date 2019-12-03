@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Barber Shop
-title: Barber Shop
-permalink: /barber-shop
+title: I.T Consultation for Barber Shop Business
+permalink: /it-consultation-for-barber-shop-business
 ---
+
+## I.T Consultation for Barber Shop Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Handmade Toy Maker
-title: Handmade Toy Maker
-permalink: /handmade-toy-maker
+title: I.T Consultation for Handmade Toy Maker Business
+permalink: /it-consultation-for-handmade-toy-maker-business
 ---
+
+## I.T Consultation for Handmade Toy Maker Business

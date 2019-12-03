@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Promotional Merchandise Retailer
-title: Promotional Merchandise Retailer
-permalink: /promotional-merchandise-retailer
+title: I.T Consultation for Promotional Merchandise Retailer Business
+permalink: /it-consultation-for-promotional-merchandise-retailer-business
 ---
+
+## I.T Consultation for Promotional Merchandise Retailer Business

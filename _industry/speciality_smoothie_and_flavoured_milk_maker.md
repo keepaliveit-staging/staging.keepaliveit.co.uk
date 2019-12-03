@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Speciality Smoothie and Flavoured Milk Maker
-title: Speciality Smoothie and Flavoured Milk Maker
-permalink: /speciality-smoothie-and-flavoured-milk-maker
+title: I.T Consultation for Speciality Smoothie and Flavoured Milk Maker Business
+permalink: /it-consultation-for-speciality-smoothie-and-flavoured-milk-maker-business
 ---
+
+## I.T Consultation for Speciality Smoothie and Flavoured Milk Maker Business

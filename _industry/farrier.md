@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Farrier
-title: Farrier
-permalink: /farrier
+title: I.T Consultation for Farrier Business
+permalink: /it-consultation-for-farrier-business
 ---
+
+## I.T Consultation for Farrier Business

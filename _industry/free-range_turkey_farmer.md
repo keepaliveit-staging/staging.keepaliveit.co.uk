@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Free-Range Turkey Farmer
-title: Free-Range Turkey Farmer
-permalink: /free-range-turkey-farmer
+title: I.T Consultation for Free-Range Turkey Farmer Business
+permalink: /it-consultation-for-free-range-turkey-farmer-business
 ---
+
+## I.T Consultation for Free-Range Turkey Farmer Business

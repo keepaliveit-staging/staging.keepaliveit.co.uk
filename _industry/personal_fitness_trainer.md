@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Personal Fitness Trainer
-title: Personal Fitness Trainer
-permalink: /personal-fitness-trainer
+title: I.T Consultation for Personal Fitness Trainer Business
+permalink: /it-consultation-for-personal-fitness-trainer-business
 ---
+
+## I.T Consultation for Personal Fitness Trainer Business

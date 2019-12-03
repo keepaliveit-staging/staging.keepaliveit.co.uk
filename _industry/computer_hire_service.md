@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Computer Hire Service
-title: Computer Hire Service
-permalink: /computer-hire-service
+title: I.T Consultation for Computer Hire Service Business
+permalink: /it-consultation-for-computer-hire-service-business
 ---
+
+## I.T Consultation for Computer Hire Service Business

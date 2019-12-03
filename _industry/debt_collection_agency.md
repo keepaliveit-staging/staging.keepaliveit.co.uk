@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Debt Collection Agency
-title: Debt Collection Agency
-permalink: /debt-collection-agency
+title: I.T Consultation for Debt Collection Agency Business
+permalink: /it-consultation-for-debt-collection-agency-business
 ---
+
+## I.T Consultation for Debt Collection Agency Business

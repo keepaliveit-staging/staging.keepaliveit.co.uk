@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Trout Fishing Lake
-title: Trout Fishing Lake
-permalink: /trout-fishing-lake
+title: I.T Consultation for Trout Fishing Lake Business
+permalink: /it-consultation-for-trout-fishing-lake-business
 ---
+
+## I.T Consultation for Trout Fishing Lake Business

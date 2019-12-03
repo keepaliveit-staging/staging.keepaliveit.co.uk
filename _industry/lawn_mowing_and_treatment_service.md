@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Lawn Mowing and Treatment Service
-title: Lawn Mowing and Treatment Service
-permalink: /lawn-mowing-and-treatment-service
+title: I.T Consultation for Lawn Mowing and Treatment Service Business
+permalink: /it-consultation-for-lawn-mowing-and-treatment-service-business
 ---
+
+## I.T Consultation for Lawn Mowing and Treatment Service Business

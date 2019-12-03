@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Online Ticket Agency
-title: Online Ticket Agency
-permalink: /online-ticket-agency
+title: I.T Consultation for Online Ticket Agency Business
+permalink: /it-consultation-for-online-ticket-agency-business
 ---
+
+## I.T Consultation for Online Ticket Agency Business

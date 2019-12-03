@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Hairdressing Salon
-title: Hairdressing Salon
-permalink: /hairdressing-salon
+title: I.T Consultation for Hairdressing Salon Business
+permalink: /it-consultation-for-hairdressing-salon-business
 ---
+
+## I.T Consultation for Hairdressing Salon Business

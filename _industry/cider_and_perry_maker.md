@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Cider and Perry Maker
-title: Cider and Perry Maker
-permalink: /cider-and-perry-maker
+title: I.T Consultation for Cider and Perry Maker Business
+permalink: /it-consultation-for-cider-and-perry-maker-business
 ---
+
+## I.T Consultation for Cider and Perry Maker Business

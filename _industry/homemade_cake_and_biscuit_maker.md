@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Homemade Cake and Biscuit Maker
-title: Homemade Cake and Biscuit Maker
-permalink: /homemade-cake-and-biscuit-maker
+title: I.T Consultation for Homemade Cake and Biscuit Maker Business
+permalink: /it-consultation-for-homemade-cake-and-biscuit-maker-business
 ---
+
+## I.T Consultation for Homemade Cake and Biscuit Maker Business

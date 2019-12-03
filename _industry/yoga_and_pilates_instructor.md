@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Yoga and Pilates Instructor
-title: Yoga and Pilates Instructor
-permalink: /yoga-and-pilates-instructor
+title: I.T Consultation for Yoga and Pilates Instructor Business
+permalink: /it-consultation-for-yoga-and-pilates-instructor-business
 ---
+
+## I.T Consultation for Yoga and Pilates Instructor Business

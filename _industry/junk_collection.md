@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Junk Collection
-title: Junk Collection
-permalink: /junk-collection
+title: I.T Consultation for Junk Collection Business
+permalink: /it-consultation-for-junk-collection-business
 ---
+
+## I.T Consultation for Junk Collection Business

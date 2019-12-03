@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Corporate Events Organiser
-title: Corporate Events Organiser
-permalink: /corporate-events-organiser
+title: I.T Consultation for Corporate Events Organiser Business
+permalink: /it-consultation-for-corporate-events-organiser-business
 ---
+
+## I.T Consultation for Corporate Events Organiser Business

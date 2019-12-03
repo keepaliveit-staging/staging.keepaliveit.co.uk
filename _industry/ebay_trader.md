@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: eBay Trader
-title: eBay Trader
-permalink: /ebay-trader
+title: I.T Consultation for eBay Trader Business
+permalink: /it-consultation-for-ebay-trader-business
 ---
+
+## I.T Consultation for eBay Trader Business

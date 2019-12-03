@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Menswear Retailer
-title: Menswear Retailer
-permalink: /menswear-retailer
+title: I.T Consultation for Menswear Retailer Business
+permalink: /it-consultation-for-menswear-retailer-business
 ---
+
+## I.T Consultation for Menswear Retailer Business

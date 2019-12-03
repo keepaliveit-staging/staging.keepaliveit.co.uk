@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Baby Food Producer
-title: Baby Food Producer
-permalink: /baby-food-producer
+title: I.T Consultation for Baby Food Producer Business
+permalink: /it-consultation-for-baby-food-producer-business
 ---
+
+## I.T Consultation for Baby Food Producer Business

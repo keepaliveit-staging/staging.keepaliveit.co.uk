@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Translator
-title: Translator
-permalink: /translator
+title: I.T Consultation for Translator Business
+permalink: /it-consultation-for-translator-business
 ---
+
+## I.T Consultation for Translator Business

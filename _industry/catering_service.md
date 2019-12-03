@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Catering Service
-title: Catering Service
-permalink: /catering-service
+title: I.T Consultation for Catering Service Business
+permalink: /it-consultation-for-catering-service-business
 ---
+
+## I.T Consultation for Catering Service Business

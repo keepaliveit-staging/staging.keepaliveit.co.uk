@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Trichologist
-title: Trichologist
-permalink: /trichologist
+title: I.T Consultation for Trichologist Business
+permalink: /it-consultation-for-trichologist-business
 ---
+
+## I.T Consultation for Trichologist Business

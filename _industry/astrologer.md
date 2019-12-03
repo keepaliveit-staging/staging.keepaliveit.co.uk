@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Astrologer
-title: Astrologer
-permalink: /astrologer
+title: I.T Consultation for Astrologer Business
+permalink: /it-consultation-for-astrologer-business
 ---
+
+## I.T Consultation for Astrologer Business

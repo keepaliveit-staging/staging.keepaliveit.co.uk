@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Mobile Beauty Therapist
-title: Mobile Beauty Therapist
-permalink: /mobile-beauty-therapist
+title: I.T Consultation for Mobile Beauty Therapist Business
+permalink: /it-consultation-for-mobile-beauty-therapist-business
 ---
+
+## I.T Consultation for Mobile Beauty Therapist Business

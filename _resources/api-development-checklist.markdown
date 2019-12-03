@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Keep Alive I.T’s 5 Phase API Development Process
 permalink: /resources/api-development-checklist
 ---

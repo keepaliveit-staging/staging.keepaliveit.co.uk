@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Chauffeur Hire
-title: Chauffeur Hire
-permalink: /chauffeur-hire
+title: I.T Consultation for Chauffeur Hire Business
+permalink: /it-consultation-for-chauffeur-hire-business
 ---
+
+## I.T Consultation for Chauffeur Hire Business

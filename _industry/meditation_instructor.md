@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Meditation Instructor
-title: Meditation Instructor
-permalink: /meditation-instructor
+title: I.T Consultation for Meditation Instructor Business
+permalink: /it-consultation-for-meditation-instructor-business
 ---
+
+## I.T Consultation for Meditation Instructor Business

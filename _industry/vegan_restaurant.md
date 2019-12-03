@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Vegan Restaurant
-title: Vegan Restaurant
-permalink: /vegan-restaurant
+title: I.T Consultation for Vegan Restaurant Business
+permalink: /it-consultation-for-vegan-restaurant-business
 ---
+
+## I.T Consultation for Vegan Restaurant Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Door Supervisor
-title: Door Supervisor
-permalink: /door-supervisor
+title: I.T Consultation for Door Supervisor Business
+permalink: /it-consultation-for-door-supervisor-business
 ---
+
+## I.T Consultation for Door Supervisor Business

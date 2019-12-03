@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Tattoo Artist
-title: Tattoo Artist
-permalink: /tattoo-artist
+title: I.T Consultation for Tattoo Artist Business
+permalink: /it-consultation-for-tattoo-artist-business
 ---
+
+## I.T Consultation for Tattoo Artist Business

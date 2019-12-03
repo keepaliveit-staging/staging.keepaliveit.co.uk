@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Shoe Repair Service
-title: Shoe Repair Service
-permalink: /shoe-repair-service
+title: I.T Consultation for Shoe Repair Service Business
+permalink: /it-consultation-for-shoe-repair-service-business
 ---
+
+## I.T Consultation for Shoe Repair Service Business

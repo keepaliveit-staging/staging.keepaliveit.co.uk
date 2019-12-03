@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Alexander Technique Teacher
-title: Alexander Technique Teacher
-permalink: /alexander-technique-teacher
+title: I.T Consultation for Alexander Technique Teacher Business
+permalink: /it-consultation-for-alexander-technique-teacher-business
 ---
+
+## I.T Consultation for Alexander Technique Teacher Business

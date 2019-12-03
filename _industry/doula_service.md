@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Doula Service
-title: Doula Service
-permalink: /doula-service
+title: I.T Consultation for Doula Service Business
+permalink: /it-consultation-for-doula-service-business
 ---
+
+## I.T Consultation for Doula Service Business

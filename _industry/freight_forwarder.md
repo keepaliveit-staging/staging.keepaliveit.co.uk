@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Freight Forwarder
-title: Freight Forwarder
-permalink: /freight-forwarder
+title: I.T Consultation for Freight Forwarder Business
+permalink: /it-consultation-for-freight-forwarder-business
 ---
+
+## I.T Consultation for Freight Forwarder Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Quad Biking Centre
-title: Quad Biking Centre
-permalink: /quad-biking-centre
+title: I.T Consultation for Quad Biking Centre Business
+permalink: /it-consultation-for-quad-biking-centre-business
 ---
+
+## I.T Consultation for Quad Biking Centre Business

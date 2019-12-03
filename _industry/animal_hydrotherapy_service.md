@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Animal Hydrotherapy Service
-title: Animal Hydrotherapy Service
-permalink: /animal-hydrotherapy-service
+title: I.T Consultation for Animal Hydrotherapy Service Business
+permalink: /it-consultation-for-animal-hydrotherapy-service-business
 ---
+
+## I.T Consultation for Animal Hydrotherapy Service Business

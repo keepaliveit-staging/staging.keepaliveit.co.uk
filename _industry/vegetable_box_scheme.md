@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Vegetable Box Scheme
-title: Vegetable Box Scheme
-permalink: /vegetable-box-scheme
+title: I.T Consultation for Vegetable Box Scheme Business
+permalink: /it-consultation-for-vegetable-box-scheme-business
 ---
+
+## I.T Consultation for Vegetable Box Scheme Business

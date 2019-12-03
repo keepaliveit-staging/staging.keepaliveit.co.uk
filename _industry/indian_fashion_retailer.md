@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Indian Fashion Retailer
-title: Indian Fashion Retailer
-permalink: /indian-fashion-retailer
+title: I.T Consultation for Indian Fashion Retailer Business
+permalink: /it-consultation-for-indian-fashion-retailer-business
 ---
+
+## I.T Consultation for Indian Fashion Retailer Business

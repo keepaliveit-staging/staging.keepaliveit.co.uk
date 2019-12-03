@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Crystal Healer
-title: Crystal Healer
-permalink: /crystal-healer
+title: I.T Consultation for Crystal Healer Business
+permalink: /it-consultation-for-crystal-healer-business
 ---
+
+## I.T Consultation for Crystal Healer Business

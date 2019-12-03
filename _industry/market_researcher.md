@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Market Researcher
-title: Market Researcher
-permalink: /market-researcher
+title: I.T Consultation for Market Researcher Business
+permalink: /it-consultation-for-market-researcher-business
 ---
+
+## I.T Consultation for Market Researcher Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Handbag Maker
-title: Handbag Maker
-permalink: /handbag-maker
+title: I.T Consultation for Handbag Maker Business
+permalink: /it-consultation-for-handbag-maker-business
 ---
+
+## I.T Consultation for Handbag Maker Business

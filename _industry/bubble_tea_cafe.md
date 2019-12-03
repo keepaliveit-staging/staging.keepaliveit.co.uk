@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Bubble Tea Cafe
-title: Bubble Tea Cafe
-permalink: /bubble-tea-cafe
+title: I.T Consultation for Bubble Tea Cafe Business
+permalink: /it-consultation-for-bubble-tea-cafe-business
 ---
+
+## I.T Consultation for Bubble Tea Cafe Business

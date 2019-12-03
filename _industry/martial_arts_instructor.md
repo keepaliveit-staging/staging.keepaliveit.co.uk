@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Martial Arts Instructor
-title: Martial Arts Instructor
-permalink: /martial-arts-instructor
+title: I.T Consultation for Martial Arts Instructor Business
+permalink: /it-consultation-for-martial-arts-instructor-business
 ---
+
+## I.T Consultation for Martial Arts Instructor Business

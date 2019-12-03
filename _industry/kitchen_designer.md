@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Kitchen Designer
-title: Kitchen Designer
-permalink: /kitchen-designer
+title: I.T Consultation for Kitchen Designer Business
+permalink: /it-consultation-for-kitchen-designer-business
 ---
+
+## I.T Consultation for Kitchen Designer Business

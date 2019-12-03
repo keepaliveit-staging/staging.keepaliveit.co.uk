@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Free-Range Duck Farmer
-title: Free-Range Duck Farmer
-permalink: /free-range-duck-farmer
+title: I.T Consultation for Free-Range Duck Farmer Business
+permalink: /it-consultation-for-free-range-duck-farmer-business
 ---
+
+## I.T Consultation for Free-Range Duck Farmer Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Maize Maze
-title: Maize Maze
-permalink: /maize-maze
+title: I.T Consultation for Maize Maze Business
+permalink: /it-consultation-for-maize-maze-business
 ---
+
+## I.T Consultation for Maize Maze Business

@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Mobile Phone Shop
-title: Mobile Phone Shop
-permalink: /mobile-phone-shop
+title: I.T Consultation for Mobile Phone Shop Business
+permalink: /it-consultation-for-mobile-phone-shop-business
 ---
+
+## I.T Consultation for Mobile Phone Shop Business

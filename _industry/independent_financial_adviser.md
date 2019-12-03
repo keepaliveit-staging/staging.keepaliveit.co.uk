@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Independent Financial Adviser
-title: Independent Financial Adviser
-permalink: /independent-financial-adviser
+title: I.T Consultation for Independent Financial Adviser Business
+permalink: /it-consultation-for-independent-financial-adviser-business
 ---
+
+## I.T Consultation for Independent Financial Adviser Business

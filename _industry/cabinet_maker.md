@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Cabinet Maker
-title: Cabinet Maker
-permalink: /cabinet-maker
+title: I.T Consultation for Cabinet Maker Business
+permalink: /it-consultation-for-cabinet-maker-business
 ---
+
+## I.T Consultation for Cabinet Maker Business

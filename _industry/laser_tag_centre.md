@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Laser Tag Centre
-title: Laser Tag Centre
-permalink: /laser-tag-centre
+title: I.T Consultation for Laser Tag Centre Business
+permalink: /it-consultation-for-laser-tag-centre-business
 ---
+
+## I.T Consultation for Laser Tag Centre Business

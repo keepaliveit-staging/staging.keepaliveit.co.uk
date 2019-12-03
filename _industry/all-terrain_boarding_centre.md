@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: All-terrain Boarding Centre
-title: All-terrain Boarding Centre
-permalink: /all-terrain-boarding-centre
+title: I.T Consultation for All-terrain Boarding Centre Business
+permalink: /it-consultation-for-all-terrain-boarding-centre-business
 ---
+
+## I.T Consultation for All-terrain Boarding Centre Business

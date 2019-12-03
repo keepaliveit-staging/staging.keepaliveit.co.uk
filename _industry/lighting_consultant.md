@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Lighting Consultant
-title: Lighting Consultant
-permalink: /lighting-consultant
+title: I.T Consultation for Lighting Consultant Business
+permalink: /it-consultation-for-lighting-consultant-business
 ---
+
+## I.T Consultation for Lighting Consultant Business

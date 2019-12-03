@@ -23,7 +23,7 @@ for row_index, row in enumerate(datareader):
         # Empty string that we will fill with YAML formatted text based on data extracted from our CSV.
         yaml_text = ""
         yaml_text += "---\n"
-        yaml_text += "layout: posts \n"
+        yaml_text += "layout: splash \n"
         yaml_text += "author_profile: false \n"
 
         # Loop through each cell in this row...
@@ -34,11 +34,13 @@ for row_index, row in enumerate(datareader):
             # Add this line of text to the current YAML string.
             yaml_text += cell_text
 
-            yaml_text += "title: " + cell.replace("\n", ", ") + "\n"
-            yaml_text += "permalink: /" + cell.replace("\n", ", ").lower().replace(" ", "-").replace("_", "-").replace("%", "percent").replace("$", "").replace(",", "") + "\n"
+            yaml_text += "title: I.T Consultation for " + cell.replace("\n", ", ") + " Business\n"
+            yaml_text += "permalink: /it-consultation-for-" + cell.replace("\n", ", ").lower().replace(" ", "-").replace("_", "-").replace("%", "percent").replace("$", "").replace(",", "") + "-business\n"
 
         # Write our YAML string to the new text file and close it.
-        new_yaml.write(yaml_text + "---\n")
+        yaml_text += "---\n\n"
+        yaml_text += "## I.T Consultation for "+ cell.replace("\n", ", ") + " Business"
+        new_yaml.write(yaml_text)
         new_yaml.close()
 
 # We're done! Close the CSV file.

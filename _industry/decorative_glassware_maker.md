@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Decorative Glassware Maker
-title: Decorative Glassware Maker
-permalink: /decorative-glassware-maker
+title: I.T Consultation for Decorative Glassware Maker Business
+permalink: /it-consultation-for-decorative-glassware-maker-business
 ---
+
+## I.T Consultation for Decorative Glassware Maker Business

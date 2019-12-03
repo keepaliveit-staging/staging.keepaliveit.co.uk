@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Swap Website
-title: Swap Website
-permalink: /swap-website
+title: I.T Consultation for Swap Website Business
+permalink: /it-consultation-for-swap-website-business
 ---
+
+## I.T Consultation for Swap Website Business

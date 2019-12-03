@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Community Pharmacy
-title: Community Pharmacy
-permalink: /community-pharmacy
+title: I.T Consultation for Community Pharmacy Business
+permalink: /it-consultation-for-community-pharmacy-business
 ---
+
+## I.T Consultation for Community Pharmacy Business

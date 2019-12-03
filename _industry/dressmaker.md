@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Dressmaker
-title: Dressmaker
-permalink: /dressmaker
+title: I.T Consultation for Dressmaker Business
+permalink: /it-consultation-for-dressmaker-business
 ---
+
+## I.T Consultation for Dressmaker Business

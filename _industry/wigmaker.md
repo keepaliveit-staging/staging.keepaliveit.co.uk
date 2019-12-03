@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Wigmaker
-title: Wigmaker
-permalink: /wigmaker
+title: I.T Consultation for Wigmaker Business
+permalink: /it-consultation-for-wigmaker-business
 ---
+
+## I.T Consultation for Wigmaker Business

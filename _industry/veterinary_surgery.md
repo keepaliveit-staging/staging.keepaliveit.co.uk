@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Veterinary Surgery
-title: Veterinary Surgery
-permalink: /veterinary-surgery
+title: I.T Consultation for Veterinary Surgery Business
+permalink: /it-consultation-for-veterinary-surgery-business
 ---
+
+## I.T Consultation for Veterinary Surgery Business

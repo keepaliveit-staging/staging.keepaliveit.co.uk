@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Art Supplies Shop
-title: Art Supplies Shop
-permalink: /art-supplies-shop
+title: I.T Consultation for Art Supplies Shop Business
+permalink: /it-consultation-for-art-supplies-shop-business
 ---
+
+## I.T Consultation for Art Supplies Shop Business

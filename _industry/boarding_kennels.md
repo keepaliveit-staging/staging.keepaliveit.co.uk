@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Boarding Kennels
-title: Boarding Kennels
-permalink: /boarding-kennels
+title: I.T Consultation for Boarding Kennels Business
+permalink: /it-consultation-for-boarding-kennels-business
 ---
+
+## I.T Consultation for Boarding Kennels Business

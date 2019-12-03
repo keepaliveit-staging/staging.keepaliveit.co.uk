@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Car and Van Hire
-title: Car and Van Hire
-permalink: /car-and-van-hire
+title: I.T Consultation for Car and Van Hire Business
+permalink: /it-consultation-for-car-and-van-hire-business
 ---
+
+## I.T Consultation for Car and Van Hire Business

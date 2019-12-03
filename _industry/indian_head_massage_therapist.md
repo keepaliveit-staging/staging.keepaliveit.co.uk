@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Indian Head Massage Therapist
-title: Indian Head Massage Therapist
-permalink: /indian-head-massage-therapist
+title: I.T Consultation for Indian Head Massage Therapist Business
+permalink: /it-consultation-for-indian-head-massage-therapist-business
 ---
+
+## I.T Consultation for Indian Head Massage Therapist Business

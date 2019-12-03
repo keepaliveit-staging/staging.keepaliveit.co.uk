@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Funeral Director
-title: Funeral Director
-permalink: /funeral-director
+title: I.T Consultation for Funeral Director Business
+permalink: /it-consultation-for-funeral-director-business
 ---
+
+## I.T Consultation for Funeral Director Business

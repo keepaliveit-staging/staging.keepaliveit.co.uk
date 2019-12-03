@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Hamper Service
-title: Hamper Service
-permalink: /hamper-service
+title: I.T Consultation for Hamper Service Business
+permalink: /it-consultation-for-hamper-service-business
 ---
+
+## I.T Consultation for Hamper Service Business

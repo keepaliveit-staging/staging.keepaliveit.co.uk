@@ -1,7 +1,9 @@
 ---
-layout: posts 
+layout: splash 
 author_profile: false 
 industry_name: Luggage and Travel Accessories Retailer
-title: Luggage and Travel Accessories Retailer
-permalink: /luggage-and-travel-accessories-retailer
+title: I.T Consultation for Luggage and Travel Accessories Retailer Business
+permalink: /it-consultation-for-luggage-and-travel-accessories-retailer-business
 ---
+
+## I.T Consultation for Luggage and Travel Accessories Retailer Business
