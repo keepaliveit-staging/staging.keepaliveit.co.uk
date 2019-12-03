@@ -32,7 +32,7 @@ feature_row:
     alt: "100% free"
     title: "Cloud Migration Planning Checklist"
     excerpt: "Migrating Monolithic Architectures to Cloud Architectures involves a significant amount of thought and planning. Let us break down the planning stages for you in this Cloud Migration Planning Checklist."
-    url: "/resources/cloud-migration-checklist/"
+    url: "/resources/cloud-migration-checklist"
     btn_class: "btn--primary"
     btn_label: "Access Resource"      
 ---
