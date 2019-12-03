@@ -1,5 +1,9 @@
 // Create an instance of Notyf
-var notyf = new Notyf();
+//var notyf = new Notyf();
 
 // Display an error notification
-notyf.error('You must fill out the form before moving forward');
+//notyf.error('You must fill out the form before moving forward');
+
+$(document).ready(function() {
+    console.log('extenrla file');
+});

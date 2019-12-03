@@ -7,6 +7,20 @@
 
 theme: minimal-mistakes-jekyll
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+  #-jekyll-feed
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-include-cache
+  #-jekyll-feed
+
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -168,6 +182,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  #- _industry
 keep_files:
   - .git
   - .svn
