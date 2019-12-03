@@ -168,6 +168,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _industry
 keep_files:
   - .git
   - .svn
@@ -197,6 +198,9 @@ kramdown:
 
 # Collections
 collections:
+  industry:
+    output: true
+    permalink: /it-consultations-for/:path
   consultation:
     output: true
     permalink: /it-consultation/:path/
