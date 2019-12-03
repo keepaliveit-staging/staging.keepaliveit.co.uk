@@ -6,6 +6,7 @@ classes:
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/software-development.JPG
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "<i class='fas fa-infinity'></i> View All I.T Services"
       url: "/services"
