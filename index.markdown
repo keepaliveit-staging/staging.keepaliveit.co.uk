@@ -84,7 +84,19 @@ You can find more specific details of how the flow works for each service we off
 <ul>
 {% for group in groups %}
 {% for item in group.items %}
-<li><a href="{{ item.url }}">[{{ group.name }}] {{item.title}}</a></li>
+{% if item.category == 'Cloud' %}
+    <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
+{% elsif item.category == 'Cyber-Security' %}
+    <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
+{% elsif item.category == 'Web' %}
+    <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
+{% elsif item.category == 'Hardware' %}
+    <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
+{% elsif item.category == 'Software-Development' %}
+    <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
+{% else %}
+    <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
+{% endif %}
 {%endfor%}
 {%endfor%}
 </ul>

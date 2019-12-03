@@ -2,7 +2,7 @@
 layout: single
 title:  "Architecting software for effective logging and alerts"
 date:   2019-11-26 22:20:28 +0000
-category: Software Development
+category: Software-Development
 tags: 
     - raid
     - hardware
