@@ -1,6 +1,8 @@
 ---
-title: "Resources"
+title: "Free Resources"
 permalink: /resources/
-layout: posts
+layout: splash
 author_profile: false
 ---
+
+## Free Resources

@@ -12,7 +12,7 @@ header:
       url: "/services"
 excerpt: >
   Modern I.T Development & Operation Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
-  <small><a href="#">Show Prices Excluding V.A.T</a></small>
+  <small><a href="#" class="vat-toggle">Show Prices Excluding V.A.T</a></small>
 
 feature_row:
   - image_path: /assets/images/website-consultation.png

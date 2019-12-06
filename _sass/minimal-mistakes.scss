@@ -39,5 +39,9 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+
+/* Additional plugins I've added */
+@import "plugins/notyf/notyf.scss";
+
 /* Customised user-defined styles */
 @import "custom.scss";
