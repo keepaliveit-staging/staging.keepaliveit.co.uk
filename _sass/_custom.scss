@@ -14,10 +14,10 @@
 .cloud-tag {
   font-size: 0.8em;
   margin-right: 5px;
-  background: #543636;
+  background: #171717;
   padding: 2px 8px;
   border-radius: 8px;
-  color: #c3b938;
+  color: #ffffff;
   text-decoration: none;
   border-bottom: none !important;
   display: inline-block;
@@ -26,47 +26,79 @@
 .software-tag {
   font-size: 0.8em;
   margin-right: 5px;
-  background: #543636;
+  background: #171717;
   padding: 2px 8px;
   border-radius: 8px;
-  color: #c3b938;
+  color: #ffffff;
   text-decoration: none;
   border-bottom: none !important;
   display: inline-block;
+
+  svg {
+    color: darkolivegreen;
+  }
 }
 
 .hardware-tag {
   font-size: 0.8em;
   margin-right: 5px;
-  background: #543636;
+  background: #171717;
   padding: 2px 8px;
   border-radius: 8px;
-  color: #c3b938;
+  color: #ffffff;
   text-decoration: none;
   border-bottom: none !important;
   display: inline-block;
+
+  svg {
+    color: #ff6e26;
+  }
 }
 
 .cyber-security-tag {
   font-size: 0.8em;
   margin-right: 5px;
-  background: #543636;
+  background: #171717;
   padding: 2px 8px;
   border-radius: 8px;
-  color: #c3b938;
+  color: #ffffff;
   text-decoration: none;
   border-bottom: none !important;
   display: inline-block;
+
+  svg {
+    color: cornflowerblue;
+  }
 }
 
 .web-tag {
   font-size: 0.8em;
   margin-right: 5px;
-  background: #543636;
+  background: #171717;
   padding: 2px 8px;
   border-radius: 8px;
-  color: #c3b938;
+  color: #ffffff;
   text-decoration: none;
   border-bottom: none !important;
   display: inline-block;
+
+  svg {
+    color: orange;
+  }
 }
+
+#industry-consultation {
+  padding: 50px;
+  background: #e8e8e8;
+
+  h2 {
+    margin-top: 0 !important;
+  }
+
+  .industry-list{
+    list-style-type: none;
+    padding-left: 0 !important;
+  }
+}
+
+

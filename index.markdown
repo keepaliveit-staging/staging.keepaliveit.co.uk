@@ -20,21 +20,21 @@ feature_row:
     title: "Website Development Planning Checklist"
     excerpt: "Getting a website online can be a challenging task as it involves so many different stages. Let us break down the planning stages for you in this Website Development Planning Process Checklist."
     url: "/resources/website-development-checklist"
-    btn_class: "btn--primary"
+    btn_class: "btn--red"
     btn_label: "Access Resource"
   - image_path: /assets/images/api-consultation.png
     alt: "fully responsive"
     title: "API Development Planning Checklist"
     excerpt: "Building a fully functional API involves many security and design considerations. Let us break down the planning stages for you in this API Development Planning Checklist."
     url: "/resources/api-development-checklist"
-    btn_class: "btn--primary"
+    btn_class: "btn--red"
     btn_label: "Access Resource"
   - image_path: /assets/images/cloud-consultation.png
     alt: "100% free"
     title: "Cloud Migration Planning Checklist"
     excerpt: "Migrating Monolithic Architectures to Cloud Architectures involves a significant amount of thought and planning. Let us break down the planning stages for you in this Cloud Migration Planning Checklist."
     url: "/resources/cloud-migration-checklist"
-    btn_class: "btn--primary"
+    btn_class: "btn--red"
     btn_label: "Access Resource"      
 ---
 
@@ -101,28 +101,30 @@ You can find more specific details of how the flow works for each service we off
 {%endfor%}
 </ul>
 
-## Tailored I.T Consultancy by Industry or Business Type
-Browse for your industry or business type to get tailored I.T consultancy specific to your business:
-<nav aria-label="Page navigation example">
-  <ul class="pagination-az" id="industry-pagination">
-    {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
-    {% for letter in topics_by_letter %}
-         <li class="page-item"><a class="page-link {% if forloop.first == true %}current{% endif %}" href="#">{{ letter.name }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
-
-<div id="industry-filter">
-{% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
-{% for letter in topics_by_letter %}
-<div class="industry-filter-{{ letter.name }} {% if forloop.first == false %}hidden{% endif %}">
-<ul>
-{% for item in letter.items %}
-<li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>    
-</div>
-{% endfor %}
+<div id="industry-consultation">
+    <h2>Tailored I.T Consultancy by Industry or Business Type</h2>
+    <p>Browse for your industry or business type to get tailored I.T consultancy specific to your business:</p>
+    <nav aria-label="Page navigation example">
+      <ul class="pagination-az" id="industry-pagination">
+        {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
+        {% for letter in topics_by_letter %}
+             <li class="page-item"><a class="page-link {% if forloop.first == true %}current{% endif %}" href="#">{{ letter.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    
+    <div id="industry-filter">
+        {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
+        {% for letter in topics_by_letter %}
+            <div class="industry-filter-{{ letter.name }} {% if forloop.first == false %}hidden{% endif %}">
+                <ul class="industry-list">
+                    {% for item in letter.items %}
+                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                    {% endfor %}
+                </ul>    
+            </div>
+        {% endfor %}
+    </div>
 </div>
 
 {% comment %}

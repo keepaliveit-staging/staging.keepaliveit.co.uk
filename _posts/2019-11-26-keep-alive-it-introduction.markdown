@@ -8,8 +8,6 @@ author_profile: true
 
 ```Hello World, we're Keep-Alive I.T Services and we are (A)LIVE!```
 
-```^^ See what I did there ^^```
-
 ## Hello World!
 Well, It's a great honour for me to be able to write the very first official blog post for the Keep-Alive I.T Services website - after months of careful & detailed planning, writing, and testing; Alongside working a full-time day job to be able to fund establishing this new company, Keep-Alive I.T Services.
 

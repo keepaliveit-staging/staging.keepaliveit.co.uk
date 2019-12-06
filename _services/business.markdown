@@ -5,7 +5,7 @@ permalink: /software-consultancy
 ---
 
 ## Software & Software Development Consultancy
-### Bespoke in-house software solutions built around your requirements
+### Bespoke in-house software solutions built around your business requirements
 
 
 ### Technical documentation and team training
