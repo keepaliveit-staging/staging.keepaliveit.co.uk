@@ -76,56 +76,37 @@ This depends on the type of work you need completed. As a general rule, there ar
 
 You can find more specific details of how the flow works for each service we offer in the Client Forms section of the Keep Alive I.T website.
 
-## Free I.T Consultancy Resources
-{% include feature_row %}
-
-## Recent I.T Consultancy Posts from our Experts
-{% assign groups = site.consultation | group_by: "category" | sort: "name" %}
-<ul>
-{% for group in groups %}
-{% for item in group.items %}
-{% if item.category == 'Cloud' %}
-    <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
-{% elsif item.category == 'Cyber-Security' %}
-    <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
-{% elsif item.category == 'Web' %}
-    <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
-{% elsif item.category == 'Hardware' %}
-    <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
-{% elsif item.category == 'Software-Development' %}
-    <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
-{% else %}
-    <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
-{% endif %}
-{%endfor%}
-{%endfor%}
-</ul>
-
-<div id="industry-consultation">
-    <h2>Tailored I.T Consultancy by Industry or Business Type</h2>
-    <p>Browse for your industry or business type to get tailored I.T consultancy specific to your business:</p>
-    <nav aria-label="Page navigation example">
-      <ul class="pagination-az" id="industry-pagination">
-        {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
-        {% for letter in topics_by_letter %}
-             <li class="page-item"><a class="page-link {% if forloop.first == true %}current{% endif %}" href="#">{{ letter.name }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
-    
-    <div id="industry-filter">
-        {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}
-        {% for letter in topics_by_letter %}
-            <div class="industry-filter-{{ letter.name }} {% if forloop.first == false %}hidden{% endif %}">
-                <ul class="industry-list">
-                    {% for item in letter.items %}
-                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-                    {% endfor %}
-                </ul>    
-            </div>
-        {% endfor %}
-    </div>
+<div>
+    <h2>Free I.T Consultancy Resources</h2>
+    {% include feature_row %}
 </div>
+
+<div id="consultancy-posts">
+    <h2>Recent I.T Consultancy Posts from our Experts</h2>
+    <p>We hire I.T experts to write for us</p>
+    {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
+    <ul class="post-list">
+    {% for group in groups %}
+    {% for item in group.items %}
+    {% if item.category == 'Cloud' %}
+        <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Cyber-Security' %}
+        <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Web' %}
+        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Hardware' %}
+        <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Software-Development' %}
+        <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% else %}
+        <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
+    {% endif %}
+    {%endfor%}
+    {%endfor%}
+    </ul>
+</div>
+
+{% include industry-consultation.md %}
 
 {% comment %}
 {% for item in site.industry %}

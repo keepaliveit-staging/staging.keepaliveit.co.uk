@@ -67,3 +67,6 @@ Project Management Tools
 Ratings and Charts
 Shopping Carts
 Social Networking
+
+
+{% include industry-consultation.md %}

@@ -13,3 +13,5 @@ permalink: /it-operations-consultancy
 #### Software Procurement
 
 Cloud Native Consultancy
+
+{% include industry-consultation.md %}
