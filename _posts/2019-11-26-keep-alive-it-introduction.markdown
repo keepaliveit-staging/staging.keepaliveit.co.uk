@@ -6,12 +6,12 @@ categories: news
 author_profile: true
 ---
 
-```Hello World, we're Keep-Alive I.T Services and we are (A)LIVE!```
-
-## Hello World!
+## Hello World, we're Keep-Alive I.T Services!
 Well, It's a great honour for me to be able to write the very first official blog post for the Keep-Alive I.T Services website - after months of careful & detailed planning, writing, and testing; Alongside working a full-time day job to be able to fund establishing this new company, Keep-Alive I.T Services.
 
 Who is 'me'? Good question. My name is [Joel Murphy](https://joel-murphy.co.uk/) and I am the founder of Keep-Alive I.T Services. I'll be taking on the role of 'Lead Consultant' here within the company, whereby I'll be working with clients to help them make strategic decisions to implement suitable technologies for their I.T related needs. I'll also be  working on a significant amount of implementations for clients, in addition to working towards leading the company in a positive direction for the future. I forecast this to become somewhat of a hectic role as it has has kept me extremely occupied so far, and I honestly can't wait to see what challenges it brings in the next coming months and years as I get to share my I.T expertise with the World.
+
+We take analysing your existing I.T infrastructure and software processes.
 
 I'd like to take the time to write a brief introduction to Keep-Alive I.T explaining this new venture, our mission statement, and what the company hopes to bring myself and future clients in the medium-to-long term. 
 
