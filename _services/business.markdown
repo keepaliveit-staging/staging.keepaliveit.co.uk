@@ -55,7 +55,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div>
 </div>
 
-<div style="display:flex;height:400px;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 20%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;">
         <img src="/assets/images/icons/software-training.png" style="height:200px;width: 200px; margin: 0 auto;">
@@ -77,10 +77,10 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;height:400px;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 20%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;">
-        <img src="/assets/images/icons/programmer.png" style="height:200px;width: 200px; margin: 0 auto;">
+        <img src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
     </div>
     <div style="width: 80%; flex-grow: 1; flex-shrink: 1;">
         <h3>SOFTWARE DEVELOPMENT</h3>
