@@ -1,5 +1,4 @@
 ---
-title: "Merry Christmas from Keep-Alive I.T!"
 permalink: /christmas-2019/
 layout: single
 author_profile: false

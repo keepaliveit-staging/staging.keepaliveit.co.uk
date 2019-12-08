@@ -1,6 +1,6 @@
 ---
 title: "Free Resources"
-permalink: /resources/
+permalink: /free-resources/
 layout: splash
 author_profile: false
 ---
