@@ -3,48 +3,126 @@ layout: splash
 title: "Software & Software Development Consultancy"
 permalink: /software-consultancy
 
-excerpt: "Learn about the importance of effective Software and how Keep-Alive I.T can help you make critical I.T Software decisions for your business."
+excerpt: "Learn how Keep-Alive I.T Services can help you make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.5 
 ---
 
 ## Software & Software Development Consultancy
-In the modern technology focused era that we live in, having appropriate software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be a critical business need. Good Software enhances employee productivity, company operations, and promotes business growth overall. Software runs business, and some companies simply wouldn't be as successful as they are today without the quality software that they use. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such bad publicity, loss of profits, or even death to humans, expensive lawsuits, or closure of a company in more extreme cases.
+In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
 
-It is important to understand the different types of software models before we continue to discuss the importance of running effective software solutions within a company. The two different types of software models available, are Commercial Software, and Open Source Software.
+Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Software runs business, and some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such bad publicity, loss of profits, or even death to humans, expensive lawsuits, or closure of a company in more extreme cases. We're here to help mitigate such risks to your business by offering our I.T consultation services. 
 
-### What's the difference between commercial software and open source software?
-Commercial software is software that is developed and managed internally under a single brand or company. Commercial software usually operates under a closed source software license, meaning that the source code developed internally at an organisation is top-secret as it contains logic which generates revenue, keeping that company making money. If that company were to 
+<style>
+.divider
+{
+	position: relative;
+	margin: 60px 0;
+	height: 1px;
+}
 
-Open Source software is software that is developed and managed by a single company, or multiple companies. The idea of Open Source software is to produce 
+.div-transparent:before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 2%;
+	right: 2%;
+	width: 96%;
+	height: 1px;
+	background-image: linear-gradient(to right, transparent, rgb(170,0,0), transparent);
+}
+
+.div-arrow-down:after
+{
+	content: "";
+	position: absolute;
+	z-index: 1;
+	top: -7px;
+	left: calc(50% - 7px);
+	width: 14px;
+	height: 14px;
+	transform: rotate(45deg);
+	background-color: white;
+	border-bottom: 1px solid rgb(170,0,0);
+	border-right: 1px solid rgb(170,0,0);
+}
+</style>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div>
+</div>
+
+<div style="display:flex;height:400px;background: #e7e7e7;">
+    <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
+        <div style="width: 20%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;">
+        <img src="/assets/images/icons/software-training.png" style="height:200px;width: 200px; margin: 0 auto;">
+    </div>
+    <div style="width: 80%; flex-grow: 1; flex-shrink: 1;">
+        <h3>SOFTWARE TRAINING</h3>
+        <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions like the following:</p>
+        
+        <ul>
+        <li>What software exists for performing task X?</li>
+        <li>Is software X better than software Y? If so, why?</li>
+        <li>How much will it cost to operate software X for a short term project?</li>
+        <li>Does software X seem appropriate for our business needs?</li>
+        <li>Should I implement a commercial or open source implementation?</li>
+        </ul>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div style="display:flex;height:400px;background: #e7e7e7;">
+    <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
+        <div style="width: 20%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;">
+        <img src="/assets/images/icons/programmer.png" style="height:200px;width: 200px; margin: 0 auto;">
+    </div>
+    <div style="width: 80%; flex-grow: 1; flex-shrink: 1;">
+        <h3>SOFTWARE DEVELOPMENT</h3>
+        <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
+        
+        <ul>
+        <li>What software exists for performing task X?</li>
+        <li>Is software X better than software Y? If so, why?</li>
+        <li>How much will it cost to operate software X for a short term project?</li>
+        <li>Does software X seem appropriate for our business needs?</li>
+        <li>Should I implement a commercial or open source implementation?</li>
+        </ul>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div style="display:flex;height:400px;background: #e7e7e7;">
+    <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
+        <div style="width: 20%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;">
+        <img src="/assets/images/icons/programmer.png" style="height:200px;width: 200px; margin: 0 auto;">
+    </div>
+    <div style="width: 80%; flex-grow: 1; flex-shrink: 1;">
+        <h3>SOFTWARE DEVELOPMENT</h3>
+        <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
+        
+        <ul>
+        <li>What software exists for performing task X?</li>
+        <li>Is software X better than software Y? If so, why?</li>
+        <li>How much will it cost to operate software X for a short term project?</li>
+        <li>Does software X seem appropriate for our business needs?</li>
+        <li>Should I implement a commercial or open source implementation?</li>
+        </ul>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 
-Traditionally, companies spend a significant amount of time hiring entire departments to develop new products for their organisation. This can cost in excess of hundreds of thousands of pounds per year, then comes the burden of having to manage staff, or realising staff don't have the skills they claim to have, meaning even more time and cost overhead on training resources.
-
-We are contractors and we are proud to be experts in our field. adhere to the best practises.
-
-
-
-
-Although a software is open source, this doesn't mean that there won't be costs associated with it in the future.
-There may be many companies or individuals associated with an open source software project and 
-
-Often 
-
-### Stages of the software development lifecycle
-
-## Requirements gathering
-Most, if not all software development projects begin with the requirements gathering stage. This stage consists of gathering a list of features the software should include. These are often discovered by indentifying 
-
-## Development
-
-## Release
-Software releases. 
-
-## Maintenance 
-
-## Our guarantee
+## Our Guarantee
 We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
 We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll consult you ahead of this.
 
@@ -55,7 +133,6 @@ We'll give you a time estimate for the work that needs completing. If the task t
 There may come a time when you know a current employee will be away from work for some time due to planned absence, or maternity leave. This can leave managers or directors in a complex situation as it means they need to start hiring for new employees.
 
 ### Bespoke in-house software solutions built around your business requirements
-
 
 ### Technical documentation and team training
 

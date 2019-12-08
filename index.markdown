@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   actions:
-    - label: "<i class='fas fa-infinity'></i> View All I.T Services"
+    - label: "<i class='fas fa-infinity'></i> Discover how our I.T Services could help your business"
       url: "/services"
 excerpt: >
   Modern I.T Development & Operations Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
