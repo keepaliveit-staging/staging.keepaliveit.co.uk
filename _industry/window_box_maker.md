@@ -8,10 +8,10 @@ permalink: /it-consultation-for-window-box-maker-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required for a Window Box Maker Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/industries/window-box.jpg
+  overlay_filter: 0.5 
 ---
 
 ## I.T Consultation for Window Box Maker Business
