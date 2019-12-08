@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Lavender Growing Business
+
+{% include industry-consultation.md %}

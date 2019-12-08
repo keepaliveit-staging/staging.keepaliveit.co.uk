@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fencing Contractor Business
+
+{% include industry-consultation.md %}

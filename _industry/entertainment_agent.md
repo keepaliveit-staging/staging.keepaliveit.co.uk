@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Entertainment Agent Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bouncy Castle and Inflatable Play Hire Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Free-Range Turkey Farmer Business
+
+{% include industry-consultation.md %}

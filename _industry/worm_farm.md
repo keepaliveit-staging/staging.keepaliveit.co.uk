@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Worm Farm Business
+
+{% include industry-consultation.md %}

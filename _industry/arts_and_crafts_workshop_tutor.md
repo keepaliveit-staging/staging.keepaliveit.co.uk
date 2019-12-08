@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Arts and Crafts Workshop Tutor Business
+
+{% include industry-consultation.md %}

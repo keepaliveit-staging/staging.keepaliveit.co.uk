@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dental Practice Business
+
+{% include industry-consultation.md %}

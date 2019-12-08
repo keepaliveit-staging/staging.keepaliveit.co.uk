@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fish and Meat Smokery Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Clock and Watch Repair Service Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Home Boarding Service Business
+
+{% include industry-consultation.md %}

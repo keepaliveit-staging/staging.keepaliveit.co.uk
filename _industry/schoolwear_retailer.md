@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Schoolwear Retailer Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Comic Book Publisher Business
+
+{% include industry-consultation.md %}

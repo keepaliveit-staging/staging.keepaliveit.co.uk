@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wigmaker Business
+
+{% include industry-consultation.md %}

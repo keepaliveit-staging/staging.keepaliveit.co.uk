@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Painter and Decorator Business
+
+{% include industry-consultation.md %}

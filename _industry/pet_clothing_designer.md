@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Clothing Designer Business
+
+{% include industry-consultation.md %}

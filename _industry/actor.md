@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Actor Business
+
+{% include industry-consultation.md %}

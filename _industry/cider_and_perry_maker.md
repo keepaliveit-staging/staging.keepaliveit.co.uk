@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cider and Perry Maker Business
+
+{% include industry-consultation.md %}

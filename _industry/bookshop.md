@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bookshop Business
+
+{% include industry-consultation.md %}

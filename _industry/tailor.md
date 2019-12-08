@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Tailor Business
+
+{% include industry-consultation.md %}

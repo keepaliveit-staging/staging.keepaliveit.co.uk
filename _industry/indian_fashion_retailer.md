@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Indian Fashion Retailer Business
+
+{% include industry-consultation.md %}

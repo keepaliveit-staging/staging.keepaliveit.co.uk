@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Face Painter Business
+
+{% include industry-consultation.md %}

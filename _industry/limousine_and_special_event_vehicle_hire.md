@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Limousine and Special Event Vehicle Hire Business
+
+{% include industry-consultation.md %}

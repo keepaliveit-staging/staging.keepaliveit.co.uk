@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Calligraphy Service Business
+
+{% include industry-consultation.md %}

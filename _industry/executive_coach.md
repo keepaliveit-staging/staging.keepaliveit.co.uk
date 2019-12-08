@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Executive Coach Business
+
+{% include industry-consultation.md %}

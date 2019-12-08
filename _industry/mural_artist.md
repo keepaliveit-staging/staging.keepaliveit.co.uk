@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mural Artist Business
+
+{% include industry-consultation.md %}

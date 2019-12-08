@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Private Exam Tutor Business
+
+{% include industry-consultation.md %}

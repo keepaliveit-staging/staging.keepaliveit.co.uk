@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Photo Restoration and Editing Service Business
+
+{% include industry-consultation.md %}

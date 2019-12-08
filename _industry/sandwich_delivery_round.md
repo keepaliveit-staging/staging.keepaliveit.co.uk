@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sandwich Delivery Round Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Womens Fashion Retailer Business
+
+{% include industry-consultation.md %}

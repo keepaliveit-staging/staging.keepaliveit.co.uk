@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wine School Business
+
+{% include industry-consultation.md %}

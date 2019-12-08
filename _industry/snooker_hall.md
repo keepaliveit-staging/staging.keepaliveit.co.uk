@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Snooker Hall Business
+
+{% include industry-consultation.md %}

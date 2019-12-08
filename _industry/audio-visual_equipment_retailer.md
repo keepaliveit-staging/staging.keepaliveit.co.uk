@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Audio-visual Equipment Retailer Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Electrolysist Business
+
+{% include industry-consultation.md %}

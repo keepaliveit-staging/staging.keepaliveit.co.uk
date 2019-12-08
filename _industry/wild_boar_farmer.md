@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wild Boar Farmer Business
+
+{% include industry-consultation.md %}

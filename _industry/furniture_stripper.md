@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Furniture Stripper Business
+
+{% include industry-consultation.md %}

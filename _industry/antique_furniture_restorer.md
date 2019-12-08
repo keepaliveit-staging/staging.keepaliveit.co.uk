@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Antique Furniture Restorer Business
+
+{% include industry-consultation.md %}

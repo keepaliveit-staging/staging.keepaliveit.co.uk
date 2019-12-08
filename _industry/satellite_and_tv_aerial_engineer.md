@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Satellite and TV Aerial Engineer Business
+
+{% include industry-consultation.md %}

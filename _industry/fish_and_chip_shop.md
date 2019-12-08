@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fish and Chip Shop Business
+
+{% include industry-consultation.md %}

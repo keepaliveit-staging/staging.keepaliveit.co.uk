@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Smoothie and Juice Bar Business
+
+{% include industry-consultation.md %}

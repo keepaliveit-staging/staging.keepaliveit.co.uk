@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Reflexologist Business
+
+{% include industry-consultation.md %}

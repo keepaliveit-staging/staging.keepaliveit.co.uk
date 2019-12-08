@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Coffee Shop Business
+
+{% include industry-consultation.md %}

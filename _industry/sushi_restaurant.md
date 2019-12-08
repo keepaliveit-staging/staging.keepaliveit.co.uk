@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sushi Restaurant Business
+
+{% include industry-consultation.md %}

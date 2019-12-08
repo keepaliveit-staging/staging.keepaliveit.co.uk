@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Beekeeper and Honey Producer Business
+
+{% include industry-consultation.md %}

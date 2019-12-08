@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Make-up Artist Business
+
+{% include industry-consultation.md %}

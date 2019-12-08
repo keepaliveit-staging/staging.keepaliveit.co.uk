@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Handmade Toy Maker Business
+
+{% include industry-consultation.md %}

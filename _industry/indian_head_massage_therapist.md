@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Indian Head Massage Therapist Business
+
+{% include industry-consultation.md %}

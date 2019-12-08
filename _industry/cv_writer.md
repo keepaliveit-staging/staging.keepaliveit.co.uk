@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for CV Writer Business
+
+{% include industry-consultation.md %}

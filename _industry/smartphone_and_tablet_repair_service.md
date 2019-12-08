@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Smartphone and Tablet Repair Service Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Asian Food Retailer Business
+
+{% include industry-consultation.md %}

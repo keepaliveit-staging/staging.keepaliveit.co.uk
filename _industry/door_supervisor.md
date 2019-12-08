@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Door Supervisor Business
+
+{% include industry-consultation.md %}

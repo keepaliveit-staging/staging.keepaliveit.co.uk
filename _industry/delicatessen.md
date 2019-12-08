@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Delicatessen Business
+
+{% include industry-consultation.md %}

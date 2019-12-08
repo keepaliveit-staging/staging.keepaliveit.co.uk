@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dog Walker Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Genealogist Business
+
+{% include industry-consultation.md %}

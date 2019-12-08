@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for PAT Tester Business
+
+{% include industry-consultation.md %}

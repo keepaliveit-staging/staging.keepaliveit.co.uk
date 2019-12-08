@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Ayurvedic Practitioner Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wedding Favour Maker Business
+
+{% include industry-consultation.md %}

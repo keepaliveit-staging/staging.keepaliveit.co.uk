@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Photographic Equipment Shop Business
+
+{% include industry-consultation.md %}

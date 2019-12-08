@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sandwich Shop Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Childrens Indoor Play Centre Business
+
+{% include industry-consultation.md %}

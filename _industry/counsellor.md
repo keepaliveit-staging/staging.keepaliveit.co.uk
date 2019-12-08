@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Counsellor Business
+
+{% include industry-consultation.md %}

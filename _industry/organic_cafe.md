@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Organic Cafe Business
+
+{% include industry-consultation.md %}

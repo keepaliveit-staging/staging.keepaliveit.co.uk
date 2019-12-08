@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Private Detective Agency Business
+
+{% include industry-consultation.md %}

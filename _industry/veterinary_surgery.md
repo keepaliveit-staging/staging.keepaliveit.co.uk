@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Veterinary Surgery Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Goth Clothing Shop Business
+
+{% include industry-consultation.md %}

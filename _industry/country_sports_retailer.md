@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Country Sports Retailer Business
+
+{% include industry-consultation.md %}

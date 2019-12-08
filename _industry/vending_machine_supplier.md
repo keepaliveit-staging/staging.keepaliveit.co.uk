@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Vending Machine Supplier Business
+
+{% include industry-consultation.md %}

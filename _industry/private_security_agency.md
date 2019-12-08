@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Private Security Agency Business
+
+{% include industry-consultation.md %}

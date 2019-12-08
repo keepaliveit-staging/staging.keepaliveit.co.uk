@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fresh Pasta Producer Business
+
+{% include industry-consultation.md %}

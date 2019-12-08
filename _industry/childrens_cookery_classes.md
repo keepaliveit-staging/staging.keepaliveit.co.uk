@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Childrens Cookery Classes Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Personalised Gift Retailer Business
+
+{% include industry-consultation.md %}

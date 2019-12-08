@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Farrier Business
+
+{% include industry-consultation.md %}

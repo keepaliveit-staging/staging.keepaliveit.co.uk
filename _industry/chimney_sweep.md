@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Chimney Sweep Business
+
+{% include industry-consultation.md %}

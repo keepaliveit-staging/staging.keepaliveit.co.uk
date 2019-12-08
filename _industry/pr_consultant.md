@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for PR Consultant Business
+
+{% include industry-consultation.md %}

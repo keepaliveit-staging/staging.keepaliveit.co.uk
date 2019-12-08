@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for House Sitter Business
+
+{% include industry-consultation.md %}

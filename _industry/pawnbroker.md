@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pawnbroker Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Party Supplies Shop Business
+
+{% include industry-consultation.md %}

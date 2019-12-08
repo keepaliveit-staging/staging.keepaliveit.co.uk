@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Shoe Repair Service Business
+
+{% include industry-consultation.md %}

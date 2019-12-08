@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Out-of-school Club Business
+
+{% include industry-consultation.md %}

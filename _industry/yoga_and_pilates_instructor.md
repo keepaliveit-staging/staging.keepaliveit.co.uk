@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Yoga and Pilates Instructor Business
+
+{% include industry-consultation.md %}

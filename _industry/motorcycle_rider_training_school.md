@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Motorcycle Rider Training School Business
+
+{% include industry-consultation.md %}

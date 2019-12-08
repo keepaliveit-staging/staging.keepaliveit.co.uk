@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homemade Sauce and Marinade Producer Business
+
+{% include industry-consultation.md %}

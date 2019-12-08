@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bridalwear Retailer Business
+
+{% include industry-consultation.md %}

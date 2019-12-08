@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homemade Sausage and Meat Producer Business
+
+{% include industry-consultation.md %}

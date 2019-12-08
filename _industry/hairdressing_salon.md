@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Hairdressing Salon Business
+
+{% include industry-consultation.md %}

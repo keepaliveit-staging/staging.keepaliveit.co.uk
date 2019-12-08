@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Curtain and Soft Furnishing Maker Business
+
+{% include industry-consultation.md %}

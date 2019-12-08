@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Hotel Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speciality Smoothie and Flavoured Milk Maker Business
+
+{% include industry-consultation.md %}

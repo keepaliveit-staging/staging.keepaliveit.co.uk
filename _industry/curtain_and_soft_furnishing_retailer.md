@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Curtain and Soft Furnishing Retailer Business
+
+{% include industry-consultation.md %}

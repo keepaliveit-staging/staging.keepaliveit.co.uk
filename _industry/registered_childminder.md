@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Registered Childminder Business
+
+{% include industry-consultation.md %}

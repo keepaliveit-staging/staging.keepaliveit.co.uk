@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Trout Fishing Lake Business
+
+{% include industry-consultation.md %}

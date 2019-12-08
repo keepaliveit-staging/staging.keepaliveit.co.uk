@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Domestic Security Installer Business
+
+{% include industry-consultation.md %}

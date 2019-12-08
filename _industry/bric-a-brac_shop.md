@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bric-a-brac Shop Business
+
+{% include industry-consultation.md %}

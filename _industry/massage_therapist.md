@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Massage Therapist Business
+
+{% include industry-consultation.md %}

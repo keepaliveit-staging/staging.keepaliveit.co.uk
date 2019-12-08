@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mobile Takeaway Business
+
+{% include industry-consultation.md %}

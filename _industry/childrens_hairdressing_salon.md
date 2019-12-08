@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Childrens Hairdressing Salon Business
+
+{% include industry-consultation.md %}

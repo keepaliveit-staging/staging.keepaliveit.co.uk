@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Day Nursery Business
+
+{% include industry-consultation.md %}

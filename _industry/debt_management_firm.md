@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Debt Management Firm Business
+
+{% include industry-consultation.md %}

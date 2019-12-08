@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Vehicle Recovery Service Business
+
+{% include industry-consultation.md %}

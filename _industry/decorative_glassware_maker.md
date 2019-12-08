@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Decorative Glassware Maker Business
+
+{% include industry-consultation.md %}

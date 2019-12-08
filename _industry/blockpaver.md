@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Blockpaver Business
+
+{% include industry-consultation.md %}

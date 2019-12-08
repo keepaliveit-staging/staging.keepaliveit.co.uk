@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Craft Bakery Business
+
+{% include industry-consultation.md %}

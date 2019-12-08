@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Physiotherapist Business
+
+{% include industry-consultation.md %}

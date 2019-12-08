@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Swap Website Business
+
+{% include industry-consultation.md %}

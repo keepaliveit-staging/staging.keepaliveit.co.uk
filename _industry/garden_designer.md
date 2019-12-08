@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Garden Designer Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Computer Hire Service Business
+
+{% include industry-consultation.md %}

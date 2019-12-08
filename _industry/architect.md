@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Architect Business
+
+{% include industry-consultation.md %}

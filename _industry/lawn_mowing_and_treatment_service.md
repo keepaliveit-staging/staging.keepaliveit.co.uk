@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Lawn Mowing and Treatment Service Business
+
+{% include industry-consultation.md %}

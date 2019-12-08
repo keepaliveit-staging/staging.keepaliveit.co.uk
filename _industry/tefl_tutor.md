@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for TEFL Tutor Business
+
+{% include industry-consultation.md %}

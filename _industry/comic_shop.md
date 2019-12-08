@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Comic Shop Business
+
+{% include industry-consultation.md %}

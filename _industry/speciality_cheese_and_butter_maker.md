@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speciality Cheese and Butter Maker Business
+
+{% include industry-consultation.md %}

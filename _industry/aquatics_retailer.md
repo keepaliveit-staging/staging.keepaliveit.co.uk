@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Aquatics Retailer Business
+
+{% include industry-consultation.md %}

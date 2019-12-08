@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Buffalo Farming Business
+
+{% include industry-consultation.md %}

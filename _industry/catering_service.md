@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Catering Service Business
+
+{% include industry-consultation.md %}

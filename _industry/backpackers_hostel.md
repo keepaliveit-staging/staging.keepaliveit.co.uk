@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Backpackers Hostel Business
+
+{% include industry-consultation.md %}

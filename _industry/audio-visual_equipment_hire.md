@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Audio-visual Equipment Hire Business
+
+{% include industry-consultation.md %}

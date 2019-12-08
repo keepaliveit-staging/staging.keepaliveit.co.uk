@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mystery Shopper Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Junk Collection Business
+
+{% include industry-consultation.md %}

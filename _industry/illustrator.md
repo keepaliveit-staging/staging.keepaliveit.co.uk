@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Illustrator Business
+
+{% include industry-consultation.md %}

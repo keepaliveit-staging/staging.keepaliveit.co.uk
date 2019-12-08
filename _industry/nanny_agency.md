@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Nanny Agency Business
+
+{% include industry-consultation.md %}

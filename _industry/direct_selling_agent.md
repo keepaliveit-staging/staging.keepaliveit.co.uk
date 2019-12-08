@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Direct Selling Agent Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Glazier Business
+
+{% include industry-consultation.md %}

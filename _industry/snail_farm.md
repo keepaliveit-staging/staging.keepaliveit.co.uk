@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Snail Farm Business
+
+{% include industry-consultation.md %}

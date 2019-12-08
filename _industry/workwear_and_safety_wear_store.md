@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Workwear and Safety Wear Store Business
+
+{% include industry-consultation.md %}

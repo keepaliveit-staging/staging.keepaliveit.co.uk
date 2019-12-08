@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Plant Nursery Business
+
+{% include industry-consultation.md %}

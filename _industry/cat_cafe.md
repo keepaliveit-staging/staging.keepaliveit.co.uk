@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cat Cafe Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Carpet and Upholstery Cleaner Business
+
+{% include industry-consultation.md %}

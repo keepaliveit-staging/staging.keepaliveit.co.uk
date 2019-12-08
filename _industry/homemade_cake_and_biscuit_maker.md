@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homemade Cake and Biscuit Maker Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Urban Garden Designer Business
+
+{% include industry-consultation.md %}

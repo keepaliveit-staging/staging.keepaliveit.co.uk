@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Health Food Shop Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Journalist Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Temporary Furniture Rental Business
+
+{% include industry-consultation.md %}

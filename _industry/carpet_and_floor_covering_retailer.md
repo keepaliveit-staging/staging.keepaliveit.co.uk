@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Carpet and Floor Covering Retailer Business
+
+{% include industry-consultation.md %}

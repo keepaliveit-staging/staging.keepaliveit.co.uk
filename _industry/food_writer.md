@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Food Writer Business
+
+{% include industry-consultation.md %}

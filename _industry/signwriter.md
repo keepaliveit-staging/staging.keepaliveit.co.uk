@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Signwriter Business
+
+{% include industry-consultation.md %}

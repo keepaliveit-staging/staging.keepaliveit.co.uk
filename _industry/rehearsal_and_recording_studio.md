@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Rehearsal and Recording Studio Business
+
+{% include industry-consultation.md %}

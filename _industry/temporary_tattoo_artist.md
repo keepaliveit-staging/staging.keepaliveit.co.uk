@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Temporary Tattoo Artist Business
+
+{% include industry-consultation.md %}

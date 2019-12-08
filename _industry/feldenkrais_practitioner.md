@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Feldenkrais Practitioner Business
+
+{% include industry-consultation.md %}

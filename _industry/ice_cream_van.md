@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Ice Cream Van Business
+
+{% include industry-consultation.md %}

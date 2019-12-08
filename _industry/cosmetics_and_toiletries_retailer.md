@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cosmetics and Toiletries Retailer Business
+
+{% include industry-consultation.md %}

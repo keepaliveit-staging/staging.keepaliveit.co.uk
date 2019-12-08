@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Chartered Building Surveyor Business
+
+{% include industry-consultation.md %}

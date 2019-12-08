@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Foot Health Practitioner Business
+
+{% include industry-consultation.md %}

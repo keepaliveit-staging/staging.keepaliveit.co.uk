@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Maize Maze Business
+
+{% include industry-consultation.md %}

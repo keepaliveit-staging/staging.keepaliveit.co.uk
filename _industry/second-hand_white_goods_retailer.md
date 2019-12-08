@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Second-Hand White Goods Retailer Business
+
+{% include industry-consultation.md %}

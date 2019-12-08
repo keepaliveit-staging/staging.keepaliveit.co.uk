@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Dog Trainer Business
+
+{% include industry-consultation.md %}

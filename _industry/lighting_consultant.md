@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Lighting Consultant Business
+
+{% include industry-consultation.md %}

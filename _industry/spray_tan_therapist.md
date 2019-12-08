@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Spray Tan Therapist Business
+
+{% include industry-consultation.md %}

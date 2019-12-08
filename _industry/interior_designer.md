@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Interior Designer Business
+
+{% include industry-consultation.md %}

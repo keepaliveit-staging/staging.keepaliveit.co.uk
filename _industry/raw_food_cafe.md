@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Raw Food Cafe Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Residential Care Home Business
+
+{% include industry-consultation.md %}

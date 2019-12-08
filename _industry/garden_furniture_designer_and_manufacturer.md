@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Garden Furniture Designer and Manufacturer Business
+
+{% include industry-consultation.md %}

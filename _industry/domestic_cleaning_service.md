@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Domestic Cleaning Service Business
+
+{% include industry-consultation.md %}

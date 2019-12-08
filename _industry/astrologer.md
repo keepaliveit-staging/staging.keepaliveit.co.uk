@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Astrologer Business
+
+{% include industry-consultation.md %}

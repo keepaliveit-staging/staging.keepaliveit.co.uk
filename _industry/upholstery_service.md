@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Upholstery Service Business
+
+{% include industry-consultation.md %}

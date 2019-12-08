@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Laser Tag Centre Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Barbecue and Hog Roast Catering Business
+
+{% include industry-consultation.md %}

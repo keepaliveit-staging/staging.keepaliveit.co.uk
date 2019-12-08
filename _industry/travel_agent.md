@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Travel Agent Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bike and Watersports Equipment Hire Business
+
+{% include industry-consultation.md %}

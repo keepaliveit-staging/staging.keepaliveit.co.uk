@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Outdoor and Extreme Sports Instructor Business
+
+{% include industry-consultation.md %}

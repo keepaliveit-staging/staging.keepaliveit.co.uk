@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Perfumer Business
+
+{% include industry-consultation.md %}

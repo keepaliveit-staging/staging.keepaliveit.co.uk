@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homemade Pickle and Preserve Maker Business
+
+{% include industry-consultation.md %}

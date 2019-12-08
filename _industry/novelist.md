@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Novelist Business
+
+{% include industry-consultation.md %}

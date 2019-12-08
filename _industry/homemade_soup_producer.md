@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homemade Soup Producer Business
+
+{% include industry-consultation.md %}

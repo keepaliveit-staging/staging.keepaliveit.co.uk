@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Hypnotherapist Business
+
+{% include industry-consultation.md %}

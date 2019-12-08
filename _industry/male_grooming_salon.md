@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Male Grooming Salon Business
+
+{% include industry-consultation.md %}

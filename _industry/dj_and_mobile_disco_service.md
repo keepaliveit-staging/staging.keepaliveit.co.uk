@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for DJ and Mobile Disco Service Business
+
+{% include industry-consultation.md %}

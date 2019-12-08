@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Gift Shop Business
+
+{% include industry-consultation.md %}

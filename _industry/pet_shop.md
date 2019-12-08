@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Shop Business
+
+{% include industry-consultation.md %}

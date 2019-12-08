@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Chauffeur Hire Business
+
+{% include industry-consultation.md %}

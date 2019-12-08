@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bed and Breakfast Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Telemarketing Agency Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for General Builder Business
+
+{% include industry-consultation.md %}

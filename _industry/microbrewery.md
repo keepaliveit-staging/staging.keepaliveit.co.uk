@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Microbrewery Business
+
+{% include industry-consultation.md %}

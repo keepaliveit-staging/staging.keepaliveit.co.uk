@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Flower Confetti Producer Business
+
+{% include industry-consultation.md %}

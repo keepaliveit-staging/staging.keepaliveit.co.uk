@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Florist Business
+
+{% include industry-consultation.md %}

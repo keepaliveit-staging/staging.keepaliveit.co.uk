@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Tanning Salon Business
+
+{% include industry-consultation.md %}

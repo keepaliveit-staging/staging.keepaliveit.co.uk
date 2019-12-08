@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dessert Bar Business
+
+{% include industry-consultation.md %}

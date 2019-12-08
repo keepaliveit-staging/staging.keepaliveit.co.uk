@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mobile Beauty Therapist Business
+
+{% include industry-consultation.md %}

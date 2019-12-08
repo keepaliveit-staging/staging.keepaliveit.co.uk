@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wheelie Bin Cleaner Business
+
+{% include industry-consultation.md %}

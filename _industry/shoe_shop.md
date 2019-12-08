@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Shoe Shop Business
+
+{% include industry-consultation.md %}

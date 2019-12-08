@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Betting Shop Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Free-Range Duck Farmer Business
+
+{% include industry-consultation.md %}

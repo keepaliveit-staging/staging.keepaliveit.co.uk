@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wine Merchant Business
+
+{% include industry-consultation.md %}

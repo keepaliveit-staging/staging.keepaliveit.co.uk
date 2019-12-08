@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Independent Record Label Business
+
+{% include industry-consultation.md %}

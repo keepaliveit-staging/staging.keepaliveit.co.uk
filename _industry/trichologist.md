@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Trichologist Business
+
+{% include industry-consultation.md %}

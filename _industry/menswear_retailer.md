@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Menswear Retailer Business
+
+{% include industry-consultation.md %}

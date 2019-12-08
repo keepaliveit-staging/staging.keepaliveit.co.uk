@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Quad Biking Centre Business
+
+{% include industry-consultation.md %}

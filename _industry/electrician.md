@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Electrician Business
+
+{% include industry-consultation.md %}

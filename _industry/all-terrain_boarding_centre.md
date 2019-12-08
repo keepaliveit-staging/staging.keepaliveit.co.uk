@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for All-terrain Boarding Centre Business
+
+{% include industry-consultation.md %}

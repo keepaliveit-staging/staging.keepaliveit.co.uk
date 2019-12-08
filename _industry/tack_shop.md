@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Tack Shop Business
+
+{% include industry-consultation.md %}

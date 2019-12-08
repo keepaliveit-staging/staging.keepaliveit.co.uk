@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Plasterer Business
+
+{% include industry-consultation.md %}

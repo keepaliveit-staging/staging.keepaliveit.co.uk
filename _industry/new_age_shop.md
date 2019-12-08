@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for New Age Shop Business
+
+{% include industry-consultation.md %}

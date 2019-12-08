@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wall and Floor Tiler Business
+
+{% include industry-consultation.md %}

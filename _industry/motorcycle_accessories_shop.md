@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Motorcycle Accessories Shop Business
+
+{% include industry-consultation.md %}

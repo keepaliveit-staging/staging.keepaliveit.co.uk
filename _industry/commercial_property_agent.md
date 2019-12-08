@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Commercial Property Agent Business
+
+{% include industry-consultation.md %}

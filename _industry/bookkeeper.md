@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bookkeeper Business
+
+{% include industry-consultation.md %}

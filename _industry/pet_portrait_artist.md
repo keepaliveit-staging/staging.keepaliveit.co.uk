@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Portrait Artist Business
+
+{% include industry-consultation.md %}

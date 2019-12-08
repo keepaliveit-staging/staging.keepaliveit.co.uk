@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Architectural Salvage Dealer Business
+
+{% include industry-consultation.md %}

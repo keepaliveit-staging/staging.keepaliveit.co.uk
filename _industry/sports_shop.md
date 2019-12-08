@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sports Shop Business
+
+{% include industry-consultation.md %}

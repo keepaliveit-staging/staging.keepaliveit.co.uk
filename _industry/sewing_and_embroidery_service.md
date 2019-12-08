@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sewing and Embroidery Service Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Street Entertainer Business
+
+{% include industry-consultation.md %}

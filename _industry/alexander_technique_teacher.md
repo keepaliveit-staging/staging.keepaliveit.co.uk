@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Alexander Technique Teacher Business
+
+{% include industry-consultation.md %}

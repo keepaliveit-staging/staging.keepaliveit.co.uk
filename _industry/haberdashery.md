@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Haberdashery Business
+
+{% include industry-consultation.md %}

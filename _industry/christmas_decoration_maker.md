@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Christmas Decoration Maker Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Occupational Therapist Business
+
+{% include industry-consultation.md %}

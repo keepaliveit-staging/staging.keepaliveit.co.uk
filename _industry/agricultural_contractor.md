@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Agricultural Contractor Business
+
+{% include industry-consultation.md %}

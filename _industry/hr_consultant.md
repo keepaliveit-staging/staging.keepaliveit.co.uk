@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for HR Consultant Business
+
+{% include industry-consultation.md %}

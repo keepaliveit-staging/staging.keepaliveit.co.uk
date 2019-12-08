@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Gym Business
+
+{% include industry-consultation.md %}

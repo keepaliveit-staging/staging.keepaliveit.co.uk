@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Vintage Clothing Retailer Business
+
+{% include industry-consultation.md %}

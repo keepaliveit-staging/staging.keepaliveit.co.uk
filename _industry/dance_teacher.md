@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dance Teacher Business
+
+{% include industry-consultation.md %}

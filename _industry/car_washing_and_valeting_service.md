@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Car Washing and Valeting Service Business
+
+{% include industry-consultation.md %}

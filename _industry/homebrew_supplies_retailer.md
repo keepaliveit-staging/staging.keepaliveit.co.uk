@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Homebrew Supplies Retailer Business
+
+{% include industry-consultation.md %}

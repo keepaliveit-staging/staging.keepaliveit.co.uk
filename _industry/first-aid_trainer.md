@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for First-aid Trainer Business
+
+{% include industry-consultation.md %}

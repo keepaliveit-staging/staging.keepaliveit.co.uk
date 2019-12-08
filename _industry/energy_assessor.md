@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Energy Assessor Business
+
+{% include industry-consultation.md %}

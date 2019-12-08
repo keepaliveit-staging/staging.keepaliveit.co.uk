@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Concierge Services Business
+
+{% include industry-consultation.md %}

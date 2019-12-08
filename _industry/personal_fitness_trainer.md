@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Personal Fitness Trainer Business
+
+{% include industry-consultation.md %}

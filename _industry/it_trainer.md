@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for IT Trainer Business
+
+{% include industry-consultation.md %}

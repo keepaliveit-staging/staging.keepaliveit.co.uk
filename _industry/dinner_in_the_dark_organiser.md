@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dinner in the Dark Organiser Business
+
+{% include industry-consultation.md %}

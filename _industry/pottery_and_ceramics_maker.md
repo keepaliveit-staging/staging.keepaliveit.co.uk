@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pottery and Ceramics Maker Business
+
+{% include industry-consultation.md %}

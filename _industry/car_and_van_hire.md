@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Car and Van Hire Business
+
+{% include industry-consultation.md %}

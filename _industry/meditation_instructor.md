@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Meditation Instructor Business
+
+{% include industry-consultation.md %}

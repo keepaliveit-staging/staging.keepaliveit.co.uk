@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pest Controller Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Motorcycle Repair Service Business
+
+{% include industry-consultation.md %}

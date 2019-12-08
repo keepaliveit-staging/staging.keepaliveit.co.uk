@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Sitter Business
+
+{% include industry-consultation.md %}

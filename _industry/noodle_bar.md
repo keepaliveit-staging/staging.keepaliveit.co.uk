@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Noodle Bar Business
+
+{% include industry-consultation.md %}

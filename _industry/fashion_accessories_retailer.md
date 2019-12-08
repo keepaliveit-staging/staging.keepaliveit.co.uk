@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fashion Accessories Retailer Business
+
+{% include industry-consultation.md %}

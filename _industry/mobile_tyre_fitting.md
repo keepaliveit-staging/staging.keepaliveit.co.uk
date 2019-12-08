@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mobile Tyre Fitting Business
+
+{% include industry-consultation.md %}

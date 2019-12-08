@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fancy Dress Hire Business
+
+{% include industry-consultation.md %}

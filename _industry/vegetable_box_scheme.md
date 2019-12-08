@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Vegetable Box Scheme Business
+
+{% include industry-consultation.md %}

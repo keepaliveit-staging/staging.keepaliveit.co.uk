@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Nail Technician Business
+
+{% include industry-consultation.md %}

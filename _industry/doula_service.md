@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Doula Service Business
+
+{% include industry-consultation.md %}

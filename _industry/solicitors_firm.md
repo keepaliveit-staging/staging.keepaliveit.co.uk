@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Solicitors Firm Business
+
+{% include industry-consultation.md %}

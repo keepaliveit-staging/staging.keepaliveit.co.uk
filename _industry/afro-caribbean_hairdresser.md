@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Afro-Caribbean Hairdresser Business
+
+{% include industry-consultation.md %}

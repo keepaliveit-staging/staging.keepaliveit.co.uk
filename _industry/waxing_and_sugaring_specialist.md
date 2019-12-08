@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Waxing and Sugaring Specialist Business
+
+{% include industry-consultation.md %}

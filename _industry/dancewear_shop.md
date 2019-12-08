@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Dancewear Shop Business
+
+{% include industry-consultation.md %}

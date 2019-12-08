@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Independent Financial Adviser Business
+
+{% include industry-consultation.md %}

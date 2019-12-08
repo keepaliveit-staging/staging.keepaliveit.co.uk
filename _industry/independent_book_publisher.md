@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Independent Book Publisher Business
+
+{% include industry-consultation.md %}

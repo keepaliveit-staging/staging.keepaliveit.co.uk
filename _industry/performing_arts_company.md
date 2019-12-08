@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Performing Arts Company Business
+
+{% include industry-consultation.md %}

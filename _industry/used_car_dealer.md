@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Used Car Dealer Business
+
+{% include industry-consultation.md %}

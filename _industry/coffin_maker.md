@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Coffin Maker Business
+
+{% include industry-consultation.md %}

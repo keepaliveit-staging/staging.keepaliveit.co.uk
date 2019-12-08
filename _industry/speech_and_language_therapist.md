@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speech and Language Therapist Business
+
+{% include industry-consultation.md %}

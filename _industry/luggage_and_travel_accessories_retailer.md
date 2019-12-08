@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Luggage and Travel Accessories Retailer Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cake Decorator Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Balloon Artist Business
+
+{% include industry-consultation.md %}

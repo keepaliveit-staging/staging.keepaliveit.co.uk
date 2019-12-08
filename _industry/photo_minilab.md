@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Photo Minilab Business
+
+{% include industry-consultation.md %}

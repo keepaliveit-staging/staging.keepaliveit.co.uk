@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Acupuncturist Business
+
+{% include industry-consultation.md %}

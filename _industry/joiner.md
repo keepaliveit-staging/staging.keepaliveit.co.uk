@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Joiner Business
+
+{% include industry-consultation.md %}

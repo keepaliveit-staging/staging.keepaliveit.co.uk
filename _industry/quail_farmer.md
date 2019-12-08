@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Quail Farmer Business
+
+{% include industry-consultation.md %}

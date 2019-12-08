@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Scaffolding Contractor Business
+
+{% include industry-consultation.md %}

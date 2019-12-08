@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Animal Hydrotherapy Service Business
+
+{% include industry-consultation.md %}

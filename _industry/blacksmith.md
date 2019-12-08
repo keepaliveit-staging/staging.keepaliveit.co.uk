@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Blacksmith Business
+
+{% include industry-consultation.md %}

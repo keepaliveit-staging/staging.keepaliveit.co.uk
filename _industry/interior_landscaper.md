@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Interior Landscaper Business
+
+{% include industry-consultation.md %}

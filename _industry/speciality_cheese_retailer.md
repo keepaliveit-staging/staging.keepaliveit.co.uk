@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speciality Cheese Retailer Business
+
+{% include industry-consultation.md %}

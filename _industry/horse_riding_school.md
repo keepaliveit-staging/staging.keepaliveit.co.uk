@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Horse Riding School Business
+
+{% include industry-consultation.md %}

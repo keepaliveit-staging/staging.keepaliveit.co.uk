@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Model Agency Business
+
+{% include industry-consultation.md %}

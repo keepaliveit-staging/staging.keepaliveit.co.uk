@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Locksmith Business
+
+{% include industry-consultation.md %}

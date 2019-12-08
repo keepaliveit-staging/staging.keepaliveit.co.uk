@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Osteopath Business
+
+{% include industry-consultation.md %}

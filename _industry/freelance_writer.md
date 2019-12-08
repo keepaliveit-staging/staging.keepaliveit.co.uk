@@ -23,3 +23,5 @@ header:
 ---
 
 ## I.T Consultation for Freelance Writer Business
+
+{% include industry-consultation.md %}

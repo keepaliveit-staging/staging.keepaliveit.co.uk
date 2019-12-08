@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Outdoor Play Equipment Retailer Business
+
+{% include industry-consultation.md %}

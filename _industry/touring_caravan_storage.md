@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Touring Caravan Storage Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Livery Yard Business
+
+{% include industry-consultation.md %}

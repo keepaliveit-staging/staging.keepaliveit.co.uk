@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Floatation Therapy Service Business
+
+{% include industry-consultation.md %}

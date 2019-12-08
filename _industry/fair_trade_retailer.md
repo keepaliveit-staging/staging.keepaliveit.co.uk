@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fair Trade Retailer Business
+
+{% include industry-consultation.md %}

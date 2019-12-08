@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Martial Arts Instructor Business
+
+{% include industry-consultation.md %}

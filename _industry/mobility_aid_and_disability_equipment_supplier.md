@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mobility Aid and Disability Equipment Supplier Business
+
+{% include industry-consultation.md %}

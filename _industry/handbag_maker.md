@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Handbag Maker Business
+
+{% include industry-consultation.md %}

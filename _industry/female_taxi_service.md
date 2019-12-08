@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Female Taxi Service Business
+
+{% include industry-consultation.md %}

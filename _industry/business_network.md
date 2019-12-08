@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Business Network Business
+
+{% include industry-consultation.md %}

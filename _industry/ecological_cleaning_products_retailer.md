@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Ecological Cleaning Products Retailer Business
+
+{% include industry-consultation.md %}

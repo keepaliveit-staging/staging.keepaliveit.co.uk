@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Greengrocer Business
+
+{% include industry-consultation.md %}

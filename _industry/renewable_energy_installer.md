@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Renewable Energy Installer Business
+
+{% include industry-consultation.md %}

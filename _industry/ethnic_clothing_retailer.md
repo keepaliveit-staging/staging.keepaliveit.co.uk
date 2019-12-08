@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Ethnic Clothing Retailer Business
+
+{% include industry-consultation.md %}

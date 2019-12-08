@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Jewellery Maker Business
+
+{% include industry-consultation.md %}

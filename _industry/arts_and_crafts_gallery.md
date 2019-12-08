@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Arts and Crafts Gallery Business
+
+{% include industry-consultation.md %}

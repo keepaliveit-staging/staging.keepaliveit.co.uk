@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Baby Massage Instructor Business
+
+{% include industry-consultation.md %}

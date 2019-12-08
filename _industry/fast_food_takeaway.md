@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fast Food Takeaway Business
+
+{% include industry-consultation.md %}

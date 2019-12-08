@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Rabbit Farmer Business
+
+{% include industry-consultation.md %}

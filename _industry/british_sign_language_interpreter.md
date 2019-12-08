@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for British Sign Language Interpreter Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Convenience Store Business
+
+{% include industry-consultation.md %}

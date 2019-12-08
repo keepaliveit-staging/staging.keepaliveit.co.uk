@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pet Grooming Service Business
+
+{% include industry-consultation.md %}

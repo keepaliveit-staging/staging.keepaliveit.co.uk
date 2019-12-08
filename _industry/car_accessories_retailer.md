@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Car Accessories Retailer Business
+
+{% include industry-consultation.md %}

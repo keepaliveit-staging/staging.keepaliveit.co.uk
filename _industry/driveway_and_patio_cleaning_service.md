@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Driveway and Patio Cleaning Service Business
+
+{% include industry-consultation.md %}

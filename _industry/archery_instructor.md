@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Archery Instructor Business
+
+{% include industry-consultation.md %}

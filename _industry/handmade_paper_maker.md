@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Handmade Paper Maker Business
+
+{% include industry-consultation.md %}

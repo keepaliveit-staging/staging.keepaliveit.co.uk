@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Computer Maintenance and Repair Service Business
+
+{% include industry-consultation.md %}

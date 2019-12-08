@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Temping Agency Business
+
+{% include industry-consultation.md %}

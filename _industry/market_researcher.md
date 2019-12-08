@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Market Researcher Business
+
+{% include industry-consultation.md %}

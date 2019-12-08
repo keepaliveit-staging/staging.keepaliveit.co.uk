@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Road Haulage Firm Business
+
+{% include industry-consultation.md %}

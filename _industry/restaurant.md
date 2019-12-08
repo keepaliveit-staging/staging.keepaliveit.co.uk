@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Restaurant Business
+
+{% include industry-consultation.md %}

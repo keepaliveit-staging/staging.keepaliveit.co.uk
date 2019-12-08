@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bed and Breakfast for Horses Business
+
+{% include industry-consultation.md %}

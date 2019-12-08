@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Music Shop Business
+
+{% include industry-consultation.md %}

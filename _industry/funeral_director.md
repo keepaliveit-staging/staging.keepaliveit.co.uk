@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Funeral Director Business
+
+{% include industry-consultation.md %}

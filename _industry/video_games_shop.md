@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Video Games Shop Business
+
+{% include industry-consultation.md %}

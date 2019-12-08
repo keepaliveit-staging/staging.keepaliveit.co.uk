@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Specialist Model Shop Business
+
+{% include industry-consultation.md %}

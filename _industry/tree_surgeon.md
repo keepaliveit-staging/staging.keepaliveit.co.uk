@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Tree Surgeon Business
+
+{% include industry-consultation.md %}

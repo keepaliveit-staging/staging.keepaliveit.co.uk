@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cr�che Business
+
+{% include industry-consultation.md %}

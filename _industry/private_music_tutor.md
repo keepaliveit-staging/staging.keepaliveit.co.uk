@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Private Music Tutor Business
+
+{% include industry-consultation.md %}

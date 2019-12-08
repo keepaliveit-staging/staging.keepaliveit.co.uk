@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Nursing Home Business
+
+{% include industry-consultation.md %}

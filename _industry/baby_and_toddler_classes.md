@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Baby and Toddler Classes Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wedding Stationery Maker Business
+
+{% include industry-consultation.md %}

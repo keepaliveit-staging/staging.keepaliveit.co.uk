@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Halal Butcher Business
+
+{% include industry-consultation.md %}

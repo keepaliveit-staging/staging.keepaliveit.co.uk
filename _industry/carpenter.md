@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Carpenter Business
+
+{% include industry-consultation.md %}

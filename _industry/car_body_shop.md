@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Car Body Shop Business
+
+{% include industry-consultation.md %}

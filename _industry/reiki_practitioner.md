@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Reiki Practitioner Business
+
+{% include industry-consultation.md %}

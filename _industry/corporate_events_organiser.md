@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Corporate Events Organiser Business
+
+{% include industry-consultation.md %}

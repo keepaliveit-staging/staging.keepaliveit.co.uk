@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Animal Physiotherapist Business
+
+{% include industry-consultation.md %}

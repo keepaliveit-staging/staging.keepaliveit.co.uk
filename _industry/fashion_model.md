@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fashion Model Business
+
+{% include industry-consultation.md %}

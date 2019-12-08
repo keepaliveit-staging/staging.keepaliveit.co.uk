@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Tour Guide Business
+
+{% include industry-consultation.md %}

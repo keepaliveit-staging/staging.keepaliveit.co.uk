@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Newsagent Business
+
+{% include industry-consultation.md %}

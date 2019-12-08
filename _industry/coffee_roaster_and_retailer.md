@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Coffee Roaster and Retailer Business
+
+{% include industry-consultation.md %}

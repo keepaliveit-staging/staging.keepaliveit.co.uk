@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for eBay Trader Business
+
+{% include industry-consultation.md %}

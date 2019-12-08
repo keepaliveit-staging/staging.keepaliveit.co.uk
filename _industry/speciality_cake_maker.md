@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speciality Cake Maker Business
+
+{% include industry-consultation.md %}

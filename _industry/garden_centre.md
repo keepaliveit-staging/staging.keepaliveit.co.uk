@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Garden Centre Business
+
+{% include industry-consultation.md %}

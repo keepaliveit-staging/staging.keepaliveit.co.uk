@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Speciality Yoghurt, Dessert and Ice Cream Maker Business
+
+{% include industry-consultation.md %}

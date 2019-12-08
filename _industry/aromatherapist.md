@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Aromatherapist Business
+
+{% include industry-consultation.md %}

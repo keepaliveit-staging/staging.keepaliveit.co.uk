@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Off-licence Business
+
+{% include industry-consultation.md %}

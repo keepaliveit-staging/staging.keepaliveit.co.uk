@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Ceramic Cafe Business
+
+{% include industry-consultation.md %}

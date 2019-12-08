@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Community Pharmacy Business
+
+{% include industry-consultation.md %}

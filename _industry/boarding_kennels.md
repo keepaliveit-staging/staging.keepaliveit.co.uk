@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Boarding Kennels Business
+
+{% include industry-consultation.md %}

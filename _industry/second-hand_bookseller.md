@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Second-hand Bookseller Business
+
+{% include industry-consultation.md %}

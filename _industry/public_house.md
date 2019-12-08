@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Public House Business
+
+{% include industry-consultation.md %}

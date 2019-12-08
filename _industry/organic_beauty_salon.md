@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Organic Beauty Salon Business
+
+{% include industry-consultation.md %}

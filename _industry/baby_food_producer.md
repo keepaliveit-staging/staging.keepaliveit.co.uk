@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Baby Food Producer Business
+
+{% include industry-consultation.md %}

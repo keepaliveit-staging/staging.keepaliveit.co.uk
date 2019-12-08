@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Chiropractor Business
+
+{% include industry-consultation.md %}

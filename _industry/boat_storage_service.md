@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Boat Storage Service Business
+
+{% include industry-consultation.md %}

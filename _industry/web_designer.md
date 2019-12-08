@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Web Designer Business
+
+{% include industry-consultation.md %}

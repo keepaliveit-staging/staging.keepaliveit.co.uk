@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Promotional Merchandise Retailer Business
+
+{% include industry-consultation.md %}

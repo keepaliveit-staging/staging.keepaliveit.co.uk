@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bathroom Design and Installation Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for UPVC Fascia Installer Business
+
+{% include industry-consultation.md %}

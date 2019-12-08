@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Farm Tours Business
+
+{% include industry-consultation.md %}

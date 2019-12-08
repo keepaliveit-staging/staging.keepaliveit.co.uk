@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Driving Instructor Business
+
+{% include industry-consultation.md %}

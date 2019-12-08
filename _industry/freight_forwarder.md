@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Freight Forwarder Business
+
+{% include industry-consultation.md %}

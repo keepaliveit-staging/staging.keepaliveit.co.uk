@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Air-conditioning Engineer Business
+
+{% include industry-consultation.md %}

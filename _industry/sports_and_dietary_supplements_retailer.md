@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sports and Dietary Supplements Retailer Business
+
+{% include industry-consultation.md %}

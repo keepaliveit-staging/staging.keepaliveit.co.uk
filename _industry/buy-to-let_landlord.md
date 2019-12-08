@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Buy-to-let Landlord Business
+
+{% include industry-consultation.md %}

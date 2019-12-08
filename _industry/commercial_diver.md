@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Commercial Diver Business
+
+{% include industry-consultation.md %}

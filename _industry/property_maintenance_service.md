@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Property Maintenance Service Business
+
+{% include industry-consultation.md %}

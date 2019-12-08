@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Freelance App Developer Business
+
+{% include industry-consultation.md %}

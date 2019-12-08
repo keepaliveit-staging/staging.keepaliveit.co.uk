@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Paranormal Investigator Business
+
+{% include industry-consultation.md %}

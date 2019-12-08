@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Debt Collection Agency Business
+
+{% include industry-consultation.md %}

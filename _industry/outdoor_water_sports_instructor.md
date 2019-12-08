@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Outdoor Water Sports Instructor Business
+
+{% include industry-consultation.md %}

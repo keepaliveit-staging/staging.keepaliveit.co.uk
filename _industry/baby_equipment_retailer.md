@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Baby Equipment Retailer Business
+
+{% include industry-consultation.md %}

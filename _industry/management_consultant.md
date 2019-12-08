@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Management Consultant Business
+
+{% include industry-consultation.md %}

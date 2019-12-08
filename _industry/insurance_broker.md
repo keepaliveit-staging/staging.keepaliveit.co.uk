@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Insurance Broker Business
+
+{% include industry-consultation.md %}

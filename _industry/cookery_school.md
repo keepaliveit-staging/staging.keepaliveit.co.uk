@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Cookery School Business
+
+{% include industry-consultation.md %}

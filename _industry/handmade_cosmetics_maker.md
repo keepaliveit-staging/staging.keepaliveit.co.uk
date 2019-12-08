@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Handmade Cosmetics Maker Business
+
+{% include industry-consultation.md %}

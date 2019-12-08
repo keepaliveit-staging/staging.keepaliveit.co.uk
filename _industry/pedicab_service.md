@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Pedicab Service Business
+
+{% include industry-consultation.md %}

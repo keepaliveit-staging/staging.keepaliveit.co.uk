@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Community Radio Station Business
+
+{% include industry-consultation.md %}

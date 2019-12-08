@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Charity Shop Business
+
+{% include industry-consultation.md %}

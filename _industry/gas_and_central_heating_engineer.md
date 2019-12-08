@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Gas and Central Heating Engineer Business
+
+{% include industry-consultation.md %}

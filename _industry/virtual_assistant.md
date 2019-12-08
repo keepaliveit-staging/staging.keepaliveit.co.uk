@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Virtual Assistant Business
+
+{% include industry-consultation.md %}

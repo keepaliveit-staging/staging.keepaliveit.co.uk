@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Greeting Card Shop Business
+
+{% include industry-consultation.md %}

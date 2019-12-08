@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Stained Glass Artist Business
+
+{% include industry-consultation.md %}

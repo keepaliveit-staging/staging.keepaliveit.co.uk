@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Online Spectacle and Contact Lens Retailer Business
+
+{% include industry-consultation.md %}

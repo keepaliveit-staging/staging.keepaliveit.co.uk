@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for T-shirt Printer Business
+
+{% include industry-consultation.md %}

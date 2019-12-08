@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Loss Assessor Business
+
+{% include industry-consultation.md %}

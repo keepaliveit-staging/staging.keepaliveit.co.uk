@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Orchid Growing Business
+
+{% include industry-consultation.md %}

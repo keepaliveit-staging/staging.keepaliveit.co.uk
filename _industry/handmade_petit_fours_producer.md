@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Handmade Petit Fours Producer Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Domiciliary Care Agency Business
+
+{% include industry-consultation.md %}

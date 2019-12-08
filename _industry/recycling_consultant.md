@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Recycling Consultant Business
+
+{% include industry-consultation.md %}

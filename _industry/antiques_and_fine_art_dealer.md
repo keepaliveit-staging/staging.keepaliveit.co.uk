@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Antiques and Fine Art Dealer Business
+
+{% include industry-consultation.md %}

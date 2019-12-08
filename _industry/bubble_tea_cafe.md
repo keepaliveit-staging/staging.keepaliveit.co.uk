@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Bubble Tea Cafe Business
+
+{% include industry-consultation.md %}

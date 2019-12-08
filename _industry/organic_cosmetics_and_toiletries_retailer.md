@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Organic Cosmetics and Toiletries Retailer Business
+
+{% include industry-consultation.md %}

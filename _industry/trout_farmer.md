@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Trout Farmer Business
+
+{% include industry-consultation.md %}

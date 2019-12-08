@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Chocolatier Business
+
+{% include industry-consultation.md %}

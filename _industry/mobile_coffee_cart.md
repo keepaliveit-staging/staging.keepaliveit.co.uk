@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Mobile Coffee Cart Business
+
+{% include industry-consultation.md %}

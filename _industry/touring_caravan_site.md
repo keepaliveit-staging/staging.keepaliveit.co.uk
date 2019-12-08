@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Touring Caravan Site Business
+
+{% include industry-consultation.md %}

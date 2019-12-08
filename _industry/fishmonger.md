@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Fishmonger Business
+
+{% include industry-consultation.md %}

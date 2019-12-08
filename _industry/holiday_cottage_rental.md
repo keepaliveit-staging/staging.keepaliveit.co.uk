@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Holiday Cottage Rental Business
+
+{% include industry-consultation.md %}

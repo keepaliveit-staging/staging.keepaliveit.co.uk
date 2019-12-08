@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Childrens Entertainer Business
+
+{% include industry-consultation.md %}

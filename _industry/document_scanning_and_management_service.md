@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Document Scanning and Management Service Business
+
+{% include industry-consultation.md %}

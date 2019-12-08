@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Marquee Hire Business
+
+{% include industry-consultation.md %}

@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Independent Museum Business
+
+{% include industry-consultation.md %}

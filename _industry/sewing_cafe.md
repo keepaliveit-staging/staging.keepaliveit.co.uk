@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Sewing Cafe Business
+
+{% include industry-consultation.md %}

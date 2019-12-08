@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Wine and Cocktail Bar Business
+
+{% include industry-consultation.md %}

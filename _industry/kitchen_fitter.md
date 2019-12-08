@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Kitchen Fitter Business
+
+{% include industry-consultation.md %}

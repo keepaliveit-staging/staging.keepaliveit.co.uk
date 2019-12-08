@@ -15,3 +15,5 @@ header:
 ---
 
 ## I.T Consultation for Indoor Climbing Centre Business
+
+{% include industry-consultation.md %}
