@@ -1,6 +1,6 @@
 <div id="industry-consultation">
     <h2>Tailored I.T Consultancy by Industry or Business Type</h2>
-    <p>Browse for your industry or business type to get tailored I.T consultancy specific to your business:</p>
+    <p>Looking for I.T consultancy services tailored towards your business industry? Browse for your industry or business type to get tailored I.T consultancy specific to your business:</p>
     <nav aria-label="Page navigation example">
       <ul class="pagination-az" id="industry-pagination">
         {% assign topics_by_letter = site.industry | group_by_exp: "industry", "industry.industry_name | upcase | slice: 0, 1" %}

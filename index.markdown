@@ -11,7 +11,7 @@ header:
     - label: "<i class='fas fa-infinity'></i> View All I.T Services"
       url: "/services"
 excerpt: >
-  Modern I.T Development & Operation Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
+  Modern I.T Development & Operations Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
   <small><a href="#" class="vat-toggle">Show Prices Excluding V.A.T</a></small>
 
 feature_row:
@@ -40,7 +40,7 @@ feature_row:
 
 ## A little bit about Keep-Alive I.T's Services
 
-### What do we do?
+### What does Keep-Alive I.T do?
 We're a one-stop-shop business who specialises in I.T Consultation, Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
 Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company requiring expertise advice with a Cloud 
 migration strategy; We plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy or employee count. 
@@ -48,24 +48,24 @@ migration strategy; We plan, consult, and implement I.T solutions for organisati
 Keeping I.T Alive is what we do and we're pretty good at it. We're here to take your I.T Development & Operations frustrations away and keep your I.T Operational for the times you depend on it the most - at home or in the office.
 
 
-### Where are we based?
+### Where is Keep-Alive I.T based?
 We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 
 
-### How much do you charge for your I.T services?
-We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the beginning of a project. This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together.
+### How much does Keep-Alive I.T charge for I.T services?
+We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the beginning of a project. This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together. Each page of our website will give you an approximate cost for the service on offer. Some services will require further analysis into your requirements before we are able to agree on a price. This is the nature of consultancy services and what you should expect from us if you decide to work with us.
 
 ### What does the process of working with Keep Alive I.T involve?
 This depends on the type of work you need completed. As a general rule, there are 7 steps involved in working with us:
 
-1. You contact us and supply us with a description of the work you need completed. This can be a one page document explaining what our deliverables should be from your project, or if you want us to work on a relatively new project, you should supply us with a detailed Brief or Design Document for your new idea.
+1. You contact us and supply us with a description of the work that you need completed. This can be a one page document explaining what our deliverables should be from your project, or if you want us to work on a relatively new project, you should supply us with a detailed Brief or Design Document for your new idea.
 
-2. We do some research and a brief technical review of the work you’ve supplied us with and let you know within a few days if it’s feasible and something we’re capable of taking on. At this stage, we’ll schedule a meeting with you to get to know your needs and requirements.
+2. We do some research and a brief technical review of the work you’ve supplied us with and let you know within a few days if it’s feasible and a piece of work we’re capable of taking on. At this stage, we’ll schedule a meeting with you to get to know your needs and requirements.
 
 3. Once we’ve had a meeting with you, we’ll produce a contract for your work. This contract will contain a list of deliverables by us, as well as some legal terms that you’ll need to agree to and generally keeps both parties happy throughout the duration of the project.
 
-4. We’ll send you the contract that’s been produced and once you’ve read through it, you’ll need to sign it electronically so work can begin. You’ll also need to send us any resources which can help us complete your work before any work can begin on your project (for example, if we’re making you a website you’ll need to send us your logo if you have one).
+4. We’ll send you the contract that’s been produced and once you’ve read through it, you’ll need to sign it electronically so work can begin. You’ll also need to send us any resources which can help us complete your work before any work can begin on your project (for example, if we’re making you a website you’ll need to send us appropriate branding materials).
 
-5. This is where you can relax and our hard work begins. We’ll plan, design, develop, and test your work and contact you if we need any additional information or resources from you. Depending on the duration of the project, you might need to play the waiting game for some time. We’ll let you know how we’re getting on with the work at different stages of the project.
+5. This is where you can relax and our hard work begins. We’ll plan, design, develop, and test your work and contact you if we need any additional information or resources from you. Depending on the duration of the project, you might need to play the waiting game for some time. We’ll let you know how we’re getting on with the work at different stages of the project by SMS, email, or phone.
 
 6. We’ll send you samples of the work we have produced so you can test it and give us feedback on the work. We’re able to make minor changes during this stage if there’s anything you’re not completely happy with.
 
