@@ -68,7 +68,7 @@ Overall, high quality Software enhances employee productivity, improves company 
             <li>Does software X seem appropriate for our business needs?</li>
             <li>Should I consider a commercial or open source implementation?</li>
         </ul>
-        <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
+        <p><a href="/software-consultancy/software-training">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
     </div>
 </div>
 
@@ -81,7 +81,7 @@ Overall, high quality Software enhances employee productivity, improves company 
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
-        <h3>SOFTWARE IMPLEMENTATION CONSULTANCY</h3>
+        <h3>SOFTWARE PROCUREMENT, IMPLEMENTATION & CONSULTANCY</h3>
         <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
         <ul>
             <li>What software exists for performing task X?</li>
@@ -90,7 +90,7 @@ Overall, high quality Software enhances employee productivity, improves company 
             <li>Does software X seem appropriate for our business needs?</li>
             <li>Should I implement a commercial or open source implementation?</li>
         </ul>
-         <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+         <p><a href="/software-consultancy/software-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
     </div>
 </div>
 
@@ -112,12 +112,33 @@ Overall, high quality Software enhances employee productivity, improves company 
             <li>Does software X seem appropriate for our business needs?</li>
             <li>Should I implement a commercial or open source implementation?</li>
         </ul>
-        <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+        <p><a href="/software-consultancy/software-development">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
     </div>
 </div>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+<div style="display:flex;background: #e7e7e7;">
+    <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
+        <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
+            <img src="/assets/images/icons/team.png" style="height:auto;width: auto; margin: 0 auto;">
+        </div>
+    </div>
+    <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
+        <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
+        <p>Forming a team for a software project can be a challenging and time consuming process. Offload your development team formation to us</p>
+        <ul>
+            <li>What software exists for performing task X?</li>
+            <li>Is software X better than software Y? If so, why?</li>
+            <li>How much will it cost to operate software X for a short term project?</li>
+            <li>Does software X seem appropriate for our business needs?</li>
+            <li>Should I implement a commercial or open source implementation?</li>
+        </ul>
+        <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Our Guarantee
 We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
@@ -137,16 +158,6 @@ There may come a time when you know a current employee will be away from work fo
 
 Whether you're looking for a drop-in developer for your team to cover instances such as sickness, or maternity, we are able to 
 
-We provide software consultancy solutions for the following programming languages:
-
-- PHP Software Development
-- C# Software Development
-- Java Software Development
-- Python Software Development
-
-Script creation
-- Bash
-- Powershell
 
 Workflow
 
@@ -157,24 +168,6 @@ How to stop
 
 We understand object composition by implementing common design patterns
 
-
-
-- Authentication & Authorisation
-- Auction Software
-- Dating Script
-- Affiliate Software
-- Cloud Computing
-- Classified Script
-- Social Media Script
-- Portal Development
-- Marketplace Software
-- Social Network Software
-- Travel Booking Software
-- Hotel Reservation System
-- Payment Gateway Integration
-- Travel Management Software
-- Freelancer Software
-- Surveying Software
 
 - Calendars
 - Communication Tools

@@ -41,8 +41,8 @@ feature_row:
 ## A little bit about Keep-Alive I.T's Services
 
 ### What does Keep-Alive I.T do?
-We're a one-stop-shop business who specialises in I.T Consultation, Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
-Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company requiring expertise advice with a Cloud 
+We're a one-stop-shop business with over a decade of experience who specialises in I.T Consultation, Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
+Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company who requires expertise advice with a Cloud 
 migration strategy; We plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy or employee count. 
 
 Keeping I.T Alive is what we do and we're pretty good at it. We're here to take your I.T Development & Operations frustrations away and keep your I.T Operational for the times you depend on it the most - at home or in the office.
