@@ -10,7 +10,7 @@ toc_sticky: true
 
 excerpt: "I.T required in a Accountancy Practice Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/industries/nightclub.jpg
   overlay_filter: 0.5 
 ---
 
