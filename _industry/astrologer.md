@@ -8,9 +8,9 @@ permalink: /it-consultation-for-astrologer-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required for an Astrologer Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/industries/astrology.jpg
   overlay_filter: 0.5 
 ---
 
