@@ -8,9 +8,9 @@ permalink: /it-consultation-for-rehearsal-and-recording-studio-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required in a Rehearsal and Recording Studio Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/industries/recording-studio.jpg
   overlay_filter: 0.5 
 ---
 

@@ -8,9 +8,9 @@ permalink: /it-consultation-for-rabbit-farmer-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required in a Rabbit Farmer Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/industries/rabbit.jpg
   overlay_filter: 0.5 
 ---
 

@@ -8,9 +8,9 @@ permalink: /it-consultation-for-public-speaking-coach-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required for a Public Speaking Coach Business."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/industries/public-speaking.jpg
   overlay_filter: 0.5 
 ---
 
