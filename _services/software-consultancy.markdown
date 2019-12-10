@@ -12,7 +12,7 @@ header:
 ## Software & Software Development Consultancy
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
 
-Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Software runs business, and some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such bad publicity, loss of profits to humans, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our I.T consultation services. 
+Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Software runs business, and some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our I.T consultation services. 
 
 <style>
 .divider
@@ -60,7 +60,7 @@ Overall, high quality Software enhances employee productivity, improves company 
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding: 20px;">
         <h3>SOFTWARE TRAINING</h3>
-        <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions like the following:</p>    
+        <p>We offer workshop based software training courses for training staff or students on various aspects of I.T</p>    
         <ul>
             <li>What software exists for performing task X?</li>
             <li>Is software X better than software Y? If so, why?</li>
