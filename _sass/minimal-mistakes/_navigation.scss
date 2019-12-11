@@ -175,12 +175,11 @@
 
 .header-info-wrapper {
 
-  background: #292929;
+  background: #171717;
   width: 100%;
 
   .header-info {
     @include clearfix;
-    background: #292929;
     font-size: 0.77em;
     color: #ffffff;
     margin-left: auto;
@@ -195,6 +194,10 @@
 
     span {
       line-height:1.5em;
+
+      a {
+        color: white;
+      }
     }
   }
 }
