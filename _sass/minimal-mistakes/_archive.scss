@@ -24,6 +24,7 @@
   a {
     position: relative;
     z-index: 10;
+    width: 100%;
   }
 
   a[rel="permalink"] {
@@ -245,7 +246,6 @@
 
 .feature__item {
   position: relative;
-  margin-bottom: 2em;
   font-size: 1.125em;
 
   @include breakpoint($small) {

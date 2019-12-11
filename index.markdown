@@ -8,11 +8,10 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 
   actions:
-    - label: "<i class='fas fa-infinity'></i> Discover how our I.T Services could help your business"
+    - label: "Discover how our I.T Services can help your business"
       url: "/services"
 excerpt: >
-  Modern I.T Development & Operations Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.<br />
-  <small><a href="#" class="vat-toggle">Show Prices Excluding V.A.T</a></small>
+  Modern I.T Development & Operations Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.
 
 feature_row:
   - image_path: /assets/images/website-consultation.png
@@ -38,49 +37,11 @@ feature_row:
     btn_label: "Access Resource"      
 ---
 
-## A little bit about Keep-Alive I.T's Services
-
-### What does Keep-Alive I.T do?
-We're a one-stop-shop I.T Consultation business with staff who have over a decade of specialist experience in Hardware installation, Agile Software Development, and everything that lies in-between to keep I.T systems operational.
-Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online, or a FTSE 100 company who requires expertise advice with a Cloud 
-migration strategy; We plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy or employee count. 
-
-Keeping I.T Alive is what we do and we're pretty good at it. We're here to take your I.T Development & Operations frustrations away and keep your I.T Operational for the times you depend on it the most - at home or in the office.
-
-
-### Where is Keep-Alive I.T based?
-We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 
-
-### How much does Keep-Alive I.T charge for I.T services?
-We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the beginning of a project. This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together. Each page of our website will give you an approximate cost for the service on offer. Some services will require further analysis into your requirements before we are able to agree on a price. This is the nature of consultancy services and what you should expect from us if you decide to work with us.
-
-### What does the process of working with Keep Alive I.T involve?
-This depends on the type of work you need completed. As a general rule, there are 7 steps involved in working with us:
-
-1. You contact us and supply us with a description of the work that you need completed. This can be a one page document explaining what our deliverables should be from your project, or if you want us to work on a relatively new project, you should supply us with a detailed Brief or Design Document for your new idea.
-
-2. We do some research and a brief technical review of the work you’ve supplied us with and let you know within a few days if it’s feasible and a piece of work we’re capable of taking on. At this stage, we’ll schedule a meeting with you to get to know your needs and requirements.
-
-3. Once we’ve had a meeting with you, we’ll produce a contract for your work. This contract will contain a list of deliverables by us, as well as some legal terms that you’ll need to agree to and generally keeps both parties happy throughout the duration of the project.
-
-4. We’ll send you the contract that’s been produced and once you’ve read through it, you’ll need to sign it electronically so work can begin. You’ll also need to send us any resources which can help us complete your work before any work can begin on your project (for example, if we’re making you a website you’ll need to send us appropriate branding materials).
-
-5. This is where you can relax and our hard work begins. We’ll plan, design, develop, and test your work and contact you if we need any additional information or resources from you. Depending on the duration of the project, you might need to play the waiting game for some time. We’ll let you know how we’re getting on with the work at different stages of the project by SMS, email, or phone.
-
-6. We’ll send you samples of the work we have produced so you can test it and give us feedback on the work. We’re able to make minor changes during this stage if there’s anything you’re not completely happy with.
-
-7. This marks the end of our time working together. We’ll send you over the finished works, and hopefully we can work together at some point in the future.
-
-You can find more specific details of how the flow works for each service we offer in the Client Forms section of the Keep Alive I.T website.
-
-<div>
-    <h2>Free I.T Consultancy Resources</h2>
-    {% include feature_row %}
-</div>
+> IT servicing appears to be a necessary asset. 44 percent of businesses estimate that an hour of downtime causes a loss of $10,000 or more. Additionally, around 4,000 ransomware attacks happened each day in 2016.
 
 <div id="consultancy-posts">
-    <h2>Recent I.T Consultancy Posts from our Experts</h2>
-    <p>We hire I.T experts to write for us</p>
+    <h3>Recent I.T Consultancy Posts from our Experts</h3>
+    <p>We hire I.T pros to write for us</p>
     {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
     <ul class="post-list">
     {% for group in groups %}
@@ -111,9 +72,82 @@ You can find more specific details of how the flow works for each service we off
 {% endfor %}
 {% endcomment %}
 
-### Plan a video consultation with us for just £99 an hour (including VAT)
-We'd love to get to know more about your requirements. Please send us a briefing document stating your requirements and we will plan a completely FREE 15-minute video consultation with you. Subsequent discussion will be billed pro rata at £99 per hour (including VAT).
+<div>
+    <h3>Free I.T Consultancy Resources</h3>
+    {% include feature_row %}
+    <p>Looking for more Free I.T consultancy resources? Please check out our Free I.T Resources page</p>
+</div>
 
+<style>
+.container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+}
+
+.div-block {
+  display: block;
+  margin-right: 4em;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+</style>
+
+<h3>Why Keep-Alive I.T?</h3>
+<div class="container w-container">
+    <div class="div-block">
+        <div>Direct contact</div>
+        <div>One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts.</div>
+    </div>
+    <div class="div-block">
+        <div>Customer focused.</div>
+        <div>We listen to our customers feedback and are always trying to improve what we do.</div>
+    </div>
+    <div class="div-block">
+        <div>Unbiased technical advice.</div>
+        <div>We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>
+    </div>
+</div>
+<div class="container w-container">
+    <div class="div-block">
+        <div>Passionate About Technology</div>
+        <div>We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
+    </div>
+    <div class="div-block">
+        <div>Agile</div>
+    </div>
+    <div class="div-block">
+        <div>Around the clock operation</div>    
+        <div>Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
+    </div>
+</div>
+
+<div>
+    <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>
+    <p>We'd love to get to know more about your requirements. Please send us a briefing document stating your requirements and we will plan a completely FREE 15-minute video consultation with you. Subsequent discussion will be billed pro rata at £99 per hour (including VAT).</p>
+</div>
 
 <!--
 <div class="row multi-answers ptop30 ptop10@xs"><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-graph"></i><p class="text-blue"><strong>Analytics &amp; Reporting</strong></p><p class="text-dark-grey small hide show@mobile"><em>Provide you information and stats on users and their activity</em></p><div class="overlay"><p class="text-white">Provide you information and stats on users and their activity</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-store"></i><p class="text-blue"><strong>eCommerce Shop</strong></p><p class="text-dark-grey small hide show@mobile"><em>A shop to purchase your products</em></p><div class="overlay"><p class="text-white">A shop to purchase your products</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-cash-pound"></i><p class="text-blue"><strong>Accept Payments</strong></p><p class="text-dark-grey small hide show@mobile"><em>A payment system for users</em></p><div class="overlay"><p class="text-white">A payment system for users</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-users"></i><p class="text-blue"><strong>User Accounts</strong></p><p class="text-dark-grey small hide show@mobile"><em>A login area for users</em></p><div class="overlay"><p class="text-white">A login area for users</p></div></div><p class="lead"><i class="icon-check text-green checked"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-papers"></i><p class="text-blue"><strong>CMS</strong></p><p class="text-dark-grey small hide show@mobile"><em>A system for you to add, remove and edit content yourself</em></p><div class="overlay"><p class="text-white">A system for you to add, remove and edit content yourself</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-landscape"></i><p class="text-blue"><strong>Multilingual</strong></p><p class="text-dark-grey small hide show@mobile"><em>Multiple languages</em></p><div class="overlay"><p class="text-white">Multiple languages</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-bookmark"></i><p class="text-blue"><strong>Bookings System</strong></p><p class="text-dark-grey small hide show@mobile"><em>A booking system</em></p><div class="overlay"><p class="text-white">A booking system</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-bubble-quote"></i><p class="text-blue"><strong>Internal Communication</strong></p><p class="text-dark-grey small hide show@mobile"><em>Communication between users, like comments or chat</em></p><div class="overlay"><p class="text-white">Communication between users, like comments or chat</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-smartphone-notification"></i><p class="text-blue"><strong>Notifications</strong></p><p class="text-dark-grey small hide show@mobile"><em>Device or email notifications and alerts</em></p><div class="overlay"><p class="text-white">Device or email notifications and alerts</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-camera2"></i><p class="text-blue"><strong>Capture Photos/Videos</strong></p><p class="text-dark-grey small hide show@mobile"><em>Capture images through the device camera</em></p><div class="overlay"><p class="text-white">Capture images through the device camera</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-speed-slow"></i><p class="text-blue"><strong>Device's Accelerometer</strong></p><p class="text-dark-grey small hide show@mobile"><em>Capture the force of gravity and movement, or just a phone tilt</em></p><div class="overlay"><p class="text-white">Capture the force of gravity and movement, or just a phone tilt</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-mic"></i><p class="text-blue"><strong>Record Audio</strong></p><p class="text-dark-grey small hide show@mobile"><em>Capture recordings through the microphone</em></p><div class="overlay"><p class="text-white">Capture recordings through the microphone</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-satellite"></i><p class="text-blue"><strong>Geolocation</strong></p><p class="text-dark-grey small hide show@mobile"><em>Make use of the GPS function of a device, providing location information</em></p><div class="overlay"><p class="text-white">Make use of the GPS function of a device, providing location information</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-profile"></i><p class="text-blue"><strong>User Dashboards</strong></p><p class="text-dark-grey small hide show@mobile"><em>Information delivered through user dashboards</em></p><div class="overlay"><p class="text-white">Information delivered through user dashboards</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-folder-upload"></i><p class="text-blue"><strong>File Management</strong></p><p class="text-dark-grey small hide show@mobile"><em>Provide users with the ability to upload files, images and more</em></p><div class="overlay"><p class="text-white">Provide users with the ability to upload files, images and more</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-user-plus"></i><p class="text-blue"><strong>User Onboarding</strong></p><p class="text-dark-grey small hide show@mobile"><em>Walk users through features</em></p><div class="overlay"><p class="text-white">Walk users through features</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-medal-empty"></i><p class="text-blue"><strong>Gamification</strong></p><p class="text-dark-grey small hide show@mobile"><em>Reward users based on achievements</em></p><div class="overlay"><p class="text-white">Reward users based on achievements</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-star-half"></i><p class="text-blue"><strong>Ratings/Reviews</strong></p><p class="text-dark-grey small hide show@mobile"><em>Allow users to provide ratings, feedback and reviews</em></p><div class="overlay"><p class="text-white">Allow users to provide ratings, feedback and reviews</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-users-plus"></i><p class="text-blue"><strong>Referral System</strong></p><p class="text-dark-grey small hide show@mobile"><em>Allow users to recommend a friend or colleague</em></p><div class="overlay"><p class="text-white">Allow users to recommend a friend or colleague</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-graduation-hat"></i><p class="text-blue"><strong>User Training or Lessons</strong></p><p class="text-dark-grey small hide show@mobile"><em>Provide tuition and learning through written, audio and video content</em></p><div class="overlay"><p class="text-white">Provide tuition and learning through written, audio and video content</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-eye-plus"></i><p class="text-blue"><strong>Augmented Reality</strong></p><p class="text-dark-grey small hide show@mobile"><em>Use the camera to provideo virtual elements in real environments</em></p><div class="overlay"><p class="text-white">Use the camera to provideo virtual elements in real environments</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-glasses2"></i><p class="text-blue"><strong>Virtual Reality</strong></p><p class="text-dark-grey small hide show@mobile"><em>A virtual world within your app</em></p><div class="overlay"><p class="text-white">A virtual world within your app</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div><div class="multi-icon-selector gr-2 gr-3@tablet gr-4@mobile gr-6@xs"><div class="inner-box"><i class="icon-share"></i><p class="text-blue"><strong>Export Data</strong></p><p class="text-dark-grey small hide show@mobile"><em>Export data</em></p><div class="overlay"><p class="text-white">Export data</p></div></div><p class="lead"><i class="icon-check text-transparent"></i></p></div></div>

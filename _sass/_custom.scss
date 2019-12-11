@@ -1,5 +1,5 @@
 .landing {
-  .feature__item{
+  .feature__item {
     padding: 2em;
   }
 }
@@ -95,7 +95,7 @@
     margin-top: 0 !important;
   }
 
-  .industry-list{
+  .industry-list {
     list-style-type: none;
     padding-left: 0 !important;
   }
@@ -112,5 +112,28 @@
   .post-list {
     list-style-type: none;
     padding-left: 0 !important;
+  }
+}
+
+.header-info-nav {
+
+  float: right;
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 0 0 20px;
+  line-height: 1.5em;
+
+  li {
+    display: inline-block;
+    margin-right: 1em;
+
+    &:last-child{
+      margin-right: 0;
+    }
+
+    a {
+      color: #ffffff;
+    }
   }
 }
