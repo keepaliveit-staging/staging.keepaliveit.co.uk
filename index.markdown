@@ -128,85 +128,262 @@ ISO 27001 Certification Support
     <p>Looking for more Free I.T consultancy resources? Please check out our Free I.T Resources page</p>
 </div>
 
+<div class="container">
+    <div class="grid-row">
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/contact.png" />
+                    <div class="item-title">Direct contact</div>
+                    <div>One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts and more of a personal relationship with your agent.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/feedback.png" />
+                    <div class="item-title">Customer focused</div>
+                    <div>We listen to our customers feedback and are always trying to improve what we do.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/payment-day.png" />
+                    <div class="item-title">Monthly payments</div>
+                    <div>We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/running.png" />
+                    <div class="item-title">Agile</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/locked.png" />
+                    <div class="item-title">Secure</div>
+                    <div>We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/sprout.png" />
+                    <div class="item-title">Passionate About Technology</div>
+                    <div>We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/clock.png" />
+                    <div class="item-title">Around the clock operation</div>    
+                    <div>Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/toolbox.png" />
+                    <div class="item-title">Unbiased technical advice</div>
+                    <div>We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
+                </div>
+            </div>
+        </div>
+        <div class="grid-item">
+            <div class="grid-item-wrapper">
+                <div class="grid-item-container">
+                    <img src="assets/images/benefits/pound.png" />
+                    <div class="item-title">Early payment bonus</div>
+                    <div>Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <style>
 .container {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: start;
-  -webkit-justify-content: flex-start;
-  -ms-flex-pack: start;
-  justify-content: flex-start;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
-  align-items: stretch;
-  -webkit-align-content: stretch;
-  -ms-flex-line-pack: stretch;
-  align-content: stretch;
+  max-width: 1335px;
+  margin: 0 auto;
 }
 
-.div-block {
-  display: block;
-  margin-right: 4em;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-  -ms-flex: 1;
-  flex: 1;
+.grid-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
 }
+
+.grid-item {
+  flex: 1;
+  flex-basis: 20%;
+  -ms-flex: auto;
+  width: 250px;
+  position: relative;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.grid-row a {
+  text-decoration: none;
+}
+
+.grid-item-wrapper {
+  -webkit-box-sizing: initial;
+  -moz-box-sizing: initial;
+  box-sizing: initial;
+  border: 1px solid red;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  -webkit-transition: padding 0.15s cubic-bezier(0.4,0,0.2,1), margin 0.15s cubic-bezier(0.4,0,0.2,1), box-shadow 0.15s cubic-bezier(0.4,0,0.2,1);
+  transition: padding 0.15s cubic-bezier(0.4,0,0.2,1), margin 0.15s cubic-bezier(0.4,0,0.2,1), box-shadow 0.15s cubic-bezier(0.4,0,0.2,1);
+  position: relative;
+}
+
+.grid-item-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  padding: 1em;
+}
+
+.grid-item-container img{
+    height: auto;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 1em;
+}
+
+.grid-image-top {
+  height: 45%;
+  width: 120%;
+  background-size: cover;
+  position: relative;
+  background-position: 50% 50%;
+  left: -10.5%;
+  top: -4.5%;
+  display: none;
+}
+
+.grid-image-top .centered {
+  text-align: center;
+  transform: translate(-50%, -50%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 54.5%;
+  left: 50%;
+  width: 60%;
+  height: 60%;
+  background-position: center;
+}
+
+.grid-item-content {
+  padding: 0 20px 20px 20px;
+}
+
+.item-title {
+  font-size: 1.2em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+.item-category {
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.item-excerpt {
+  margin-bottom: 20px;
+  display: block;
+  font-size: 14px;
+}
+
+.more-info {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 25px;
+  padding-left: 0;
+  transition-duration: .5s;
+  font-size: 12px;
+  display: flex;
+}
+
+.more-info i {
+  padding-left: 5px;
+  transition-duration: .5s;
+}
+
+.grid-item:hover .more-info i {
+  padding-left: 20px;
+  transition-duration: .5s;
+}
+
+.more-info i::before {
+  font-size: 16px;
+}
+
+.grid-item:hover .grid-item-wrapper {
+  padding: 2% 2%;
+  margin: -2% -2%;
+}
+
+@media(max-width: 1333px) {
+  .grid-item {
+    flex-basis: 33.33%;
+  }
+}
+
+@media(max-width: 1073px) {
+   .grid-item {
+    flex-basis: 33.33%;
+  }
+}
+
+@media(max-width: 815px) {
+  .grid-item {
+    flex-basis: 50%;
+  }
+}
+
+@media(max-width: 620px) {
+  .col {
+    clear: both;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto !important;
+  }
+}
+
+@media(max-width: 555px) {
+  .grid-item {
+    flex-basis: 100%;
+  }
+}
+
+
 </style>
 
 <h3>Why Keep-Alive I.T?</h3>
-<div class="container w-container">
-    <div class="div-block">
-        <div>Direct contact</div>
-        <div>One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts.</div>
-    </div>
-    <div class="div-block">
-        <div>Customer focused.</div>
-        <div>We listen to our customers feedback and are always trying to improve what we do.</div>
-    </div>
-    <div class="div-block">
-        <div>Unbiased technical advice.</div>
-        <div>We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>
-    </div>
-</div>
-<div class="container w-container">
-    <div class="div-block">
-        <div>Passionate About Technology</div>
-        <div>We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
-    </div>
-    <div class="div-block">
-        <div>Agile</div>
-    </div>
-    <div class="div-block">
-        <div>Around the clock operation</div>    
-        <div>Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
-    </div>
-</div>
-<div class="container w-container">
-    <div class="div-block">
-        <div>Monthly payments</div>
-        <div>We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
-    </div>
-    <div class="div-block">
-        <div>Early payment bonus</div>
-        <div>Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>
-    </div>
-    <div class="div-block">
-        <div></div>
-        <div></div>
-    </div>
-</div>
 
 <div>
     <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>
