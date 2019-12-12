@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 
   actions:
-    - label: "Discover how our I.T Services can help your business succeed"
+    - label: "Discover how our I.T Services can help keep your Business Operational & Compliant"
       url: "/services"
 excerpt: >
-  Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  Agile I.T Developments & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
 
 feature_row:
   - image_path: /assets/images/website-consultation.png
@@ -191,6 +191,20 @@ ISO 27001 Certification Support
     <div class="div-block">
         <div>Around the clock operation</div>    
         <div>Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
+    </div>
+</div>
+<div class="container w-container">
+    <div class="div-block">
+        <div>Monthly payments</div>
+        <div>We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
+    </div>
+    <div class="div-block">
+        <div>Early payment bonus</div>
+        <div>Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>
+    </div>
+    <div class="div-block">
+        <div></div>
+        <div></div>
     </div>
 </div>
 
