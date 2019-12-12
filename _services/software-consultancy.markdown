@@ -3,7 +3,7 @@ layout: splash
 title: "Software & Software Development Consultancy"
 permalink: /software-consultancy
 
-excerpt: "Learn how Keep-Alive I.T Services can help you make critical I.T Software decisions and develop bespoke Web & platform specific Software solutions for your business."
+excerpt: "Learn how Keep-Alive I.T Services can help you make critical I.T Software decisions and develop bespoke Web, or platform specific Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.5 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Commercial software vs. Open Source Software - which is right for me?"
+title:  "Commercial software vs. Open Source Software - which is right for my business?"
 date:   2019-11-26 22:20:28 +0000
 category: Software-Development
 tags: 

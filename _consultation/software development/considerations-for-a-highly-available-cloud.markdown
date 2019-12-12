@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Architecting software for effective logging and alerts"
+title:  "Architecting software for effective event logging and alerting"
 date:   2019-11-26 22:20:28 +0000
 category: Software-Development
 tags: 

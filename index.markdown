@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 
   actions:
-    - label: "Discover how our I.T Services can help your business"
+    - label: "Discover how our I.T Services can help your business succeed"
       url: "/services"
 excerpt: >
-  Modern I.T Development & Operations Consultancy Solutions for Commercial Businesses, Consumers, and Non-Profit Organisations.
+  Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
 
 feature_row:
   - image_path: /assets/images/website-consultation.png
@@ -37,7 +37,57 @@ feature_row:
     btn_label: "Access Resource"      
 ---
 
-> IT servicing appears to be a necessary asset. 44 percent of businesses estimate that an hour of downtime causes a loss of $10,000 or more. Additionally, around 4,000 ransomware attacks happened each day in 2016.
+## Save money on your I.T costs & make your assets more reliable with the help of Keep-Alive I.T
+I.T is the backbone of many busineses in the modern technology focused era that we live in. In the past decade, manual paper processes have become electronic and gone are the days of pen and paper. 
+
+> Tech is expanding 2.6x times faster than the rest of the UK economy, according to Tech Nation’s 2018 report. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016.
+
+
+
+Achieving 100% uptime shouldn't be your ultimate goal
+The truth is, I.T requires proper processes 
+
+IT Support
+24x7 Service Desk Support
+24x7 Network Monitoring
+Proactive IT Support
+Remote IT Support
+Onsite IT Support
+Out of Hours IT Support
+Dedicated Service Desk
+Network Support
+Microsoft Support
+Apple Mac Support
+IT Consultancy
+IT Strategy
+IT Projects
+IT Audits
+Software Licensing
+IT Infrastructure
+IT Procurement
+IT Supplier Management
+IT Security
+IT Networks and Cabling
+Cloud Readiness
+Virtualisation
+Backup and Continuity
+Managed IT
+Managed Networks
+Managed Hosting
+Managed Backups
+Business Continuity
+Managed Cloud
+Private Cloud
+Hybrid Cloud
+Public Cloud
+Cyber Security
+Cyber Security Audit
+Cyber Essentials Support
+GDPR Compliance Support
+Network Penetration Testing
+Managed Cyber Security
+PCI Compliance Support
+ISO 27001 Certification Support
 
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
