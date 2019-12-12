@@ -135,7 +135,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/contact.png" />
                     <div class="item-title">Direct contact</div>
-                    <div>One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts and more of a personal relationship with your agent.</div>
+                    <div class="item-description">One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts and more of a personal relationship with your agent.</div>
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/feedback.png" />
                     <div class="item-title">Customer focused</div>
-                    <div>We listen to our customers feedback and are always trying to improve what we do.</div>
+                    <div class="item-description">We listen to our customers feedback and are always trying to improve what we do.</div>
                 </div>
             </div>
         </div>
@@ -153,7 +153,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/payment-day.png" />
                     <div class="item-title">Monthly payments</div>
-                    <div>We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
+                    <div class="item-description">We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
                 </div>
             </div>
         </div>
@@ -162,6 +162,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/running.png" />
                     <div class="item-title">Agile</div>
+                    <div class="item-description">This is a description.</div>
                 </div>
             </div>
         </div>
@@ -170,7 +171,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/locked.png" />
                     <div class="item-title">Secure</div>
-                    <div>We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have.</div>
+                    <div class="item-description">We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have.</div>
                 </div>
             </div>
         </div>
@@ -179,7 +180,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/sprout.png" />
                     <div class="item-title">Passionate About Technology</div>
-                    <div>We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
+                    <div class="item-description">We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
                 </div>
             </div>
         </div>
@@ -188,7 +189,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/clock.png" />
                     <div class="item-title">Around the clock operation</div>    
-                    <div>Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
+                    <div class="item-description">Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
                 </div>
             </div>
         </div>
@@ -197,7 +198,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/toolbox.png" />
                     <div class="item-title">Unbiased technical advice</div>
-                    <div>We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
+                    <div class="item-description">We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
                 </div>
             </div>
         </div>
@@ -206,7 +207,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/pound.png" />
                     <div class="item-title">Early payment bonus</div>
-                    <div>Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>    
+                    <div class="item-description">Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>    
                 </div>
             </div>
         </div>
@@ -243,7 +244,7 @@ ISO 27001 Certification Support
   -webkit-box-sizing: initial;
   -moz-box-sizing: initial;
   box-sizing: initial;
-  border: 1px solid red;
+  border: 3px solid #f2f3f3;
   margin: 0;
   height: 100%;
   width: 100%;
@@ -302,10 +303,10 @@ ISO 27001 Certification Support
   font-weight: 700;
   margin-bottom: 0.5em;
   display: block;
+  text-transform: capitalize;
 }
 
-.item-category {
-  text-transform: uppercase;
+.item-description {
   display: block;
   margin-bottom: 20px;
   font-size: 14px;
