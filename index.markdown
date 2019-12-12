@@ -154,8 +154,8 @@ ISO 27001 Certification Support
             <div class="grid-item-wrapper">
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/payment-day.png" />
-                    <div class="item-title">Monthly payments</div>
-                    <div class="item-description">We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
+                    <div class="item-title">Monthly repayments</div>
+                    <div class="item-description">Say goodbye to upfront bills and spread the cost over a period of 3, or 6 months. We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
                 </div>
             </div>
         </div>
@@ -343,6 +343,7 @@ ISO 27001 Certification Support
 .grid-item:hover .grid-item-wrapper {
   padding: 2% 2%;
   margin: -2% -2%;
+  cursor: pointer;
 }
 
 @media(max-width: 1333px) {
