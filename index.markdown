@@ -128,6 +128,8 @@ ISO 27001 Certification Support
     <p>Looking for more Free I.T consultancy resources? Please check out our Free I.T Resources page</p>
 </div>
 
+<h3>Why Keep-Alive I.T?</h3>
+<p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
 <div class="container">
     <div class="grid-row">
         <div class="grid-item">
@@ -294,10 +296,6 @@ ISO 27001 Certification Support
   background-position: center;
 }
 
-.grid-item-content {
-  padding: 0 20px 20px 20px;
-}
-
 .item-title {
   font-size: 1.2em;
   font-weight: 700;
@@ -381,10 +379,7 @@ ISO 27001 Certification Support
   }
 }
 
-
 </style>
-
-<h3>Why Keep-Alive I.T?</h3>
 
 <div>
     <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>
