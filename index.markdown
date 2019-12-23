@@ -89,6 +89,8 @@ Managed Cyber Security
 PCI Compliance Support
 ISO 27001 Certification Support
 
+Reactive & Pro-active I.T maintenance
+
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
     <p>We hire I.T pros to write for us</p>
@@ -163,8 +165,8 @@ ISO 27001 Certification Support
             <div class="grid-item-wrapper">
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/running.png" />
-                    <div class="item-title">Agile</div>
-                    <div class="item-description">This is a description.</div>
+                    <div class="item-title">Agile by nature</div>
+                    <div class="item-description">We understand requirements can change rapidly and that a Waterfall project management methodology is no longer suitable for most companies. We are committed to working with you to develop your Agile strategy to maximise your business value. </div>
                 </div>
             </div>
         </div>
@@ -191,7 +193,7 @@ ISO 27001 Certification Support
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/clock.png" />
                     <div class="item-title">Around the clock operation</div>    
-                    <div class="item-description">Just like any other company, we have office hours. However, I.T is a 24 operation so we've built our business around incident response, so a staff member can be on hand 24 hours a day.</div>
+                    <div class="item-description">Just like any other company, we have office hours. However, we understand I.T is a 24 operation so we've built our business around incident response and can ensure staff members can be at hand 24 hours a day.</div>
                 </div>
             </div>
         </div>
