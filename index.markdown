@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 
   actions:
-    - label: "Discover how our I.T Services can help keep your Business Operational & Compliant"
+    - label: "Discover how our Services can help keep your Business's I.T Operational & Compliant"
       url: "/services"
 excerpt: >
-  Agile I.T Developments & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
 
 feature_row:
   - image_path: /assets/images/website-consultation.png
@@ -90,6 +90,12 @@ PCI Compliance Support
 ISO 27001 Certification Support
 
 Reactive & Pro-active I.T maintenance
+
+
+<h2>You're probably overspending on your I.T</h2>
+<p>Technology is an investment into the
+   operations and flow of your organization, rather than a cost of doing
+   business.</p>
 
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
