@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 
   actions:
     - label: "Discover how our Services can help keep your Business's I.T Operational & Compliant"
-      url: "/services"
+      url: "#discover"
 excerpt: >
   Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
 
@@ -37,8 +37,10 @@ feature_row:
     btn_label: "Access Resource"      
 ---
 
+<div id="discover"></div>
+
 ## Save money on your I.T costs & make your assets more reliable with the help of Keep-Alive I.T
-I.T is the backbone of many busineses in the modern technology focused era that we live in. In the past decade, manual paper processes have become electronic and gone are the days of pen and paper. 
+In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and gone are the days of pen and paper. 
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy, according to Tech Nation’s 2018 report. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016.
 
