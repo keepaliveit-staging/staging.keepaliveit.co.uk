@@ -39,15 +39,29 @@ feature_row:
 
 <div id="discover"></div>
 
-## Save money on your I.T costs & make your assets more reliable with the help of Keep-Alive I.T
-In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and gone are the days of pen and paper. 
+## Save money on I.T costs & make your assets more reliable with the help of Keep-Alive I.T
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy, according to Tech Nation’s 2018 report. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016.
 
+In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and businesses now rely on technology more than ever. 
+
+### Availability is a measure of convenience. Threats are a measure of legality. Don't let either ruin your business.
+But what happens when I.T fails? For a start, company operations begin to fail, time, money, and trust in I.T systems is lost, and a company's service desk is bombarded by calls and tickets. Depending on the severity of an I.T issue, it can be catastrophic to the reputation of a business and executing a recovery strategy is often too late as customers have already gone elsewhere or begun to trigger legal action against a company. 
 
 
-Achieving 100% uptime shouldn't be your ultimate goal
-The truth is, I.T requires proper processes 
+### Don't let your business be a victim of I.T downtime.
+The truth is, I.T requires proper processes if you want to run it correctly.
+Achieving a 100% uptime SLA with your customers shouldn't be your ultimate goal; Instead, focusing on strategising your I.T for the unknowns and providing service robustness should be your goal. 
+
+<figure>
+<a href="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" class="image-popup">
+<img src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
+</a>
+</figure>
+
+### Why does downtime occur?
+There is no single reason why I.T downtime occurs. Contact us today and we'll help you with a tailored support package.
+
 
 IT Support
 24x7 Service Desk Support
@@ -101,7 +115,7 @@ Reactive & Pro-active I.T maintenance
 
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
-    <p>We hire I.T pros to write for us</p>
+    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written with the non-technical audience in mind.</p>
     {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
     <ul class="post-list">
     {% for group in groups %}
