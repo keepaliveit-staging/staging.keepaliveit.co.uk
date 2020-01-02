@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  #-jekyll-feed
+  - jekyll-feed
 
 whitelist:
   - jekyll-paginate
