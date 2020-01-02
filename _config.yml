@@ -19,7 +19,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  #-jekyll-feed
+  -jekyll-feed
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
