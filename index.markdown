@@ -12,29 +12,7 @@ header:
       url: "#discover"
 excerpt: >
   Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
-
-feature_row:
-  - image_path: /assets/images/website-consultation.png
-    alt: "customizable"
-    title: "Website Development Planning Checklist"
-    excerpt: "Getting a website online can be a challenging task as it involves so many different stages. Let us break down the planning stages for you in this Website Development Planning Process Checklist."
-    url: "/resources/website-development-checklist"
-    btn_class: "btn--red"
-    btn_label: "Access Resource"
-  - image_path: /assets/images/api-consultation.png
-    alt: "fully responsive"
-    title: "API Development Planning Checklist"
-    excerpt: "Building a fully functional API involves many security and design considerations. Let us break down the planning stages for you in this API Development Planning Checklist."
-    url: "/resources/api-development-checklist"
-    btn_class: "btn--red"
-    btn_label: "Access Resource"
-  - image_path: /assets/images/cloud-consultation.png
-    alt: "100% free"
-    title: "Cloud Migration Planning Checklist"
-    excerpt: "Migrating Monolithic Architectures to Cloud Architectures involves a significant amount of thought and planning. Let us break down the planning stages for you in this Cloud Migration Planning Checklist."
-    url: "/resources/cloud-migration-checklist"
-    btn_class: "btn--red"
-    btn_label: "Access Resource"      
+    
 ---
 
 <div id="discover"></div>
@@ -43,24 +21,35 @@ feature_row:
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy, according to Tech Nation’s 2018 report. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016.
 
-In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and businesses now rely on technology more than ever. 
+In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and businesses now rely on technology more than ever. But what happens when I.T fails? Let's dig a little deeper.
 
-### Availability is a measure of convenience. Threats are a measure of legality. Don't let either ruin your business.
-But what happens when I.T fails? For a start, company operations begin to fail, time, money, and trust in I.T systems is lost, and a company's service desk is bombarded by calls and tickets. Depending on the severity of an I.T issue, it can be catastrophic to the reputation of a business and executing a recovery strategy is often too late as customers have already gone elsewhere or begun to trigger legal action against a company. 
+### Low Availability prompts inconvenience. I.T Threats prompt potential legalities. Don't let either affect your business.
+Depending on the severity of an I.T issue, its outcome can be catastrophic to the reputation of a business. Companies try to overcome these risks by quickly designing & executing a recovery strategy, but often it is too late to do this as customers have already gone elsewhere to spend their money. In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR) Act from 2018.
 
-
-### Don't let your business be a victim of I.T downtime.
-The truth is, I.T requires proper processes if you want to run it correctly.
-Achieving a 100% uptime SLA with your customers shouldn't be your ultimate goal; Instead, focusing on strategising your I.T for the unknowns and providing service robustness should be your goal. 
+Reduced I.T availability contributes towards the failure of company operations. This can lead to a loss of time & money resources for a company. Most importantly, it causes a loss of trust amongst new & current customers for a company. The following graph produced by Statistica shows just how much revenue can be lost from a single hour of downtime (with 1000+ organisations being surveyed worldwide), with 25% of respondants claiming their average annual loss is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
 <figure>
-<a href="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" class="image-popup">
 <img src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
-</a>
 </figure>
 
-### Why does downtime occur?
-There is no single reason why I.T downtime occurs. Contact us today and we'll help you with a tailored support package.
+Threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues such as legal action towards a company. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even more over the next 5 years.  
+
+> Data breaches exposed 4.1 billion records in the first half of 2019. (RiskBased)
+
+> 52% of breaches featured hacking, 28% involved malware and 32–33% included phishing or social engineering, respectively. (Verizon)
+
+> By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (Cybersecurity Media)
+
+
+### Don't let your business be a victim of I.T downtime. Keep-Alive I.T can help you.
+Stop blaming your I.T service desk and begin taking proactive measures to mitigate availability and security of your I.T assets. Let us explain how we can help you with this.
+
+The truth is, I.T requires proper processes if you want to run it correctly.
+Achieving a 100% uptime SLA with your customers shouldn't be your ultimate goal; Instead, focusing on strategising your I.T for the unknowns and providing service robustness should be your goal. As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with your software, infrastructure, and security proactively **before** issues occur. 
+
+Technology is an investment into the
+   operations and flow of your organization, rather than a cost of doing
+   business. There is no single reason why as to why I.T downtime occurs. Contact us today and we can calculate the Return On Investment (ROI) of using our services and we'll help you with a tailored support package.
 
 
 IT Support
@@ -108,36 +97,6 @@ ISO 27001 Certification Support
 Reactive & Pro-active I.T maintenance
 
 
-<h2>You're probably overspending on your I.T</h2>
-<p>Technology is an investment into the
-   operations and flow of your organization, rather than a cost of doing
-   business.</p>
-
-<div id="consultancy-posts">
-    <h3>Recent I.T Consultancy Posts from our Experts</h3>
-    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written with the non-technical audience in mind.</p>
-    {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
-    <ul class="post-list">
-    {% for group in groups %}
-    {% for item in group.items %}
-    {% if item.category == 'Cloud' %}
-        <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Cyber-Security' %}
-        <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Web' %}
-        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Hardware' %}
-        <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Software-Development' %}
-        <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% else %}
-        <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
-    {% endif %}
-    {%endfor%}
-    {%endfor%}
-    </ul>
-</div>
-
 {% include industry-consultation.md %}
 
 {% comment %}
@@ -146,11 +105,6 @@ Reactive & Pro-active I.T maintenance
 {% endfor %}
 {% endcomment %}
 
-<div>
-    <h3>Free I.T Consultancy Resources</h3>
-    {% include feature_row %}
-    <p>Looking for more Free I.T consultancy resources? Please check out our Free I.T Resources page</p>
-</div>
 
 <h3>Why Keep-Alive I.T?</h3>
 <p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
@@ -238,6 +192,32 @@ Reactive & Pro-active I.T maintenance
             </div>
         </div>
     </div>
+</div>
+
+
+<div id="consultancy-posts">
+    <h3>Recent I.T Consultancy Posts from our Experts</h3>
+    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written with the non-technical audience in mind.</p>
+    {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
+    <ul class="post-list">
+    {% for group in groups %}
+    {% for item in group.items %}
+    {% if item.category == 'Cloud' %}
+        <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Cyber-Security' %}
+        <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Web' %}
+        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Hardware' %}
+        <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% elsif item.category == 'Software-Development' %}
+        <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
+    {% else %}
+        <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
+    {% endif %}
+    {%endfor%}
+    {%endfor%}
+    </ul>
 </div>
 
 <style>
