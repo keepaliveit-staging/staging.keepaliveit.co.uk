@@ -34,5 +34,4 @@ As a way of saying thank you to the community, we'll be releasing occasional fre
 <div>
     <h3>Free I.T Consultancy Resources</h3>
     {% include feature_row %}
-    <p>Looking for more Free I.T consultancy resources? Please check out our Free I.T Resources page</p>
 </div>

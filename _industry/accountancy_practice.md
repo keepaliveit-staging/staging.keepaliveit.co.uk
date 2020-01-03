@@ -14,6 +14,6 @@ header:
   overlay_filter: 0.5 
 ---
 
-## I.T Consultation for Accountancy Practice Business
+## I.T Consultation for Accountancy Practice Business 
 
 {% include industry-consultation.md %}

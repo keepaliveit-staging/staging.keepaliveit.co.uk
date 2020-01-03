@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/software-development.JPG
   overlay_filter: 0.5 
   actions:
-    - label: "Discover how our Services can help keep your Business's I.T Operational & Compliant"
+    - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
       url: "#discover"
 excerpt: >
   Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
@@ -17,37 +17,38 @@ excerpt: >
 
 <div id="discover"></div>
 
-## Save money on I.T costs & make your assets more reliable with the help of Keep-Alive I.T
+## Save money on I.T costs & make I.T assets more reliable with the help of Keep-Alive I.T
 
-> Tech is expanding 2.6x times faster than the rest of the UK economy, according to Tech Nation’s 2018 report. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016.
+> Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
 
-In the modern technology focused era that we live in, I.T is the backbone of many businesses. In the past decade, manual paper processes have become electronic and this has resulted in businesses now relying on technology more than ever. But what happens when I.T fails? Let's dig a little deeper to find out.
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of data handling, software applications, servers, and networks has resulted in businesses relying on I.T operations more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
 
 ### Low Availability prompts inconvenience. I.T Threats prompt potential legalities. Don't let either affect your business.
-Depending on the severity of an I.T issue, its outcome can be catastrophic to the reputation of a business. Companies try to overcome these risks by quickly designing & executing a recovery strategy, but often it is too late to do this as customers have already gone elsewhere to spend their money. In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR) Act, 2018.
+Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing recovery strategies, but often it is too late to take action as customers have already gone elsewhere to spend their money if the service they expect isn't available. In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR) Act 2018 if they believe their personal data is being mishandled, or mistreated in some way.
 
-Reduced I.T availability contributes towards the failure of company operations. This can lead to a loss of time & money resources for a company. Most importantly, it causes a loss of trust amongst new & current customers of a company. The following graph produced by Statistica shows just how much revenue can be lost from a single hour of downtime (with 1000+ organisations being surveyed worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations can lead to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
 <figure>
 <img src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
 </figure>
 
-Threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, such as legal action towards a company, or closures of a company in more extreme cases. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years as tech continues to grow:
+Threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, such as closure of a company entirely in more extreme cases. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years as the usage of technology continues to grow:
 
-> Data breaches exposed 4.1 billion records in the first half of 2019. (RiskBased)
+> Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* [Norton](https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html))
 
-> 52% of breaches featured hacking, 28% involved malware and 32–33% included phishing or social engineering, respectively. (Verizon)
+> 52% of breaches featured hacking, 28% involved malware and 32–33% included phishing or social engineering, respectively. (*Source:* [Verizon](https://www.verizonwireless.com/))
 
-> By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (Cybersecurity Media)
+> By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (*Source:* [Cybersecurity Media](https://tech.ebu.ch/groups/mcs))
 
 
 ### Don't let your business be a victim of I.T downtime. Keep-Alive I.T's services can help you.
-Stop blaming your I.T service desk for the reality of the tech sector and begin taking proactive measures to mitigate availability and security of your I.T assets. Let us explain how we can help you with this.
+Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. Let us explain how we can help you with this.
 
-The truth is, I.T requires proper processes if you want to run it correctly.
-Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your ultimate goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your goal**. As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with your software, infrastructure, and security proactively **before** they occur in production environments. 
+### The truth is, running I.T efficiently & effectively requires well thought out processes and a great deal of expertise.
 
-Technology should be an investment into the operation of your organisation. There is no single reason why I.T downtime occurs but there are dozens of processes that can be implemented to avoid I.T issues. Contact us today and we can calculate the Return On Investment (ROI) of using our services and we'll provide you with a tailored support package.
+Technology should be an investment into the operation of your organisation. There is no single reason why I.T downtime occurs but there are dozens of processes that can be implemented to avoid I.T failures or attacks.
+
+Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your desired goal**. As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with your software, infrastructure, and security proactively **before** they occur in production environments. 
 
 If you're a business manager and have ever asked yourself a question similar to the following:
 
@@ -57,6 +58,7 @@ If you're a business manager and have ever asked yourself a question similar to 
 - How do we scale our I.T to take business targets to the next level?
 
 Then **our services are for you.**
+Contact us today and we can provide you with tailored support packages from your already identified requirements, or we can perform an audit into your existing I.T setup and show you how our services could result in greater Return On Investments (ROI) for your company.
 
 IT Support
 24x7 Service Desk Support
