@@ -204,7 +204,7 @@ Reactive & Pro-active I.T maintenance
 
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
-    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written with the non-technical audience in mind.</p>
+    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
     {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
     <ul class="post-list">
     {% for group in groups %}
