@@ -19,14 +19,38 @@ excerpt: >
 
 ## Save money on I.T costs & make I.T assets more reliable with the help of Keep-Alive I.T
 
+<section id="metrics">
+    <div class="center">
+        <ul class="cols4">
+            <li>
+                <div class="stat">£<span class="animatedNumber">184</span></div>
+                <span class="metric">BILLION is the worth of technology to UK economy, and is growing rapidly each day.</span>
+            </li>
+            <li>
+                <div class="stat"><span class="animatedNumber">52</span>%</div>
+                <span class="metric">of I.T system breaches were as a result of hacking in 2019, according to Verizon.</span>
+            </li>
+            <li>
+                <div class="stat"><span class="animatedNumber">4</span>.<span class="animatedNumber">1</span></div>
+                <span class="metric">BILLION database records were stolen in the first half of 2019 alone, according to Norton Security.</span>
+            </li>
+            <li>
+                <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span></div>
+                <span class="metric"> the cost in BILLIONS of slow-loading websites to retailers each year</span>
+            </li>
+        </ul>
+        <div class="clearfix"></div>
+    </div>
+</section>
+
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
 
 In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of data handling, software applications, servers, and networks has resulted in businesses relying on I.T operations more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
 
 ### Low Availability prompts inconvenience. I.T Threats prompt potential legalities. Don't let either affect your business.
-Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing recovery strategies, but often it is too late to take action as customers have already gone elsewhere to spend their money if the service they expect isn't available. In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR) Act 2018 if they believe their personal data is being mishandled, or mistreated in some way.
+Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR); If they believe their personal data is being mishandled, or mistreated in some way.
 
-Reduced I.T availability contributes towards the failure of company operations. Bad company operations can lead to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
 <figure>
 <img src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
@@ -40,9 +64,6 @@ Threats, including cyber security attacks and physical attacks towards I.T syste
 
 > By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (*Source:* [Cybersecurity Media](https://tech.ebu.ch/groups/mcs))
 
-
-### Don't let your business be a victim of I.T downtime. Keep-Alive I.T's services can help you.
-Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. Let us explain how we can help you with this.
 
 ### The truth is, running I.T efficiently & effectively requires well thought out processes and a great deal of expertise.
 
@@ -58,6 +79,10 @@ If you're a business manager and have ever asked yourself a question similar to 
 - How do we scale our I.T to take business targets to the next level?
 
 Then **our services are for you.**
+
+### Don't let your business be a victim of I.T downtime. Keep-Alive I.T's services can help you.
+Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. We can help new or existing companies secure their I.T from an application level, infrastructure level, or hardware level.
+
 Contact us today and we can provide you with tailored support packages from your already identified requirements, or we can perform an audit into your existing I.T setup and show you how our services could result in greater Return On Investments (ROI) for your company.
 
 IT Support
@@ -122,7 +147,7 @@ Reactive & Pro-active I.T maintenance
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/contact.png" />
                     <div class="item-title">Direct contact</div>
-                    <div class="item-description">One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts and more of a personal relationship with your agent.</div>
+                    <div class="item-description">One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts at Keep-Alive I.T and more of a personal relationship with your agent.</div>
                 </div>
             </div>
         </div>
@@ -131,7 +156,7 @@ Reactive & Pro-active I.T maintenance
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/feedback.png" />
                     <div class="item-title">Customer focused</div>
-                    <div class="item-description">We listen to our customers feedback and are always trying to improve what we do.</div>
+                    <div class="item-description">We listen to our customers feedback and are always trying to improve what we do. Throughout the duration of our time  working together, we will ask for feedback on how our work is performing. These metrics will be used for imrpoving our service for other valued customers.</div>
                 </div>
             </div>
         </div>

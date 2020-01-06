@@ -121,6 +121,28 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
+            <img src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
+        </div>
+    </div>
+    <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
+        <h3>WEBSITE DEVELOPMENT</h3>
+        <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
+        <ul>
+            <li>What software exists for performing task X?</li>
+            <li>Is software X better than software Y? If so, why?</li>
+            <li>How much will it cost to operate software X for a short term project?</li>
+            <li>Does software X seem appropriate for our business needs?</li>
+            <li>Should I implement a commercial or open source implementation?</li>
+        </ul>
+        <p><a href="/software-consultancy/software-development">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div style="display:flex;background: #e7e7e7;">
+    <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
+        <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img src="/assets/images/icons/team.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
