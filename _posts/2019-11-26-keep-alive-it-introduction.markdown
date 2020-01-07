@@ -30,3 +30,7 @@ If you're a techy at heart, you may be aware of the [HTTP Keep-Alive Header](htt
 
 ## I.T Procurement
 
+## Our base
+Our registered office is based in the heart of Caerphilly, just a stones throw away from Cardiff.
+<img src="/assets/images/welsh-ice.jpg" />
+

@@ -8,7 +8,9 @@ tags:
 author_profile: true
 ---
 
-It is important to understand the different types of software models before we continue to discuss the importance of running effective software solutions within a company. The two different types of software models available, are Commercial Software, and Open Source Software.
+It is important to understand the different types of software models before we continue to discuss the importance of running effective software solutions within a company. The two different types of software models available, are: 
+- Commercial Software
+- Open Source Software.
 
 ### What's the difference between commercial software and open source software?
 Commercial software is software that is developed and managed internally under a single brand or company. Commercial software usually operates under a closed source software license, meaning that the source code developed internally at an organisation is top-secret as it contains logic which generates revenue, keeping that company making money. If that company were to 

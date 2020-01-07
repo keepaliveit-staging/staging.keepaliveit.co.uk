@@ -3,7 +3,7 @@ layout: splash
 title: "Software & Software Development Consultancy"
 permalink: /software-consultancy
 
-excerpt: "Learn how Keep-Alive I.T Services can help you make critical I.T Software decisions and develop bespoke Web, or platform specific Software solutions for your business."
+excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Web, or platform specific Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.5 
@@ -164,7 +164,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 ## Our Guarantee
 We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
-We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll consult you ahead of this.
+We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll notify you ahead of time about this.
 
 ### Short Term Software maintenance contract
 

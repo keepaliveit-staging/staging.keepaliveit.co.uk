@@ -45,10 +45,10 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of data handling, software applications, servers, and networks has resulted in businesses relying on I.T operations more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for their data handling more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
 
-### Low Availability prompts inconvenience. I.T Threats prompt potential legalities. Don't let either affect your business.
-Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws such as the General Data Protection Regulations (GDPR); If they believe their personal data is being mishandled, or mistreated in some way.
+### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either affect your business.
+Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
 Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
@@ -66,10 +66,10 @@ Threats, including cyber security attacks and physical attacks towards I.T syste
 
 
 ### The truth is, running I.T efficiently & effectively requires well thought out processes and a great deal of expertise.
+Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your desired goal**. 
+Technology should be an investment into the operation of an organisation. There is no single reason why I.T downtime occurs, though there are dozens of processes that can be implemented to avoid I.T failures or attacks.
 
-Technology should be an investment into the operation of your organisation. There is no single reason why I.T downtime occurs but there are dozens of processes that can be implemented to avoid I.T failures or attacks.
-
-Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your desired goal**. As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with your software, infrastructure, and security proactively **before** they occur in production environments. 
+As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with software, infrastructure, and security proactively **before** they occur in production environments. 
 
 If you're a business manager and have ever asked yourself a question similar to the following:
 
@@ -182,8 +182,8 @@ Reactive & Pro-active I.T maintenance
             <div class="grid-item-wrapper">
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/locked.png" />
-                    <div class="item-title">Secure</div>
-                    <div class="item-description">We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have.</div>
+                    <div class="item-title">Secure & Confidential</div>
+                    <div class="item-description">We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have. We're fully GDPR compliant</div>
                 </div>
             </div>
         </div>
