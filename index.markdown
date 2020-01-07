@@ -45,7 +45,7 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for their data handling more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
 
 ### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
@@ -84,52 +84,6 @@ Then **our services are for you.**
 Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. We can help new or existing companies secure their I.T from an application level, infrastructure level, or hardware level.
 
 Contact us today and we can provide you with tailored support packages from your already identified requirements, or we can perform an audit into your existing I.T setup and show you how our services could result in greater Return On Investments (ROI) for your company.
-
-IT Support
-24x7 Service Desk Support
-24x7 Network Monitoring
-Proactive IT Support
-Remote IT Support
-Onsite IT Support
-Out of Hours IT Support
-Dedicated Service Desk
-Network Support
-Microsoft Support
-Apple Mac Support
-IT Consultancy
-IT Strategy
-IT Projects
-IT Audits
-Software Licensing
-IT Infrastructure
-IT Procurement
-IT Supplier Management
-IT Security
-IT Networks and Cabling
-Cloud Readiness
-Virtualisation
-Backup and Continuity
-Managed IT
-Managed Networks
-Managed Hosting
-Managed Backups
-Business Continuity
-Managed Cloud
-Private Cloud
-Hybrid Cloud
-Public Cloud
-Cyber Security
-Cyber Security Audit
-Cyber Essentials Support
-GDPR Compliance Support
-Network Penetration Testing
-Managed Cyber Security
-PCI Compliance Support
-ISO 27001 Certification Support
-Reactive & Pro-active I.T maintenance
-
-
-{% include industry-consultation.md %}
 
 {% comment %}
 {% for item in site.industry %}

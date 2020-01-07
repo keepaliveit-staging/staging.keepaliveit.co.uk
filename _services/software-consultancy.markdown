@@ -9,10 +9,12 @@ header:
   overlay_filter: 0.5 
 ---
 
+{% include breadcrumbs.html %}
+
 ## Software & Software Development Consultancy
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
 
-Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Software runs business, and some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our I.T consultation services. 
+Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our Software & Software Development Consultancy services. 
 
 <style>
 .divider
@@ -83,13 +85,6 @@ Overall, high quality Software enhances employee productivity, improves company 
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
         <h3>SOFTWARE PROCUREMENT, IMPLEMENTATION & CONSULTANCY</h3>
         <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
-        <ul>
-            <li>What software exists for performing task X?</li>
-            <li>Is software X better than software Y? If so, why?</li>
-            <li>How much will it cost to operate software X for a short term project?</li>
-            <li>Does software X seem appropriate for our business needs?</li>
-            <li>Should I implement a commercial or open source implementation?</li>
-        </ul>
          <p><a href="/software-consultancy/software-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
     </div>
 </div>
@@ -149,13 +144,6 @@ Overall, high quality Software enhances employee productivity, improves company 
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
         <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
         <p>Forming a team for a software project can be a challenging and time consuming process. Offload your development team formation to us</p>
-        <ul>
-            <li>What software exists for performing task X?</li>
-            <li>Is software X better than software Y? If so, why?</li>
-            <li>How much will it cost to operate software X for a short term project?</li>
-            <li>Does software X seem appropriate for our business needs?</li>
-            <li>Should I implement a commercial or open source implementation?</li>
-        </ul>
         <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
     </div>
 </div>

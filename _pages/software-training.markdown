@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.5 
 ---
 
+{% include breadcrumbs.html %}
+
 ## Software Training Solutions
 Having well trained employees
 
