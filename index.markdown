@@ -23,7 +23,7 @@ excerpt: >
     <div class="center">
         <ul class="cols4">
             <li>
-                <div class="stat">£<span class="animatedNumber">184</span></div>
+                <div class="stat">£<span class="animatedNumber">184</span> bn</div>
                 <span class="metric">BILLION is the worth of technology to UK economy, and is growing rapidly each day.</span>
             </li>
             <li>
@@ -31,11 +31,11 @@ excerpt: >
                 <span class="metric">of I.T system breaches were as a result of hacking in 2019, according to Verizon.</span>
             </li>
             <li>
-                <div class="stat"><span class="animatedNumber">4</span>.<span class="animatedNumber">1</span></div>
+                <div class="stat"><span class="animatedNumber">4</span>.<span class="animatedNumber">1</span> bn</div>
                 <span class="metric">BILLION database records were stolen in the first half of 2019 alone, according to Norton Security.</span>
             </li>
             <li>
-                <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span></div>
+                <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span> bn</div>
                 <span class="metric"> the cost in BILLIONS of slow-loading websites to retailers each year</span>
             </li>
         </ul>
