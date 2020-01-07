@@ -5,7 +5,7 @@ classes:
   - landing
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/software-development.JPG
+  overlay_image: /assets/images/software-development.jpg
   overlay_filter: 0.5 
   actions:
     - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
@@ -210,7 +210,7 @@ Reactive & Pro-active I.T maintenance
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/toolbox.png" />
                     <div class="item-title">Unbiased technical advice</div>
-                    <div class="item-description">We specialise in many different technologies, across many different aspects of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
+                    <div class="item-description">We specialise in many different technologies, across many different areas of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
                 </div>
             </div>
         </div>
@@ -218,7 +218,7 @@ Reactive & Pro-active I.T maintenance
             <div class="grid-item-wrapper">
                 <div class="grid-item-container">
                     <img src="assets/images/benefits/pound.png" />
-                    <div class="item-title">Early Invoice payment bonus</div>
+                    <div class="item-title">Early Invoice payment Incentive</div>
                     <div class="item-description">Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>    
                 </div>
             </div>
