@@ -60,7 +60,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
-            <img src="/assets/images/icons/software-training.png" style="height:auto;width: auto; margin: 0 auto;">
+            <img class="lazy" data-src="/assets/images/icons/software-training.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding: 20px;">
@@ -75,7 +75,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
-            <img src="/assets/images/icons/software.png" style="height:auto;width: auto; margin: 0 auto;">
+            <img class="lazy" data-src="/assets/images/icons/software.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
@@ -90,7 +90,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
-            <img src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
+            <img class="lazy" data-src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
@@ -112,7 +112,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
-            <img src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
+            <img class="lazy" data-src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
@@ -134,7 +134,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 <div style="display:flex;background: #e7e7e7;">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
-            <img src="/assets/images/icons/team.png" style="height:auto;width: auto; margin: 0 auto;">
+            <img class="lazy" data-src="/assets/images/icons/team.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">

@@ -11,7 +11,7 @@ header:
     - label: "Discover the importance of effective I.T systems"
       url: "#discover-the-importance-of-effective-it-systems"
 excerpt: >
-  We're a Modern I.T Consultancy company who offers Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  We're a Modern UK based I.T Consultancy company who offers Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
     
 ---
 
