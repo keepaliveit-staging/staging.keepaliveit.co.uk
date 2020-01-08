@@ -7,6 +7,9 @@ excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.5 
+  actions:
+      - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
+        url: "#discover"
 ---
 
 {% include breadcrumbs.html %}
@@ -63,13 +66,6 @@ Overall, high quality Software enhances employee productivity, improves company 
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding: 20px;">
         <h3>SOFTWARE TRAINING</h3>
         <p>We offer workshop based software training courses for training staff or students on various aspects of I.T</p>    
-        <ul>
-            <li>What software exists for performing task X?</li>
-            <li>Is software X better than software Y? If so, why?</li>
-            <li>How much will it cost to operate software X for a short term project?</li>
-            <li>Does software X seem appropriate for our business needs?</li>
-            <li>Should I consider a commercial or open source implementation?</li>
-        </ul>
         <p><a href="/software-consultancy/software-training">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
     </div>
 </div>
@@ -83,7 +79,7 @@ Overall, high quality Software enhances employee productivity, improves company 
         </div>
     </div>
     <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
-        <h3>SOFTWARE PROCUREMENT, IMPLEMENTATION & CONSULTANCY</h3>
+        <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
         <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
          <p><a href="/software-consultancy/software-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
     </div>

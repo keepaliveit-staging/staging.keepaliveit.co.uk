@@ -6,11 +6,17 @@ permalink: /it-operations-consultancy
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.5
+  actions:
+      - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
+        url: "#discover" 
 ---
 
 {% include breadcrumbs.html %}
 
+## Save money & make I.T assets more reliable with the help of Keep-Alive I.T
+
+ **Our services are for you.**
 
 ## I.T Operations Consultancy
 Safeguarding your business against the latest cyber threats and vulnerabilities.
@@ -70,6 +76,9 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 - PCI Compliance Support
 - ISO 27001 Certification Support
 - Reactive & Pro-active I.T maintenance
+
+- Linux Server Administration
+- Windows Server Administration
 
 <ul role="menu">
 <li><a title="Hosted Desktop (DaaS)" href="hosted-desktops/">Hosted Desktop (DaaS)</a></li>

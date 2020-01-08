@@ -14,4 +14,12 @@ header:
 ## Software Training Solutions
 Having well trained employees
 
+<ul>
+    <li>What software exists for performing task X?</li>
+    <li>Is software X better than software Y? If so, why?</li>
+    <li>How much will it cost to operate software X for a short term project?</li>
+    <li>Does software X seem appropriate for our business needs?</li>
+    <li>Should I consider a commercial or open source implementation?</li>
+</ul>
+
 {% include industry-consultation.md %}

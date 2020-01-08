@@ -6,57 +6,67 @@ classes:
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/software-development.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.74 
   actions:
-    - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
-      url: "#discover"
+    - label: "Discover the importance of effective I.T systems"
+      url: "#discover-the-importance-of-effective-it-systems"
 excerpt: >
-  Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  We're a Modern I.T Consultancy company who offers Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
     
 ---
 
-<div id="discover"></div>
+## Discover the importance of effective I.T systems
 
-## Save money on I.T costs & make I.T assets more reliable with the help of Keep-Alive I.T
-
-<section id="metrics">
-    <div class="center">
-        <ul class="cols4">
-            <li>
-                <div class="stat">£<span class="animatedNumber">184</span> bn</div>
-                <span class="metric">BILLION is the worth of technology to UK economy, and is growing rapidly each day.</span>
-            </li>
-            <li>
+<section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    £<span class="animatedNumber">184</span> bn
+                </div>
+                <div class="metric">
+                    is the worth of technology to UK economy, and is growing rapidly each day.</div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
                 <div class="stat"><span class="animatedNumber">52</span>%</div>
-                <span class="metric">of I.T system breaches were as a result of hacking in 2019, according to Verizon.</span>
-            </li>
-            <li>
-                <div class="stat"><span class="animatedNumber">4</span>.<span class="animatedNumber">1</span> bn</div>
-                <span class="metric">BILLION database records were stolen in the first half of 2019 alone, according to Norton Security.</span>
-            </li>
-            <li>
+                <div class="metric">of I.T system breaches in 2019 were as a result of hacking, according to Verizon.</div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    <span class="animatedNumber">4</span>.<span class="animatedNumber">1</span> bn
+                </div>
+                <div class="metric">database records were stolen in the first half of 2019, according to Norton Security.</div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
                 <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span> bn</div>
-                <span class="metric"> the cost in BILLIONS of slow-loading websites to retailers each year</span>
-            </li>
-        </ul>
-        <div class="clearfix"></div>
+                <div class="metric"> the cost of slow-loading websites to retailers each year</div>
+            </div>
+        </div>
     </div>
 </section>
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses - not just businesses in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. But what happens when I.T fails? Let's dig a little deeper to find out.
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, reglardless of if a businesses is in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
-### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either affect your business.
+### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
-Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour:
 
 <figure>
-<img src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
+<img class="lazy" data-src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
 </figure>
 
-Threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, such as closure of a company entirely in more extreme cases. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years as the usage of technology continues to grow:
+I.T threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely,  in more extreme cases**. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 
 > Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* [Norton](https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html))
 
@@ -78,7 +88,7 @@ If you're a business manager and have ever asked yourself a question similar to 
 - What technologies can we use to enable feature X?
 - How do we scale our I.T to take business targets to the next level?
 
-Then **our services are for you.**
+
 
 ### Don't let your business be a victim of I.T downtime. Keep-Alive I.T's services can help you.
 Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. We can help new or existing companies secure their I.T from an application level, infrastructure level, or hardware level.
@@ -91,99 +101,119 @@ Contact us today and we can provide you with tailored support packages from your
 {% endfor %}
 {% endcomment %}
 
+<h3>
 
 <h3>Why Keep-Alive I.T?</h3>
 <p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
-<div class="container">
-    <div class="grid-row">
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/contact.png" />
-                    <div class="item-title">Direct contact</div>
-                    <div class="item-description">One of our agents will be your dedicated contact throughout the duration of our time working together, which means no jumping between multiple contacts at Keep-Alive I.T and more of a personal relationship with your agent.</div>
+
+<section id="why-us" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <div class="item-title">Direct contact</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/feedback.png" />
-                    <div class="item-title">Customer focused</div>
-                    <div class="item-description">We listen to our customers feedback and are always trying to improve what we do. Throughout the duration of our time  working together, we will ask for feedback on how our work is performing. These metrics will be used for imrpoving our service for other valued customers.</div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/feedback.png"/>
+                <div class="item-title">Customer focused</div>
+                <div class="item-description">We listen to our customers feedback and are always trying to improve
+                    what we do. Throughout the duration of our time working together, we will ask for feedback on
+                    how our work is performing. These metrics will be used for imrpoving our service for other
+                    valued customers.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/payment-day.png" />
-                    <div class="item-title">Monthly repayments</div>
-                    <div class="item-description">Say goodbye to upfront bills and spread the cost over a period of 3, or 6 months. We offer monthly payments for retainer contracts and for clients who have worked with us before.</div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/payment-day.png"/>
+                <div class="item-title">Monthly repayments</div>
+                <div class="item-description">Say goodbye to upfront bills and spread the cost over a period of 3,
+                    or 6 months. We offer monthly payments for retainer contracts and for clients who have worked
+                    with us before.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/running.png" />
-                    <div class="item-title">Agile by nature</div>
-                    <div class="item-description">We understand requirements can change rapidly and that a Waterfall project management methodology is no longer suitable for most companies. We are committed to working with you to develop your Agile strategy to maximise your business value. </div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/running.png"/>
+                <div class="item-title">Agile by nature</div>
+                <div class="item-description">We understand requirements can change rapidly and that a Waterfall
+                    project management methodology is no longer suitable for most companies. We are committed to
+                    working with you to develop your Agile strategy to maximise your business value.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/locked.png" />
-                    <div class="item-title">Secure & Confidential</div>
-                    <div class="item-description">We respect your privacy and we're more than happy to sign any Non-Disclosure Agreements that our clients may have. We're fully GDPR compliant</div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/locked.png"/>
+                <div class="item-title">Secure & Confidential</div>
+                <div class="item-description">We respect your privacy and we're more than happy to sign any
+                    Non-Disclosure Agreements that our clients may have. We're fully GDPR compliant
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/sprout.png" />
-                    <div class="item-title">Passionate About Technology</div>
-                    <div class="item-description">We hire only the best consultants and engineers who are passionate about technology. Their work is also their passion, meaning they're always kept up to date with the industry.</div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/sprout.png"/>
+                <div class="item-title">Passionate About Technology</div>
+                <div class="item-description">We hire only the best consultants and engineers who are passionate
+                    about technology. Their work is also their passion, meaning they're always kept up to date with
+                    the industry.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/clock.png" />
-                    <div class="item-title">Around the clock operation</div>    
-                    <div class="item-description">Just like any other company, we have office hours. However, we understand I.T is a 24 operation so we've built our business around incident response and can ensure staff members can be at hand 24 hours a day.</div>
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/clock.png"/>
+                <div class="item-title">Around the clock operation</div>
+                <div class="item-description">Just like any other company, we have office hours. However, we
+                    understand I.T is a 24 operation so we've built our business around incident response and can
+                    ensure staff members can be at hand 24 hours a day.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/toolbox.png" />
-                    <div class="item-title">Unbiased technical advice</div>
-                    <div class="item-description">We specialise in many different technologies, across many different areas of I.T. We're not biased towards any particular technology and will always propose multiple ideas towards an I.T problem.</div>    
+    
+            <div class="col-xs-6 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/toolbox.png"/>
+                <div class="item-title">Unbiased technical advice</div>
+                <div class="item-description">We specialise in many different technologies, across many different
+                    areas of I.T. We're not biased towards any particular technology and will always propose
+                    multiple ideas towards an I.T problem.
+                </div>
                 </div>
             </div>
-        </div>
-        <div class="grid-item">
-            <div class="grid-item-wrapper">
-                <div class="grid-item-container">
-                    <img src="assets/images/benefits/pound.png" />
-                    <div class="item-title">Early Invoice payment Incentive</div>
-                    <div class="item-description">Pay your invoices early and we'll reduce your costs by 5%. This is just our way of saying thank you for being a loyal customer.</div>    
+    
+            <div class="col-xs-12 col-md-4 reason-container">
+                <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/pound.png"/>
+                <div class="item-title">Early Invoice payment Incentive</div>
+                <div class="item-description">Pay your invoices early and we'll reduce your costs by 5%. This is
+                    just our way of saying thank you for being a loyal customer.
+                </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</section>
 
 
 <div id="consultancy-posts">
     <h3>Recent I.T Consultancy Posts from our Experts</h3>
-    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
+    <p>We hire I.T pros to write guides on the top industry trends. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
     {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
     <ul class="post-list">
     {% for group in groups %}
@@ -205,172 +235,6 @@ Contact us today and we can provide you with tailored support packages from your
     {%endfor%}
     </ul>
 </div>
-
-<style>
-.container {
-  max-width: 1335px;
-  margin: 0 auto;
-}
-
-.grid-row {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-start;
-}
-
-.grid-item {
-  flex: 1;
-  flex-basis: 20%;
-  -ms-flex: auto;
-  width: 250px;
-  position: relative;
-  padding: 10px;
-  box-sizing: border-box;
-}
-
-.grid-row a {
-  text-decoration: none;
-}
-
-.grid-item-wrapper {
-  -webkit-box-sizing: initial;
-  -moz-box-sizing: initial;
-  box-sizing: initial;
-  border: 3px solid #f2f3f3;
-  margin: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-  -webkit-transition: padding 0.15s cubic-bezier(0.4,0,0.2,1), margin 0.15s cubic-bezier(0.4,0,0.2,1), box-shadow 0.15s cubic-bezier(0.4,0,0.2,1);
-  transition: padding 0.15s cubic-bezier(0.4,0,0.2,1), margin 0.15s cubic-bezier(0.4,0,0.2,1), box-shadow 0.15s cubic-bezier(0.4,0,0.2,1);
-  position: relative;
-}
-
-.grid-item-container {
-  height: 100%;
-  width: 100%;
-  position: relative;
-  padding: 1em;
-}
-
-.grid-item-container img{
-    height: auto;
-    max-width: 40%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    margin-bottom: 1em;
-}
-
-.grid-image-top {
-  height: 45%;
-  width: 120%;
-  background-size: cover;
-  position: relative;
-  background-position: 50% 50%;
-  left: -10.5%;
-  top: -4.5%;
-  display: none;
-}
-
-.grid-image-top .centered {
-  text-align: center;
-  transform: translate(-50%, -50%);
-  background-size: contain;
-  background-repeat: no-repeat;
-  position: absolute;
-  top: 54.5%;
-  left: 50%;
-  width: 60%;
-  height: 60%;
-  background-position: center;
-}
-
-.item-title {
-  font-size: 1.2em;
-  font-weight: 700;
-  margin-bottom: 0.5em;
-  display: block;
-  text-transform: capitalize;
-}
-
-.item-description {
-  display: block;
-  margin-bottom: 20px;
-  font-size: 14px;
-}
-
-.item-excerpt {
-  margin-bottom: 20px;
-  display: block;
-  font-size: 14px;
-}
-
-.more-info {
-  position: absolute;
-  bottom: 0;
-  margin-bottom: 25px;
-  padding-left: 0;
-  transition-duration: .5s;
-  font-size: 12px;
-  display: flex;
-}
-
-.more-info i {
-  padding-left: 5px;
-  transition-duration: .5s;
-}
-
-.grid-item:hover .more-info i {
-  padding-left: 20px;
-  transition-duration: .5s;
-}
-
-.more-info i::before {
-  font-size: 16px;
-}
-
-.grid-item:hover .grid-item-wrapper {
-  padding: 2% 2%;
-  margin: -2% -2%;
-  cursor: pointer;
-}
-
-@media(max-width: 1333px) {
-  .grid-item {
-    flex-basis: 33.33%;
-  }
-}
-
-@media(max-width: 1073px) {
-   .grid-item {
-    flex-basis: 33.33%;
-  }
-}
-
-@media(max-width: 815px) {
-  .grid-item {
-    flex-basis: 50%;
-  }
-}
-
-@media(max-width: 620px) {
-  .col {
-    clear: both;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto !important;
-  }
-}
-
-@media(max-width: 555px) {
-  .grid-item {
-    flex-basis: 100%;
-  }
-}
-
-</style>
 
 <div>
     <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>

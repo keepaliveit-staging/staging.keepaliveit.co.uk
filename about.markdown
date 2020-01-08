@@ -4,8 +4,24 @@ title: About
 permalink: /about/
 ---
 
-### How much does Keep-Alive I.T charge for I.T services?
-We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the beginning of a project. This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together. Each page of our website will give you an approximate cost for the service on offer. Some services will require further analysis into your requirements before we are able to agree on a price. This is the nature of consultancy services and what you should expect from us if you decide to work with us.
+## About Keep-Alive I.T
+
+### What does Keep-Alive I.T do?
+We're a universal I.T Consultation company who has over a decade of specialist experience with developing Agile software, and keeping I.T systems operational.
+
+Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud
+migration strategy; Keep-Alive I.T will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, or employee count.
+
+### Where is Keep-Alive I.T based?
+We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 
+
+
+### How much does Keep-Alive I.T charge for its I.T services?
+We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the start. 
+
+This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together. 
+
+Each page of our website will give you an approximate cost for the service on offer. Some services will require further analysis into your requirements before we are able to agree on a price. This is the nature of consultancy services and what you should expect from us if you decide to work with us.
 
 ### What does the process of working with Keep Alive I.T involve?
 This depends on the type of work you need completed. As a general rule, there are 7 steps involved in working with us:
@@ -25,6 +41,3 @@ This depends on the type of work you need completed. As a general rule, there ar
 7. This marks the end of our time working together. We’ll send you over the finished works, and hopefully we can work together at some point in the future.
 
 You can find more specific details of how the flow works for each service we offer in the Client Forms section of the Keep Alive I.T website.
-
-### Where is Keep-Alive I.T based?
-We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 

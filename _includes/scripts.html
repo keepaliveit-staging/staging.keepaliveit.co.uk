@@ -37,20 +37,3 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
-
-
-<script>
-    $(document).ready(function(){
-        $('.animatedNumber').each(function () {
-            $(this).prop('Counter',0).animate({
-                Counter: $(this).text()
-            }, {
-                duration: 2300,
-                easing: 'swing',
-                step: function (now) {
-                    $(this).text(Math.ceil(now));
-                }
-            });
-        });
-    });
-</script>
