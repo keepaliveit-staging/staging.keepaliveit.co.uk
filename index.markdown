@@ -109,7 +109,7 @@ Contact us today and we can provide you with tailored support packages from your
 <section id="why-us" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/contact.png"/>
                 <div class="item-title">Direct contact</div>
@@ -120,7 +120,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/feedback.png"/>
                 <div class="item-title">Customer focused</div>
@@ -132,7 +132,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/payment-day.png"/>
                 <div class="item-title">Monthly repayments</div>
@@ -143,7 +143,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/running.png"/>
                 <div class="item-title">Agile by nature</div>
@@ -154,7 +154,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/locked.png"/>
                 <div class="item-title">Secure & Confidential</div>
@@ -164,7 +164,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/sprout.png"/>
                 <div class="item-title">Passionate About Technology</div>
@@ -175,7 +175,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/clock.png"/>
                 <div class="item-title">Around the clock operation</div>
@@ -186,7 +186,7 @@ Contact us today and we can provide you with tailored support packages from your
                 </div>
             </div>
     
-            <div class="col-xs-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/toolbox.png"/>
                 <div class="item-title">Unbiased technical advice</div>
