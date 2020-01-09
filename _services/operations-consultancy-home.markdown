@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's I.T Operations Consultancy Services for Business"
-permalink: /it-operations-consultancy
+title: "Keep-Alive I.T's I.T Operations Consultancy Services for the Home"
+permalink: /it-operations-consultancy-home
 classes:
   - operations-consultancy
 excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
@@ -15,7 +15,7 @@ header:
 secondaryMenu:
   - title: "I.T Operations Consultancy for Business"
     url: /it-operations-consultancy
-  - title: "I.T Operations Consultancy for Home"
+  - title: "I.T Operations Consultancy for the Home"
     url: /it-operations-consultancy-home
 ---
 

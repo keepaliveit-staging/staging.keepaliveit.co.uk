@@ -1,6 +1,7 @@
 ---
 layout: splash
-permalink: /
+title: "Keep-Alive I.T's I.T Services for the Home"
+permalink: /home
 classes:
   - landing
 header:
@@ -8,14 +9,20 @@ header:
   overlay_image: /assets/images/software-development.jpg
   overlay_filter: 0.74 
   actions:
-    - label: "Discover the importance of effective I.T systems"
-      url: "#discover-the-importance-of-effective-it-systems"
+    - label: "Discover the importance of effective I.T systems for the Home"
+      url: "#discover-the-importance-of-effective-it-systems-for-home"
 excerpt: >
-  We're a Modern UK based I.T Consultancy Company who offers Agile I.T Development & Operations (DevOps) Solutions to Businesses, Consumers, and Non-Profit Organisations.
-    
+  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who offers Agile I.T Development & Operations (DevOps) Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  
+secondaryMenu:
+  - title: "I.T Services for Business"
+    url: /
+  - title: "I.T Services for the Home"
+    url: /home
+
 ---
 
-## Discover the importance of effective I.T systems
+## Discover the importance of effective I.T systems for business
 
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
@@ -55,7 +62,7 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, reglardless of if a businesses is in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of if a businesses is in the technology sector, or not. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
 ### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).

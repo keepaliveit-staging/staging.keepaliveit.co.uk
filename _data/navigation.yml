@@ -4,9 +4,15 @@ main:
     url: /software-consultancy
   - title: "I.T Operations Consultancy"
     url: /it-operations-consultancy
-  - title: "Company Blog"
+  - title: "All Services"
+    url: /services
+  - title: "Benefits of effective I.T"
+    url: /benefits
+  - title: "Blog"
     url: /blog
-  - title: "Free Resources"
+  - title: "Free I.T Resources"
     url: /free-resources
+  - title: "Tech tips"
+    url: /tech-tips
   - title: "About Us"
     url: /about

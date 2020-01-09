@@ -1,11 +1,11 @@
 ---
 layout: splash 
-title: "Increased employee productivity"
-permalink: /benefits/increased-productivity
+title: "Flexible working"
+permalink: /benefits/flexible-working
 
-excerpt: "Increased employee productivity"
+excerpt: "Efficient I.T improves productivity"
 header:
-  overlay_image: /assets/images/benefit/productivity.jpg
+  overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
 ---
 
@@ -40,4 +40,3 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
-        

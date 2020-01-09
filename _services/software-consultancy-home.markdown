@@ -1,10 +1,11 @@
 ---
 layout: splash
-title: "Software Consultancy & Software Development Services for Business"
-permalink: /software-consultancy
+title: "Software Consultancy & Software Development Services for the Home"
+permalink: /software-consultancy-home
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions, or develop bespoke platform specific Software solutions for your business."
+excerpt: "Learn how Keep-Alive I.T Services can assist with software recommendations, or develop bespoke platform specific Software solutions for your home."
+
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.74
@@ -15,11 +16,20 @@ header:
 secondaryMenu:
   - title: "Software Consultancy for Business"
     url: /software-consultancy
-  - title: "Software Consultancy for Home"
+  - title: "Software Consultancy for the Home"
     url: /software-consultancy-home
 ---
 
 {% include breadcrumbs.html %}
+
+## For Consumers
+Running I.T at home has become an important part of modern life. 
+
+- Homework
+- Coursework
+- External learning
+- Filing accounts
+- Online shopping
 
 ### Software & Software Development Consultancy
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
