@@ -6,7 +6,7 @@ permalink: /it-operations-consultancy
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.74
   actions:
       - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
         url: "#discover" 

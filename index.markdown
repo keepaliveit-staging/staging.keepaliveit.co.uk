@@ -11,7 +11,7 @@ header:
     - label: "Discover the importance of effective I.T systems"
       url: "#discover-the-importance-of-effective-it-systems"
 excerpt: >
-  We're a Modern UK based I.T Consultancy company who offers Agile I.T Development & Operations (DevOps) Consultancy Solutions for Businesses, Consumers, and Non-Profit Organisations.
+  We're a Modern UK based I.T Consultancy Company who offers Agile I.T Development & Operations (DevOps) Solutions to Businesses, Consumers, and Non-Profit Organisations.
     
 ---
 
@@ -25,7 +25,7 @@ excerpt: >
                     £<span class="animatedNumber">184</span> bn
                 </div>
                 <div class="metric">
-                    is the worth of technology to UK economy, and is growing rapidly each day.</div>
+                    (and rapidly growing higher) is the total worth of technology to the UK's economy.</div>
             </div>
         </div>
         <div class="col-xs-6 col-md-3 stat-container">
@@ -47,20 +47,20 @@ excerpt: >
         <div class="col-xs-6 col-md-3 stat-container">
             <div class="stat-item">
                 <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span> bn</div>
-                <div class="metric"> the cost of slow-loading websites to retailers each year</div>
+                <div class="metric"> the cost of slow-loading websites to retailers each year.</div>
             </div>
         </div>
     </div>
 </section>
 
-> Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* [Tech Nation’s 2018 report](https://technation.io/))
+> Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
 In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, reglardless of if a businesses is in the technology sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
 ### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
-Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by [Statistica](https://www.statista.com/) shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour:
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour:
 
 <figure>
 <img class="lazy" data-src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
@@ -68,11 +68,11 @@ Reduced I.T availability contributes towards the failure of company operations. 
 
 I.T threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely,  in more extreme cases**. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 
-> Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* [Norton](https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html))
+> Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* <a href="https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html" target="_blank">Norton</a>)
 
-> 52% of breaches featured hacking, 28% involved malware and 32–33% included phishing or social engineering, respectively. (*Source:* [Verizon](https://www.verizonwireless.com/))
+> 52% of breaches featured hacking, 28% involved malware and 32–33% included phishing or social engineering, respectively. (*Source:* <a href="https://www.verizonwireless.com/" target="_blank">Verizon</a>)
 
-> By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (*Source:* [Cybersecurity Media](https://tech.ebu.ch/groups/mcs))
+> By 2020, the estimated number of passwords used by humans and machines worldwide will grow to 300 billion. (*Source:* <a href="https://tech.ebu.ch/groups/mcs" target="_blank">Cybersecurity Media</a>)
 
 
 ### The truth is, running I.T efficiently & effectively requires well thought out processes and a great deal of expertise.

@@ -108,7 +108,12 @@
     font-weight: 700;
   }
 
-  &.active a{
+  &.active a {
     background: #000;
   }
+}
+
+.hidden-links .masthead__menu-item.active a {
+  background: inherit !important;
+  font-weight: bolder;
 }

@@ -1,12 +1,12 @@
 ---
 layout: splash
-title: "Software & Software Development Consultancy"
+title: "Keep-Alive I.T's Software & Software Development Consultancy Services"
 permalink: /software-consultancy
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Web, or platform specific Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.74
   actions:
       - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
         url: "#discover"
@@ -57,7 +57,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img class="lazy" data-src="/assets/images/icons/software-training.png" style="height:auto;width: auto; margin: 0 auto;">
@@ -72,13 +72,13 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img class="lazy" data-src="/assets/images/icons/software.png" style="height:auto;width: auto; margin: 0 auto;">
         </div>
     </div>
-    <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;">
+    <div style="width: 70%; flex-grow: 1; flex-shrink: 1;padding:20px;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
         <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
         <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
          <p><a href="/software-consultancy/software-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
@@ -87,7 +87,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img class="lazy" data-src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
@@ -109,7 +109,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img class="lazy" data-src="/assets/images/icons/programmer.png" style="height:auto;width: auto; margin: 0 auto;">
@@ -131,7 +131,7 @@ Overall, high quality Software enhances employee productivity, improves company 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div style="display:flex;background: #e7e7e7;">
+<div style="display:flex;background: #e7e7e7;" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate">
     <div style="display: flex; flex: 1 1 0%; flex-flow: row nowrap; place-content: stretch flex-start; align-items: stretch;">
         <div style="width: 30%; flex-grow: 1; flex-shrink: 1; margin: 0 20px 0 0;padding:20px;">
             <img class="lazy" data-src="/assets/images/icons/team.png" style="height:auto;width: auto; margin: 0 auto;">

@@ -1,6 +1,6 @@
 ---
 title: "Free I.T Resources"
-permalink: /free-resources/
+permalink: /free-resources
 layout: splash
 author_profile: false
 
