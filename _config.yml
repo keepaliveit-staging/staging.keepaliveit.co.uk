@@ -213,6 +213,9 @@ kramdown:
 
 # Collections
 collections:
+  benefit:
+    output: true
+    permalink: /benefits/:path
   industry:
     output: true
     permalink: /it-consultations-for/:path

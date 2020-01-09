@@ -1,8 +1,9 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's Software & Software Development Consultancy Services"
+title: "Keep-Alive I.T's Software Consultancy & Software Development Services"
 permalink: /software-consultancy
-
+classes:
+  - software-consultancy
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Web, or platform specific Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
@@ -17,7 +18,7 @@ header:
 ## Software & Software Development Consultancy
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
 
-Overall, high quality Software enhances employee productivity, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our Software & Software Development Consultancy services. 
+Overall, high quality Software <a href="/benefits/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our Software & Software Development Consultancy services. 
 
 <style>
 .divider

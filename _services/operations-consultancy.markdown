@@ -1,8 +1,9 @@
 ---
 layout: splash
-title: I.T Operations Consultancy
+title: "Keep-Alive I.T's I.T Operations Consultancy Services"
 permalink: /it-operations-consultancy
-
+classes:
+  - operations-consultancy
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
@@ -73,8 +74,6 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 - GDPR Compliance Support
 - Network Penetration Testing
 - Managed Cyber Security
-- PCI Compliance Support
-- ISO 27001 Certification Support
 - Reactive & Pro-active I.T maintenance
 
 - Linux Server Administration

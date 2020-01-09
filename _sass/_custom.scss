@@ -137,7 +137,7 @@
   }
 }
 
-.landing {
+.landing, .operations-consultancy, .software-consultancy {
   .page__hero--overlay .btn {
     color: #fff;
     background-color: #007bff;
@@ -155,8 +155,11 @@
     font-size: 1rem;
     line-height: 1.5;
     border-radius: .25rem;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
   }
+}
+
+.landing {
 
   #metrics {
     text-align: center;
@@ -198,13 +201,13 @@
     .reason-container {
       margin-top: 20px;
 
-      .reason-item{
+      .reason-item {
         padding: 20px;
         border: 3px solid #f2f3f3;
         height: 100%;
 
-        &:hover{
-            cursor: pointer;
+        &:hover {
+          cursor: pointer;
         }
 
         .item-title {
@@ -232,6 +235,34 @@
       }
     }
   }
+}
+
+.operations-consultancy {
+
+}
+
+.software-consultancy {
+
+}
+
+.sidebar-box {
+  max-height: 50px;
+  position: relative;
+  overflow: hidden;
+  -ms-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+}
+
+.sidebar-box .read-more {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+
+  color: blue;
+  background: #f2f3f3;
 }
 
 /* GRID. */
