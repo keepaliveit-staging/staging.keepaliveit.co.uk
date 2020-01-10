@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Software Procurement, Implementation, and Consultancy"
-permalink: /software-consultancy/software-procurement
+permalink: /software-consultancy/software-procurement-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -25,5 +25,11 @@ header:
 - Travel Management Software
 - Freelancer Software
 - Surveying Software
+
+We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware procurement</a> services
+
+- Software Licensing
+- IT Supplier Management
+
 
 {% include industry-consultation.md %}

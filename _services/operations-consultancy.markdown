@@ -4,7 +4,7 @@ title: "Keep-Alive I.T's I.T Operations Consultancy Services for Business"
 permalink: /it-operations-consultancy
 classes:
   - operations-consultancy
-excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
+excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop production ready infrastructure that's scalable. reliable, and compliant."
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
   overlay_filter: 0.74
@@ -15,7 +15,7 @@ header:
 secondaryMenu:
   - title: "I.T Operations Consultancy for Business"
     url: /it-operations-consultancy
-  - title: "I.T Operations Consultancy for Home"
+  - title: "I.T Operations Consultancy for the Home"
     url: /it-operations-consultancy-home
 ---
 
@@ -32,70 +32,87 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 ### How Keep-Alive I.T’s I.T Operations Consultancy services can benefit your business
 
-##### I.T Procurement
-##### Hardware Procurement
 
-#### Software Procurement
-
-
-### Cloud Consultancy
-#### Cloud Native Consultancy
-
-- IT Support
-- 24x7 Service Desk Support
-- 24x7 Network Monitoring
-- Proactive IT Support
-- Remote IT Support
-- Onsite IT Support
-- Out of Hours IT Support
-- Dedicated Service Desk
-- Network Support
-- Microsoft Support
-- Apple Mac Support
-- IT Consultancy
-- IT Strategy
-- IT Projects
-- IT Audits
-- Software Licensing
-- IT Infrastructure
-- IT Procurement
-- IT Supplier Management
-- IT Security
 - IT Networks and Cabling
-- Cloud Readiness
-- Virtualisation
-- Backup and Continuity
 - Managed IT
 - Managed Networks
 - Managed Hosting
-- Managed Backups
-- Business Continuity
-- Managed Cloud
-- Private Cloud
-- Hybrid Cloud
-- Public Cloud
-- Cyber Security
-- Cyber Security Audit
-- Cyber Essentials Support
-- GDPR Compliance Support
-- Network Penetration Testing
-- Managed Cyber Security
-- Reactive & Pro-active I.T maintenance
 
-- Linux Server Administration
-- Windows Server Administration
+<div class="divider div-transparent div-arrow-down"></div>
 
-<ul role="menu">
-<li><a title="Hosted Desktop (DaaS)" href="hosted-desktops/">Hosted Desktop (DaaS)</a></li>
-<li><a title="Disaster Recovery (DRaaS)" href="disaster-recovery-draas/">Disaster Recovery (DRaaS)</a></li>
-<li><a title="Application Hosting" href="application-hosting/">Application Hosting</a></li>
-<li><a title="Microsoft Office 365" href="office-365-for-business/">Microsoft Office 365</a></li>
-<li><a title="Web Security" href="web-security/">Web Security</a></li>
-<li><a title="Bespoke Cloud Solutions" href="bespoke-cloud-solutions/">Bespoke Cloud Solutions</a></li>
-<li><a title="Cloud &amp; IT Consultancy" href="citrix-cloud-consultancy/">Cloud &amp; IT Consultancy</a></li>
-<li><a title="Network Connectivity" href="network-connectivity/">Network Connectivity</a></li>
-<li><a title="IT Infrastructure Management" href="infrastructure-management/">IT Infrastructure Management</a></li>
-<li><a title="Telephony and VoIP" href="telephony-voip/">Telephony and VoIP</a></li>
-</ul>
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-3">
+            <img class="lazy" data-src="/assets/images/icons/software.png">
+        </div>
+        <div class="col-xs-9">
+            <h3>HARDWARE PROCUREMENT AND SETUP</h3>
+            <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
+            <p><a href="/it-operations-consultancy/hardware-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-3">
+            <img class="lazy" data-src="/assets/images/icons/programmer.png">
+        </div>
+        <div class="col-xs-9">
+            <h3>I.T SUPPORT</h3>
+            <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
+            <p><a href="/it-operations-consultancy/it-support">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-3">
+            <img class="lazy" data-src="/assets/images/icons/programmer.png">
+        </div>
+        <div class="col-xs-9">
+            <h3>I.T COMPLIANCE & SECURITY</h3>
+            <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
+            <p><a href="/it-operations-consultancy/it-compliance-and-security-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-3">
+            <img class="lazy" data-src="/assets/images/icons/web.png">
+        </div>
+        <div class="col-xs-9">
+            <h3>INFRASTRCTURE MANAGEMENT</h3>
+            <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
+            <p><a href="/it-operations-consultancy/infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+    <div class="row">
+        <div class="col-xs-3">
+            <img class="lazy" data-src="/assets/images/icons/web.png">
+        </div>
+        <div class="col-xs-9">
+            <h3>CLOUD</h3>
+            <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
+            <p><a href="/it-operations-consultancy/cloud">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+        </div>
+    </div>
+</div>
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 {% include industry-consultation.md %}

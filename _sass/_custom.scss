@@ -244,52 +244,57 @@
 
 /* Software consultancy page css */
 .software-consultancy {
-  .divider {
-    position: relative;
-    margin: 60px 0;
-    height: 1px;
-  }
 
-  .div-transparent:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 2%;
-    right: 2%;
-    width: 96%;
-    height: 1px;
-    background-image: linear-gradient(to right, transparent, rgb(170, 0, 0), transparent);
-  }
-
-  .div-arrow-down:after {
-    content: "";
-    position: absolute;
-    z-index: 1;
-    top: -7px;
-    left: calc(50% - 7px);
-    width: 14px;
-    height: 14px;
-    transform: rotate(45deg);
-    background-color: white;
-    border-bottom: 1px solid rgb(170, 0, 0);
-    border-right: 1px solid rgb(170, 0, 0);
-  }
-
-  .software-consultancy-row {
-    background: #e7e7e7;
-
-    img {
-      height: auto;
-      width: auto;
-      margin: 0 auto;
-      padding: 20px;
-    }
-  }
 }
 
 .sidebar-box .read-more {
   display: none;
 }
+
+
+.divider {
+  position: relative;
+  margin: 60px 0;
+  height: 1px;
+}
+
+.div-transparent:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 2%;
+  right: 2%;
+  width: 96%;
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, rgb(170, 0, 0), transparent);
+}
+
+.div-arrow-down:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  top: -7px;
+  left: calc(50% - 7px);
+  width: 14px;
+  height: 14px;
+  transform: rotate(45deg);
+  background-color: white;
+  border-bottom: 1px solid rgb(170, 0, 0);
+  border-right: 1px solid rgb(170, 0, 0);
+}
+
+.consultancy-row {
+  background: #e7e7e7;
+
+  img {
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    padding: 20px;
+  }
+}
+
+
 
 @include breakpoint(max-width $medium) {
   .sidebar-box {

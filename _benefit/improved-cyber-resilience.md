@@ -3,7 +3,7 @@ layout: splash
 title: "Improved Cyber Resilience"
 permalink: /benefits/improved-cyber-resilience
 
-excerpt: "Improved cyber resilience"
+excerpt: "Effective I.T promotes an improved cyber resilience"
 header:
   overlay_image: /assets/images/benefit/cyber.jpg
   overlay_filter: 0.5 

@@ -4,7 +4,7 @@ title: "Software Consultancy & Software Development Services for Business"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions, or develop bespoke platform specific Software solutions for your business."
+excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions, or just be of general assistance with a software related query for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.74
@@ -15,7 +15,7 @@ header:
 secondaryMenu:
   - title: "Software Consultancy for Business"
     url: /software-consultancy
-  - title: "Software Consultancy for Home"
+  - title: "Software Consultancy for the Home"
     url: /software-consultancy-home
 ---
 
@@ -28,7 +28,7 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="software-consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-3">
             <img class="lazy" data-src="/assets/images/icons/software-training.png">  
@@ -36,14 +36,14 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         <div class="col-xs-9">
             <h3>SOFTWARE TRAINING</h3>
             <p>We offer workshop based software training courses for training staff or students on various aspects of I.T</p>    
-            <p><a href="/software-consultancy/software-training">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
+            <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
 </div>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="software-consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-3">
             <img class="lazy" data-src="/assets/images/icons/software.png">
@@ -51,14 +51,14 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         <div class="col-xs-9">
             <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
-            <p><a href="/software-consultancy/software-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+            <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
         </div>
     </div>
 </div>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="software-consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-3">
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
@@ -66,29 +66,29 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         <div class="col-xs-9">
             <h3>SOFTWARE DEVELOPMENT</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
-            <p><a href="/software-consultancy/software-development">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="/software-consultancy/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="software-consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-3">
-            <img class="lazy" data-src="/assets/images/icons/programmer.png">
+            <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
         <div class="col-xs-9">
             <h3>WEBSITE DEVELOPMENT</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
-            <p><a href="/software-consultancy/software-development">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="software-consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-3">
             <img class="lazy" data-src="/assets/images/icons/team.png">
@@ -96,7 +96,7 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         <div class="col-xs-9">
             <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
             <p>Forming a team for a software project can be a challenging and time consuming process. Offload your development team formation to us</p>
-            <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -145,9 +145,11 @@ We understand object composition by implementing common design patterns
 - Social Networking
 
 <div id="consultancy-posts">
-    <h2>Recent Software & Software Development Consultancy posts our Experts</h2>
+    <h2>Recent Software & Software Development Consultancy posts from our Experts</h2>
     <p>We hire I.T experts to write for us</p>
-    {% assign items = site.consultation | where: "category","Software-Development" %}
+    {% assign collection1 = site.consultation | where: "category","Software-Development" %}
+    {% assign collection2 = site.consultation | where: "category","Web" %}
+    {% assign items = collection1 | concat: collection2 %}
     <ul class="post-list">
     {% for item in items %}
     {% if item.category == 'Cloud' %}
@@ -155,7 +157,7 @@ We understand object composition by implementing common design patterns
     {% elsif item.category == 'Cyber-Security' %}
         <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ item.category }}</span> {{item.title}}</a></li>
     {% elsif item.category == 'Web' %}
-        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ gitem.category }}</span> {{item.title}}</a></li>
+        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ item.category }}</span> {{item.title}}</a></li>
     {% elsif item.category == 'Hardware' %}
         <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ item.category }}</span> {{item.title}}</a></li>
     {% elsif item.category == 'Software-Development' %}

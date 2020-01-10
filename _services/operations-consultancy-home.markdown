@@ -21,6 +21,15 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
+Home automation
+
+Smart home. Smart you.
+
+Plex server for the home
+
+
+
+
 ## Save money & make I.T assets more reliable with the help of Keep-Alive I.T
 
  **Our services are for you.**
@@ -94,7 +103,6 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 <li><a title="Bespoke Cloud Solutions" href="bespoke-cloud-solutions/">Bespoke Cloud Solutions</a></li>
 <li><a title="Cloud &amp; IT Consultancy" href="citrix-cloud-consultancy/">Cloud &amp; IT Consultancy</a></li>
 <li><a title="Network Connectivity" href="network-connectivity/">Network Connectivity</a></li>
-<li><a title="IT Infrastructure Management" href="infrastructure-management/">IT Infrastructure Management</a></li>
 <li><a title="Telephony and VoIP" href="telephony-voip/">Telephony and VoIP</a></li>
 </ul>
 

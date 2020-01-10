@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Website Development"
-permalink: /software-consultancy/website-development-services
+title: "Infrastructure Management Services"
+permalink: /it-operations-consultancy/infrastructure-management-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -11,7 +11,10 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Website Development
-We provide website consultancy solutions for the following programming languages:
+## Server Management
+
+- Linux Server Administration
+- Windows Server Administration
+
 
 {% include industry-consultation.md %}

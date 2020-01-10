@@ -1,0 +1,37 @@
+---
+layout: splash
+title: "Cloud Services"
+permalink: /it-operations-consultancy/cloud
+
+excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
+header:
+  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_filter: 0.5 
+---
+
+{% include breadcrumbs.html %}
+
+## Cloud
+
+- Managed Cloud
+- Private Cloud
+- Hybrid Cloud
+- Public Cloud
+
+<li><a title="Application Hosting" href="application-hosting/">Application Hosting</a></li>
+
+
+<li><a title="Telephony and VoIP" href="telephony-voip/">Telephony and VoIP</a></li>
+<li><a title="Microsoft Office 365" href="office-365-for-business/">Microsoft Office 365</a></li>
+
+<li><a title="Hosted Desktop (DaaS)" href="hosted-desktops/">Hosted Desktop (DaaS)</a></li>
+
+
+- Cloud Native Consultancy (Cloud Readiness)
+- Virtualisation
+
+- Linux Server Administration
+- Windows Server Administration
+
+
+{% include industry-consultation.md %}

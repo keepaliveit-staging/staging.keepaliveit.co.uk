@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Development Team Formation & Developer Onboarding"
-permalink: /software-consultancy/development-team-formation-and-developer-onboarding
+permalink: /software-consultancy/development-team-formation-and-developer-onboarding-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

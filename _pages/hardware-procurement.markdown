@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Software Development"
-permalink: /software-consultancy/software-development-services
+title: "Hardware procurement"
+permalink: /it-operations-consultancy/hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -11,17 +11,21 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Software Development
-We provide software consultancy solutions for the following programming languages:
+IT Strategy
+IT Projects
+IT Audits
 
-- PHP Software Development
-- C# Software Development
-- Java Software Development
-- Python Software Development
+- IT Supplier Management
 
-Script creation
-- Bash
-- Powershell
 
+- Keyboards
+- Mice
+- Monitors
+
+- Devices
+    - Android Devices
+    - iOS Devices
+
+We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services
 
 {% include industry-consultation.md %}
