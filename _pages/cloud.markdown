@@ -33,5 +33,8 @@ header:
 - Linux Server Administration
 - Windows Server Administration
 
+<img class="lazy" data-src="/assets/images/cloud/aws-logo.png"/>
+<img class="lazy" data-src="/assets/images/cloud/google-cloud-logo.png"/>
+<img class="lazy" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
 
 {% include industry-consultation.md %}

@@ -296,6 +296,89 @@
 
 
 
+
+
+
+
+#discover h2 {
+  margin-top: 0px !important;
+  padding: 20px !important;
+}
+
+#discover h3 {
+  margin-top: 0px !important;
+}
+
+.pulse {
+  position: absolute;
+  display: inline-block;
+  width: 6%;
+  height: 6%;
+  border-radius: 50%;
+  background: #aa0000;
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(204,169,44, 0.4);
+  animation: pulse 2s infinite;
+}
+.pulse:hover {
+  animation: none;
+}
+
+.marker1{
+  top: 80%;
+  left: 57%;
+}
+
+.marker2{
+  top: 10%;
+  left: 59%;
+}
+
+.marker3{
+  top: 50%;
+  left: 24%;
+}
+
+.marker4{
+  top: 50%;
+  right: 20%;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+    -webkit-box-shadow: 0 0 0 50px rgba(204,169,44, 0);
+  }
+  100% {
+    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
+@keyframes pulse {
+  0% {
+    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+  }
+  70% {
+    -moz-box-shadow: 0 0 0 50px rgba(204,169,44, 0);
+    box-shadow: 0 0 0 50px rgba(204,169,44, 0);
+  }
+  100% {
+    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+    box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+  }
+}
+
+.btn--empty {
+  border: 3px solid #000000;
+  color: #000000 !important;
+  font-weight: 200;
+
+}
+
+
+
 @include breakpoint(max-width $medium) {
   .sidebar-box {
     max-height: 50px;

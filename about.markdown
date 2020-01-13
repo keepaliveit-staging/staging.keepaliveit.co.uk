@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
+{% include breadcrumbs.html %}
+
 ## About Keep-Alive I.T
 
 ### What does Keep-Alive I.T do?

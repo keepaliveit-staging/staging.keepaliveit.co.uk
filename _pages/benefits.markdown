@@ -12,8 +12,7 @@ header:
 {% include breadcrumbs.html %}
 
 ## Benefits of effective I.T
-Being ahead of the game with I.T shouldn't be a 
-
+Being ahead of the game with I.T can inherit many benefits:
 
 {% assign items = site.benefit %}
 <ul class="">

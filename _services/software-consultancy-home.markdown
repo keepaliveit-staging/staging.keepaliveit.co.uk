@@ -14,22 +14,16 @@ header:
         url: "software-consultancy/#software--software-development-consultancy"
         
 secondaryMenu:
-  - title: "Software Consultancy for Business"
+  - title: "Software Solutions for Businesses"
     url: /software-consultancy
-  - title: "Software Consultancy for the Home"
+  - title: "Software Solutions for the Home"
     url: /software-consultancy-home
 ---
 
 {% include breadcrumbs.html %}
 
 ## For Consumers
-Running I.T at home has become an important part of modern life. 
 
-- Homework
-- Coursework
-- External learning
-- Filing accounts
-- Online shopping
 
 ### Software & Software Development Consultancy
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
@@ -105,7 +99,7 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         </div>
         <div class="col-xs-9">
             <h3>CODE MENTORING</h3>
-            <p>Looking to learn how to code? We can provide quality code mentorship sessions with groups or individuals.</p>
+            <p>Looking to learn how to code? We can provide quality code mentorship sessions for groups, or individuals.</p>
             <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>

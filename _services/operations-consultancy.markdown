@@ -10,12 +10,12 @@ header:
   overlay_filter: 0.74
   actions:
       - label: "Explore our I.T Operations Services"
-        url: "#discover"
+        url: "it-operations-consultancy/#discover"
 
 secondaryMenu:
-  - title: "I.T Operations Consultancy for Business"
+  - title: "I.T Operations Solutions for Businesses"
     url: /it-operations-consultancy
-  - title: "I.T Operations Consultancy for the Home"
+  - title: "I.T Operations Solutions for the Home"
     url: /it-operations-consultancy-home
 ---
 
@@ -24,6 +24,8 @@ secondaryMenu:
 ## Save money & make I.T assets more reliable with the help of Keep-Alive I.T
 
  **Our services are for you.**
+
+<div id="discover"></div>
 
 ## I.T Operations Consultancy
 Safeguarding your business against the latest cyber threats and vulnerabilities.
@@ -46,7 +48,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
             <img class="lazy" data-src="/assets/images/icons/software.png">
         </div>
         <div class="col-xs-9">
-            <h3>HARDWARE PROCUREMENT AND SETUP</h3>
+            <h3>HARDWARE PROCUREMENT AND SETUP SERVICE</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
             <p><a href="/it-operations-consultancy/hardware-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
         </div>
@@ -61,7 +63,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
         </div>
         <div class="col-xs-9">
-            <h3>I.T SUPPORT</h3>
+            <h3>I.T SUPPORT SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
             <p><a href="/it-operations-consultancy/it-support">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
@@ -76,7 +78,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
         </div>
         <div class="col-xs-9">
-            <h3>I.T COMPLIANCE & SECURITY</h3>
+            <h3>I.T COMPLIANCE & SECURITY SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
             <p><a href="/it-operations-consultancy/it-compliance-and-security-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
@@ -91,8 +93,8 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
             <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
         <div class="col-xs-9">
-            <h3>INFRASTRCTURE MANAGEMENT</h3>
-            <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
+            <h3>INFRASTRCTURE MANAGEMENT SERVICES</h3>
+            <p>Firewalls, DNS, Email, Infrastructure Monitoring, Backup solutions</p>
             <p><a href="/it-operations-consultancy/infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
@@ -106,7 +108,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
             <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
         <div class="col-xs-9">
-            <h3>CLOUD</h3>
+            <h3>CLOUD CONSULTANCY SERVICES</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
             <p><a href="/it-operations-consultancy/cloud">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>

@@ -27,14 +27,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "Keep-Alive I.T Services"
 title_separator          : "-"
-subtitle                 : "I.T Development & Operations Consultancy"
+subtitle                 : "I.T Development & Operations Consultancy Solutions for Businesses and Consumers"
 name                     : "Keep-Alive I.T Ltd." # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://keepaliveit.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.PNG" # path of logo image to display in header
+logo                     : "/assets/images/logo.png" # path of logo image to display in header
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,7 +78,7 @@ company_number: 12358813
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
@@ -219,6 +219,9 @@ collections:
   consultation:
     output: true
     permalink: /it-consultation/:path/
+  benefit:
+      output: true
+      permalink: /benefits/:path/
   solutions:
     output: true
     permalink: /it-solutions/:path/
@@ -268,24 +271,6 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _portfolio
   - scope:
       path: ""

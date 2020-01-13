@@ -4,7 +4,7 @@ title: "Software Consultancy & Software Development Services for Business"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions, or just be of general assistance with a software related query for your business."
+excerpt: "Learn how Keep-Alive I.T's Services can make critical I.T Software decisions for your workplace backed by expert opinions, or offer a helping hand with software queries."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.74
@@ -13,18 +13,18 @@ header:
         url: "software-consultancy/#software--software-development-consultancy"
         
 secondaryMenu:
-  - title: "Software Consultancy for Business"
+  - title: "Software Solutions for Businesses"
     url: /software-consultancy
-  - title: "Software Consultancy for the Home"
+  - title: "Software Solutions for the Home"
     url: /software-consultancy-home
 ---
 
 {% include breadcrumbs.html %}
 
-### Software & Software Development Consultancy
-In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential business requirement. 
+## Software Consultancy & Software Development Services For Business
+In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential requirement for the operation of any business. 
 
-Overall, high quality Software <a href="/benefits/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts for making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, closure of a company, or death in more extreme cases. We're here to help mitigate such risks to your business by offering our Software & Software Development Consultancy services. 
+Overall, high quality Software <a href="/benefits/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts with making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts with implementing software without following processes could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, death to humans and/or animals, or entire closure of a company in more extreme cases. We're here to help mitigate such risks to businesses by offering our Software & Software Development Consultancy services at an affordable price that'll yield positive ROI figures for future operation of a company. 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
@@ -35,7 +35,7 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         </div>
         <div class="col-xs-9">
             <h3>SOFTWARE TRAINING</h3>
-            <p>We offer workshop based software training courses for training staff or students on various aspects of I.T</p>    
+            <p>We offer workshop based software training sessions tailored towards training staff with software packages for .</p>    
             <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
@@ -95,8 +95,8 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
         </div>
         <div class="col-xs-9">
             <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
-            <p>Forming a team for a software project can be a challenging and time consuming process. Offload your development team formation to us</p>
-            <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p>Forming a new software development team, or onboarding new software developers in existing software development teams can be a challenging, frustrating, and time consuming process. Offload your development team formation tasks to us and we'll apply our expertise with forming a development team, hiring new software developers, onboarding software developers, managing existing staff, and implementing plans & processes to make software development projects a success.</p>
+            <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Development Team formation & Software Developer onboarding Services.</a></p>
         </div>
     </div>
 </div>
