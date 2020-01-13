@@ -22,6 +22,8 @@ IT Audits
 - Mice
 - Monitors
 
+Including drivers setup
+
 - Devices
     - Android Devices
     - iOS Devices

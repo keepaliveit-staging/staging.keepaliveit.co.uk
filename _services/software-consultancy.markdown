@@ -30,10 +30,10 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/software-training.png">  
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
             <p>We offer workshop based software training sessions tailored towards training staff with software packages for .</p>    
             <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
@@ -45,10 +45,10 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/software.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
             <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
@@ -60,10 +60,10 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE DEVELOPMENT</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
             <p><a href="/software-consultancy/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
@@ -75,10 +75,10 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
             <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
@@ -90,10 +90,10 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/team.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
             <p>Forming a new software development team, or onboarding new software developers in existing software development teams can be a challenging, frustrating, and time consuming process. Offload your development team formation tasks to us and we'll apply our expertise with forming a development team, hiring new software developers, onboarding software developers, managing existing staff, and implementing plans & processes to make software development projects a success.</p>
             <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Development Team formation & Software Developer onboarding Services.</a></p>
