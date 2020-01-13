@@ -26,7 +26,7 @@ header:
 - Freelancer Software
 - Surveying Software
 
-We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware procurement</a> services
+We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware procurement</a> services for your business hardware needs.
 
 - Software Licensing
 - IT Supplier Management
