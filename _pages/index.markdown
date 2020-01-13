@@ -130,6 +130,8 @@ Contact us today and we can provide you with tailored support packages from your
 {% endfor %}
 {% endcomment %}
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ### I.T for Consumers
 Running I.T at home has become an important part of modern life. 
 

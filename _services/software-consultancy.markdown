@@ -4,14 +4,11 @@ title: "Software Consultancy & Software Development Services for Business"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T's Services can make critical I.T Software decisions for your workplace backed by expert opinions, or offer a helping hand with software queries."
+excerpt: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant. Learn how Keep-Alive I.T's Services can make critical I.T Software decisions for your workplace backed by expert opinions, or offer a helping hand with software queries."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.74
-  actions:
-      - label: "Discover how our I.T Services can help keep your Business's I.T Operational & Compliant"
-        url: "software-consultancy/#software--software-development-consultancy"
-        
+  
 secondaryMenu:
   - title: "Software Solutions for Businesses"
     url: /software-consultancy
@@ -126,23 +123,6 @@ Workflow
 
 
 How to stop 
-
-
-We understand object composition by implementing common design patterns
-
-
-- Calendars
-- Communication Tools
-- Content Management
-- Database Abstractions
-- eCommerce
-- Forms
-- Images and Media
-- Membership or Authentication Tools
-- Project Management Tools
-- Ratings and Charts
-- Shopping Carts
-- Social Networking
 
 <div id="consultancy-posts">
     <h2>Recent Software & Software Development Consultancy posts from our Experts</h2>

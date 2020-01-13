@@ -14,8 +14,23 @@ header:
 ## Website Development
 We provide website consultancy solutions for the following programming languages:
 
-{% include industry-consultation.md %}
+We understand object composition by implementing common design patterns
 
+- Calendars
+- Communication Tools
+- Content Management
+- Database Abstractions
+- eCommerce
+- Forms
+- Images and Media
+- Membership or Authentication Tools
+- Project Management Tools
+- Ratings and Charts
+- Shopping Carts
+- Social Networking
+
+
+{% include industry-consultation.md %}
 
 <div class="pricing pricing--palden">
                 <div class="pricing__item">
