@@ -45,6 +45,8 @@ excerpt: >
     </div>
 </section>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ## The importance of effective I.T systems for Businesses
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
@@ -141,6 +143,7 @@ Running I.T at home has become an important part of modern life.
 - Filing accounts
 - Online shopping
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 <h3>Why Keep-Alive I.T?</h3>
 <p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
