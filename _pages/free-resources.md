@@ -1,9 +1,18 @@
 ---
+layout: splash 
+author_profile: false 
+industry_name: Florist
 title: "Free I.T Resources"
 permalink: /free-resources
-layout: splash
-author_profile: false
 
+toc: true
+toc_sticky: true
+
+excerpt: "Free I.T resources"
+header:
+  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_filter: 0.5 
+  
 feature_row:
   - image_path: /assets/images/website-consultation.png
     alt: "customizable"

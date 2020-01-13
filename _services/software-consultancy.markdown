@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Consultancy & Software Development Services for Business"
+title: "Software Consultancy & Software Development Services for Businesses"
 permalink: /software-consultancy
 classes:
   - software-consultancy
@@ -18,7 +18,7 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
-## Software Consultancy & Software Development Services For Business
+## Software Consultancy & Software Development Services For Businesses
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential requirement for the operation of any business. 
 
 Overall, high quality Software <a href="/benefits/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted. With this key factor in mind, taking shortcuts with making software decisions, or implementing software certainly isn't something that should be taken for granted. Taking shortcuts with implementing software without following processes could be catastrophic for a business and could cause catastrophes such as bad publicity, loss of profits, expensive lawsuits, death to humans and/or animals, or entire closure of a company in more extreme cases. We're here to help mitigate such risks to businesses by offering our Software & Software Development Consultancy services at an affordable price that'll yield positive ROI figures for future operation of a company. 
@@ -46,7 +46,7 @@ Overall, high quality Software <a href="/benefits/increased-productivity">enhanc
             <img class="lazy" data-src="/assets/images/icons/software.png">
         </div>
         <div class="col-xs-8 col-sm-9">
-            <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
+            <h3>SOFTWARE PROCUREMENT AND SOFTWARE IMPLEMENTATION</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
             <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
         </div>

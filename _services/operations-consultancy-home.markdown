@@ -8,9 +8,6 @@ excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operat
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
   overlay_filter: 0.74
-  actions:
-      - label: "Explore our I.T Operations Services"
-        url: "#discover"
 
 secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"

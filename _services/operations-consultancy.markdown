@@ -8,9 +8,6 @@ excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operat
 header:
   overlay_image: /assets/images/it-operations-consultancy.jpg
   overlay_filter: 0.74
-  actions:
-      - label: "Explore our I.T Operations Services"
-        url: "it-operations-consultancy/#discover"
 
 secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"
@@ -44,10 +41,10 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/software.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>HARDWARE PROCUREMENT AND SETUP SERVICE</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
             <p><a href="/it-operations-consultancy/hardware-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
@@ -59,10 +56,10 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>I.T SUPPORT SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
             <p><a href="/it-operations-consultancy/it-support">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
@@ -74,10 +71,10 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/programmer.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>I.T COMPLIANCE & SECURITY SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
             <p><a href="/it-operations-consultancy/it-compliance-and-security-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
@@ -89,10 +86,10 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>INFRASTRCTURE MANAGEMENT SERVICES</h3>
             <p>Firewalls, DNS, Email, Infrastructure Monitoring, Backup solutions</p>
             <p><a href="/it-operations-consultancy/infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
@@ -104,10 +101,10 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
-        <div class="col-xs-3">
+        <div class="col-xs-4 col-sm-3">
             <img class="lazy" data-src="/assets/images/icons/web.png">
         </div>
-        <div class="col-xs-9">
+        <div class="col-xs-8 col-sm-9">
             <h3>CLOUD CONSULTANCY SERVICES</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
             <p><a href="/it-operations-consultancy/cloud">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
