@@ -36,7 +36,7 @@ excerpt: >
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
             <h3>Everybody needs and relies on I.T, not just Geeks 🤓</h3>
-            <p>Individuals and businesses now depend on I.T more than ever before for leisure, convenience, healthcare, and business reasons.</p> 
+            <p>Individuals and businesses now depend on I.T more than ever before for leisure, convenience, healthcare, and business purposes.</p> 
             <p>Modern & cutting edge I.T keeps our homes & offices operational, our mobile phones communicating, and connects people in the United Kingdom with the rest of the world.</p>
             <p style="font-size: 0.85em;">To learn more about the imporance of commercial and consumer I.T, please click on one of the following links:</p>
             <a href="/#the-importance-of-effective-it-systems-for-businesses" class="btn btn--empty btn--large">Discover effective I.T for Businesses</a>
