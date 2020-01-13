@@ -20,7 +20,7 @@ excerpt: >
 
     <div class="row center-xs">
         <div class="col-xs-12 col-md-6">
-            <h2>I.T Matters. At home, in the office, and all around us.</h2>
+            <h2>I.T Matters. At home, in the office, and all around the United Kingdom.</h2>
         </div>
     </div>
 
