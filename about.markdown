@@ -1,8 +1,16 @@
 ---
 layout: splash
-title: About
+title: "About Keep-Alive I.T"
 permalink: /about
+classes:
+  - about
+excerpt: "Learn more about Keep-Alive I.T"
+
+header:
+  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_filter: 0.74
 ---
+
 
 {% include breadcrumbs.html %}
 
