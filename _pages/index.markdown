@@ -168,8 +168,7 @@ Running I.T at home has become an important part of modern life.
                 <div class="item-title">Customer focused</div>
                 <div class="item-description">We listen to our customers feedback and are always trying to improve
                     what we do. Throughout the duration of our time working together, we will ask for feedback on
-                    how our work is performing. These metrics will be used for imrpoving our service for other
-                    valued customers.
+                    how our work is performing. These metrics will be used for imprpoving our service for other valued customers and no feedback is ever shared publically without your permission.
                 </div>
                 </div>
             </div>
@@ -179,8 +178,7 @@ Running I.T at home has become an important part of modern life.
                 <img class="lazy" data-src="assets/images/benefits/payment-day.png"/>
                 <div class="item-title">Monthly repayments</div>
                 <div class="item-description">Say goodbye to upfront bills and spread the cost over a period of 3,
-                    or 6 months. We offer monthly payments for retainer contracts and for clients who have worked
-                    with us before.
+                    or 6 months. We offer monthly payments for retainer contracts and existing clients, meaning a better cashflow for your business and more affordable I.T systems.
                 </div>
                 </div>
             </div>
@@ -201,7 +199,7 @@ Running I.T at home has become an important part of modern life.
                 <img class="lazy" data-src="assets/images/benefits/locked.png"/>
                 <div class="item-title">Secure & Confidential</div>
                 <div class="item-description">We respect your privacy and we're more than happy to sign any
-                    Non-Disclosure Agreements that our clients may have. We're fully GDPR compliant
+                    Non-Disclosure Agreements that our clients may have. We're fully GDPR compliant, meaning the way we handle your data is fair and legal. Should you need to know more about this, please contact us.
                 </div>
                 </div>
             </div>
@@ -212,7 +210,7 @@ Running I.T at home has become an important part of modern life.
                 <div class="item-title">Passionate About Technology</div>
                 <div class="item-description">We hire only the best consultants and engineers who are passionate
                     about technology. Their work is also their passion, meaning they're always kept up to date with
-                    the industry.
+                    the best industry standards and can also specialise in technologies if required.
                 </div>
                 </div>
             </div>
@@ -223,7 +221,7 @@ Running I.T at home has become an important part of modern life.
                 <div class="item-title">Around the clock operation</div>
                 <div class="item-description">Just like any other company, we have office hours. However, we
                     understand I.T is a 24 operation so we've built our business around incident response and can
-                    ensure staff members can be at hand 24 hours a day.
+                    ensure staff members can be at hand 24 hours a day to respond to urgent queries or production issues.
                 </div>
                 </div>
             </div>

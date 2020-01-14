@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's I.T Operations Consultancy Services for Business"
+title: "Keep-Alive I.T's I.T Operations Consultancy Services for Businesses"
 permalink: /it-operations-consultancy
 classes:
   - operations-consultancy
@@ -24,7 +24,7 @@ secondaryMenu:
 
 <div id="discover"></div>
 
-## I.T Operations Consultancy
+## I.T Operations Consultancy for Businesses
 Safeguarding your business against the latest cyber threats and vulnerabilities.
 
 Secure, operational, and robust infrastructure is crucial for businesses who want their [business software](/software-consultancy) to be resilient and available.
