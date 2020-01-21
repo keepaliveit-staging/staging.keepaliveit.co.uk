@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Increased Communications"
-permalink: /benefits/increased-communications
+permalink: /benefits-of-it/increased-communications
 
 excerpt: "Efficient I.T improves communication"
 header:

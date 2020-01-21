@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Increased employee productivity"
-permalink: /benefits/increased-productivity
+permalink: /benefits-of-it/increased-productivity
 
 excerpt: "Increased employee productivity"
 header:

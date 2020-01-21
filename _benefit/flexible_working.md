@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Flexible working"
-permalink: /benefits/flexible-working
+permalink: /benefits-of-it/flexible-working
 
 excerpt: "Efficient I.T improves productivity"
 header:

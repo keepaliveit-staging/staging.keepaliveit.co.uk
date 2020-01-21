@@ -115,7 +115,7 @@
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
       {% if page.header.cta_url %}
-        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Access Resource" }}</a></p>
+        <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large btn--grow">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Access Resource" }}</a></p>
       {% endif %}
       {% if page.header.actions %}
         <p>
@@ -125,7 +125,7 @@
           {% else %}
             {% assign url = action.url | relative_url %}
           {% endif %}
-          <a href="{{ url }}" class="btn btn--light-outline btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Access Resource" }}</a>
+          <a href="{{ url }}" class="btn btn--light-outline btn--large btn--grow">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Access Resource" }}</a>
         {% endfor %}
       {% endif %}
     </div>

@@ -3,7 +3,7 @@
 
     {% assign author = page.author | default: page.authors[0] | default: site.author %}
     {% assign author = site.data.authors[author] | default: author %}
-    <p class="notice--info"><i class="fas fa-check-circle"></i> <strong>Approved Expert Article:</strong> by {{ author.name }}.</p>
+    <p class="notice--info"><i class="fas fa-check-circle"></i> <strong>Approved Expert Article</strong> by {{ author.name }} on behalf of Keep-Alive I.T.</p>
 
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}

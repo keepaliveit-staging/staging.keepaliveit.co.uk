@@ -10,5 +10,12 @@ author_profile: true
 
 ## What is authorisation?
 
+## Examples of 2FA
+
+### Microsoft Authenticator
+https://www.microsoft.com/en-us/account/authenticator
+
+> Passwords can be forgotten, stolen, or compromised. With Authenticator, your phone provides an extra layer of security on top of your PIN or fingerprint.
+
 ## How can my business implement 2FA?
 

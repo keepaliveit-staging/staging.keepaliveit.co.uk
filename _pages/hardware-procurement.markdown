@@ -30,6 +30,9 @@ Including drivers setup
 
 - Servers
 
+### Cost of our Hardware procurement service
+
+
 We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services for your business software needs.
 
 {% include industry-consultation.md %}

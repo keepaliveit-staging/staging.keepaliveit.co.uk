@@ -156,6 +156,41 @@
     border-radius: .25rem;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
   }
+
+  .btn--grow {
+    animation-name: pulse_animation;
+    animation-duration: 4000ms;
+    transform-origin: 70% 70%;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+
+  @keyframes pulse_animation {
+    0% {
+      transform: scale(1);
+    }
+    30% {
+      transform: scale(1);
+    }
+    40% {
+      transform: scale(1.03);
+    }
+    50% {
+      transform: scale(1);
+    }
+    60% {
+      transform: scale(1);
+    }
+    70% {
+      transform: scale(1.03);
+    }
+    80% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
 }
 
 /* Landing page css */
@@ -251,7 +286,6 @@
   display: none;
 }
 
-
 .divider {
   position: relative;
   margin: 60px 0;
@@ -294,12 +328,6 @@
   }
 }
 
-
-
-
-
-
-
 #discover h2 {
   margin-top: 0px !important;
   padding: 20px !important;
@@ -317,56 +345,58 @@
   border-radius: 50%;
   background: #aa0000;
   cursor: pointer;
-  box-shadow: 0 0 0 rgba(204,169,44, 0.4);
+  box-shadow: 0 0 0 rgba(204, 169, 44, 0.4);
   animation: pulse 2s infinite;
 }
+
 .pulse:hover {
   animation: none;
 }
 
-.marker1{
+.marker1 {
   top: 80%;
   left: 57%;
 }
 
-.marker2{
+.marker2 {
   top: 10%;
   left: 59%;
 }
 
-.marker3{
+.marker3 {
   top: 50%;
   left: 24%;
 }
 
-.marker4{
+.marker4 {
   top: 50%;
   right: 20%;
 }
 
 @-webkit-keyframes pulse {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    -webkit-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
   }
   70% {
-    -webkit-box-shadow: 0 0 0 50px rgba(204,169,44, 0);
+    -webkit-box-shadow: 0 0 0 50px rgba(204, 169, 44, 0);
   }
   100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+    -webkit-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
   }
 }
+
 @keyframes pulse {
   0% {
-    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
-    box-shadow: 0 0 0 0 rgba(204,169,44, 0.4);
+    -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
+    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0.4);
   }
   70% {
-    -moz-box-shadow: 0 0 0 50px rgba(204,169,44, 0);
-    box-shadow: 0 0 0 50px rgba(204,169,44, 0);
+    -moz-box-shadow: 0 0 0 50px rgba(204, 169, 44, 0);
+    box-shadow: 0 0 0 50px rgba(204, 169, 44, 0);
   }
   100% {
-    -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
-    box-shadow: 0 0 0 0 rgba(204,169,44, 0);
+    -moz-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
+    box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
   }
 }
 
@@ -376,8 +406,6 @@
   font-weight: 200;
 
 }
-
-
 
 @include breakpoint(max-width $medium) {
   .sidebar-box {

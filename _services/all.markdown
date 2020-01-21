@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "All Services supplied by Keep-Alive I.T"
+title: "All Services offered by Keep-Alive I.T"
 permalink: /services
 classes:
   - services

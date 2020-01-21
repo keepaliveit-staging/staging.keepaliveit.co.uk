@@ -16,6 +16,10 @@ header:
 
 ## About Keep-Alive I.T
 
+
+[How to find us](/about/how-to-find-us)
+[The process of working with us](/about/the-process-of-working-with-us)
+
 ### What does Keep-Alive I.T do?
 We're a universal I.T Consultation company who has over a decade of specialist experience with developing Agile software, and keeping I.T systems operational.
 

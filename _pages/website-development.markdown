@@ -30,6 +30,9 @@ We understand object composition by implementing common design patterns
 - Social Networking
 
 
+### Cost of our Website Development services
+
+
 {% include industry-consultation.md %}
 
 <div class="pricing pricing--palden">

@@ -184,7 +184,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _industry
+  #- _industry
 keep_files:
   - .git
   - .svn
@@ -221,7 +221,7 @@ collections:
     permalink: /it-consultation/:path/
   benefit:
       output: true
-      permalink: /benefits/:path/
+      permalink: /benefits-of-it/:path/
   solutions:
     output: true
     permalink: /it-solutions/:path/

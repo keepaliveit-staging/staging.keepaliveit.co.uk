@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Training"
+title: "Software Training Services"
 permalink: /software-consultancy/software-training-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."
@@ -37,6 +37,6 @@ Continual training enc
     <li>Should I consider a commercial or open source implementation?</li>
 </ul>
 
-
+### Cost of our Software Training services
 
 {% include industry-consultation.md %}

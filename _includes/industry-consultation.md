@@ -1,5 +1,5 @@
 <div id="industry-consultation">
-    <h3>Tailored I.T Consultancy by Industry or Business Type</h3>
+    <h3>Tailored I.T Consultancy for businesses by Business Type:</h3>
     <p>Looking for I.T consultancy services tailored towards your business industry? Browse for your industry or business type to get tailored I.T consultancy specific to your business:</p>
     <nav aria-label="Page navigation example">
       <ul class="pagination-az" id="industry-pagination">

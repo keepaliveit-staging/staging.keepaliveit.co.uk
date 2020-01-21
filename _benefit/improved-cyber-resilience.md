@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Improved Cyber Resilience"
-permalink: /benefits/improved-cyber-resilience
+permalink: /benefits-of-it/improved-cyber-resilience
 
 excerpt: "Effective I.T promotes an improved cyber resilience"
 header:

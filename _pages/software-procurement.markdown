@@ -31,5 +31,7 @@ We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware
 - Software Licensing
 - IT Supplier Management
 
+### Cost of our Software Procurement services
+
 
 {% include industry-consultation.md %}

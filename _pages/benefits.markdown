@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Benefits of effective I.T
-permalink: /benefits
+permalink: /benefits-of-it
 
 excerpt: "Effective I.T brings a range of benefits to the home and workplace. Explore the benefits that our services encourage."
 header:

@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Development Team Formation & Developer Onboarding Services"
-permalink: /software-consultancy/development-team-formation-and-developer-onboarding-services
+title: "Software Development Team Formation & Developer Onboarding Consultancy Services"
+permalink: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
 
 excerpt: "Learn how Keep-Alive I.T Services can develop business strategies to make your in-house development teams a success to produce more reliable software."
 header:
@@ -52,6 +52,12 @@ Our promise is that we will offer considerable savings to your startup or enterp
 
 Conflict resolution
 
-We can suggest the right tools and processes for your
+We can suggest the right tools and processes for your software development needs.
+
+We can design solutions for Windows, Linus, or Mac operating systems. With our tried and tested workflow solutions, we have seen an improvement to development teams working across multiple operating systems simultaenously, where before this caused many conflicts and confusions in the team.
+
+
+### Cost of our Development Team formation and developer onboarding services
+
 
 {% include industry-consultation.md %}

@@ -7,8 +7,8 @@ classes:
 excerpt: "Learn how Keep-Alive I.T Services can assist with software recommendations, or develop bespoke platform specific Software solutions for your home."
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
-  overlay_filter: 0.74
+  overlay_image: /assets/images/home.jpg
+  overlay_filter: 0.54
 
 secondaryMenu:
   - title: "Software Solutions for Businesses"

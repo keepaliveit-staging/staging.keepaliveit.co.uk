@@ -35,12 +35,13 @@ excerpt: >
             </div>
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
-            <h3>Everybody needs and relies on I.T, not just Geeks 🤓</h3>
-            <p>Individuals and businesses now depend on I.T more than ever before for leisure, convenience, healthcare, and business purposes.</p> 
-            <p>Modern & cutting edge I.T keeps our homes & offices operational, our mobile phones communicating, and connects people in the United Kingdom with the rest of the world.</p>
+            <h3>Everybody depends on I.T, not just Geeks 🤓</h3>
+            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases include personal convenience, Leisure, Healthcare, and Commercial purposes.</p> 
+            <p>Modern & cutting edge I.T helps keep our homes & offices safe and operational, and connects people in the United Kingdom with the rest of the world.</p>
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/#the-importance-of-effective-it-systems-for-businesses" class="btn btn--empty btn--large">Discover effective I.T for Businesses</a>
-            <a href="/#it-for-consumers" class="btn btn--empty btn--large">Discover  effective I.T for Consumers</a>
+            <a href="/#the-importance-of-effective-it-systems-for-businesses" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
+            <p>or</p>
+            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow">Discover  effective I.T for Consumers</a>
         </div>
     </div>
 </section>
@@ -86,7 +87,7 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of if a businesses is in the technology sector, or not. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, or sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
 ### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
@@ -135,14 +136,84 @@ Contact us today and we can provide you with tailored support packages from your
 <div class="divider div-transparent div-arrow-down"></div>
 
 ### I.T for Consumers
-Running I.T at home has become an important part of modern life. 
+Running I.T at home has become an important part of modern life and has changed the way families communicate and work.
+Here are some use cases for use of I.T in the modern home.
 
-- Homework
-- Coursework
-- External learning
-- Filing accounts
-- Online shopping
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <img class="lazy" data-src="assets/images/icons/family.png"/>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="item-title">For Mum & Dad</div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="item-description">
+                                <ul>
+                                    <li>Producing documents using desktop publishing softwares</li>        
+                                    <li>Filing accounts</li>
+                                    <li>Paying bills using internet banking.</li>
+                                    <li>Online shopping on e-Commerce websites</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-xs-12 col-sm-4">
+                <div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <img class="lazy" data-src="assets/images/icons/cat.png"/>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="item-title">For Pets</div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="item-description">
+                                <ul>        
+                                    <li>Smart feeding systems</li>
+                                    <li>Smart premises entering & exiting systems</li>
+                                    <li>Smart lighting for when nobody is home</li>
+                                    <li>Learning on e-Learning platforms</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-xs-12 col-sm-4">
+                <div>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <img class="lazy" data-src="assets/images/icons/boy.png"/>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="item-title">For the Kids</div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="item-description">
+                                <ul>        
+                                    <li>Homework / Coursework</li>
+                                    <li>Watching multimedia on internet streaming services</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </div>
+</section>
 
+As of 2020, most households in the United Kingdom have an internet connection and WiFi but when things don't go quite to plan
+    
 <div class="divider div-transparent div-arrow-down"></div>
 
 <h3>Why Keep-Alive I.T?</h3>

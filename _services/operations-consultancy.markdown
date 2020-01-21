@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's I.T Operations Consultancy Services for Businesses"
+title: "I.T Operations Consultancy Services for Businesses"
 permalink: /it-operations-consultancy
 classes:
   - operations-consultancy
 excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop production ready infrastructure that's scalable. reliable, and compliant."
 header:
-  overlay_image: /assets/images/it-operations-consultancy.jpg
-  overlay_filter: 0.74
+  overlay_image: /assets/images/businesses.jpg
+  overlay_filter: 0.54
 
 secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"
