@@ -344,8 +344,12 @@
   img {
     height: auto;
     width: auto;
-    margin: 0 auto;
-    padding: 20px;
+    margin: 30px auto 0;
+
+    @include breakpoint($small) {
+      padding: 20px;
+      margin-top: 20px;
+    }
   }
 
   div {
