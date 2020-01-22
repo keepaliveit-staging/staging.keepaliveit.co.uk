@@ -107,7 +107,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>CLOUD CONSULTANCY SERVICES</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
-            <p><a href="/it-operations-consultancy/cloud">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="/it-operations-consultancy/cloud-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>

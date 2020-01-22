@@ -57,6 +57,16 @@ We can suggest the right tools and processes for your software development needs
 We can design solutions for Windows, Linus, or Mac operating systems. With our tried and tested workflow solutions, we have seen an improvement to development teams working across multiple operating systems simultaenously, where before this caused many conflicts and confusions in the team.
 
 
+### Short Term Software maintenance contract
+
+### Long Term Software maintenance contract
+There may come a time when you know a current employee will be away from work for some time due to planned absence, or maternity leave. This can leave managers or directors in a complex situation as it means they need to start hiring for new employees.
+
+### Technical documentation and team training
+Whether you're looking for a drop-in developer for your team to cover instances such as sickness, or maternity, we are able to 
+
+Workflow
+
 ### Cost of our Development Team formation and developer onboarding services
 
 

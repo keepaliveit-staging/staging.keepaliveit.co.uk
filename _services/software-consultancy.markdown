@@ -4,7 +4,7 @@ title: "Software & Software Development Consultancy Services for Businesses"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T's expertly backed I.T services can make critical I.T Software decisions for your workplace. Whatever your I.T issue comprises of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service at the same time."
+excerpt: "Learn how Keep-Alive I.T's expert backed I.T services can make critical I.T Software decisions for your workplace. Whatever your I.T software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
@@ -21,17 +21,19 @@ secondaryMenu:
 ## Software & Software Development Consultancy Services for Businesses
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential requirement for the operation of any business. 
 
-Overall, high quality Software <a href="/benefits-of-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies simply wouldn't be as successful as they are today without the quality software that they've adopted over time. 
+Overall, high quality Software <a href="/benefits-of-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the quality software that they've implemented & adopted over time. Efficient Software has enabled companies to streamline their internal & external business processes to grow as a company by employing more staff and generate greater profits. 
 
-Implementing software without following suitable processes, or without understanding its true capabilities and limitations can be catastrophic for a business. Such catastrophes could include bad publicity, loss of profits, expensive lawsuits, death to humans and/or animals, or closure of a company altogether (in more severe cases). 
+### What are the implications of businesses not utilising Software & Software Development Consultancy services?
+Implementing software without following suitable processes, or without understanding its capabilities & limitations can be catastrophic for a business. Such catastrophes could include seeing system errors in production environments, facing system downtime, or facing data leaks & data breaches. In more severe cases, mis-configured or untested software can lead to bad publicity, loss of profits, expensive lawsuits, death to humans/animals, or closure of a company altogether. 
 
-We're here to help mitigate such risks to businesses by offering our Software & Software Development Consultancy services at an affordable price that'll yield positive ROI figures for future operation of a company. 
+We're here to help mitigate such risks by offering high quality Software & Software Development Consultancy services that'll enhance the way software is used within businesses. Our tailored packages will yield positive Return On Investment (ROI) opportunities for businesses over time, in addition to save time for you as a business to focus on your core business objectives, without having to even think about I.T as it can all be managed by us.
 
+<h3>Typical use cases for using our Software & Software Development Consultancy Services</h3>
+Whether you’re a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud migration strategy; Keep-Alive I.T is available to offer a helping hand with your software queries, no matter the size of your company, or the complexity of your requirements. 
 
-<h3>Typical use cases for Software & Software Development Consultancy Services</h3>
-Whether you’re a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud migration strategy; Keep-Alive I.T is always willing to offer a helping hand with your software queries, no matter the size of your company. We will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, or employee count.
+We will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, annual turnover, or employee count.
 
-<div class="divider div-transparent div-arrow-down"></div>
+<h2 style="margin-bottom:1em;">An Overview of our core Software & Software Development Consultancy Services</h2>
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
@@ -40,7 +42,7 @@ Whether you’re a small business who needs help designing & setting up a small 
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
-            <p>We offer workshop based software training sessions tailored towards training staff with software packages for .</p>    
+            <p>We offer one-to-one or workshop based software training sessions tailored towards training staff with I.T systems and software packages.</p>    
             <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
@@ -106,35 +108,41 @@ Whether you’re a small business who needs help designing & setting up a small 
     </div>
 </div>
 
+<h3>Other Software Services</h3>
+<p>Is the service you're looking for not listed? Fear not. We offer custom Software Consultancy solutions in addition to the packages listed above. Simply get in touch with us for an initial consultation to get a better idea of your I.T requirements and we can tailor software development, or retainer contracts towards your business needs.</p>
+
 <div class="divider div-transparent div-arrow-down"></div>
 
-## Our Guarantee
-We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
-We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll notify you ahead of time about this.
+<h2>Frequently Asked Questions (FAQs):</h2>
+<ul id="my-accordion" class="accordionjs">
+    <li>
+        <div>How much do your Software & Software Development Consultancy Services cost?</div>
+        <div>
+            
+        </div>
+    </li>
 
-### Short Term Software maintenance contract
+    <li>
+        <div>How much time do your Software & Software Development Consultancy Services take to complete?</div>
+        <div>
+           
+        </div>
+    </li>
 
+    <li>
+        <div>Do you offer retainer contracts for software maintanence that could be required in future?</div>
+        <div>
+           Of course! We understand all software requires patching to ensure security is 
+        </div>
+    </li>
 
-### Long Term Software maintenance contract
-There may come a time when you know a current employee will be away from work for some time due to planned absence, or maternity leave. This can leave managers or directors in a complex situation as it means they need to start hiring for new employees.
+</ul>
 
-### Bespoke in-house software solutions built around your business requirements
-
-### Technical documentation and team training
-
-### How Keep-Alive I.T’s Software Consultancy services can benefit your business
-
-Whether you're looking for a drop-in developer for your team to cover instances such as sickness, or maternity, we are able to 
-
-
-Workflow
-
-
-How to stop 
+<div class="divider div-transparent div-arrow-down"></div>
 
 <div id="consultancy-posts">
     <h2>Recent Software & Software Development Consultancy posts from our Experts</h2>
-    <p>We hire I.T experts to write for us</p>
+    <p>We hire I.T experts to write about Software & Software Development Consultancy topics so that our clients can keep educated on the latest I.T developments.</p>
     {% assign collection1 = site.consultation | where: "category","Software-Development" %}
     {% assign collection2 = site.consultation | where: "category","Web" %}
     {% assign items = collection1 | concat: collection2 %}

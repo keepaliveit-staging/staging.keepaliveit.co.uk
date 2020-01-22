@@ -17,4 +17,7 @@ header:
 - Windows Server Administration
 
 
+[Managed WiFi Access Points](/it-operations-consultancy/infrastructure-management-services/managed-wifi)
+[Managed Domain Names](/it-operations-consultancy/infrastructure-management-services/managed-domain-names)
+
 {% include industry-consultation.md %}

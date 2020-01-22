@@ -26,10 +26,6 @@ We're a universal I.T Consultation company who has over a decade of specialist e
 Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud
 migration strategy; Keep-Alive I.T will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, or employee count.
 
-### Where is Keep-Alive I.T based?
-We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 
-
-
 ### How much does Keep-Alive I.T charge for its I.T services?
 We believe being transparent and open about our prices to our potential and current customers is the best way to establish a good working relationship and solid trust right from the start. 
 
@@ -55,3 +51,9 @@ This depends on the type of work you need completed. As a general rule, there ar
 7. This marks the end of our time working together. We’ll send you over the finished works, and hopefully we can work together at some point in the future.
 
 You can find more specific details of how the flow works for each service we offer in the Client Forms section of the Keep Alive I.T website.
+
+## Training 
+We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
+
+## Our Guarantee
+We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll notify you ahead of time about this.

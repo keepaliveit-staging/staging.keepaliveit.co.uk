@@ -1,4 +1,25 @@
 .landing {
+  .or-separator {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0 !important;
+    font-size: 0.8em;
+  }
+  
+  .or-separator:before, .or-separator:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 1.5px solid #000;
+  }
+
+  .or-separator:before {
+    margin: auto 20px auto auto;
+  }
+
+  .or-separator:after {
+    margin: auto auto auto 20px;
+  }
+
   .feature__item {
     padding: 2em;
   }
@@ -406,6 +427,65 @@
   font-weight: 200;
 
 }
+
+
+.scrollmenu {
+  background-color: #292929;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  height: 3em;
+  margin: 0;
+  padding-left: 20px;
+  width: 100%;
+}
+
+.scrollmenu li {
+  list-style: none;
+  display: inline-block;
+  line-height: 3em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin-right: 20px;
+}
+
+.scrollmenu li a {
+  color: white;
+  text-align: center;
+  padding: 3px 12px;
+  text-decoration: none;
+  background: #333333;
+  border-radius: 20px;
+  font-size: 0.88em;
+}
+
+.secondary-menu > ul > li.masthead__menu-item.active a{
+  background-color: #777;
+}
+
+.scrollmenu a:hover {
+  background-color: #777;
+}
+
+
+.secondary-menu-wrapper {
+  background: #292929;
+  position: relative;
+  padding: 0;
+  clear: both;
+  height: 3em;
+}
+
+.secondary-menu {
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 
 @include breakpoint(max-width $medium) {
   .sidebar-box {

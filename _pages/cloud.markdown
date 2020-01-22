@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Cloud Services"
-permalink: /it-operations-consultancy/cloud
+permalink: /it-operations-consultancy/cloud-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -36,5 +36,6 @@ header:
 <img class="lazy" data-src="/assets/images/cloud/aws-logo.png"/>
 <img class="lazy" data-src="/assets/images/cloud/google-cloud-logo.png"/>
 <img class="lazy" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
+<img class="lazy" data-src="/assets/images/cloud/linode-logo.jpg"/>
 
 {% include industry-consultation.md %}

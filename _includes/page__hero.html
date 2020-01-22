@@ -31,70 +31,23 @@
 {% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
 
 {% if page.secondaryMenu %}
-<div class="secondary-menu">
-  <ul class="scrollmenu">
-    {%- for link in page.secondaryMenu -%}
-    {%- if link.url contains '://' -%}
-    {%- assign url = link.url -%}
-    {%- else -%}
-    {%- assign url = link.url | relative_url -%}
-    {%- endif -%}
-    <li class="masthead__menu-item {% if page.url == url %}active{% endif %}">
-      <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-    </li>
-    {%- endfor -%}
-  </ul>
+<div class="secondary-menu-wrapper">
+    <div class="secondary-menu">
+      <ul class="scrollmenu">
+        {%- for link in page.secondaryMenu -%}
+        {%- if link.url contains '://' -%}
+        {%- assign url = link.url -%}
+        {%- else -%}
+        {%- assign url = link.url | relative_url -%}
+        {%- endif -%}
+        <li class="masthead__menu-item {% if page.url == url %}active{% endif %}">
+          <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
 </div>
 {% endif %}
-
-<style>
-
-  .scrollmenu {
-    background-color: #292929;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-    height: 3em;
-    margin: 0;
-    padding-left: 20px;
-  }
-
-  .scrollmenu li {
-    list-style: none;
-    display: inline-block;
-    line-height: 3em;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    margin-right: 20px;
-  }
-
-  .scrollmenu li a {
-    color: white;
-    text-align: center;
-    padding: 3px 12px;
-    text-decoration: none;
-    background: #333333;
-    border-radius: 20px;
-    font-size: 0.88em;
-  }
-
-  .secondary-menu > ul > li.masthead__menu-item.active a{
-    background-color: #777;
-  }
-
-  .scrollmenu a:hover {
-    background-color: #777;
-  }
-
-  .secondary-menu {
-    background: #292929;
-    position: relative;
-    padding: 0;
-    clear: both;
-    height: 3em;
-  }
-</style>
-
 
 <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
   style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"

@@ -37,10 +37,9 @@ excerpt: >
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
             <h3>Everybody depends on I.T, not just Geeks 🤓</h3>
             <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases include personal convenience, Leisure, Healthcare, and Commercial purposes.</p> 
-            <p>Modern & cutting edge I.T helps keep our homes & offices safe and operational, and connects people in the United Kingdom with the rest of the world.</p>
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
             <a href="/#the-importance-of-effective-it-systems-for-businesses" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
-            <p>or</p>
+            <p class="or-separator">or</p>
             <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow">Discover  effective I.T for Consumers</a>
         </div>
     </div>
@@ -211,6 +210,8 @@ Here are some use cases for use of I.T in the modern home.
         </div>  
     </div>
 </section>
+
+Modern & cutting edge I.T helps keep our homes & offices safe and operational, and connects people in the United Kingdom with the rest of the world.
 
 As of 2020, most households in the United Kingdom have an internet connection and WiFi but when things don't go quite to plan
     
