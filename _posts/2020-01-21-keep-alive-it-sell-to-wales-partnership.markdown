@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Keep-Alive I.T is now an approved Sell2Wales partner."
+title:  "Keep-Alive I.T is now an Approved Sell2Wales Partner."
 date:   2019-11-26 22:20:28 +0000
 categories: news
 author_profile: true

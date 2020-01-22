@@ -8,7 +8,7 @@ permalink: /it-consultation-for-yoga-and-pilates-instructor-business
 toc: true
 toc_sticky: true
 
-excerpt: "I.T required in a Accountancy Practice Business."
+excerpt: "I.T required for a Yoga and Pilates Instructor Business."
 header:
   overlay_image: /assets/images/industries/yoga.jpg
   overlay_filter: 0.5 

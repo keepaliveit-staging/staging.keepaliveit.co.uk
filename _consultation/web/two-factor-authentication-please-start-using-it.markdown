@@ -8,6 +8,12 @@ author_profile: true
 
 ## What is Two Factor Authentication?
 
+> Something you know: This could be a personal identification number (PIN), a password, answers to “secret questions” or a specific keystroke pattern
+
+> Something you have: Typically, a user would have something in their possession, like a credit card, a smartphone, or a small hardware token
+
+> Something you are: This category is a little more advanced, and might include biometric pattern of a fingerprint, an iris scan, or a voice print
+
 ## What is authorisation?
 
 ## Examples of 2FA

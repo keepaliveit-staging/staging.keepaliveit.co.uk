@@ -13,6 +13,7 @@ header:
 
 ## Managed Wifi Access Points
 
+<!--
 <div>
     Fully managed WiFi, setup securely, and fully managed by experts with no monthly fees! &nbsp;<br><br>Make sure your
     WiFi is setup correctly, with full coverage across buildings, with one WiFi name so you can roam seamlessly without
@@ -53,5 +54,6 @@ Key Features
     <li>Delivered ready set up, just plug&nbsp;in!</li>
     <li>Buy or rent</li>
 </ul>
+-->
 
 {% include industry-consultation.md %}

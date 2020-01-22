@@ -4,7 +4,7 @@ title: "Software & Software Development Consultancy Services for Businesses"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T's expert backed I.T services can make critical I.T Software decisions for your workplace. Whatever your I.T software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."
+excerpt: "Learn how Keep-Alive I.T's expert backed I.T software services can make critical I.T Software decisions for your workplace. Whatever your I.T software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
@@ -21,12 +21,12 @@ secondaryMenu:
 ## Software & Software Development Consultancy Services for Businesses
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential requirement for the operation of any business. 
 
-Overall, high quality Software <a href="/benefits-of-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the quality software that they've implemented & adopted over time. Efficient Software has enabled companies to streamline their internal & external business processes to grow as a company by employing more staff and generate greater profits. 
+Overall, high quality Software <a href="/benefits-of-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the quality software that they've implemented & adopted over time. Efficient Software has enabled companies to streamline their internal & external business processes to grow as a company by employing more staff and to sell better quality products or services, leading to generating greater profits in the long run. 
 
 ### What are the implications of businesses not utilising Software & Software Development Consultancy services?
 Implementing software without following suitable processes, or without understanding its capabilities & limitations can be catastrophic for a business. Such catastrophes could include seeing system errors in production environments, facing system downtime, or facing data leaks & data breaches. In more severe cases, mis-configured or untested software can lead to bad publicity, loss of profits, expensive lawsuits, death to humans/animals, or closure of a company altogether. 
 
-We're here to help mitigate such risks by offering high quality Software & Software Development Consultancy services that'll enhance the way software is used within businesses. Our tailored packages will yield positive Return On Investment (ROI) opportunities for businesses over time, in addition to save time for you as a business to focus on your core business objectives, without having to even think about I.T as it can all be managed by us.
+We're here to help mitigate such risks by offering high quality Software & Software Development Consultancy services that'll enhance the way software is used within businesses. Our tailored packages will yield positive Return On Investment (ROI) opportunities for businesses over time, in addition to save time for you as a business to focus on your core business objectives, without you even have to think about I.T systems.
 
 <h3>Typical use cases for using our Software & Software Development Consultancy Services</h3>
 Whether you’re a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud migration strategy; Keep-Alive I.T is available to offer a helping hand with your software queries, no matter the size of your company, or the complexity of your requirements. 
@@ -42,7 +42,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
-            <p>We offer one-to-one or workshop based software training sessions tailored towards training staff with I.T systems and software packages.</p>    
+            <p>We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T systems and software packages.</p>    
             <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
@@ -57,8 +57,8 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE PROCUREMENT AND SOFTWARE IMPLEMENTATION</h3>
-            <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
-            <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+            <p>Procurement and tendering I.T contracts </p>      
+            <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Procurement & Implementation consultancy Services.</a></p>
         </div>
     </div>
 </div>
@@ -118,14 +118,14 @@ We will plan, consult, and implement I.T solutions for organisations of all size
     <li>
         <div>How much do your Software & Software Development Consultancy Services cost?</div>
         <div>
-            
+            Our prices start at £300 per day
         </div>
     </li>
 
     <li>
         <div>How much time do your Software & Software Development Consultancy Services take to complete?</div>
         <div>
-           
+           It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate
         </div>
     </li>
 

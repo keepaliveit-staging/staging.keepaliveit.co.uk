@@ -31,7 +31,7 @@ subtitle                 : "I.T Development & Operations Consultancy Solutions f
 name                     : "Keep-Alive I.T Ltd." # &name is a YAML anchor which can be *referenced later
 description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 url                      : https://keepaliveit.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in header
@@ -184,7 +184,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - _industry
+ # - _industry
 keep_files:
   - .git
   - .svn
@@ -219,6 +219,9 @@ collections:
   consultation:
     output: true
     permalink: /it-consultation/:path/
+  techtip:
+      output: true
+      permalink: /tech-tips/:path/
   benefit:
       output: true
       permalink: /benefits-of-it/:path/

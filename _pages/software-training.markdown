@@ -38,5 +38,6 @@ Continual training enc
 </ul>
 
 ### Cost of our Software Training services
+Prices start at £1000 per day. Please enquire for more information.
 
 {% include industry-consultation.md %}

@@ -1,9 +1,9 @@
 ---
 layout: splash 
 author_profile: false 
-industry_name: Actor
-title: I.T Consultation for Actor Business
-permalink: /it-consultation-for-actor-business
+industry_name: Acting
+title: I.T Consultation for Acting Business
+permalink: /it-consultation-for-acting-business
 
 toc: true
 toc_sticky: true
