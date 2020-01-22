@@ -38,7 +38,7 @@ feature_row:
 ---
 
 ## Free Resources
-As a way of saying thank you to the community, we'll be releasing occasional free I.T resources.
+As a way of saying thank you to our customers for supporting us as a business, we'll be releasing free I.T resources occasionally.
 
 <div>
     <h3>Free I.T Consultancy Resources</h3>

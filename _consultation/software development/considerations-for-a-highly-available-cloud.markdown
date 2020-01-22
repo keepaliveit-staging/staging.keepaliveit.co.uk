@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Architecting software for effective event logging and alerting"
+title:  "Architecting Software for effective Event Logging and Alerting"
 date:   2019-11-26 22:20:28 +0000
 category: Software-Development
 tags: 
@@ -18,3 +18,6 @@ Considerations:
 An example of implementing logging into your application.
 
 I'm going to demonstrate two examples
+
+
+Want to keep up to date with our latest I.T consultation posts?

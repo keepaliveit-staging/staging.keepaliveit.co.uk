@@ -36,11 +36,11 @@ excerpt: >
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
             <h3>Everybody depends on I.T, not just Geeks 🤓</h3>
-            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases include personal convenience, Leisure, Healthcare, and Commercial purposes.</p> 
+            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/#the-importance-of-effective-it-systems-for-businesses" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
+            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
             <p class="or-separator">or</p>
-            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow">Discover  effective I.T for Consumers</a>
+            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;">Discover effective I.T for Consumers</a>
         </div>
     </div>
 </section>
@@ -321,31 +321,6 @@ As of 2020, most households in the United Kingdom have an internet connection an
         </div>
     </div>
 </section>
-
-<div id="consultancy-posts">
-    <h3>Recent I.T Consultancy Posts from our Experts</h3>
-    <p>We hire I.T pros to write guides on the top industry trends. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
-    {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
-    <ul class="post-list">
-    {% for group in groups %}
-    {% for item in group.items %}
-    {% if item.category == 'Cloud' %}
-        <li><a href="{{ item.url }}"><span class="cloud-tag"><i class="fas fa-cloud"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Cyber-Security' %}
-        <li><a href="{{ item.url }}"><span class="cyber-security-tag"><i class="fas fa-shield-alt"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Web' %}
-        <li><a href="{{ item.url }}"><span class="web-tag"><i class="fas fa-globe"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Hardware' %}
-        <li><a href="{{ item.url }}"><span class="hardware-tag"><i class="fas fa-microchip"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% elsif item.category == 'Software-Development' %}
-        <li><a href="{{ item.url }}"><span class="software-tag"><i class="fas fa-code"></i> {{ group.name }}</span> {{item.title}}</a></li>
-    {% else %}
-        <li><a href="{{ item.url }}">[<i class="fas fa-cloud"></i> {{ group.name }}] {{item.title}}</a></li>
-    {% endif %}
-    {%endfor%}
-    {%endfor%}
-    </ul>
-</div>
 
 <div>
     <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>

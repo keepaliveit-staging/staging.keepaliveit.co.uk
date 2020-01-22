@@ -12,6 +12,10 @@ header:
 {% include breadcrumbs.html %}
 
 ## Website Development
+
+Establising your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
+
+
 We provide website consultancy solutions for the following programming languages:
 
 We understand object composition by implementing common design patterns
@@ -70,7 +74,6 @@ We understand object composition by implementing common design patterns
                             <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
 	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z"></path>
                         </svg>
-                        <div class="pricing__package_popular">Most popular</div>
                         <div class="pricing__price"><span class="pricing__currency">£</span>1999<span class="pricing__period">/ week</span></div>
                         <h3 class="pricing__title">Weekly Rate</h3>
                     </div>
@@ -147,38 +150,6 @@ We understand object composition by implementing common design patterns
 @font-face{font-family:'Nunito';font-style:normal;font-weight:700;src:local('Nunito Bold'), local('Nunito-Bold'), url(https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUbuvIWzgPDEtj.woff2) format('woff2');unicode-range:U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;}
 @font-face{font-family:'Nunito';font-style:normal;font-weight:700;src:local('Nunito Bold'), local('Nunito-Bold'), url(https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUb-vIWzgPDEtj.woff2) format('woff2');unicode-range:U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;}
 @font-face{font-family:'Nunito';font-style:normal;font-weight:700;src:local('Nunito Bold'), local('Nunito-Bold'), url(https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevIWzgPDA.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}
-
-
-.pricing__package_popular:before {
-    content: "";
-    position: absolute;
-    top: 0px;
-    left: -24px;
-    border-style: solid;
-    border-width: 24px 24px 0px 0px;
-    border-color: transparent red transparent transparent;
-}
-
-
-.pricing__package_popular:after {
-    content: "";
-    position: absolute;
-    top: 0px;
-    right: -48px;
-    border-style: solid;
-    border-width: 24px 24px 0px 24px;
-    border-color: transparent transparent red red;
-}
-
-.pricing__package_popular {
-    position: relative;
-    top: -48px;
-    color: white;
-    transform: rotate(45deg);
-    left: 236px;
-    background: red;
-    width: 100px;
-}
 
 </style>
 

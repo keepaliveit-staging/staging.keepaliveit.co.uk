@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Software Consultancy & Software Development Services for the Home"
+title: "Software & Software Development Consultancy Services for the Home"
 permalink: /software-consultancy-home
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T Services can assist with software recommendations, or develop bespoke platform specific Software solutions for your home."
+excerpt: "Learn how Keep-Alive I.T Services can assist with consumer software recommendations for individuals, or develop bespoke platform specific Software solutions for your home."
 
 header:
   overlay_image: /assets/images/home.jpg
@@ -19,8 +19,7 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
-## For Consumers
-## Discover how our I.T Services can enhance your experience at home
+## Discover how our I.T Services for Consumers can enhance your experience at home and improve your day-to-day life.
 
 <div class="divider div-transparent div-arrow-down"></div>
 
@@ -99,6 +98,33 @@ secondaryMenu:
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+<h2>Frequently Asked Questions (FAQs):</h2>
+<ul id="my-accordion" class="accordionjs">
+    <li>
+        <div>How much do your Software & Software Development Consultancy Services cost?</div>
+        <div>
+            Our prices start at £300 per day
+        </div>
+    </li>
+
+    <li>
+        <div>How much time do your Software & Software Development Consultancy Services take to complete?</div>
+        <div>
+           It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate
+        </div>
+    </li>
+
+    <li>
+        <div>Do you offer retainer contracts for software maintanence that could be required in future?</div>
+        <div>
+           Of course! We understand all software requires patching to ensure security is 
+        </div>
+    </li>
+
+</ul>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
 
 <div id="consultancy-posts">
     <h2>Recent Software & Software Development Consultancy posts from our Experts</h2>
@@ -122,5 +148,3 @@ secondaryMenu:
     {%endfor%}
     </ul>
 </div>
-
-{% include industry-consultation.md %}

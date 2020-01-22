@@ -4,7 +4,7 @@ title: "Software & Software Development Consultancy Services for Businesses"
 permalink: /software-consultancy
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T's expert backed I.T software services can make critical I.T Software decisions for your workplace. Whatever your I.T software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."
+excerpt: "Learn how Keep-Alive I.T's expert backed I.T Software services can help make critical I.T Software decisions for your workplace. Whatever your desired I.T Software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
@@ -42,7 +42,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
-            <p>We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T systems and software packages.</p>    
+            <p>Having well-versed and knowledgable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.</p>    
             <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
@@ -57,7 +57,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE PROCUREMENT AND SOFTWARE IMPLEMENTATION</h3>
-            <p>Procurement and tendering I.T contracts </p>      
+            <p>Procuring I.T Software can get confusing when complex multi-tenant or virtualised setups exist within an organisation. Offload your Software Procuring & Software Implementing tasks onto us and you'll never have to worry about suprising future software costs ever again.</p>      
             <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Procurement & Implementation consultancy Services.</a></p>
         </div>
     </div>
@@ -72,7 +72,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE DEVELOPMENT</h3>
-            <p>Having functional & robust software implemented a business is. We write clean & tested code which conforms to industry best practises.</p>
+            <p>Having functional & robust software implemented in a business is essential for ensuring company operations are being performed & completed successfully. We write clean & tested code which conforms to industry best practises, resulting in bespoke software that's going to push your business ahead of its competitors. Whether your in-house development team are up to their eyes with other work, or you don't have an in house development team and require bespoke software for your business, you can rely on us to get the job done.</p>
             <p><a href="/software-consultancy/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
@@ -87,7 +87,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
-            <p>Establising your presence online via a profesionnally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs.</p>
+            <p>Establising your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.</p>
             <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
@@ -102,14 +102,14 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
-            <p>Forming a new software development team, or onboarding new software developers in an existing software development team can be a challenging, frustrating, and time consuming process. Offload your development team formation tasks to us and we'll apply our expertise with forming an in-house software development team by hiring new software developers, onboarding software developers, managing existing staff, and implementing plans & processes to make software development projects a success.</p>
+            <p>Forming a new Software Development Team, or onboarding new Software Developers in an existing Software Development Team can be a challenging, frustrating, and a time consuming process. Offload your Development Team Formation tasks onto us and we'll apply our expertise with forming an in-house, or remote Software Development team for you. We'll do this by hiring new Software Developers, Onboarding new Software Developers into a Team, Managing existing staff, and implementing plans & processes to make Software Development projects easier to manage.</p>
             <p><a href="/software-consultancy/software-development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Development Team formation & Software Developer onboarding Services.</a></p>
         </div>
     </div>
 </div>
 
 <h3>Other Software Services</h3>
-<p>Is the service you're looking for not listed? Fear not. We offer custom Software Consultancy solutions in addition to the packages listed above. Simply get in touch with us for an initial consultation to get a better idea of your I.T requirements and we can tailor software development, or retainer contracts towards your business needs.</p>
+<p>Is the service you're looking for not listed? Fear not. We offer custom Software Consultancy solutions in addition to the packages listed above. Simply get in touch with us for an initial consultation to get a better idea of your I.T requirements and we can tailor Software Development, or Software Retainer contracts towards your specific business needs.</p>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
@@ -118,7 +118,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
     <li>
         <div>How much do your Software & Software Development Consultancy Services cost?</div>
         <div>
-            Our prices start at £300 per day
+            As this service is a consultancy service, we can't give you an exact price for our Software & Software Development Consultancy Services as a whole. Please contact us to get an accurate price for the work that your business needs completing. We charge an inital fee of £99 per hour for an initial business consultancy session.
         </div>
     </li>
 
@@ -130,9 +130,9 @@ We will plan, consult, and implement I.T solutions for organisations of all size
     </li>
 
     <li>
-        <div>Do you offer retainer contracts for software maintanence that could be required in future?</div>
+        <div>Do you offer retainer contracts for software solutions?</div>
         <div>
-           Of course! We understand all software requires patching to ensure security is 
+           Of course! We understand all software requires maintanence patches appplied to ensure security is 
         </div>
     </li>
 
@@ -142,7 +142,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
 
 <div id="consultancy-posts">
     <h2>Recent Software & Software Development Consultancy posts from our Experts</h2>
-    <p>We hire I.T experts to write about Software & Software Development Consultancy topics so that our clients can keep educated on the latest I.T developments.</p>
+    <p>We hire I.T experts to write about Software & Software Development Consultancy topics so that our Business customers can stay educated on the latest I.T developments & up and coming technologies:</p>
     {% assign collection1 = site.consultation | where: "category","Software-Development" %}
     {% assign collection2 = site.consultation | where: "category","Web" %}
     {% assign items = collection1 | concat: collection2 %}
