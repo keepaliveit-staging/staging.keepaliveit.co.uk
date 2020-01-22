@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's I.T Development & Operations Services for Businesses & Consumers"
+title: "I.T Development & Operations Services for Businesses & Consumers"
 permalink: /
 classes:
   - landing
