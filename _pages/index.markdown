@@ -321,8 +321,3 @@ As of 2020, most households in the United Kingdom have an internet connection an
         </div>
     </div>
 </section>
-
-<div>
-    <h3>Plan a video consultation with us for just £99 an hour (including VAT)</h3>
-    <p>We'd love to get to know more about your requirements. Please send us a briefing document stating your requirements and we will plan a completely FREE 15-minute video consultation with you. Subsequent discussion will be billed pro rata at £99 per hour (including VAT).</p>
-</div>
