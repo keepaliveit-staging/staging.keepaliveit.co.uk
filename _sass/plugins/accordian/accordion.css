@@ -15,7 +15,7 @@
 }
 .accordionjs .acc_section .acc_head {
   position: relative;
-  background: #fff;
+  background: #e8e8e8;
   padding: 10px;
   display: block;
   cursor: pointer;
@@ -41,6 +41,6 @@
   display: block;
 }
 .accordionjs .acc_section.acc_active > .acc_head {
-  background: #F9F9F9;
+  background: #e8e8e8;
   border-bottom: 1px solid #ccc;
 }

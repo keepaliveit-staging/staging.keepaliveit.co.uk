@@ -118,14 +118,14 @@ We will plan, consult, and implement I.T solutions for organisations of all size
     <li>
         <div>How much do your Software & Software Development Consultancy Services cost?</div>
         <div>
-            As this service is a consultancy service, we can't give you an exact price for our Software & Software Development Consultancy Services as a whole. Please contact us to get an accurate price for the work that your business needs completing. We charge an inital fee of £99 per hour for an initial business consultancy session.
+            Unfortunately, we can't give you an exact price for our Software & Software Development Consultancy Services as this varies on a per-client basis and is dependant on requirements. Please contact us to get an accurate price for the work that your business needs completing. You can get 15 minutes of free consultation time with one of our consultants, but subsequent time is billed at £99 per hour.
         </div>
     </li>
 
     <li>
         <div>How much time do your Software & Software Development Consultancy Services take to complete?</div>
         <div>
-           It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate
+           Unfortunately, we can't give you an exact time-frame to complete our for our Software & Software Development Consultancy Services as this varies on a per-client basis and is dependant on requirements. Please contact us to get an accurate price for the work that your business needs completing
         </div>
     </li>
 

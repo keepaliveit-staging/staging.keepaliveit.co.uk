@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "I.T Operations Consultancy Services for the Home"
+title: "Consumer I.T Operations Consultancy Services for the Home"
 permalink: /it-operations-consultancy-home
 classes:
   - operations-consultancy
-excerpt: "Discover how Keep-Alive I.T Services can help make critical I.T Operations decisions for your business; Or develop infrastructure that's scalable. reliable, and compliant."
+excerpt: "Learn how Keep-Alive I.T can assist with Consumer Hardware recommendations for individuals, or implement Hardware solutions for your home that's backed by strong I.T support."
 header:
   overlay_image: /assets/images/home.jpg
   overlay_filter: 0.54

@@ -21,6 +21,8 @@ header:
 [The process of working with us](/about/the-process-of-working-with-us)
 
 ### What does Keep-Alive I.T do?
+Keeping I.T Alive is what we do and we're pretty good at it.
+
 We're a universal I.T Consultation company who has over a decade of specialist experience with developing Agile software, and keeping I.T systems operational.
 
 Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud

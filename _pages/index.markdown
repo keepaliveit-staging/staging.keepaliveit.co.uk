@@ -20,7 +20,7 @@ excerpt: >
 
     <div class="row center-xs">
         <div class="col-xs-12 col-md-6">
-            <h2>I.T Matters. At home, in the office, and all around the United Kingdom.</h2>
+            <h2>I.T Matters. At Home, in the Office, and all around the United Kingdom.</h2>
         </div>
     </div>
 
@@ -44,8 +44,6 @@ excerpt: >
         </div>
     </div>
 </section>
-
-<div class="divider div-transparent div-arrow-down"></div>
 
 ## The importance of effective I.T systems for Businesses
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
@@ -139,75 +137,52 @@ Running I.T at home has become an important part of modern life and has changed 
 Here are some use cases for use of I.T in the modern home.
 
 <section>
+
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-4">
-                <div>
-                    <div class="row">
-                        <div class="col-xs-6">
-                            <img class="lazy" data-src="assets/images/icons/family.png"/>
-                        </div>
-                        <div class="col-xs-6">
-                            <div class="item-title">For Mum & Dad</div>
-                        </div>
-                        <div class="col-xs-12">
-                            <div class="item-description">
-                                <ul>
-                                    <li>Producing documents using desktop publishing softwares</li>        
-                                    <li>Filing accounts</li>
-                                    <li>Paying bills using internet banking.</li>
-                                    <li>Online shopping on e-Commerce websites</li>
-                                </ul>
-                            </div>
-                        </div>
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="assets/images/icons/family.png"/>
+                    <div class="item-title">For Parents</div>
+                    <div class="item-description">
+                        <ul>
+                            <li>Producing documents using desktop publishing softwares</li>        
+                            <li>Filing accounts</li>
+                            <li>Paying bills using internet banking.</li>
+                            <li>Online shopping on e-Commerce websites</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            
-            <div class="col-xs-12 col-sm-4">
-                <div>
-                    <div class="row">
-                        <div class="col-xs-6">
-                            <img class="lazy" data-src="assets/images/icons/cat.png"/>
-                        </div>
-                        <div class="col-xs-6">
-                            <div class="item-title">For Pets</div>
-                        </div>
-                        <div class="col-xs-12">
-                            <div class="item-description">
-                                <ul>        
-                                    <li>Smart feeding systems</li>
-                                    <li>Smart premises entering & exiting systems</li>
-                                    <li>Smart lighting for when nobody is home</li>
-                                    <li>Learning on e-Learning platforms</li>
-                                </ul>
-                            </div>
-                        </div>
+    
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="assets/images/icons/cat.png"/>
+                    <div class="item-title">For Pets</div>
+                    <div class="item-description">
+                        <ul>        
+                            <li>Smart feeding systems</li>
+                            <li>Smart premises entering & exiting systems</li>
+                            <li>Smart lighting for when nobody is home</li>
+                            <li>Learning on e-Learning platforms</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        
-            <div class="col-xs-12 col-sm-4">
-                <div>
-                    <div class="row">
-                        <div class="col-xs-6">
-                            <img class="lazy" data-src="assets/images/icons/boy.png"/>
-                        </div>
-                        <div class="col-xs-6">
-                            <div class="item-title">For the Kids</div>
-                        </div>
-                        <div class="col-xs-12">
-                            <div class="item-description">
-                                <ul>        
-                                    <li>Homework / Coursework</li>
-                                    <li>Watching multimedia on internet streaming services</li>
-                                </ul>
-                            </div>
-                        </div>
+    
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="assets/images/icons/boy.png"/>
+                    <div class="item-title">For Children</div>
+                    <div class="item-description">
+                        <ul>        
+                            <li>Homework / Coursework</li>
+                            <li>Watching multimedia on internet streaming services</li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </div>  
+        </div>
     </div>
 </section>
 

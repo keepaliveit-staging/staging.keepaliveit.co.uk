@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Software & Software Development Consultancy Services for the Home"
+title: "Consumer Software & Software Development Consultancy Services for the Home"
 permalink: /software-consultancy-home
 classes:
   - software-consultancy
-excerpt: "Learn how Keep-Alive I.T Services can assist with consumer software recommendations for individuals, or develop bespoke platform specific Software solutions for your home."
+excerpt: "Learn how Keep-Alive I.T's Services can assist with consumer software recommendations for individuals, or develop bespoke platform specific Software solutions for your home."
 
 header:
   overlay_image: /assets/images/home.jpg
