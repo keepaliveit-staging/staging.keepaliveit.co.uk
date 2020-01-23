@@ -4,11 +4,11 @@ title: "All Services offered by Keep-Alive I.T"
 permalink: /services
 classes:
   - services
-excerpt: "Learn how Keep-Alive I.T Services can assist with software recommendations, or develop bespoke platform specific Software solutions for your home."
+excerpt: "All Hardware & Software I.T Consultancy Services offered by our DevOps experts."
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
-  overlay_filter: 0.74
+  overlay_image: /assets/images/code.jpg
+  overlay_filter: 0.54
 ---
 
 {% include breadcrumbs.html %}

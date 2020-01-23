@@ -36,11 +36,11 @@ excerpt: >
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
             <h3>Everybody depends on I.T, not just Geeks 🤓</h3>
-            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
+            <p>Individuals & Businesses now depend on I.T more than ever before. Common I.T use cases in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
+            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
             <p class="or-separator">or</p>
-            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;">Discover effective I.T for Consumers</a>
+            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Discover effective I.T for Consumers</a>
         </div>
     </div>
 </section>
@@ -54,7 +54,7 @@ excerpt: >
                     £<span class="animatedNumber">184</span> bn
                 </div>
                 <div class="metric">
-                    (and rapidly growing higher) is the total worth of technology to the UK's economy.</div>
+                    (and rapidly growing) is the total worth of technology to the UK's economy.</div>
             </div>
         </div>
         <div class="col-xs-6 col-md-3 stat-container">
@@ -89,11 +89,7 @@ In the modern technology focused era that we live in, I.T has become the backbon
 ### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
-Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The following graph produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour:
-
-<figure>
-<img class="lazy" data-src="assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png" />
-</figure>
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The <a href="/assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png">following Graph</a>, produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
 I.T threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely,  in more extreme cases**. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 

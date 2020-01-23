@@ -1,34 +1,113 @@
 <div>
-  <h5>About Keep-Alive I.T</h5>
-  <p style="font-size: 0.8em;">We're a universal Hardware & Software consultancy company and we're here to take your I.T Development & Operations frustrations away. We keep your I.T Operational for the times you depend on it the most - at home or in the office. (<a href="/about">Read more about us</a>).</p>
+    <h5>About Keep-Alive I.T</h5>
+    <p style="font-size: 0.8em;">We're a universal Hardware & Software consultancy company and we're here to take your
+        I.T Development & Operations frustrations away. We keep your I.T Operational for the times you depend on it the
+        most - at home or in the office. (<a href="/about">Read more about us</a>).</p>
 </div>
 
 <div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }} Keep-Alive I.T on Social Media:</strong></li>
-    {% endif %}
-
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+    <ul class="social-icons">
+        {% if site.data.ui-text[site.locale].follow_label %}
+        <li><strong>{{ site.data.ui-text[site.locale].follow_label }} Keep-Alive I.T on Social Media:</strong></li>
         {% endif %}
-      {% endfor %}
-    {% endif %}
 
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
+        {% if site.footer.links %}
+        {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+        <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i
+                class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+
+        <li>
+            <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i
+                    class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label
+                | default: "Feed" }}</a></li>
+    </ul>
 </div>
 
 <div>
-  <a href="https://status.azure.com/en-gb/status" target="_blank">Azure Status Page</a>
-  <a href="https://status.cloud.google.com/" target="_blank">Google Cloud Status Page</a>
-  <a href="https://status.aws.amazon.com/" target="_blank">AWS Status Page</a>
+    <a href="https://status.azure.com/en-gb/status" target="_blank">Azure Status Page</a>
+    <a href="https://status.cloud.google.com/" target="_blank">Google Cloud Status Page</a>
+    <a href="https://status.aws.amazon.com/" target="_blank">AWS Status Page</a>
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</div>
 <div class="page__footer-copyright">Registered company in England & Wales. #{{ site.company_number }}.</div>
 
-<a href="https://www.sell2wales.gov.wales/SupplierFinder/SupplierFinder_View.aspx?ID=09ce82ce501e4795a0c4cbeb6621e252">Official Sell2Wales partner for Welsh Government</a>
-<img class="lazy" data-src="/assets/images/sell2wales-logo.png" />
+<a href="https://www.sell2wales.gov.wales/SupplierFinder/SupplierFinder_View.aspx?ID=09ce82ce501e4795a0c4cbeb6621e252">Official
+    Sell2Wales partner for Welsh Government</a>
+<img class="lazy" data-src="/assets/images/sell2wales-logo.png"/>
+
+
+<div class="row">
+    <div class="col-xs-4">
+        <div class="box">
+            <h3>I.T Solutions</h3>
+
+            <nav>
+                <ul class="footer-nav-links">
+                    <li>
+                        <a href="/solutions/private-sector-it">Private Sector I.T Solutions</a>
+                    </li>
+                    <li>
+                        <a href="/solutions/public-sector-it">Public Sector I.T Solutions</a>
+                    </li>
+                    <li>
+                        <a href="/solutions/consumer-it">Consumer I.T Solutions</a>
+                    </li>
+                    <li>
+                        <a href="/solutions/gdpr-it-compliance">GDPR I.T Compliance</a>
+                    </li>
+                    <li>
+                        <a href="/solutions/cyber-essentials-it-compliance">Cyber Essentials I.T Compliance</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div class="box">
+            <h3>Company</h3>
+
+            <nav>
+                <ul class="footer-nav-links">
+                    <li>
+                        <a href="/about">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/jobs">Jobs</a>
+                    </li>
+                    <li>
+                        <a href="/cookie-policy">Cookie Policy</a>
+                    </li>
+                    <li>
+                        <a href="/privacy-policy">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="/sitemap">Sitemap</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="col-xs-4">
+        <div class="box">
+            <h3>Resources</h3>
+            <nav>
+                <ul class="footer-nav-links">
+                    <li>
+                        <a href="/free-resources">Free I.T Resources</a>
+                    </li>
+                    <li>
+                        <a href="/blog">Company Blog</a>
+                    </li>
+                    <li>
+                        <a href="/benefits-of-it">Benefits of Effective I.T</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

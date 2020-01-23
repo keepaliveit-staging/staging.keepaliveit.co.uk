@@ -5,7 +5,7 @@
     margin: 20px 0 !important;
     font-size: 0.8em;
   }
-  
+
   .or-separator:before, .or-separator:after {
     content: "";
     flex: 1 1;
@@ -264,7 +264,6 @@
 
 }
 
-
 .reason-container {
   margin-top: 20px;
 
@@ -288,7 +287,7 @@
     .item-description {
       display: block;
       margin-bottom: 20px;
-      font-size: 14px;
+      font-size: 0.88em;
 
       ul {
         padding-left: 20px;
@@ -305,7 +304,6 @@
     }
   }
 }
-
 
 .sidebar-box .read-more {
   display: none;
@@ -440,7 +438,6 @@
 
 }
 
-
 .scrollmenu {
   background-color: #292929;
   overflow-x: scroll;
@@ -471,14 +468,13 @@
   font-size: 0.88em;
 }
 
-.secondary-menu > ul > li.masthead__menu-item.active a{
+.secondary-menu > ul > li.masthead__menu-item.active a {
   background-color: #777;
 }
 
 .scrollmenu a:hover {
   background-color: #777;
 }
-
 
 .secondary-menu-wrapper {
   background: #292929;
@@ -497,7 +493,6 @@
   margin-right: auto;
   width: 100%;
 }
-
 
 @include breakpoint(max-width $medium) {
   .sidebar-box {
@@ -521,7 +516,6 @@
     background: #f2f3f3;
   }
 }
-
 
 .feature-container {
   margin-top: 20px;
@@ -560,8 +554,11 @@
   }
 }
 
-
-
+.footer-nav-links {
+  li {
+    margin-bottom: 10px;
+  }
+}
 
 /* GRID. */
 .container-fluid {
