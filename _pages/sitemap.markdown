@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Website Sitemap"
+title: "Website Sitemap for keepaliveit.co.uk"
 permalink: /sitemap
 classes:
   - about
-excerpt: "Website Sitemap"
+excerpt: "Website Sitemap for keepaliveit.co.uk"
 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg

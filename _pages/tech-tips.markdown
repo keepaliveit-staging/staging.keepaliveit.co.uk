@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Tech Tips
+title: Tech Tips for Consumers
 permalink: /tech-tips
 
 excerpt: "Tech Tips for Non-Tech Warriors."

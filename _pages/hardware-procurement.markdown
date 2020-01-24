@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hardware procurement"
+title: "Hardware Procurement"
 permalink: /it-operations-consultancy/hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

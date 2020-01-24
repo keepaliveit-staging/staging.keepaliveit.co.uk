@@ -11,7 +11,6 @@ header:
   overlay_filter: 0.74
 ---
 
-
 {% include breadcrumbs.html %}
 
 ## Cookie Policy for keepaliveit.co.uk

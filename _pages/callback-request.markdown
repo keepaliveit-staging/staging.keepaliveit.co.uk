@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Request a Video or Phone Callback"
+title: "Request a Callback from a member of our Team"
 permalink: /request-a-callback
 classes:
   - about
