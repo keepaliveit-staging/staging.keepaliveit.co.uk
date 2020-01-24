@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "GDPR I.T Solutions"
+title: "GDPR I.T Compliance"
 permalink: /solutions/gdpr-it-compliance
 classes:
   - solutions
-excerpt: "GDPR I.T Solutions"
+excerpt: "GDPR I.T Compliance"
 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
@@ -14,4 +14,4 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Solutions
+## GDPR Compliance for I.T Systems

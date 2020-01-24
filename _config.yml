@@ -222,6 +222,9 @@ collections:
   techtip:
       output: true
       permalink: /tech-tips/:path/
+  jobs:
+      output: true
+      permalink: /jobs/:path/
   benefit:
       output: true
       permalink: /benefits-of-it/:path/

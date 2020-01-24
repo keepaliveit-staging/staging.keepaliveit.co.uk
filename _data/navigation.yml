@@ -6,5 +6,7 @@ main:
     url: /it-operations-consultancy
   - title: "All Services"
     url: /services
-  - title: "Tech Tips"
+  - title: "Business I.T Considerations"
+    url: /it-consultation
+  - title: "Consumer Tech Tips"
     url: /tech-tips

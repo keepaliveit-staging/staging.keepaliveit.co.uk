@@ -7,7 +7,7 @@ classes:
 excerpt: "Learn more about Keep-Alive I.T"
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/about.jpg
   overlay_filter: 0.74
 ---
 

@@ -3,7 +3,7 @@ layout: splash
 title: Tech Tips
 permalink: /tech-tips
 
-excerpt: "Learn more about Keep-Alive I.T"
+excerpt: "Tech Tips for Non-Tech Warriors."
 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg

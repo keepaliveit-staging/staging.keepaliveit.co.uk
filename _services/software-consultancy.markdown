@@ -135,7 +135,6 @@ We will plan, consult, and implement I.T solutions for organisations of all size
            Of course! We understand all software requires maintanence patches appplied to ensure security is 
         </div>
     </li>
-
 </ul>
 
 <div class="divider div-transparent div-arrow-down"></div>

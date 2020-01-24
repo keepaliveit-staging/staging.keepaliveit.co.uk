@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Sitemap"
+title: "Website Sitemap"
 permalink: /sitemap
 classes:
   - about
-excerpt: "Looking for a career in I.T?"
+excerpt: "Website Sitemap"
 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
