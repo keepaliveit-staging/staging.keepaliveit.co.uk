@@ -4,7 +4,7 @@ title: "Environmental Policy for Keep-Alive I.T"
 permalink: /environmental-policy
 classes:
   - about
-excerpt: "Keep-Alive I.T cares about the impact our business has on the environment. Let us show you how."
+excerpt: "Keep-Alive I.T cares about the impact our business has on the environment. Let us tell you what eco-friendly measures we're taking to make this happen."
 
 header:
   overlay_image: /assets/images/environment.jpg
