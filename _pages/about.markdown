@@ -4,7 +4,7 @@ title: "About Keep-Alive I.T"
 permalink: /about
 classes:
   - about
-excerpt: "Learn more about Keep-Alive I.T"
+excerpt: "We're an I.T Consultancy Company who takes pride in our work. Discover more about our company to learn how."
 
 header:
   overlay_image: /assets/images/about.jpg

@@ -36,7 +36,9 @@ feature_row:
     btn_label: "Access Resource"  
 ---
 
-## Free Resources
+{% include breadcrumbs.html %}
+
+## Free I.T Resources
 As a way of saying thank you to our customers for supporting us as a business, we'll be releasing free I.T resources occasionally.
 
 <div>

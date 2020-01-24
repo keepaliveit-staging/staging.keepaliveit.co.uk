@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Commercial software vs. Open Source Software - which is right for my business?"
+title:  "Commercial Software vs. Open Source Software: Which is right for my Business?"
 date:   2019-11-26 22:20:28 +0000
 category: Software-Development
 tags: 
@@ -11,6 +11,8 @@ author_profile: true
 It is important to understand the different types of software models before we continue to discuss the importance of running effective software solutions within a company. The two different types of software models available, are: 
 - Commercial Software
 - Open Source Software.
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SpeDK1TPbew?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### What's the difference between commercial software and open source software?
 Commercial software is software that is developed and managed internally under a single brand or company. Commercial software usually operates under a closed source software license, meaning that the source code developed internally at an organisation is top-secret as it contains logic which generates revenue, keeping that company making money. If that company were to 

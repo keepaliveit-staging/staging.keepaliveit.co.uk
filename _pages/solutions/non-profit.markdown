@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "I.T Solutions for Not For Profit Organisations"
+title: "I.T Solutions for Non-Profit Organisations"
 permalink: /solutions/it-for-non-profit
 classes:
   - solutions
-excerpt: "I.T Solutions for Not For Profit Organisations"
+excerpt: "I.T Solutions for Non-Profit Organisations"
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/orphan.jpg
   overlay_filter: 0.74
 ---
 

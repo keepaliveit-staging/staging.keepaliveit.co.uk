@@ -7,13 +7,16 @@ classes:
 excerpt: "Links to Status Pages of Popular Public Clouds"
 
 header:
-  overlay_image: /assets/images/about.jpg
-  overlay_filter: 0.74
+  overlay_image: /assets/images/cloud.jpg
+  overlay_filter: 0.54
 ---
 
 {% include breadcrumbs.html %}
 
 ## Public Cloud Status Pages
+If you're having issues with Public Cloud Infrastructure, please be sure to check out the following pages before submitting a ticket to us.
+Unfortunately, issues by third party Public Cloud Providers are out of our control, but we will do everything we can to ensure high availability of your infrastructure in the event something is down.
+
 <ul>
     <li>
         <a href="https://status.azure.com/en-gb/status" target="_blank">Azure Status Page</a>
@@ -25,9 +28,9 @@ header:
         <a href="https://status.aws.amazon.com/" target="_blank">AWS Status Page</a>
     </li>
     <li>
-        <a href="https://status.linode.com/" target="_blank">Linode</a>
+        <a href="https://status.linode.com/" target="_blank">Linode Status Page</a>
     </li>
     <li>
-        <a href="https://status.digitalocean.com/" target="_blank">DigitalOcean</a>
+        <a href="https://status.digitalocean.com/" target="_blank">DigitalOcean Status Page</a>
     </li>
 </ul>

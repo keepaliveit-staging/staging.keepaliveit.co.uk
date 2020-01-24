@@ -22,6 +22,14 @@ We're a UK company based in central Cardiff, Wales. Cardiff has excellent transp
 ### Caerphilly office
 Keep-Alive I.T, Britannia House, Caerphilly Business Park, Van Rd, Caerphilly CF83 3GG
 
+Our Caerphilly office provides a convenient meeting location for our clients with Cardiff having links to nearby Welsh towns and cities; Including:
+- Barry
+- Bridgend
+- Cardiff
+- Newport
+- Swansea
+
+
 ### Cardiff office
 Coming soon!
 
