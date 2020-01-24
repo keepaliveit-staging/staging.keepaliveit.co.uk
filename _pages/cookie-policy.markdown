@@ -4,7 +4,7 @@ title: "Cookie Policy for keepaliveit.co.uk"
 permalink: /cookie-policy
 classes:
   - cookie_policy
-excerpt: "Learn how Web cookies are used at keepaliveit.co.uk"
+excerpt: "Learn how Web Browser Cookies are used at keepaliveit.co.uk"
 
 header:
   overlay_image: /assets/images/cookies.jpg
