@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Private Sector I.T Solutions"
-permalink: /solutions/private-sector-it
+permalink: /solutions/it-for-private-sector
 classes:
   - solutions
 excerpt: "Private Sector I.T Solutions"

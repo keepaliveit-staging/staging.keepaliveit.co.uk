@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "I.T Solutions for Not For Profit Organisations"
-permalink: /solutions/non-profit-it
+permalink: /solutions/it-for-non-profit
 classes:
   - solutions
 excerpt: "I.T Solutions for Not For Profit Organisations"

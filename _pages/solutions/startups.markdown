@@ -1,10 +1,10 @@
 ---
 layout: splash
 title: "Consumer I.T Solutions"
-permalink: /solutions/it-for-consumers
+permalink: /solutions/it-for-startups
 classes:
   - solutions
-excerpt: "Consumer I.T Solutions"
+excerpt: "I.T Solutions for Startups"
 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
@@ -14,4 +14,4 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Consumer I.T Solutions
+## I.T Solutions for Startups

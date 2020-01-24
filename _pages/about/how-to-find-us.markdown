@@ -20,10 +20,9 @@ header:
 We're a UK company based in central Cardiff, Wales. Cardiff has excellent transport links to major Road and Rail services, and also 2 local airports - allowing us to easily reach England, Ireland, Scotland, or other parts of the World if required. We are able to travel to our clients, or work remotely - depending on the nature of the work that needs completing. 
 
 ### Caerphilly office
-
 Keep-Alive I.T, Britannia House, Caerphilly Business Park, Van Rd, Caerphilly CF83 3GG
 
 ### Cardiff office
-
+Coming soon!
 
 [Find out more information about Keep-Alive I.T](/about)
