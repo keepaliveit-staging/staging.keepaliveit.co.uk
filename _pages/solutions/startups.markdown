@@ -25,7 +25,7 @@ Sorry to burst your bubble, but unfortunately, becoming a successful Business Fo
 
 Nowadays, there’s a substantial amount of complex business operations that you as a company founder will need to manage to make (or continue to make) a business successful. This varies depending on the type of business you want to start (or already run) but we guarantee that at least one aspect of your business will need to make use (or already makes use) of I.T, and and it's up to you to decide who manages that I.T.
 
-The truth is, Businesses are just like Children. They grow bigger over time, they need a solid cashflow to keep alive, and most importantly, they require a huge amount of attention & care. As a result of the previous responsibilities, this means owning a business takes up a huge chunk of your time.
+The truth is, Businesses are just like Children. They grow bigger over time, they need a solid cashflow to keep alive, and most importantly, they require a huge amount of attention & care. As a result of the previous responsibilities, owning a business takes up a huge chunk of your time.
 Once you agree to become a Director, or a Partner of a Company, you need to act like its Parent. You are it’s Owner, its legal occupier, and its first point of contact, meaning you have to do everything you possibly can for it to survive. 
 
 Some common daily tasks for a Company Director, or Company Partner include: 
