@@ -8,7 +8,6 @@
 
 .breadcrumbs {
   @include clearfix;
-  margin: 0 auto;
   max-width: 100%;
   font-family: $sans-serif;
   -webkit-animation: $intro-transition;
@@ -17,8 +16,8 @@
   animation-delay: 0.3s;
 
   border: 0.15em solid #6f777d;
-  padding: 1em;
-  margin-bottom: 1em;
+  padding: 0.5em 1em;
+  margin: 0 auto 1em;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
