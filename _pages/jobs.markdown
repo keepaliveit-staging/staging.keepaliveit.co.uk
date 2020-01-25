@@ -41,9 +41,9 @@ Upload a copy of invoice/receipt via Xero for finance to approve and pay. Employ
 
 ## **Professional development allowance of £500 per year**
 
-Cuvva supports employees’ professional development with an annual allowance of £500. 
+Keep-Alive I.T supports employees’ professional development with an annual allowance of £500. 
 
-The allowance could be used to attend a course, a conference or a networking event. If you can show that it will help you in your role at Cuvva then we would be delighted to support you.
+The allowance could be used to attend a course, a conference or a networking event. If you can show that it will help you in your role at Keep-Alive I.T then we would be delighted to support you.
 
 ### **How much can I claim in the year?**
 
@@ -72,7 +72,7 @@ The sessions are 100% confidential, non-judgemental and available for you to tal
 
 We would encourage everyone at the company, no matter whether you feel 100% healthy, to book a session with Sanctus and give it a go. To book a session, please click on the following link:
 
-[https://sanctusatcuvva.youcanbook.me](https://sanctusatcuvva.youcanbook.me/)
+[https://sanctusatKeep-Alive I.T.youcanbook.me](https://sanctusatKeep-Alive I.T.youcanbook.me/)
 
 ## **Workplace pension scheme**
 
@@ -80,11 +80,11 @@ Currently 3% from 6th April 2019.
 
 ## **Cycle to work scheme**
 
-Cuvva employees are granted the opportunity to purchase a bike and bike accessories under the cycle to work scheme up to £1,000.
+Keep-Alive I.T employees are granted the opportunity to purchase a bike and bike accessories under the cycle to work scheme up to £1,000.
 
 ### **How do I make a claim?**
 
-Link to the Cuvva registration page: [www.cyclescheme.co.uk/31eccd](http://www.cyclescheme.co.uk/31eccd). If you have any questions, please speak to Head of Finance.
+Link to the Keep-Alive I.T registration page: [www.cyclescheme.co.uk/31eccd](http://www.cyclescheme.co.uk/31eccd). If you have any questions, please speak to Head of Finance.
 
 ## **Volunteer day off**
 
@@ -102,7 +102,7 @@ We also offer working from home when for instance, if you have the plumber comin
 
 ## **Referral Scheme**
 
-Bonus for referring someone for a Job at Cuvva. The bonus is claimable in the form of an Amazon voucher or cash payment. The referral bonus is taxable. 
+Bonus for referring someone for a Job at Keep-Alive I.T. The bonus is claimable in the form of an Amazon voucher or cash payment. The referral bonus is taxable. 
 
 The bonus amounts are based on the roles and outlined below:
 
@@ -122,11 +122,11 @@ Our offices are dog friendly.
 
 ## **Fruit in the office**
 
-Ordered into the office on a weekly basis for everyone at Cuvva to enjoy. 
+Ordered into the office on a weekly basis for everyone at Keep-Alive I.T to enjoy. 
 
 ## **Team lunches & Team nights out**
 
-Once a month Cuvva organises a company wide night out where everyone is welcome. Take it to the race track, bowling or comedy nights, there is something available for all employees to participate in.
+Once a month Keep-Alive I.T organises a company wide night out where everyone is welcome. Take it to the race track, bowling or comedy nights, there is something available for all employees to participate in.
 
 <h3>Frequently asked questions (FAQs)</h3>
 

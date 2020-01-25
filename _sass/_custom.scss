@@ -554,14 +554,23 @@
   }
 }
 
+.footer-nav-links-container {
 
-.footer-nav-links {
-  li {
-    margin-bottom: 12px;
-    font-size: 0.78em;
+  margin-bottom: 30px;
+
+  h3 {
+    text-transform: uppercase;
+    font-size: 0.84em;
+    margin-bottom: 20px;
+  }
+
+  .footer-nav-links {
+    li {
+      margin-bottom: 12px;
+      font-size: 0.78em;
+    }
   }
 }
-
 
 /* GRID. */
 .container-fluid {
