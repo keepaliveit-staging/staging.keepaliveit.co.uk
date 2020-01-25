@@ -58,6 +58,12 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
     color: #c0ccda;
     border-width: px;
   }
+  
+   @media screen and (max-width: 500px) {
+          #sib-container {
+              padding: 10px !important;
+          }
+      }
 </style>
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/form/2ef8d8058c0694a305b0.css">
 <link rel="stylesheet" href="https://assets.sendinblue.com/component/clickable/b056d6397f4ba3108595.css">

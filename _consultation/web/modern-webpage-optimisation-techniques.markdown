@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Modern webpage optimisation techniques for creating high performance websites"
+title:  "Modern Webpage Optimisation Techniques for creating Highly Performable Websites"
 date:   2019-11-26 22:20:28 +0000
 category: Web
 author_profile: true
