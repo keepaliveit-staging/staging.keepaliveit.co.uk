@@ -28,9 +28,7 @@ Keep-Alive I.T, Britannia House, Caerphilly Business Park, Van Rd, Caerphilly CF
   width="100%"
   height="450"
   frameborder="0" style="border:0"
-  src="https://www.google.com/maps/embed/v1/place
-         ?key=AIzaSyAGqZwBLZ2csNbTQWYqSuBhVicLY1HV70U
-         &q=KeepAliveIT" allowfullscreen>
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAGqZwBLZ2csNbTQWYqSuBhVicLY1HV70U&q=KeepAliveIT" allowfullscreen>
 </iframe>
 
 Our Caerphilly office provides a convenient meeting location for our clients with Cardiff having links to nearby Welsh towns and cities; Including:
