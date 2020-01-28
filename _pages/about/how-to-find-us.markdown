@@ -7,7 +7,7 @@ classes:
 excerpt: "How to find us"
 
 header:
-  overlay_image: /assets/images/about.jpg
+  overlay_image: /assets/images/map.jpg
   overlay_filter: 0.74
 ---
 

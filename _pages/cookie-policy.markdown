@@ -15,7 +15,7 @@ header:
 
 ## Cookie Policy for keepaliveit.co.uk
 
-This is the Cookie Policy for the Keep-Alive I.T website, accessible at [https://keepaliveit.co.uk/cookie-polcicy](https://keepaliveit.co.uk/cookie-policy).
+This is the Cookie Policy for the Keep-Alive I.T website, accessible at [https://keepaliveit.co.uk/cookie-policy](https://keepaliveit.co.uk/cookie-policy).
 
 <p><strong>What Are Cookies?</strong></p>
 

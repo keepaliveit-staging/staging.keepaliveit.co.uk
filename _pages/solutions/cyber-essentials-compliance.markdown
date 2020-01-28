@@ -7,7 +7,7 @@ classes:
 excerpt: "Cyber Essentials I.T Compliance"
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/cyber.jpg
   overlay_filter: 0.74
 ---
 

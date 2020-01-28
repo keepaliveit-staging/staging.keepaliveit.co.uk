@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "The process of working with us"
+title: "The Process of Working with Us"
 permalink: /about/the-process-of-working-with-us
 classes:
   - about
 excerpt: "The process of working with us"
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/process.jpg
   overlay_filter: 0.74
 ---
 

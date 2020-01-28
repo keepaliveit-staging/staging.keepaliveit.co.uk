@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/software-development.jpg
   overlay_filter: 0.74 
   actions:
-    - label: "Discover the importance of effective I.T systems to Businesses & Consumers"
+    - label: "Discover the Importance of Effective I.T Systems to Businesses & Consumers"
       url: "#discover"
 excerpt: >
   We're a Modern, UK based, Hardware & Software I.T Consultancy Company who provides Agile I.T Development & Operations (DevOps) Solutions for Businesses, Consumers, and Non-Profit Organisations.
@@ -35,17 +35,17 @@ excerpt: >
             </div>
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
-            <h3>Everybody depends on I.T, not just Geeks 🤓</h3>
+            <h3>Everybody Depends on I.T, not just Geeks 🤓</h3>
             <p>Individuals & Businesses now depend on I.T more than ever before. Common I.T use cases in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Discover effective I.T for Businesses</a>
+            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about I.T for Businesses</a>
             <p class="or-separator">or</p>
-            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Discover effective I.T for Consumers</a>
+            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about I.T for Consumers</a>
         </div>
     </div>
 </section>
 
-## The importance of effective I.T systems for Businesses
+## The Importance of Effective I.T Systems for Businesses
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">
         <div class="col-xs-6 col-md-3 stat-container">
@@ -84,14 +84,14 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, or sector. In the past decade, manual paper processes have become electronic and an increased amount of software applications, servers, and networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, size, or sector. In the past decade, manual paper processes have become electronic and an increased amount of Software Applications, Servers, and Networks has resulted in Businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
-### Low Availability prompts inconvenience. I.T Threats prompt legalities. Don't let either of these issues affect your business.
+### Low Availability prompts inconvenience. I.T Threats prompt Legalities. Don't let either of these issues affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
 Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The <a href="/assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png">following Graph</a>, produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
-I.T threats, including cyber security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely,  in more extreme cases**. Recent cyber security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
+I.T threats, including Cyber Security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely**,  in more extreme cases. Recent Cyber Security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 
 > Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* <a href="https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html" target="_blank">Norton</a>)
 
@@ -104,7 +104,7 @@ I.T threats, including cyber security attacks and physical attacks towards I.T s
 Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your desired goal**. 
 Technology should be an investment into the operation of an organisation. There is no single reason why I.T downtime occurs, though there are dozens of processes that can be implemented to avoid I.T failures or attacks.
 
-As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with software, infrastructure, and security proactively **before** they occur in production environments. 
+As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with Software, Infrastructure, and Security proactively **before** they occur in production environments. 
 
 If you're a business manager and have ever asked yourself a question similar to the following:
 
