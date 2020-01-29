@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "Software Training Services"
+title: "Software Training Services for Consumers"
 permalink: /software-consultancy-consumer/software-training-services
 
-excerpt: "Learn how Keep-Alive I.T Services can help your home with software training."
+excerpt: "Learn how Keep-Alive I.T Services can help you with software training."
 header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 

@@ -31,7 +31,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
             <p>We offer workshop based software training courses for training staff or students on various aspects of I.T</p>    
-            <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
+            <p><a href="/software-consultancy-consumer/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
 </div>

@@ -91,8 +91,8 @@ algolia:
 
 # SEO Related
 google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
-bing_site_verification   :
-yandex_site_verification :
+bing_site_verification   : "1D30BBB9A9F1B4770FECEB47FFF5F1D5"
+yandex_site_verification : "407dd707603a546b"
 naver_site_verification  :
 
 # Social Sharing
