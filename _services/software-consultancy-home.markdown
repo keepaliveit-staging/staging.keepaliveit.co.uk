@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Consumer Software & Software Development Consultancy Services for the Home"
-permalink: /software-consultancy-home
+permalink: /software-consultancy-consumer
 classes:
   - software-consultancy
 excerpt: "Learn how Keep-Alive I.T's Services can assist with consumer software recommendations for individuals, or develop bespoke platform specific Software solutions for your home."
@@ -14,7 +14,7 @@ secondaryMenu:
   - title: "Software Solutions for Businesses"
     url: /software-consultancy
   - title: "Software Solutions for the Home"
-    url: /software-consultancy-home
+    url: /software-consultancy-consumer
 ---
 
 {% include breadcrumbs.html %}

@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Cost reductions"
-permalink: /benefits-of-it/cost-reductions
+permalink: /benefits-of-effective-it/cost-reductions
 
 excerpt: "Efficient I.T reduces costs"
 header:

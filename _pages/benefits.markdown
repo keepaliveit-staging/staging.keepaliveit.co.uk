@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: What are the Benefits of Effective I.T?
-permalink: /benefits-of-it
+permalink: /benefits-of-effective-it
 
 excerpt: "Effective I.T brings a range of benefits to Homes and Workplaces. Explore the benefits that our services encourage."
 header:
@@ -26,6 +26,7 @@ Being ahead of the game with I.T can inherit many benefits:
                         <a href="{{ item.url }}">{{ item.title }}</a>
                     </div>
                     <div class="item-description">
+                        <p>An overview of benefits:</p>
                         <ul>
                             <li>Producing documents using desktop publishing softwares</li>        
                             <li>Filing accounts</li>

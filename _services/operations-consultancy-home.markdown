@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Consumer I.T Operations Consultancy Services for the Home"
-permalink: /it-operations-consultancy-home
+permalink: /it-operations-consultancy-consumer
 classes:
   - operations-consultancy
 excerpt: "Learn how Keep-Alive I.T can assist with Consumer Hardware recommendations for individuals, or implement Hardware solutions for your home that's backed by strong I.T support."
@@ -13,7 +13,7 @@ secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"
     url: /it-operations-consultancy
   - title: "I.T Operations Solutions for the Home"
-    url: /it-operations-consultancy-home
+    url: /it-operations-consultancy-consumer
 ---
 
 {% include breadcrumbs.html %}

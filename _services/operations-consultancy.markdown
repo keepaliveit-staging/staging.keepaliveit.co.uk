@@ -13,7 +13,7 @@ secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"
     url: /it-operations-consultancy
   - title: "I.T Operations Solutions for the Home"
-    url: /it-operations-consultancy-home
+    url: /it-operations-consultancy-consumer
 ---
 
 {% include breadcrumbs.html %}
@@ -21,7 +21,7 @@ secondaryMenu:
 ## I.T Operations Consultancy Services for Businesses
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) should be an essential requirement for the operation of any business. 
 
-Overall, high quality Software <a href="/benefits-of-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the quality software that they've implemented & adopted over time. Efficient Software has enabled companies to streamline their internal & external business processes to grow as a company by employing more staff and to sell better quality products or services, leading to generating greater profits in the long run. 
+Overall, high quality Software <a href="/benefits-of-effective-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the quality software that they've implemented & adopted over time. Efficient Software has enabled companies to streamline their internal & external business processes to grow as a company by employing more staff and to sell better quality products or services, leading to generating greater profits in the long run. 
 
 ### What are the potential implications of businesses not utilising Software & Software Development Consultancy services?
 Implementing software without following suitable processes, or without understanding its capabilities & limitations can be catastrophic for a business. Such catastrophes could include seeing system errors in production environments, facing system downtime, or facing data leaks & data breaches. In more severe cases, mis-configured or untested software can lead to bad publicity, loss of profits, expensive lawsuits, death to humans/animals, or closure of a company altogether. 

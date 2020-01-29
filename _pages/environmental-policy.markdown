@@ -14,9 +14,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Company Environmental Policy
-Opening paragraph for company to include short introduction and company history.  
-
+## Company Environmental Policy for Keep-Alive I.T Ltd.
 Keep-Alive I.T places great importance on its environment and its vision is to ensure it plays a part in the protection and long-term sustainability of the natural world. 
 Our aim is to minimize the environmental impact of our product and services, and to achieve continual improvement in environmental performance.  
 
@@ -25,26 +23,14 @@ Keep-Alive I.T consistently aims to operate in an environmentally responsible ma
 The main objective of Keep-Alive I.T's environmental policy is to reduce the amount of waste produced and resources used by the business. 
 
 Keep-Alive I.T has introduced numerous initiatives to restrict its negative impact on the environment wherever possible.  The company’s commitments include:-
-
-
-Comply with the relevant requirements of the Environmental Protection Act 1990 and all other domestic legislation concerned with the protection of human and natural 
-
-Optimally utilising  resources and re-using materials wherever possible
-
-
-Implementing recycling initiatives  for items that cannot be reduced or re-used
-
-Encouraging more sustainable purchasing practices by purchasing environmentally responsible items wherever practicable 
-
-Influencing our suppliers and contractors to encourage them to be environmentally responsible 
-
-Communicating the environmental  policy to all employees  and encouraging their involvement
-
-Use Information and Communication Technology (ICT) to carry out our work and communicate with clients and suppliers – thus avoiding the generation of excessive volumes of paper waste 
-
-
-
-Encourage our staff to minimise car journeys and use environmentally sustainable transport methods in respect of commuting and business journeys wherever practical 
+- Complying with the relevant requirements of the Environmental Protection Act 1990 and all other domestic legislation concerned with the protection of human and natural 
+- Optimally utilising  resources and re-using materials wherever possible
+- Implementing recycling initiatives  for items that cannot be reduced or re-used
+- Encouraging more sustainable purchasing practices by purchasing environmentally responsible items wherever practicable 
+- Influencing our suppliers and contractors to encourage them to be environmentally responsible 
+- Communicating the environmental  policy to all employees  and encouraging their involvement
+- Using Information and Communication Technology (ICT) to carry out our work and communicate with clients and suppliers – thus avoiding the generation of excessive volumes of paper waste 
+- Encouraging our staff to minimise car journeys and use environmentally sustainable transport methods in respect of commuting and business journeys wherever practical 
 
 Increase our reputation as an environmentally sensitive and responsible organisation amongst our employees, partners, clients and the general public in this generation and the next. 
 

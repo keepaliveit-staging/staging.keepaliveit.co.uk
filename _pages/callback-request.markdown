@@ -4,7 +4,7 @@ title: "Request a Call from a Member of our Team"
 permalink: /request-a-callback
 classes:
   - about
-excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation, or request a call back if there's anything I.T related that you'd like to talk about."
+excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation, or request a call back if there's anything else I.T related that you'd like to talk about."
 header:
   overlay_image: /assets/images/call.jpg
   overlay_filter: 0.74
@@ -172,7 +172,7 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4; border-width:px;">
-                Enter the email address of the person we&#039;ll be contacting.
+                Enter the email address of the person we'll be contacting.
               </label>
             </div>
           </div>
@@ -239,7 +239,7 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4; border-width:px;">
-                Customize this optional help text before publishing your form.
+              Enter the phone number of the person we'll be contacting
               </label>
             </div>
           </div>

@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Increased Governance"
-permalink: /benefits-of-it/increased-governance
+permalink: /benefits-of-effective-it/increased-governance
 
 excerpt: "Efficient I.T improves business governance. Discover how this could be a benefit for your organisation and how our I.T services could help."
 header:

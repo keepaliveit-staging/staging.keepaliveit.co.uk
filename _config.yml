@@ -152,6 +152,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/keepaliveitservices/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/"
 
 
 # Reading Files
@@ -227,7 +230,7 @@ collections:
       permalink: /jobs/:path/
   benefit:
       output: true
-      permalink: /benefits-of-it/:path/
+      permalink: /benefits-of-effective-it/:path/
   solutions:
     output: true
     permalink: /it-solutions/:path/

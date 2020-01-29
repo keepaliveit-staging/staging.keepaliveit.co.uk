@@ -1,9 +1,9 @@
 ---
 layout: splash 
-title: "Increased employee productivity"
-permalink: /benefits-of-it/increased-productivity
+title: "Increased Employee Productivity"
+permalink: /benefits-of-effective-it/increased-productivity
 
-excerpt: "Increased employee productivity"
+excerpt: "Increased employee productivity at the workplace"
 header:
   overlay_image: /assets/images/benefit/productivity.jpg
   overlay_filter: 0.5 
@@ -18,6 +18,7 @@ icon: /assets/images/icons/productivity.png
 
 A new way of working 
 
+Bring Your Own Device
 
 Say goodbye to slow boot times
 
