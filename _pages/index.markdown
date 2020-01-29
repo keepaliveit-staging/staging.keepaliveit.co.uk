@@ -88,14 +88,14 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, size, or sector. In the past decade, manual paper processes have become electronic and an increased amount of Software Applications, Servers, and Networks has resulted in Businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable and is subject to failure at any time of the day or night, causing issues for business productivity. 
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, size, or sector. In the past decade, manual paper processes have become electronic and an increased amount of Software Applications, Servers, and Networks has resulted in Businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable as it should be and is subject to failure at any time of the day or night, causing issues for business productivity. 
 
-### Low Availability prompts inconvenience. I.T Threats prompt Legalities. Don't let either of these issues affect your business.
+### Low Availability prompts inconvenience. I.T Threats prompt Legalities. Don't let either of these risks affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
 Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The <a href="/assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png">following Graph</a>, produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
-I.T threats, including Cyber Security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely**,  in more extreme cases. Recent Cyber Security statistics demonstrate shockingly high metrics for attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
+I.T threats, including Cyber Security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely**,  in more extreme cases. Recent Cyber Security statistics demonstrate shockingly high metrics as a result of attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 
 > Data breaches exposed 4.1 billion records in the first half of 2019. (*Source:* <a href="https://us.norton.com/internetsecurity-emerging-threats-2019-data-breaches.html" target="_blank">Norton</a>)
 
@@ -214,7 +214,7 @@ As of 2020, most households in the United Kingdom have an internet connection an
                 <div class="item-title">Customer focused</div>
                 <div class="item-description">We listen to our customers feedback and are always trying to improve
                     what we do. Throughout the duration of our time working together, we will ask for feedback on
-                    how our work is performing. These metrics will be used for imprpoving our service for other valued customers and no feedback is ever shared publically without your permission.
+                    how our work is performing. These metrics will be used for improving our service for other valued customers and no feedback is ever shared publically without your permission.
                 </div>
                 </div>
             </div>
