@@ -7,6 +7,8 @@ excerpt: "Increased employee productivity"
 header:
   overlay_image: /assets/images/benefit/productivity.jpg
   overlay_filter: 0.5 
+  
+icon: /assets/images/icons/productivity.png
 ---
 
 {% include breadcrumbs.html %}

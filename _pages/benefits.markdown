@@ -21,7 +21,7 @@ Being ahead of the game with I.T can inherit many benefits:
         {% for item in items %}            
             <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
-                    <img class="lazy" data-src="assets/images/icons/family.png"/>
+                    <img class="lazy" data-src="{{ item.icon }}"/>
                     <div class="item-title">
                         <a href="{{ item.url }}">{{ item.title }}</a>
                     </div>

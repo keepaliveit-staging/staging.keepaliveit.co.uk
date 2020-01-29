@@ -7,6 +7,8 @@ excerpt: "Efficient I.T improves communication"
 header:
   overlay_image: /assets/images/benefit/communication.jpg
   overlay_filter: 0.5 
+  
+icon: /assets/images/icons/communication.png
 ---
 
 {% include breadcrumbs.html %}

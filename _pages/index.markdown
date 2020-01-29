@@ -163,7 +163,6 @@ Here are some use cases for use of I.T in the modern home.
                             <li>Smart feeding systems</li>
                             <li>Smart premises entering & exiting systems</li>
                             <li>Smart lighting for when nobody is home</li>
-                            <li>Learning on e-Learning platforms</li>
                         </ul>
                     </div>
                 </div>
@@ -177,6 +176,7 @@ Here are some use cases for use of I.T in the modern home.
                         <ul>        
                             <li>Homework / Coursework</li>
                             <li>Watching multimedia on internet streaming services</li>
+                            <li>Learning on e-Learning platforms</li>
                         </ul>
                     </div>
                 </div>
