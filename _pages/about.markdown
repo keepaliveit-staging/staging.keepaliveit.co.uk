@@ -18,11 +18,12 @@ header:
 
 ### What does Keep-Alive I.T do?
 <blockquote data-aos="fade-down" data-aos-once="true">
-  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of those things and can apply our knowledge to your requirements, or do things how we think they should be done.”</p>
+  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done.</p>
 </blockquote>
-We're a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving software or hardware systems; Covering I.T workloads such as application development, infrastructure development, or network design. 
 
-We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to feel they're getting a high quality service for their money, and can rely on us to take their I.T stresses away so that they're able to carry on with doing the stuff they do best. 
+Keep-Alive I.T is a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving software or hardware systems; Covering I.T workloads such as application development, infrastructure development, and network design. 
+
+We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to feel they're getting a high quality service for their money, and can rely on us to take their I.T stresses away so that they're able to carry on with doing the stuff they do best, and leave us to do what we do best. 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
@@ -34,25 +35,25 @@ migration strategy for enterprise workloads; Keep-Alive I.T will plan, consult, 
 <div class="divider div-transparent div-arrow-down"></div>
 
 ### How much does Keep-Alive I.T charge for its I.T services?
-We believe being transparent and open about pricing to our potential and current customers is important. That's why we've tried being as accurate as possible on our website's service pages to give you an approximate price for the service on offer. This means you can easily get a good ballpark figure of our service costs ahead of time, avoiding you any nasty surprises at the end of our time working together and allowing you to shop around if you're not happy with the quote we've provided to you.
+We believe being transparent and open about pricing to potential and current customers is important. This is why we've tried to be as descriptive as possible about pricing on our website's service pages to give you an approximate price for the service on offer. This means you can get a good ballpark figure of our service costs ahead of time, allowing you to shop around if you're not happy with the quote we've provided you with, and avoiding you any nasty surprises throughout our time working together.
 
-Please note: Some services will require further analysis into your requirements before we are able to agree on a definite price for the work that needs completing. This is the nature of consultancy services and you should expect custom quotes from us *before* we start working for you.
+<p class="notice--info"><i class="fas fa-info-circle"></i> <strong>Please Note:</strong> Some services will require a review of current implementations and an analysis of your requirements before we are able to agree on a price for the work that needs completing. This is the nature of consultancy services and you should expect custom quotes from us before we start working for you.</p>
 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
 ### More information about Keep-Alive I.T
 
-<div class="row" data-aos="fade-down" data-aos-once="true">
+<div class="row about-row" data-aos="fade-down" data-aos-once="true">
     <div class="col-xs-12">
         <div class="row">
-            <div class="col-xs-3">
+            <div class="col-xs-2">
                 <img class="lazy" data-src="/assets/images/icons/location.png"/>        
             </div>
-            <div class="col-xs-9">
+            <div class="col-xs-10">
                 <h3>Our bases</h3>
                 <p>
-                    <a href="/about/how-to-find-us">How to find us</a>
+                    Our staff work in our offices and remotely. If you need to visit us, this is <a href="/about/how-to-find-us">how to find our offices</a>. Please note that our offices are not currently accessible to the public and a meeting will need to be arranged prior to you coming to visit us.
                 </p>
             </div>
         </div>
@@ -61,15 +62,15 @@ Please note: Some services will require further analysis into your requirements 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="row" data-aos="fade-down" data-aos-once="true">
+<div class="row about-row" data-aos="fade-down" data-aos-once="true">
     <div class="col-xs-12">
         <div class="row">
-            <div class="col-xs-9">
-                <h3>The process of working with us</h3>
-                <p>If you've never worked with a consultancy agency before, we have a detailed outline of <a href="/about/the-process-of-working-with-us">the process of working with us</a></p>
-            </div>
-            <div class="col-xs-3">
+            <div class="col-xs-2">
                 <img class="lazy" data-src="/assets/images/icons/process.png"/>        
+            </div>
+            <div class="col-xs-10">
+                <h3>The process of working with us</h3>
+                <p>If you've never worked with a consultancy agency before, we understand things can be a little confusing. We've written a detailed outline of <a href="/about/the-process-of-working-with-us">the process of working with us</a> to help you get a better understanding of the different stages of our time working together.</p>
             </div>
         </div>
     </div>
@@ -77,15 +78,15 @@ Please note: Some services will require further analysis into your requirements 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<div class="row">
+<div class="row about-row">
     <div class="col-xs-12" data-aos="fade-down" data-aos-once="true">
         <div class="row">
-            <div class="col-xs-3">
+            <div class="col-xs-2">
                 <img class="lazy" data-src="/assets/images/icons/career.png"/>        
             </div>
-            <div class="col-xs-9">
+            <div class="col-xs-10">
                 <h3>Jobs at Keep-Alive I.T</h3>
-                <p>If you're interested in working for Keep-Alive I.T Please check out <a href="/jobs">our job page</a> for more information about what it's like to work for us and to see our current vacancies.</p>
+                <p>If you're interested in working for Keep-Alive I.T, please check out <a href="/jobs">our job page</a> for more information about what it's like to work for us and to see our current and upcoming vacancies.</p>
             </div>
         </div>
     </div>
