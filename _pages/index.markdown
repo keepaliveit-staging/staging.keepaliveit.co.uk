@@ -16,6 +16,10 @@ excerpt: >
   
 ---
 
+<blockquote data-aos="fade-down" data-aos-once="true">
+  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of those things and can apply our knowledge to your requirements, or do things how we think they should be done.”</p>
+</blockquote>
+
 <section id="discover" style="background:#e0e0e0;">
 
     <div class="row center-xs">
@@ -36,7 +40,7 @@ excerpt: >
         </div>
         <div class="col-xs-12 col-sm-6" style="padding:40px;">
             <h3>Everybody Depends on I.T, not just Geeks 🤓</h3>
-            <p>Individuals & Businesses now depend on I.T more than ever before. Common I.T use cases in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
+            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases for I.T in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
             <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about I.T for Businesses</a>
             <p class="or-separator">or</p>

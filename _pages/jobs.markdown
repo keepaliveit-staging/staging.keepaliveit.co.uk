@@ -4,7 +4,7 @@ title: "Jobs at Keep-Alive I.T"
 permalink: /jobs
 classes:
   - about
-excerpt: "Looking for a career in I.T? Learn what it's like to work for Keep-Alive I.T and have a look to see if there's any positions that you may be interested in."
+excerpt: "Looking for a career in I.T? Learn what it's like to work for Keep-Alive I.T and have a look to see if there's any open job positions that you (or a friend) may be interested in applying for."
 
 header:
   overlay_image: /assets/images/job.jpg
@@ -15,6 +15,12 @@ header:
 {% include breadcrumbs.html %}
 
 ## Jobs at Keep-Alive I.T
+Imagine a having a job where you'll be hands-on with technical problems
+
+- Developing & Maintaining new or existing websites.
+- Developing & Maintaining new or existing software applications.
+- 
+
 Here at Keep-Alive I.T, our team must be equipped with the right skills to get the job done. It’s okay for a team member to be an expert at a particular task, but we try to get our entire team equipped with the skills needed to thrive in their jobs. This means all members of our team have at least some knowledge of working with digital technologies.
 
 ## **Wellbeing allowance of £300 per year**
@@ -160,3 +166,7 @@ Once a month Keep-Alive I.T organises a company wide night out where everyone is
 {% for item in site.jobs %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
+
+See what others have to say about working for us
+Want some insider information about what its like to work at Keep-Alive I.T? 
+Check us out on <a href="https://www.glassdoor.com/Overview/Working-at-Keep-Alive-I-T-Services-EI_IE3186292.11,34.htm" target="_blank">GlassDoor</a>.

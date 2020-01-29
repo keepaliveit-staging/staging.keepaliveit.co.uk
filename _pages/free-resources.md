@@ -7,7 +7,7 @@ permalink: /free-resources
 toc: true
 toc_sticky: true
 
-excerpt: "Free I.T resources"
+excerpt: "Free I.T resources to give you a helping hand with your next I.T project."
 header:
   overlay_image: /assets/images/help.jpg
   overlay_filter: 0.5 

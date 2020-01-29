@@ -7,7 +7,7 @@ classes:
 excerpt: "Website Sitemap for keepaliveit.co.uk"
 
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/sitemap.jpg
   overlay_filter: 0.74
 ---
 

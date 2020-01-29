@@ -75,4 +75,12 @@ Workflow
 ### Cost of our Development Team formation and developer onboarding services
 
 
+
+## Training 
+We complete all training on our own back, leaving you with no worries or chasing up staff. Just like a traditional employee has a probationary period, we offer this same guarantee. 
+
+## Our Guarantee
+We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll notify you ahead of time about this.
+
+
 {% include industry-consultation.md %}
