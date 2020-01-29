@@ -78,13 +78,13 @@ company_number: 12358813
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : false # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : WH8TNK4NRQ # YOUR_APPLICATION_ID
+  application_id         : RBGT19CYLC # YOUR_APPLICATION_ID
   index_name             : site # YOUR_INDEX_NAME
-  search_only_api_key    : 2e08671f6bfde78b06867afdf120a728 # YOUR_SEARCH_ONLY_API_KEY
+  search_only_api_key    : 737f32bd6dbcbcbae888cb69cf9e637b # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
