@@ -5,7 +5,7 @@ permalink: /jobs/graduate-php-developer
 
 excerpt: "Graduate PHP Developer Job at Keep-Alive I.T."
 header:
-  overlay_image: /assets/images/industries/accountant.jpg
+  overlay_image: /assets/images/jobs/php-developer.jpg
   overlay_filter: 0.5 
 ---
 

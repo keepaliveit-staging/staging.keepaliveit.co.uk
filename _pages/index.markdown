@@ -88,12 +88,12 @@ excerpt: >
 
 > Tech is expanding 2.6x times faster than the rest of the UK economy. The digital tech sector is worth nearly £184 billion to UK economy, up from £170 billion in 2016. (*Source:* <a href="https://technation.io/" target="_blank">Tech Nation’s 2018 report</a>)
 
-In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** businesses, regardless of its industry type, size, or sector. In the past decade, manual paper processes have become electronic and an increased amount of Software Applications, Servers, and Networks has resulted in Businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable as it should be and is subject to failure at any time of the day or night, causing issues for business productivity. 
+In the modern technology focused era that we live in, I.T has become the backbone of nearly **every** business, regardless of its industry type, size, or sector. In the past decade, manual paper processes have become electronic and an increased amount of Software Applications, Servers, and Networks has resulted in businesses relying on I.T operations for data handling purposes more than ever before. However, I.T isn't always reliable as it should be and is subject to failure at any time of the day or night, causing potential issues for business productivity. 
 
 ### Low Availability prompts inconvenience. I.T Threats prompt Legalities. Don't let either of these risks affect your business.
 Depending on the severity of an I.T issue, the outcome of an I.T failure can be catastrophic to the reputation of a business. Companies try to overcome such risks by quickly designing & executing reactive recovery strategies, but often it is too late to take action as customers **go elsewhere to spend their money if the service they expect isn't available.** In more extreme cases, customers may trigger legal action towards a company for breaking local laws, such as the General Data Protection Regulations (GDPR).
 
-Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The <a href="/assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png">following Graph</a>, produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime occurrence (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime occurrence is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
+Reduced I.T availability contributes towards the failure of company operations. Bad company operations leads to a loss of time & money resources for a company. More importantly, lower availability causes a loss of trust amongst new & current customers of a company. The <a href="/assets/images/statistics/global-enterprise-server-hourly-downtime-cost-2019.png">following chart</a>, produced by <a href="https://www.statista.com/" target="_blank">Statistica</a> shows just how much revenue can be lost from a single hour of an I.T downtime occurrence (data collected from 1000+ organisations worldwide). 25% of respondents claim their average annual loss from I.T downtime occurrence is ~$301,000 to ~$400,000  (or approximately ~£227,000 to ~£301,000) per hour.
 
 I.T threats, including Cyber Security attacks and physical attacks towards I.T systems can result in more serious issues, **such as closure of a company entirely**,  in more extreme cases. Recent Cyber Security statistics demonstrate shockingly high metrics as a result of attack vectors towards I.T systems. These are predicted to grow even higher over the next 5 years, as the usage of technology continues to grow:
 
@@ -105,24 +105,15 @@ I.T threats, including Cyber Security attacks and physical attacks towards I.T s
 
 
 ### The truth is, running I.T efficiently & effectively requires well thought out processes and a great deal of expertise.
-Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems **should be your desired goal**. 
-Technology should be an investment into the operation of an organisation. There is no single reason why I.T downtime occurs, though there are dozens of processes that can be implemented to avoid I.T failures or attacks.
-
-As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with Software, Infrastructure, and Security proactively **before** they occur in production environments. 
-
-If you're a business manager and have ever asked yourself a question similar to the following:
-
-- How can my business save money on its I.T costs?
-- How can we improve the robustness and availability of our I.T?
-- What technologies can we use to enable feature X?
-- How do we scale our I.T to take business targets to the next level?
-
-
+Achieving a 100% uptime Service Level Agreement (SLA) with your customers **shouldn't be your primary goal**; Instead, focusing on **strategising your I.T for the unknowns** and providing **service robustness** for your I.T systems should be **your desired goal**. 
+There is no single reason why I.T downtime occurs, though there are dozens of processes that can be implemented to avoid I.T failures or attacks.
 
 ### Don't let your business be a victim of I.T downtime. Keep-Alive I.T's services can help you.
-Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. We can help new or existing companies secure their I.T from an application level, infrastructure level, or hardware level.
+As technical experts with over a decade of experience in the I.T field, we can identify and mitigate potential issues with Software, Infrastructure, and Security proactively **before** issues occur in production environments, or save your business from I.T issues that have already happened. 
 
-Contact us today and we can provide you with tailored support packages from your already identified requirements, or we can perform an audit into your existing I.T setup and show you how our services could result in greater Return On Investments (ROI) for your company.
+Technology should be an investment into the operation of an organisation, not a hindrance.
+<a href="/request-a-callback">Request a Callback</a> from us and we can provide you with tailored support packages for your already identified requirements, or can perform an audit into your existing I.T setup(s) to show you how our services could result in greater Return On Investments (ROI) for your company.
+
 
 {% comment %}
 {% for item in site.industry %}
@@ -132,7 +123,7 @@ Contact us today and we can provide you with tailored support packages from your
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-### I.T for Consumers
+### The Importance of Effective I.T for Consumers
 Running I.T at home has become an important part of modern life and has changed the way families communicate and work.
 Here are some use cases for use of I.T in the modern home.
 
@@ -145,10 +136,10 @@ Here are some use cases for use of I.T in the modern home.
                     <div class="item-title">For Parents</div>
                     <div class="item-description">
                         <ul>
-                            <li>Producing documents using desktop publishing softwares</li>        
-                            <li>Filing accounts</li>
+                            <li>Producing documents using desktop publishing software's.</li>        
+                            <li>Filing accounts.</li>
                             <li>Paying bills using internet banking.</li>
-                            <li>Online shopping on e-Commerce websites</li>
+                            <li>Online shopping on e-Commerce websites.</li>
                         </ul>
                     </div>
                 </div>
@@ -160,9 +151,9 @@ Here are some use cases for use of I.T in the modern home.
                     <div class="item-title">For Pets</div>
                     <div class="item-description">
                         <ul>        
-                            <li>Smart feeding systems</li>
-                            <li>Smart premises entering & exiting systems</li>
-                            <li>Smart lighting for when nobody is home</li>
+                            <li>Smart feeding systems.</li>
+                            <li>Smart premises entering & exiting systems.</li>
+                            <li>Smart lighting for when nobody is home.</li>
                         </ul>
                     </div>
                 </div>
@@ -187,7 +178,13 @@ Here are some use cases for use of I.T in the modern home.
 
 Modern & cutting edge I.T helps keep our homes & offices safe and operational, and connects people in the United Kingdom with the rest of the world.
 
+> households in the United Kingdom (UK) connected to the internet via broadband connection from 2003 to 2019. While in 2003, 11 percent of households had access to the internet via broadband, the share increased to 96 percent in 2019.
+
 As of 2020, most households in the United Kingdom have an internet connection and WiFi but when things don't go quite to plan
+Can result in screaming children due to not being able to watch the latest episode of their favourite TV Show.
+
+As more devices have become connected in the modern home, more attack vectors have become available for hackers. E.g. Most internet bill payers have no idea what cyber security is and have no control of what their children do online.
+    
     
 <div class="divider div-transparent div-arrow-down"></div>
 

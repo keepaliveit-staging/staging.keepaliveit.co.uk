@@ -21,16 +21,27 @@ header:
   <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done.</p>
 </blockquote>
 
-Keep-Alive I.T is a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving software or hardware systems; Covering I.T workloads such as application development, infrastructure development, and network design. 
+Keep-Alive I.T is a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving Software, or Hardware systems; Covering I.T workloads such as Application Development, Infrastructure Development, and Network Design. 
 
-We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to feel they're getting a high quality service for their money, and can rely on us to take their I.T stresses away so that they're able to carry on with doing the stuff they do best, and leave us to do what we do best. 
+We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to feel they're getting a high quality service for their money, and can rely on us to do what we do best to take their I.T stresses away. 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-
 ### Who can benefit from our services?
+
+Consumers and businesses can benefit from our services. Helping consumers with their I.T was the start to our company but we have since expanded to offering business services too.
+
 Whether you're a small business who needs help designing & setting up a small Local Area Network (LAN), a medium sized company who wants to start selling a new range of products online via an in-house developed e-commerce platform, or a FTSE 100 company who requires expertise advice with a Cloud
 migration strategy for enterprise workloads; Keep-Alive I.T will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, or employee count.
+
+If you're a business manager or executive and have ever discussed a question similar to the following:
+
+- How can the business save money on its I.T costs?
+- How can the business improve the robustness and availability of its I.T?
+- What technologies can we use to enable feature X?
+- How should we scale our I.T to take our business targets to the next level?
+
+Then our services are definitely for you!
 
 <div class="divider div-transparent div-arrow-down"></div>
 
