@@ -23,6 +23,8 @@ Imagine a having a job where you'll be hands-on with technical problems
 
 Here at Keep-Alive I.T, our team must be equipped with the right skills to get the job done. It’s okay for a team member to be an expert at a particular task, but we try to get our entire team equipped with the skills needed to thrive in their jobs. This means all members of our team have at least some knowledge of working with digital technologies.
 
+We prefer breadth of knowledge, rather than depth of knowledge.
+
 ## **Wellbeing allowance of £300 per year**
 
 We want to support you in your personal development outside of work, specifically in terms of learning new skills or challenging yourself in a way that is positive for your health and wellbeing.

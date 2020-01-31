@@ -28,10 +28,9 @@ Being ahead of the game with I.T can inherit many benefits:
                     <div class="item-description">
                         <p>An overview of benefits:</p>
                         <ul>
-                            <li>Producing documents using desktop publishing softwares</li>        
-                            <li>Filing accounts</li>
-                            <li>Paying bills using internet banking.</li>
-                            <li>Online shopping on e-Commerce websites</li>
+                             {% for benefit in item.benefits %}
+                                <li>{{ benefit }}</li>
+                             {% endfor %}
                         </ul>
                     </div>
                 </div>

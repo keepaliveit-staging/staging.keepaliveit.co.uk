@@ -9,18 +9,17 @@ header:
   overlay_filter: 0.5 
   
 icon: /assets/images/icons/wallet.png
+benefits:
+    - "Improved business cash flow."
+    - "More money to invest in other areas of the business."
+    - "Increased staff wages and Director bonuses."
 ---
 
 {% include breadcrumbs.html %}
 
-## Efficient I.T reduces costs
-
-> IT governance is a formal framework that provides a structure for organizations to ensure that IT investments support business objectives.
+## Efficient I.T reduces Costs for Businesses and Individuals
 
 {% include industry-consultation.md %}
-
-## Solutions we offer which compliment improved I.T governance
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

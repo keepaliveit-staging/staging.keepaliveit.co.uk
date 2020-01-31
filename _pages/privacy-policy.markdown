@@ -4,7 +4,7 @@ title: "Privacy Policy for keepaliveit.co.uk"
 permalink: /privacy-policy
 classes:
   - privacy-policy
-excerpt: "Privacy Policy for keepaliveit.co.uk"
+excerpt: "Learn how we collect, handle, and use your data."
 
 header:
   overlay_image: /assets/images/privacy.jpg
@@ -29,7 +29,7 @@ header:
             including information relating to any purchases you make of our goods or services;
         </li>
         <li>information that you provide to us for the purpose of registering with us;</li>
-        <li>&nbsp;information that you provide to us for the purpose of subscribing to our website services, email
+        <li>information that you provide to us for the purpose of subscribing to our website services, email
             notifications and/or newsletters; and
         </li>
         <li>any other information that you choose to send to us.</li>

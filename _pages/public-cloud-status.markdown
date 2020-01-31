@@ -4,7 +4,7 @@ title: "Public Cloud Status Pages"
 permalink: /public-cloud-status
 classes:
   - about
-excerpt: "Links to Status Pages of Popular Public Clouds"
+excerpt: "Links to Status Pages of Popular Public Clouds for your convenience."
 
 header:
   overlay_image: /assets/images/cloud.jpg

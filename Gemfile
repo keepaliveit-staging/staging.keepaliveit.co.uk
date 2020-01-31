@@ -11,6 +11,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.0.0"
 gem "minimal-mistakes-jekyll"
+gem "jekyll-paginate-v2", git: 'https://github.com/mmistakes/jekyll-paginate-v2.git', branch: 'jekyll-v4'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia'

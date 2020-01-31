@@ -8,14 +8,14 @@
 theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
   - jekyll-feed
 
 whitelist:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
@@ -154,7 +154,7 @@ footer:
       url: "https://www.facebook.com/keepaliveitservices/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "http://linkedin.com/company/keepaliveit"
 
 
 # Reading Files
@@ -300,7 +300,30 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Pagination:
+############################################################
+
+pagination:
+  # Site-wide kill switch, if disabled here then it doesn't run at all
+  enabled: true
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+
+  # The default document collection to paginate if nothing is specified ('posts' is default)
+  collection: 'posts'
+
+  # How many objects per paginated page, used to be `paginate` (default: 0, means all)
+  per_page: 4
+
+  # The permalink structure for the paginated pages (this can be any level deep)
+  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+
+  # Limit how many pagenated pages to create (default: 0, means all)
+  limit: 0
+
 
 # Archives
 #  Type

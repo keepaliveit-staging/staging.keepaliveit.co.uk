@@ -16,6 +16,7 @@ icon: /assets/images/icons/governance.png
 ## Efficient I.T improves I.T governance
 
 {% comment %}
+
 I.T governance is a formal framework that provides a structure for organizations to ensure that IT investments support business objectives. The need for formal corporate and IT governance practices across U.S. organizations was fueled by the enactment of laws and regulations, including the Gramm–Leach–Bliley Act (GLBA) and the Sarbanes-Oxley Act, in the 1990 and early 2000s that resulted from the fallout from several high-profile corporate fraud and deception cases.
 
 I reached out to Paul Calatayud, chief technology officer at security management provider FireMon, for his input on IT governance and what's required for successful implementation. Calatayud leads Firemon's corporate development program and provides thought leadership regarding product strategy, product management, and research and development. He's also a SANS Institute instructor and sits on advisory boards for several security-related companies.
@@ -70,7 +71,6 @@ As with any significant project, you should always keep communication lines open
 {% include industry-consultation.md %}
 
 ## Solutions we offer which compliment improved I.T governance
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

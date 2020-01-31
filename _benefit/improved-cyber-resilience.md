@@ -23,7 +23,6 @@ A cyber resilience strategy consists of implementing technology and best practic
 
 ## Solutions we offer which compliment improved I.T governance
 
-
 Other benefits of I.T
 {% assign items = site.benefit %}
 <ul class="">

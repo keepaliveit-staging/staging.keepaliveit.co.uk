@@ -9,6 +9,10 @@ header:
   overlay_filter: 0.5 
   
 icon: /assets/images/icons/flexible.png
+benefits:
+    - "Allow staff to work from anywhere, anytime."
+    - "Improved work/life balance for staff."
+    - "Enables 'on-call' working hours."
 ---
 
 {% include breadcrumbs.html %}
