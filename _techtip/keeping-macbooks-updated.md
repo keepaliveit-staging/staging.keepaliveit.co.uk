@@ -3,7 +3,7 @@ layout: splash
 title: "Keeping a Macbook Updated"
 permalink: /tech-tips/how-to-update-macbook-software
 
-excerpt: "Are you curious of how to update the Software on a Macbook? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Mac OS Software upgrades on a Macbook by yourself."
+excerpt: "Do you need to know how to update the Software on a Macbook? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Mac OS Software upgrades on a Macbook by yourself."
 header:
   overlay_image: /assets/images/techtip/macbook.jpg
   overlay_filter: 0.77
@@ -17,7 +17,7 @@ thumbnail: /assets/images/techtip/thumbnail/macbook.jpg
 
 ### Why is keeping a Macbook updated important?
 One popular misconception people have about Macbooks (and Macs in general) is that “Macs don’t get viruses”.
-This leads consumers to believe that there isn't a need to keep on top of updating Mac OS on a Macbook and that they Macbooks are invincible to malware. In fact, the situation is the complete opposite to this as Macs *CAN* get viruses and not updating software on a Macbook could leave a Macbook exposed to security vulnerabilities and subject to being a victim of being infected by a computer virus.
+This leads consumers to believe that there isn't a need to keep on top of updating Mac OS on a Macbook and that Macbooks are invincible to malware. In fact, the situation is the complete opposite to this as Macs *CAN* get viruses and not updating software on a Macbook could leave a Macbook exposed to security vulnerabilities and subject to being a victim of being infected by a computer virus.
 Computer viruses are a type of Software that can be used to make computing devices perform illegal activities on a single device, or across an entire network of devices if the level of malware is severe.
 
 We won't go into too much detail on how computer viruses are created and operate as this is beyond the scope of this guide. However, a key point to make you aware of is that Software viruses can load & execute themselves onto a Macbook *with* or *without your knowledge*. This is done by taking advantage of security holes left in software that has been partially developed and tested, or patched incorrectly. Viruses come in different forms and some can be more severe to your devices than others, depending on the complexity of the the malicious software and how it exploits the security hole that exists on your device, or its network.
@@ -26,7 +26,7 @@ Groups of people, or individuals who have the intent of performing malicious act
 This process (known as 'hacking') is in breach of the computer misuse act and is highly illegal. 
 
 Being 'hacked' should be a high risk factor for anyone that owns a computing device. 
-It may seem like we're preaching about Macbook security but please don't fret, as applying software updates to a Macbook is actually a lot simpler than you think. Applying software updates is also one of the most effective ways of protecting against viruses and maintaining your cyber resilience effort.
+It may seem like we're preaching about Macbook security but please don't fret, as the process of applying software updates to a Macbook is actually a lot simpler than you think it is. Applying software updates is also one of the most effective ways of protecting against viruses and maintaining your cyber resilience effort.
 Keeping a Macbook updated keeps you one step ahead of hackers and mitigates the possibility of a Macbook being compromised by malicious software. Losing your work Losing confidential information     
 
 So to reiterate, Taking proactive measures towards keeping software updated is the only thing consumers can do to ensure their devices aren't exposed to such attacks.Corruption of a Macbook hard drive
