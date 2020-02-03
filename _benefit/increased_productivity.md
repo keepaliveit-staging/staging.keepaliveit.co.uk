@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.5 
   
 icon: /assets/images/icons/productivity.png
+benefits:
+    - "Get more done in less time."
 ---
 
 {% include breadcrumbs.html %}

@@ -9,7 +9,9 @@ header:
   overlay_filter: 0.5 
   
 icon: /assets/images/icons/cyber.png
-
+benefits:
+    - "Stay safe from online hackers."
+    - "Prevent data breaches."
 ---
 
 {% include breadcrumbs.html %}

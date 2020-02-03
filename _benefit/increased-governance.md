@@ -9,6 +9,10 @@ header:
   overlay_filter: 0.5 
 
 icon: /assets/images/icons/governance.png
+benefits:
+    - "Data Governance with RBAC, so you know exactly who has access to what"
+    - "Centrally stored logs for auditing reasons."
+    - "Terminate access to I.T systems for employees who have left the company"
 ---
 
 {% include breadcrumbs.html %}

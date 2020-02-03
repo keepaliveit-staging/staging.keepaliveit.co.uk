@@ -9,6 +9,10 @@ header:
   overlay_filter: 0.5 
   
 icon: /assets/images/icons/communication.png
+benefits:
+    - "Distribute company announcements instantly."
+    - "Global communication through a single tool."
+    - "Segmented communication channels."
 ---
 
 {% include breadcrumbs.html %}

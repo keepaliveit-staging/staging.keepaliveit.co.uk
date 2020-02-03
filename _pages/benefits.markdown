@@ -3,7 +3,7 @@ layout: splash
 title: What are the Benefits of Effective I.T?
 permalink: /benefits-of-effective-it
 
-excerpt: "Effective I.T brings a range of benefits to Homes and Workplaces. Explore the benefits that our services encourage."
+excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
   overlay_image: /assets/images/benefit/overview.jpg
   overlay_filter: 0.5 
@@ -11,8 +11,8 @@ header:
 
 {% include breadcrumbs.html %}
 
-## What are the Benefits of Effective I.T
-Being ahead of the game with I.T can inherit many benefits:
+## What are the Benefits of Effective I.T?
+Being ahead of the game with I.T can inherit many benefits for Homes and Workplaces:
 
 {% assign items = site.benefit %}
 
