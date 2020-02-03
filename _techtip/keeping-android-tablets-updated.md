@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/techtip/android-tablet.jpg
   overlay_filter: 0.5 
   
-thumbnail: /assets/images/techtip/android-tablet.jpg
+thumbnail: /assets/images/techtip/thumbnail/android-tablet.jpg
 ---
 
 {% include breadcrumbs.html %}

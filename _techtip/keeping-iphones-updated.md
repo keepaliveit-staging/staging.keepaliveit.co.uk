@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/techtip/iphone.jpg
   overlay_filter: 0.5 
   
-thumbnail: /assets/images/techtip/iphone.jpg
+thumbnail: /assets/images/techtip/thumbnail/iphone.jpg
 ---
 
 {% include breadcrumbs.html %}

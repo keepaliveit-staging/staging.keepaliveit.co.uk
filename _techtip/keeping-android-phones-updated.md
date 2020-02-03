@@ -3,12 +3,12 @@ layout: splash
 title: "Keeping an Android Phone Updated"
 permalink: /tech-tips/how-to-update-android-phone-software
 
-excerpt: "Wondering how to update the software on your Android Mobile Phone? This guide will show you how."
+excerpt: "Are you curious of how to update the Software on your Android Phone? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Android Software upgrades on your Android Phone by yourself."
 header:
   overlay_image: /assets/images/techtip/android-phone.jpg
   overlay_filter: 0.5 
   
-thumbnail: /assets/images/techtip/android-phone.jpg
+thumbnail: /assets/images/techtip/thumbnail/android-phone.jpg
 ---
 
 {% include breadcrumbs.html %}

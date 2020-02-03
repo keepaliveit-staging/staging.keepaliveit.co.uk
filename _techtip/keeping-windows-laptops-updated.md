@@ -3,12 +3,12 @@ layout: splash
 title: "Keeping a Windows Laptop Updated"
 permalink: /tech-tips/how-to-update-windows-laptop-software
 
-excerpt: "Wondering how to update the software on your Windows Laptop? This guide will show you how."
+excerpt: "Are you curious of how to update the Software on your Windows Laptop? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Windows OS Software upgrades on your Windows Laptop by yourself."
 header:
   overlay_image: /assets/images/techtip/windows-laptop.jpg
   overlay_filter: 0.5 
   
-thumbnail: /assets/images/techtip/windows-laptop.jpg
+thumbnail: /assets/images/techtip/thumbnail/windows-laptop.jpg
 ---
 
 {% include breadcrumbs.html %}

@@ -30,6 +30,12 @@ Basic Website hosting
 
 We're experts in dealing with home users and the problems they have, from making your wireless network work around the house, setting up a new printer, to getting your iPad and iPhone to sync contacts with your desktop computer, both on-site and remotely.
 
+A key consideration worth keeping in mind if you own any computing device(s) is:
+> "Any misconfigured or unconfigured device that's connected to a network with an active internet connection may pose a security risk to all other devices connected onto the same network."
+
+If you're not completely sure what the above statement means, then that's okay as we'll try our best to explain why it's important to upgrade the Software version of Mac OS on your Macbook, in addition to why updating the Software on your Macbook will count as an effective cyber resilient measure.
+
+
 
 Operating System Install/Re-install
 

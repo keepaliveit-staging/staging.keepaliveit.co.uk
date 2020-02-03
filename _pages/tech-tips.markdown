@@ -3,7 +3,7 @@ layout: splash
 title: Tech Tips for Consumers
 permalink: /tech-tips
 
-excerpt: "Tech Tips for Non-Tech Warriors."
+excerpt: "Tech Tips for 'Non-Tech Warriors' who want to learn how to complete common computing tasks."
 
 header:
   overlay_image: /assets/images/tips.jpg
@@ -20,20 +20,23 @@ pagination:
     after: 1
 ---
 
-<h2>Tech Tips</h2>
-<p>We understand not everyone is a wizzard with technology, that's why we've launched tutorials on common computing topics which can be performed by individuals by following these guides.</p>
+<h2>Tech Tips for Consumers</h2>
+<p>We understand not everyone is a 'tech wizzard' when it comes to dealing with I.T, so this is why we've written guides on how to perform common computing tasks. We hope our guides are a valuable learning resource and can help you take the 'DIY approach' to maintaining your I.T.</p>
+<p>If you have a request for a tech tip article, please get in touch and we will see what we can do for you.</p>
 
 <div class="container">
     <div class="row">    
         {% for item in paginator.posts %}            
-            <div class="col-xs-12 col-sm-6 reason-container">
-                <div class="reason-item">
-                    <img class="lazy" data-src="{{ item.thumbnail }}"/>
+            <div class="col-xs-12 col-sm-6 techtip-container">
+                <div class="techtip-item">
+                    <a href="{{ item.url }}">
+                        <img class="lazy" data-src="{{ item.thumbnail }}" />
+                    </a>
                     <div class="item-title">
                         <a href="{{ item.url }}">{{ item.title }}</a>
                     </div>
                     <div class="item-description">
-                        <p>Text</p>
+                        <p>{{ item.excerpt }}</p>
                     </div>
                 </div>
             </div>
