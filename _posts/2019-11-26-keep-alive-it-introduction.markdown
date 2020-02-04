@@ -27,5 +27,5 @@ Development and Operations support, I.T Procurement
 
 ## Our base
 Our registered office is based in the heart of Caerphilly, just a stones throw away from Cardiff.
-<img src="/assets/images/welsh-ice.jpg" />
+<img class="lazy" src="/assets/images/welsh-ice.jpg" />
 

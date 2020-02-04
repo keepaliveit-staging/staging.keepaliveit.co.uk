@@ -7,5 +7,5 @@ author_profile: true
 ---
 
 ## We're now an approved Sell2Wales partner
-<img src="/assets/images/welsh-ice.jpg" />
+<img class="lazy" src="/assets/images/welsh-ice.jpg" />
 
