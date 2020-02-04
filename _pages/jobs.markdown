@@ -122,7 +122,7 @@ The bonus amounts are based on the roles and outlined below:
 
 ## A workstation of your choice
 
-Windows or Mac? Your choice. We supply every new employee with a Windows Laptop, or a MacBook.
+Windows or Mac? Your choice. We supply every new employee with a Windows Laptop, or a Android Phone.
  
 ## **Dog friendly office**
 

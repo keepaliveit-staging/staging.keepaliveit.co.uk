@@ -50,3 +50,10 @@ Own a copy of MS Office, Photoshop etc?  No worries, we'll put that back on for 
 
 Cost
 £90 Fixed Fee, however long it takes
+
+Windows 10
+£119.99 + VAT
+
+
+Windows 10 Pro
+£219.99 + VAT
