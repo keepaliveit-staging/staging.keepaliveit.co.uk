@@ -68,3 +68,6 @@ To gather even more information about the users who are using your website, you�
 Once you’ve acquired enough email addresses, it’s a good idea to produce Marketing Emails to sell new goods to your customers. DigiAgency offers an Email Marketing service.
 
 As you’ve now collected a great amount of data about your customers from the previous steps, you should now focus on improving the SEO of your website as there’s a good chance it’s not as good as it should be if you didn’t put enough money into making your website SEO friendly in the first place. SEO stands for ‘Search Engine Optimisation’ and is the process of performing changes to your website so Search Engines such as Google and Bing.
+
+
+Getting their MVP finished at an affordable price.
