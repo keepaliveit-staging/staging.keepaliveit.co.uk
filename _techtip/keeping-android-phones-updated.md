@@ -38,29 +38,29 @@ As a prerequisite, make sure you have enough hard drive or solid state drive sto
 #### Step 1 - Click the Apple Icon in the top left of MacOS to reveal the 'Apple menu'
 It doesn't matter which window you currently have in focus within Mac OS as the Apple Icon will always be visible unless you have a software application open in a maximised state. If this is the case then please hover your mouse cursor near the top left of the Window to reveal the Apple logo. Simply click the Apple icon to display a context menu that looks like the following:
 
-<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-1.jpg" />
+<!--<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-1.jpg" />-->
 
 #### Step 2 - Open up 'System Preferences' from the MacOS Window
 This is some text
 
-<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-2.jpg" />
+<!--<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-2.jpg" />-->
 
 #### Step 3 - Allow some time for MacOS to check for system updates.
 If there are no updates available, then MacOS will display a message and you can safely continue to use your Android Phone as usual.
 
-<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-3.jpg" />
+<!--<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-3.jpg" />-->
 
 #### Step 4
 This is some text
 
-<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-4.jpg" />
+<!--<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-4.jpg" />-->
 
 #### Step 5
 You will need to agree to the MacOS license agreement. Please read through this carefully and then click the 'Agree' button if you agree to the terms.
 
-<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-5.jpg" />
+<!--<img class="lazy" src="/assets/images/techtip/Android Phone/Android Phone-5.jpg" />-->
 
-<div class="divider div-transparent div-arrow-down"></div>
+<!--<div class="divider div-transparent div-arrow-down"></div>
 
 That's the end of the process. You may now sit back and wait for the update to complete. Your Mac may restart several times throughout the update process, so don't panic if this happens.
 
