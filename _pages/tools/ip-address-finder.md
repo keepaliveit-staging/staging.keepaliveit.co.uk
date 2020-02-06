@@ -1,7 +1,7 @@
 ---
 layout: splash 
 author_profile: false 
-title: "Ip Address Finder"
+title: "IP Address Finder"
 permalink: /tools/ip-address-finder
 
 excerpt: "Need to know your IP Address? You're at the right place."
@@ -13,9 +13,9 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Ip Address Finder
+## IP Address Finder
 
 Your IP Address is: 
-<div style="border:2px dotted red;padding:10px;">
+<div id="ip-address-result" style="border:2px dotted red;padding:10px;">
     0.0.0.0
 </div>
