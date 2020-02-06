@@ -91,7 +91,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>CODE MENTORING</h3>
             <p>Looking to learn how to code? We can provide quality code mentorship sessions for groups, or individuals.</p>
-            <p><a href="/software-consultancy-consumer/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="/software-consultancy-consumer/code-mentorship-service">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>

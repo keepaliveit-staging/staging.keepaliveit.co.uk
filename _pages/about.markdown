@@ -23,7 +23,7 @@ header:
 
 Keep-Alive I.T is a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving Software, or Hardware systems; Covering I.T workloads such as Application Development, Infrastructure Development, and Network Design. 
 
-We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to feel they're getting a high quality service for their money, and can rely on us to do what we do best to take their I.T stresses away. 
+We strive to compliment our I.T Development & Operations services with excellent project management and customer service, enabling customers to forget about their I.T stresses and rely on us to do what we do best to get the job done. 
 
 <div class="divider div-transparent div-arrow-down"></div>
 
