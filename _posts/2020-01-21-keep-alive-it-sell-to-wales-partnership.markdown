@@ -9,3 +9,4 @@ author_profile: true
 ## We're now an approved Sell2Wales partner
 <img class="lazy" src="/assets/images/welsh-ice.jpg" />
 
+We have now become an approved Sell2Wales partner for working in contracted positions in Wales.
