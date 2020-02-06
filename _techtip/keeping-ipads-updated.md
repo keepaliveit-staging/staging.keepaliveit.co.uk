@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Keeping an Ipad Updated"
+title: "How to update an iPad"
 permalink: /tech-tips/how-to-update-ipad-software
 
 excerpt: "Wondering how to update the software on your iPad? This guide will show you how."
@@ -13,8 +13,8 @@ thumbnail: /assets/images/techtip/thumbnail/ipad.jpg
 
 {% include breadcrumbs.html %}
 
-## Keeping an Ipad Updated
-### Why is keeping a Macbook updated important?
+## How to update an iPad
+### Why is keeping an iPad updated important?
 One popular misconception people have about Macbooks (and Macs in general) is that “Macs don’t get viruses”.
 This leads consumers to believe that there isn't a need to keep on top of updating Mac OS on a Macbook and that Macbooks are invincible to malware (a shortened term used to describe malicious software). In fact, the situation is the complete opposite to this as Macs *CAN* get viruses and not updating software on a Macbook could leave a Macbook exposed to security vulnerabilities and subject to being a victim of being infected by viruses.
 Computer viruses are a type of Software that can be used to make computing devices perform illegal activities over the internet. This can occur on a single device, or across an entire network of devices if the malware is sophisticated enough to cause severe damage.

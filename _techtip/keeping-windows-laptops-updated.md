@@ -13,7 +13,7 @@ thumbnail: /assets/images/techtip/thumbnail/windows-laptop.jpg
 
 {% include breadcrumbs.html %}
 
-## Keeping a Windows Laptop Updated
+## How to update a Windows Laptop
 ### Why is keeping a Windows Laptop updated important?
 One popular misconception people have about Macbooks (and Macs in general) is that “Macs don’t get viruses”.
 This leads consumers to believe that there isn't a need to keep on top of updating Mac OS on a Macbook and that Macbooks are invincible to malware (a shortened term used to describe malicious software). In fact, the situation is the complete opposite to this as Macs *CAN* get viruses and not updating software on a Macbook could leave a Macbook exposed to security vulnerabilities and subject to being a victim of being infected by viruses.

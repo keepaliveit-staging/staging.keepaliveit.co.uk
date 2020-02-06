@@ -10,7 +10,9 @@ header:
   
 icon: /assets/images/icons/productivity.png
 benefits:
+    - "Better turnovers "
     - "Get more done in less time."
+    - "Happier employees overall and an opportunity for bonuses."
 ---
 
 {% include breadcrumbs.html %}

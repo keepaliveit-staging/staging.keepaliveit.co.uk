@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Keeping an Android Phone Updated"
+title: "How to update an Android Phone"
 permalink: /tech-tips/how-to-update-android-phone-software
 
 excerpt: "Do you need to know how to update the Software on your Android Phone? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Android Software upgrades on your Android Phone by yourself."
@@ -13,7 +13,7 @@ thumbnail: /assets/images/techtip/thumbnail/android-phone.jpg
 
 {% include breadcrumbs.html %}
 
-## Keeping an Android Phone Updated
+## How to update an Android Phone
 ### Why is keeping an Android Phone updated important?
 Android Phones are subject to malware (a shortened term used to describe malicious software). ot updating software on an Android Phone could leave an Android Phone exposed to security vulnerabilities and subject to being a victim of being infected by viruses.
 Computer viruses are a type of Software that can be used to make computing devices perform illegal activities over the internet. This can occur on a single device, or across an entire network of devices if the malware is sophisticated enough to cause severe damage.

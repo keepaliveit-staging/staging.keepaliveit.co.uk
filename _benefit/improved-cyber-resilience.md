@@ -10,8 +10,9 @@ header:
   
 icon: /assets/images/icons/cyber.png
 benefits:
-    - "Stay safe from online hackers."
+    - "Prepare for, respond to and recover from cyber attacks."
     - "Prevent data breaches."
+    - "Stay safe from online hackers."
 ---
 
 {% include breadcrumbs.html %}
@@ -20,6 +21,8 @@ benefits:
 
 What is a cyber resilience strategy?
 A cyber resilience strategy consists of implementing technology and best practices to secure your infrastructure. This prevents hackers from gaining access to important assets within your computer system networks. Cyber resilience is your organization's ability to withstand, respond to, and recover from a cyber-attack or data breach.
+
+Prepare for, respond to and recover from cyber attacks
 
 {% include industry-consultation.md %}
 

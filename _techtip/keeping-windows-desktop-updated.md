@@ -1,11 +1,11 @@
 ---
 layout: splash 
-title: "Keeping a Windows Computer Updated"
+title: "How to update a Windows Desktop"
 permalink: /tech-tips/how-to-update-windows-desktop-software
 
 excerpt: "Do you need to know how to update the Software on your Windows Desktop? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Windows OS Software upgrades on your Windows Desktop by yourself."
 header:
-  overlay_image: /assets/images/jobs/php-developer.jpg
+  overlay_image: /assets/images/techtip/windows-desktop.jpg
   overlay_filter: 0.5 
 
 thumbnail: /assets/images/techtip/thumbnail/windows-desktop.jpg
@@ -13,8 +13,8 @@ thumbnail: /assets/images/techtip/thumbnail/windows-desktop.jpg
 
 {% include breadcrumbs.html %}
 
-## Keeping Windows Desktop Software Updated
-### Why is keeping a Macbook updated important?
+## How to update a Windows Desktop
+### Why is keeping a Windows Desktop updated important?
 One popular misconception people have about Macbooks (and Macs in general) is that “Macs don’t get viruses”.
 This leads consumers to believe that there isn't a need to keep on top of updating Mac OS on a Macbook and that Macbooks are invincible to malware (a shortened term used to describe malicious software). In fact, the situation is the complete opposite to this as Macs *CAN* get viruses and not updating software on a Macbook could leave a Macbook exposed to security vulnerabilities and subject to being a victim of being infected by viruses.
 Computer viruses are a type of Software that can be used to make computing devices perform illegal activities over the internet. This can occur on a single device, or across an entire network of devices if the malware is sophisticated enough to cause severe damage.

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Keeping a Macbook Updated"
+title: "How to update a Macbook"
 permalink: /tech-tips/how-to-update-macbook-software
 
 excerpt: "Do you need to know how to update the Software on a Macbook? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Mac OS Software upgrades on a Macbook by yourself."
@@ -13,7 +13,7 @@ thumbnail: /assets/images/techtip/thumbnail/macbook.jpg
 
 {% include breadcrumbs.html %}
 
-## Keeping a Macbook Updated
+## How to update a Macbook
 
 ### Why is keeping a Macbook updated important?
 One popular misconception people have about Macbooks (and Macs in general) is that “Macs don’t get viruses”.

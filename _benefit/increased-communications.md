@@ -11,7 +11,7 @@ header:
 icon: /assets/images/icons/communication.png
 benefits:
     - "Distribute company announcements instantly."
-    - "Global communication through a single tool."
+    - "Global communication available to all."
     - "Segmented communication channels."
 ---
 

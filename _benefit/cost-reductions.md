@@ -10,9 +10,9 @@ header:
   
 icon: /assets/images/icons/wallet.png
 benefits:
-    - "Improved business cash flow."
+    - "Improved Business cash flow."
     - "More money to invest in other areas of the business."
-    - "Increased staff wages and Director bonuses."
+    - "Increased Staff wages and Director bonuses."
 ---
 
 {% include breadcrumbs.html %}
