@@ -178,6 +178,27 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
           </div>
         </div>
         <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+                <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858; border-width:px;" for="PHONENUMBER" data-required="*">
+                  Enter your phone number
+                </label>
+
+                <div class="entry__field">
+                  <input class="input" maxlength="200" type="text" id="PHONENUMBER" name="PHONENUMBER" autocomplete="off" placeholder="Your phone number" data-required="true" required />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
+              </label>
+              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4; border-width:px;">
+              Enter the phone number of the person we'll be contacting
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
           <div class="sib-select sib-form-block" data-required="true">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
@@ -186,7 +207,7 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
                 </label>
                 <div class="entry__field">
                   <select class="input" id="BEST_CONTACT_TIME" name="BEST_CONTACT_TIME" data-required="true">
-                    <option value="" disabled selected hidden>Select one</option>
+                    <option value="" disabled selected hidden>Please select a time</option>
 
                     <option class="sib-menu__item" value="1">
                       09:00 - 10:00
@@ -219,27 +240,6 @@ Please note: Subsequent discussion will be billed pro rata at our I.T consultati
                 </div>
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
-              </label>
-            </div>
-          </div>
-        </div>
-        <div style="padding: 8px 0;">
-          <div class="sib-input sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row ">
-                <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858; border-width:px;" for="PHONENUMBER" data-required="*">
-                  Enter your phone number
-                </label>
-
-                <div class="entry__field">
-                  <input class="input" maxlength="200" type="text" id="PHONENUMBER" name="PHONENUMBER" autocomplete="off" placeholder="Your phone number" data-required="true" required />
-                </div>
-              </div>
-
-              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-width:px; border-color:#ff4949;">
-              </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4; border-width:px;">
-              Enter the phone number of the person we'll be contacting
               </label>
             </div>
           </div>

@@ -46,7 +46,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE PROCUREMENT AND IMPLEMENTATION</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
-            <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+            <p><a href="/software-consultancy-consumer/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
         </div>
     </div>
 </div>
@@ -61,7 +61,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE DEVELOPMENT</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
-            <p><a href="/software-consultancy/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="/software-consultancy-consumer/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -76,7 +76,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
-            <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="/software-consultancy-consumer/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -91,7 +91,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>CODE MENTORING</h3>
             <p>Looking to learn how to code? We can provide quality code mentorship sessions for groups, or individuals.</p>
-            <p><a href="/software-consultancy/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="/software-consultancy-consumer/development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>

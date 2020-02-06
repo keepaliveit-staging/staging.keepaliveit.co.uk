@@ -150,4 +150,14 @@ $(document).ready(function() {
 
         return false;
     });
+
+    // Request user IP
+    $.ajax({
+        url: "http://apps.keepaliveit.co.uk/ip/index.php",
+        cache: false
+    })
+    .done(function( html ) {
+        console.log( html );
+    });
+
 });
