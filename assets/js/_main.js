@@ -153,7 +153,7 @@ $(document).ready(function() {
 
     // Request user IP
     $.ajax({
-        url: "http://apps.keepaliveit.co.uk/ip/index.php",
+        url: "https://apps.keepaliveit.co.uk/ip/index.php",
         cache: false
     })
     .done(function( html ) {

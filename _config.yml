@@ -223,14 +223,14 @@ collections:
     output: true
     permalink: /it-consultation/:path/
   techtip:
-      output: true
-      permalink: /tech-tips/:path/
+    output: true
+    permalink: /tech-tips/:path/
   jobs:
-      output: true
-      permalink: /jobs/:path/
+    output: true
+    permalink: /jobs/:path/
   benefit:
-      output: true
-      permalink: /benefits-of-effective-it/:path/
+    output: true
+    permalink: /benefits-of-effective-it/:path/
   solutions:
     output: true
     permalink: /it-solutions/:path/
