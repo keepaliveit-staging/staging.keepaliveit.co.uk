@@ -337,13 +337,52 @@ pagination:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
+
+autopages:
+  # Site-wide kill switch, disable here and it doesn't run at all
+  enabled: true
+
+  # Category pages, omit entire config element to disable
+  categories:
+    # Optional, the list of layouts that should be processed for every category found in the site
+    layouts:
+      - 'autopage_category.html'
+    # Optional, the title that each category paginate page should get (:cat is replaced by the Category name)
+    title: 'Posts in category :cat'
+    # Optional, the permalink for the  pagination page (:cat is replaced),
+    # the pagination permalink path is then appended to this permalink structure
+    permalink: '/categories/:cat'
+
+  # Collection pages, omit to disable
+  collections:
+    layouts:
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collections/:coll'
+
+  # Tag pages, omit to disable
+  tags:
+    layouts:
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/tags/:tag'
 
 
 # HTML Compression
