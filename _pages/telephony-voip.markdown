@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Office 365 for Business"
-permalink: "/it-operations-consultancy/office-365-for-business"
+title: "Telephony & Voip"
+permalink: "/it-operations-consultancy/telephony-voip"
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -11,7 +11,6 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Office 365 for Business
-
+## Telephony & Voip
 
 {% include industry-consultation.md %}

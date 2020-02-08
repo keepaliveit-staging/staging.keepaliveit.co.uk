@@ -18,11 +18,11 @@ header:
 - Hybrid Cloud
 - Public Cloud
 
-<li><a title="Application Hosting" href="application-hosting/">Application Hosting</a></li>
+<li><a title="Application Hosting" href="/it-operations-consultancy/application-hosting">Application Hosting</a></li>
 
 
-<li><a title="Telephony and VoIP" href="telephony-voip/">Telephony and VoIP</a></li>
-<li><a title="Microsoft Office 365" href="office-365-for-business/">Microsoft Office 365</a></li>
+<li><a title="Telephony and VoIP" href="/it-operations-consultancy/telephony-voip">Telephony and VoIP</a></li>
+<li><a title="Microsoft Office 365" href="/it-operations-consultancy/office-365-for-business">Microsoft Office 365</a></li>
 
 <li><a title="Hosted Desktop (DaaS)" href="/it-operations-consultancy/hosted-desktops">Hosted Desktop (DaaS)</a></li>
 
