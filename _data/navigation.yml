@@ -9,4 +9,4 @@ main:
   - title: "Business I.T Considerations"
     url: /it-consultation
   - title: "Consumer Tech Tips"
-    url: /tech-tips
+    url: /tech-tips/ # Pagination plugin makes this redirect

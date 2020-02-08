@@ -24,7 +24,7 @@ header:
 <li><a title="Telephony and VoIP" href="telephony-voip/">Telephony and VoIP</a></li>
 <li><a title="Microsoft Office 365" href="office-365-for-business/">Microsoft Office 365</a></li>
 
-<li><a title="Hosted Desktop (DaaS)" href="hosted-desktops/">Hosted Desktop (DaaS)</a></li>
+<li><a title="Hosted Desktop (DaaS)" href="/it-operations-consultancy/hosted-desktops">Hosted Desktop (DaaS)</a></li>
 
 
 - Cloud Native Consultancy (Cloud Readiness)
