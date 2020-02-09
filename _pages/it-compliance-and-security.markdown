@@ -29,7 +29,7 @@ header:
 - Managed Cyber Security
 
 
-<li><a title="Web Security" href="it-operations-consultancy/web-security">Web Security</a></li>
+<li><a title="Web Security" href="/it-operations-consultancy/web-security">Web Security</a></li>
 Firewalls Management
 
 {% include industry-consultation.md %}
