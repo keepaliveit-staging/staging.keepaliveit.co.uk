@@ -58,6 +58,9 @@
                 <li>
                     <a class="{% if page.permalink == '/sitemap' %}active{% endif %}" href="/sitemap">Sitemap</a>
                 </li>
+                <li>
+                    <a class="{% if page.permalink == '/contact' %}active{% endif %}" href="/contact">Contact</a>
+                </li>
             </ul>
         </nav>
     </div>
@@ -92,11 +95,11 @@
 </div>
 
 <div class="page__footer-follow">
-    <ul class="social-icons">
-        {% if site.data.ui-text[site.locale].follow_label %}
-        <li><strong>{{ site.data.ui-text[site.locale].follow_label }} Keep-Alive I.T on Social Media:</strong></li>
+    <h5>{% if site.data.ui-text[site.locale].follow_label %}
+        {{ site.data.ui-text[site.locale].follow_label }} Keep-Alive I.T on Social Media:</strong>
         {% endif %}
-
+    </h5>
+    <ul class="social-icons">
         {% if site.footer.links %}
         {% for link in site.footer.links %}
         {% if link.label and link.url %}
