@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Public Cloud Computing Status Pages"
+title: "Public Cloud Computing Provider Status Pages"
 permalink: /public-cloud-status
 classes:
   - about
-excerpt: "Links to Status Pages of Popular Public Clouds for your convenience."
+excerpt: "Links to Status Pages of Popular Public Cloud Provider's for your convenience."
 
 header:
   overlay_image: /assets/images/cloud.jpg
@@ -13,7 +13,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Public Cloud Computing Status Pages
+## Public Cloud Computing Provider Status Pages
 If you're having issues with Public Cloud Infrastructure, please be sure to check out the following pages before submitting a support ticket to us.
 Unfortunately, issues by third party Public Cloud Providers are out of our control, but we will do everything we can to ensure high availability of your infrastructure in the event something is down.
 
