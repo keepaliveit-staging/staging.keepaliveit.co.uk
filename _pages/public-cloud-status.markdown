@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Public Cloud Computing Provider Status Pages"
+title: "Public Cloud Provider Status Pages"
 permalink: /public-cloud-status
 classes:
   - about

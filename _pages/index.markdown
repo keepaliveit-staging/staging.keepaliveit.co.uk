@@ -17,7 +17,7 @@ excerpt: >
 ---
 
 <blockquote data-aos="fade-down" data-aos-once="true">
-  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done.</p>
+  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
 </blockquote>
 
 <section id="discover" style="background:#e0e0e0;">
@@ -73,7 +73,7 @@ excerpt: >
                 <div class="item-title">Customer focused</div>
                 <div class="item-description">We listen to our customers feedback and are always trying to improve
                     what we do. Throughout the duration of our time working together, we will ask for feedback on
-                    how our work is performing. These metrics will be used for improving our service for other valued customers and no feedback is ever shared publically without your permission.
+                    how our work is performing. These metrics will be used for improving our service to other valued customers.
                 </div>
                 </div>
             </div>
@@ -82,8 +82,8 @@ excerpt: >
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/payment-day.png"/>
                 <div class="item-title">Monthly repayments</div>
-                <div class="item-description">Say goodbye to upfront bills and spread the cost over a period of 3,
-                    or 6 months. We offer monthly payments for retainer contracts and existing clients, meaning a better cashflow for your business and more affordable I.T systems.
+                <div class="item-description">Say goodbye to upfront bills and spread the cost of a project over a period of 3, 4, or 
+                    5 months. In addition to this, we offer monthly payments for retainer contracts and existing clients, so I.T becomes more affordable.
                 </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@ excerpt: >
                 <img class="lazy" data-src="assets/images/benefits/running.png"/>
                 <div class="item-title">Agile by nature</div>
                 <div class="item-description">We understand requirements can change rapidly and that a Waterfall
-                    project management methodology is no longer suitable for most companies. We are committed to
+                    project management methodology is no longer suitable for the way most companies operate. We are committed to
                     working with you to develop your Agile strategy to maximise your business value.
                 </div>
                 </div>
