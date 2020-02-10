@@ -261,6 +261,10 @@
       min-width: 100px;
     }
 
+    li.active a {
+      background-color: #777;
+    }
+
     a {
       position: relative;
       color: #ffffff;
@@ -275,7 +279,6 @@
 
       background-color: #333333;
       margin: 0 10px !important;
-
 
       &:before {
         content: "";
