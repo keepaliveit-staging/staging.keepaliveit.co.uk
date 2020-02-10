@@ -4,7 +4,7 @@ title: "All Services offered by Keep-Alive I.T"
 permalink: /services
 classes:
   - services
-excerpt: "All Hardware & Software I.T Consultancy Services offered by our DevOps, BizOps, and I.T Support Experts."
+excerpt: "All I.T Hardware & Software Services offered by our DevOps, BizOps, and I.T Support Experts."
 
 header:
   overlay_image: /assets/images/code.jpg

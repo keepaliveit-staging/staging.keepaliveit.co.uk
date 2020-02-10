@@ -48,7 +48,7 @@ Then our services are definitely for you!
 ### How much does Keep-Alive I.T charge for its I.T services?
 We believe being transparent and open about pricing to potential and current customers is important. This is why we've tried to be as descriptive as possible about pricing on our website's service pages to give you an approximate price for the service on offer. This means you can get a good ballpark figure of our service costs ahead of time, allowing you to shop around if you're not happy with the quote we've provided you with, and avoiding you any nasty surprises throughout our time working together.
 
-<p class="notice--info"><i class="fas fa-info-circle"></i> <strong>Please Note:</strong> Some services will require a review of current implementations and an analysis of your requirements before we are able to agree on a price for the work that needs completing. This is the nature of consultancy services and you should expect custom quotes from us before we start working for you.</p>
+<p class="notice--info"><i class="fas fa-info-circle"></i> <strong>Please Note:</strong> Some services will require a review of current implementation(s) (if any) and an analysis of your requirements before we are able to agree on a price for the work that needs completing. This is the nature of consultancy services and you should expect custom quotes from us before we start working for you.</p>
 
 
 <div class="divider div-transparent div-arrow-down"></div>
