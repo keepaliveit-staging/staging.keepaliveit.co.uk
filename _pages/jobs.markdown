@@ -18,7 +18,7 @@ header:
 ## Jobs at Keep-Alive I.T
 
 ### The primary objective of our Business
-Here at Keep-Alive I.T, the primary objective of our Business our business is to develop and maintain I.T systems. Our business keeps its doors open by working with clients on their Hardware & Software I.T requirements. <strong>Our client base spans different sectors, different team sizes, and is based all around the World</strong>.
+Here at Keep-Alive I.T, the primary objective of our business is to develop and maintain I.T systems. Our business keeps its doors open by working with clients on their Hardware & Software I.T requirements. <strong>Our client base spans different sectors, different team sizes, and clients who are based all around the World</strong>.
 
 Our business focuses on four core skill areas. These comprise of:
 - Business Requirements Analysis Skills.

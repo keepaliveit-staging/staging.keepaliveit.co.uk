@@ -23,7 +23,7 @@ The National Cyber Security Centre have published a document outlining what is e
 https://www.cyberessentials.ncsc.gov.uk/requirements-for-it-infrastructure
 
 - Firewalls
-- Cecure configuration
+- Secure configuration
 - User Access Control
 - Malware protection
 - Patch management
