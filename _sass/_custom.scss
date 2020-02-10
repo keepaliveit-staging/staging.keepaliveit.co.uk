@@ -624,6 +624,37 @@
   }
 }
 
+#get-in-touch-container {
+  height: auto;
+  width: auto;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background: #292929;
+  padding: 0.5em;
+  border-radius: 5px 0 0 0;
+
+  a {
+
+    &:hover {
+      text-decoration: none !important;
+    }
+
+    &:first-child {
+      margin-right: 10px;
+    }
+
+    svg {
+      color: #ffffff;
+      background: #aa0000;
+      font-size: 2em;
+      padding: 4px;
+      border-radius: 5px;
+    }
+  }
+
+}
+
 /* GRID. */
 .container-fluid {
   margin-right: auto;
