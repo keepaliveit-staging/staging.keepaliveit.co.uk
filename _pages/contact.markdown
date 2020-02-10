@@ -15,6 +15,13 @@ header:
 
 ## Contact Us
 
+### By Phone 
+
+To contact us by Phone, please call us on <tel>020 7550 9321</tel>.
+
+
+### By Message
+
 
 Please fill out your details if you'd like us to 
 send us a briefing document stating your requirements and we w 
