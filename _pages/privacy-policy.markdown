@@ -4,7 +4,7 @@ title: "Privacy Policy for keepaliveit.co.uk"
 permalink: /privacy-policy
 classes:
   - privacy-policy
-excerpt: "Learn how we collect, handle, and use your data."
+excerpt: "Learn how we collect, handle, use, and look after your data."
 
 header:
   overlay_image: /assets/images/privacy.jpg

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Keeping an iPhone Updated"
+title: "How to update an iPhone"
 permalink: /tech-tips/how-to-update-iphone-software
 
 excerpt: "Wondering how to update the software on your iPhone? This guide will show you how."
