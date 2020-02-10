@@ -35,6 +35,8 @@ Whether you’re a small business who needs help designing & setting up a small 
 
 We will plan, consult, and implement I.T solutions for organisations of all size - no matter their technical literacy, annual turnover, or employee count.
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <h2 style="margin-bottom:1em;">An Overview of our core Software & Software Development Consultancy Services</h2>
 
 <div class="consultancy-row aos-init aos-animate" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">

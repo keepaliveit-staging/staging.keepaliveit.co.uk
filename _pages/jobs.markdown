@@ -188,10 +188,11 @@ Imagine a having a job where you'll be hands-on with technical problems
     </li>
 </ul>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <h3>Frequently asked questions (FAQs)</h3>
 
-
-<ul id="my-accordion" class="accordionjs">
+<ul id="my-accordion1" class="accordionjs">
     <li>
         <div>When will I hear back about my job application?</div>
         <div>
@@ -216,6 +217,7 @@ Imagine a having a job where you'll be hands-on with technical problems
     </li>
 </ul>
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 {% for item in site.jobs %}
 [{{ item.name }} {{item.title}}]({{ item.url }})

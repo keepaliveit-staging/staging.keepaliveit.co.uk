@@ -4,7 +4,7 @@ title: "Cyber Essentials I.T Compliance"
 permalink: /solutions/cyber-essentials-it-compliance
 classes:
   - cyber_essentials
-excerpt: "Cyber Essentials I.T Compliance"
+excerpt: "Are you looking to achieve Cyber Essentials I.T Compliance for your Business or Organisation? We've got the knowledge to guide you along the way from Zero, to Compliant."
 
 header:
   overlay_image: /assets/images/cyber.jpg

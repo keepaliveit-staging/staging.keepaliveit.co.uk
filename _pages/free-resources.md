@@ -41,6 +41,8 @@ feature_row:
 ## Free I.T Resources
 As a way of saying thank you to our customers for supporting us as a business, we'll be releasing free I.T resources occasionally. The resources we share on this page are recommendations of software, or elements we think deserve a free promotion.
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 {% comment %}
 <div>
     <h3>Free I.T Consultancy Resources</h3>

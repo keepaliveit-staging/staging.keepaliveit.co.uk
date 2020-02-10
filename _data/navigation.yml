@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Software Consultancy"
+  - title: "Software Consultancy Services"
     url: /software-consultancy
-  - title: "I.T Operations Consultancy"
+  - title: "I.T Operations Consultancy Services"
     url: /it-operations-consultancy
   - title: "All Services"
     url: /services

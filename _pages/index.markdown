@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Development & Operations Services for Businesses & Consumers"
+title: "I.T Development & Operations (DevOps) Services for Businesses & Consumers"
 permalink: /
 classes:
   - landing
