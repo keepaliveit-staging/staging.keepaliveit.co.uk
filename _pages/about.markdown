@@ -64,7 +64,7 @@ We believe being transparent and open about pricing to potential and current cus
             <div class="col-xs-10">
                 <h3>Our bases</h3>
                 <p>
-                    Our staff work in our offices and remotely. If you need to visit us, this is <a href="/about/how-to-find-us">how to find our offices</a>. Please note that our offices are not currently accessible to the public and a meeting will need to be arranged prior to you coming to visit us.
+                    Our staff work at fixed office locations and remotely. Please note that our offices are not currently accessible for public access without booking an appointent with one of our I.T consultants. Once you've got an appointment, you'll be able to <a href="/about/how-to-find-us">find offices at the following locations</a>.
                 </p>
             </div>
         </div>
