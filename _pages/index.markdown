@@ -41,9 +41,9 @@ excerpt: >
             <h3>Everybody Depends on I.T, not just Geeks 🤓</h3>
             <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases for I.T in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
             <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/#the-importance-of-effective-it-systems-for-businesses" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about I.T for Businesses</a>
+            <a href="/solutions/it-for-consumers" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about I.T for Businesses</a>
             <p class="or-separator">or</p>
-            <a href="/#it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about I.T for Consumers</a>
+            <a href="/solutions/it-for-business" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about I.T for Consumers</a>
         </div>
     </div>
 </section>
