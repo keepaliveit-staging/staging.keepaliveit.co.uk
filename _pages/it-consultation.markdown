@@ -3,7 +3,7 @@ layout: splash
 title: I.T Considerations for Businesses
 permalink: /it-consultation
 
-excerpt: "I.T Considerations for Businesses."
+excerpt: "Short Articles giving free I.T Consultation Advice for Businesses I.T.."
 header:
   overlay_image: /assets/images/documents.jpg
   overlay_filter: 0.54

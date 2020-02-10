@@ -6,7 +6,7 @@ main:
     url: /it-operations-consultancy
   - title: "All I.T Services"
     url: /services
-  - title: "Business I.T Considerations"
+  - title: "Business I.T Consultancy Topics"
     url: /it-consultation
   - title: "Consumer Tech Tips"
     url: /tech-tips/ # Pagination plugin makes this redirect
