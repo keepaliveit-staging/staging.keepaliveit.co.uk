@@ -3,7 +3,7 @@ layout: splash
 title: "Cyber Essentials I.T Compliance"
 permalink: /solutions/cyber-essentials-it-compliance
 classes:
-  - solutions
+  - cyber_essentials
 excerpt: "Cyber Essentials I.T Compliance"
 
 header:

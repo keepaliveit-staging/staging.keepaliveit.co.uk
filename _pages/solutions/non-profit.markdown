@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Solutions for Non-Profit Organisations"
 permalink: /solutions/it-for-non-profit
 classes:
-  - solutions
+  - non_profit
 excerpt: "I.T Solutions for Non-Profit Organisations"
 
 header:

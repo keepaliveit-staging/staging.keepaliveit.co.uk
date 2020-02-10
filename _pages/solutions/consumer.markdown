@@ -3,7 +3,7 @@ layout: splash
 title: "Consumer I.T Solutions"
 permalink: /solutions/it-for-consumers
 classes:
-  - solutions
+  - consumer_it
 excerpt: "Are you having issues with I.T at home? Explore our Consumer I.T Solutions to see how Keep-Alive I.T is able to help."
 
 header:
@@ -15,6 +15,74 @@ header:
 {% include breadcrumbs.html %}
 
 ## Consumer I.T Solutions
+
+### The Importance of Effective I.T for Consumers
+Running I.T at home has become an important part of modern life and has changed the way families communicate and work.
+Here are some use cases for use of I.T in the modern home.
+
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="/assets/images/icons/family.png"/>
+                    <div class="item-title">For Parents</div>
+                    <div class="item-description">
+                        <ul>
+                            <li>Producing documents using desktop publishing software's.</li>        
+                            <li>Filing accounts.</li>
+                            <li>Paying bills using internet banking.</li>
+                            <li>Online shopping on e-Commerce websites.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="/assets/images/icons/cat.png"/>
+                    <div class="item-title">For Pets</div>
+                    <div class="item-description">
+                        <ul>        
+                            <li>Smart feeding systems.</li>
+                            <li>Smart premises entering & exiting systems.</li>
+                            <li>Smart lighting for when nobody is home.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="/assets/images/icons/boy.png"/>
+                    <div class="item-title">For Children</div>
+                    <div class="item-description">
+                        <ul>        
+                            <li>Homework / Coursework</li>
+                            <li>Watching multimedia on internet streaming services</li>
+                            <li>Learning on e-Learning platforms</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+Modern & cutting edge I.T helps keep our homes & offices safe and operational, and connects people in the United Kingdom with the rest of the world.
+
+> households in the United Kingdom (UK) connected to the internet via broadband connection from 2003 to 2019. While in 2003, 11 percent of households had access to the internet via broadband, the share increased to 96 percent in 2019.
+
+As of 2020, most households in the United Kingdom have an internet connection and WiFi but when things don't go quite to plan
+Can result in screaming children due to not being able to watch the latest episode of their favourite TV Show.
+
+As more devices have become connected in the modern home, more attack vectors have become available for hackers. E.g. Most internet bill payers have no idea what cyber security is and have no control of what their children do online.
+    
+    
+<div class="divider div-transparent div-arrow-down"></div>
+
+
+
 
 Are you still running outdated hardware in your home?
 Operating Systems such as Windows XP and Windows 7 have now come to the end of their support window, meaning your PC could potentially be at risk to viruses and malware. Some computer viruses can be more malicious than others
