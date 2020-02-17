@@ -18,15 +18,19 @@ header:
 ## Jobs at Keep-Alive I.T
 
 ### The primary objective of our Business
-Here at Keep-Alive I.T, the primary objective of our business is to develop and maintain I.T systems. Our business keeps its doors open by working with clients on their Hardware & Software I.T requirements. <strong>Our client base spans different sectors, different team sizes, and clients who are based all around the World</strong>.
+Here at Keep-Alive I.T, the primary objective of our business is to develop and maintain I.T systems. Our business keeps its doors open by working with clients on their I.T Hardware & Software requirements. The objective of our business is to analyse, develop, and maintain robust I.T solutions. Our entire revenue stream is performance based and <strong>our client base spans different sectors, different team sizes, and involves local, national, and international reach</strong>.
 
-Our business focuses on four core skill areas. These comprise of:
+Our business focuses on four core skill areas to achieve its objective. These four skill areas comprise of:
 - Business Requirements Analysis Skills.
-- I.T Consultancy & Development Skills.
+- I.T Consultancy & Software Development Skills.
 - Project Management Skills.
 - Customer Service / I.T Support Skills.
 
-Our workforce is divided into consultancy, customer service, and technical roles. No day working at Keep-Alive I.T is ever the same, and there's always plenty of work to do as long as the World is using I.T and we're continuously seeking work from clients.
+Our workforce is divided into consultancy, customer service, and technical roles. No day working at Keep-Alive I.T is ever the same, meaning less monotony than your usual desk job. There's also plenty of work to do as long as the World is using I.T (which in theory, its usage won't be decreasing anytime soon!), and we're continuously seeking work from clients.
+
+If you think this is the sort of places you'd like to work, please have a browse of some of our open job positions.
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 #### Base requirements of working for us
 
@@ -38,11 +42,15 @@ We're very greatful of the staff who work for us and believe positive outcomes s
 #### We prefer breadth of knowledge, rather than depth of knowledge.
 We believe our team must be equipped with the right skills to get the job done. It’s okay for a team member to be an expert at a particular task, but we try to get our entire team equipped with the core skills needed to thrive in their job, rather than having a working role as if they're a contractor. This opens doors to continuously learning new skills and builds a happier workforce overall.
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ### Challenges of working at Keep-Alive I.T
 Imagine a having a job where you'll be hands-on with technical problems
 
 - Developing & Maintaining new or existing websites.
 - Developing & Maintaining new or existing software applications.
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 ### Benefits of working at Keep-Alive I.T
 <ul id="my-accordion" class="accordionjs">
@@ -84,7 +92,7 @@ Imagine a having a job where you'll be hands-on with technical problems
             Breakfast
         </div>
         <div>
-            Every morning there is a breakfast spread free of cost. Let Charlotte, our Office Manager, know if you have any allergies or dietary restrictions.
+            Every morning there is a breakfast spread free of cost.
         
             **What you can expect from breakfast:**
             
@@ -165,7 +173,7 @@ Imagine a having a job where you'll be hands-on with technical problems
         
     <li>
         <div>
-            Sanctus
+            Mental Health Support
         </div>
         <div>
             Sanctus are a brilliant organisation that provides coaching with a focus on mental health. You can learn more about them and their approach [here](https://sanctus.io). 
