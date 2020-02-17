@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Development & Operations (DevOps) Solutions & I.T Support Services for Businesses & Consumers"
+title: "Tailored I.T Development & Operations (DevOps) Solutions & I.T Support Services for Everyone."
 permalink: /
 classes:
   - landing
@@ -12,7 +12,7 @@ header:
     - label: "Discover the Importance of Effective I.T Systems for Businesses & Consumers"
       url: "#discover"
 excerpt: >
-  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who provides Agile I.T Development & Operations (DevOps) Solutions & I.T Support Services.
+  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who provides Agile I.T Development & Operations (DevOps) Solutions & I.T Support Services tailored to Businesses, Consumers, and Non-Profit Organisations.
   
 ---
 

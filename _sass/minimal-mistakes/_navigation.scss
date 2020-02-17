@@ -280,7 +280,7 @@
       background-color: #333333;
       margin: 0 10px !important;
 
-      &:before {
+/*      &:before {
         content: "";
         position: absolute;
         left: 0;
@@ -292,7 +292,7 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
         transform: scaleX(0) translate3d(0, 0, 0); // hide
-      }
+      }*/
 
       &:hover {
         background-color: #777;
