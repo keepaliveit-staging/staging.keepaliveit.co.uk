@@ -12,7 +12,7 @@ tags:
     - storage
 ---
 
-RAID (redundant array of independent disks) protects against hard disk failure
+RAID (redundant array of independent disks) protects against hard disk failure and as the name describes, is a redundancy method.
 
 RAID spreads your data across several hard drives so it can be reconstructed even if one of the drives fails.
 RAID should be used alongside a separate backup system.

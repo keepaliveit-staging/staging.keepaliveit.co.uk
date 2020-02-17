@@ -17,11 +17,12 @@ mkdir _site
 if [ $TRAVIS_REPO_SLUG == "KeepAliveIT/keepaliveit.github.io" ]; then
   git clone https://${GH_TOKEN}@github.com/KeepAliveIT/keepaliveit.github.io.git --branch master _site
 
+  # Push content changes to algolia
+  bundle exec jekyll algolia
+
   # build with Jekyll into "_site" with production config
   #JEKYLL_ENV=production bundle exec jekyll build
 
-  # Push content changes to algolia
-  bundle exec jekyll algolia
 
 #elif [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
 #  git clone https://${GH_TOKEN}@github.com/jjmpsp-staging/jjmpsp-staging.github.io.git --branch master _site
