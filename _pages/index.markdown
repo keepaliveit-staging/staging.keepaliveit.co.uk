@@ -12,7 +12,7 @@ header:
     - label: "Discover the Importance of Effective I.T Systems for Businesses & Consumers"
       url: "#discover"
 excerpt: >
-  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who tailors Agile I.T Development & Operations (DevOps) Solutions & who provides I.T Support Services  o Businesses, Consumers, and Non-Profit Organisations.
+  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who tailors Agile I.T Development & Operations (DevOps) Solutions & who provides I.T Support Services to Businesses, Consumers, and Non-Profit Organisations.
   
 ---
 

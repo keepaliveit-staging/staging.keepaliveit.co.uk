@@ -4,7 +4,7 @@ title: "Contact Us"
 permalink: /contact
 classes:
   - contact
-excerpt: "Contact Us."
+excerpt: "Discover the different ways to get in touch with us."
 header:
   overlay_image: /assets/images/call.jpg
   overlay_filter: 0.74
@@ -14,15 +14,13 @@ header:
 {% include breadcrumbs.html %}
 
 ## Contact Us
+If there's anything you'd like to discuss with us, please feel free to get in touch by phoning or messaging us.
 
 ### By Phone 
-
 To contact us by Phone, please call us on <tel>020 7550 9321</tel>.
 
 
 ### By Message
-
-
 Please fill out your details if you'd like us to 
 send us a briefing document stating your requirements and we w 
 
