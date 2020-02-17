@@ -39,9 +39,9 @@ cd _site
 #fi
 
 git config user.email "joel@keepaliveit.co.uk"
-git config user.name "Joel Murphy"
+git config user.name "Keep-Alive I.T"
 git add --all
-git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
+git commit -a -m "Travis commit for build: #$TRAVIS_BUILD_NUMBER"
 git push --force origin master
 
 # Push content changes to algolia

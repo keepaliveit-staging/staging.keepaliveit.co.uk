@@ -12,6 +12,6 @@ Caching:
 Gzip
 Brotli
 
-Image optimisation
+Image optimisation is probably the most important aspect of optimising a website for performance.
 
 We at Keep-Alive I.T are experts at creating efficient and performant web pages. Please check out our Web Development packages if you need any assistance with this.
