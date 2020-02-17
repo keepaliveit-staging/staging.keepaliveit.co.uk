@@ -17,13 +17,13 @@ mkdir _site
 if [ $TRAVIS_REPO_SLUG == "KeepAliveIT/keepaliveit.github.io" ]; then
   git clone https://${GH_TOKEN}@github.com/KeepAliveIT/keepaliveit.github.io.git --branch master _site
 
-  # build with Jekyll into "_site" with production config
-  JEKYLL_ENV=production bundle exec jekyll build
-elif [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
-  git clone https://${GH_TOKEN}@github.com/jjmpsp-staging/jjmpsp-staging.github.io.git --branch master _site
+#  # build with Jekyll into "_site" with production config
+#  JEKYLL_ENV=production bundle exec jekyll build
+#elif [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
+#  git clone https://${GH_TOKEN}@github.com/jjmpsp-staging/jjmpsp-staging.github.io.git --branch master _site
 
-  # build with Jekyll into "_site" with staging config
-  JEKYLL_ENV=production bundle exec jekyll build --config _config-staging.yml
+#  # build with Jekyll into "_site" with staging config
+#  JEKYLL_ENV=production bundle exec jekyll build --config _config-staging.yml
 else
   echo "Invalid repository - see cibuild.sh source code for more info..."
   exit 0
@@ -32,14 +32,17 @@ fi
 # push
 cd _site
 
-if [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
-  echo "staging.joel-murphy.co.uk" > CNAME
-  echo -e "User-agent: *\nDisallow: /" > robots.txt
-  echo "This repository acts as a staging repository for joel-murphy.co.uk. Please see https://github.com/jjmpsp/jjmpsp.github.io for full source code." > README.md
-fi
+#if [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
+#  echo "staging.joel-murphy.co.uk" > CNAME
+#  echo -e "User-agent: *\nDisallow: /" > robots.txt
+#  echo "This repository acts as a staging repository for joel-murphy.co.uk. Please see https://github.com/jjmpsp/jjmpsp.github.io for full source code." > README.md
+#fi
 
-git config user.email "contact@joel-murphy.co.uk"
+git config user.email "joel@keepaliveit.co.uk"
 git config user.name "Joel Murphy"
 git add --all
 git commit -a -m "Travis #$TRAVIS_BUILD_NUMBER"
 git push --force origin master
+
+# Push content changes to algolia
+bundle exec jekyll algolia

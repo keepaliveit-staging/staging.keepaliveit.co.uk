@@ -4,7 +4,7 @@ author_profile: false
 title: "Tools"
 permalink: /tools
 
-excerpt: "Free I.T resources to give you a helping hand with your next I.T project."
+excerpt: "Tools which help us diagnose common issues with your I.T operations."
 header:
   overlay_image: /assets/images/help.jpg
   overlay_filter: 0.5 

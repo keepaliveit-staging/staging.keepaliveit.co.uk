@@ -6,6 +6,8 @@ category: Web
 author_profile: true
 ---
 
+Mobile, Desktop, Tablet, Mobile, and other devices but one important factor users of a website expect is speed. If a website is slow, this can result in a bad user experience and a higher bounce rate.
+
 Caching:
 Gzip
 Brotli
