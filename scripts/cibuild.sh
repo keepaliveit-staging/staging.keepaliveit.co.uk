@@ -21,7 +21,7 @@ if [ $TRAVIS_REPO_SLUG == "KeepAliveIT/keepaliveit.github.io" ]; then
   #JEKYLL_ENV=production bundle exec jekyll build
 
   # Push content changes to algolia
-  ALGOLIA_API_KEY={$ALGOLIA_API_KEY} bundle exec jekyll algolia
+  bundle exec jekyll algolia
 
 #elif [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
 #  git clone https://${GH_TOKEN}@github.com/jjmpsp-staging/jjmpsp-staging.github.io.git --branch master _site
