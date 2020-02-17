@@ -12,4 +12,12 @@ before_script:
 # Travis will run `bundle install` by default before running our script
 script: ./scripts/cibuild.sh
 exclude: [vendor]
+
+cache: bundler # caching bundler gem packages will speed up build
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
 sudo: false

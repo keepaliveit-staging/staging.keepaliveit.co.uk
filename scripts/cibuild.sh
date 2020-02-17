@@ -45,4 +45,5 @@ git commit -a -m "Travis commit for build: #$TRAVIS_BUILD_NUMBER"
 git push --force origin master
 
 # Push content changes to algolia
+echo {$ALGOLIA_API_KEY}
 ALGOLIA_API_KEY={$ALGOLIA_API_KEY} bundle exec jekyll algolia
