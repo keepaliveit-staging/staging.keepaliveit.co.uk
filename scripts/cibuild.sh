@@ -21,7 +21,7 @@ if [ $TRAVIS_REPO_SLUG == "KeepAliveIT/keepaliveit.github.io" ]; then
   bundle exec jekyll algolia
 
   # build with Jekyll into "_site" with production config
-  #JEKYLL_ENV=production bundle exec jekyll build
+  JEKYLL_ENV=production bundle exec jekyll build
 
 
 #elif [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
