@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Tailored I.T Development & Operations (DevOps) Solutions & I.T Support Services for Everyone."
+title: "Tailored I.T Development & Operations Solutions & I.T Support Services for Everyone."
 permalink: /
 classes:
   - landing
@@ -12,13 +12,68 @@ header:
     - label: "Discover the Importance of Effective I.T Systems for Businesses & Consumers"
       url: "#discover"
 excerpt: >
-  We're a Modern, UK based, Hardware & Software I.T Consultancy Company who tailors Agile I.T Development & Operations (DevOps) Solutions & who provides I.T Support Services to Businesses, Consumers, and Non-Profit Organisations.
+  We're a Modern, UK based, Hardware & Software I.T Consultancy Company. We provide Agile I.T Development & Operations (DevOps) Solutions & I.T Support Services to Businesses, Consumers, and Non-Profit Organisations.
   
 ---
+
+<h2>👋 Hello, it's nice to meet you. This is what we do:</h2>
 
 <blockquote data-aos="fade-down" data-aos-once="true">
   <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
 </blockquote>
+
+<div class="container maxwidth">
+	<div class="ux-vertical-tabs">
+		<div class="tabs">
+			<button data-tab="tab1" class="active">Software Development<span></span></button>
+			<button data-tab="tab2">I.T Operations<span></span></button>
+			<button data-tab="tab3">Cyber Security<span></span></button>
+			<button data-tab="tab4">I.T Support<span></span></button>
+			<button class="empty"></button>
+		</div>
+		<div class="maincontent">
+			<div data-tab="tab1" class="tabcontent active">
+				<div class="ux-text">
+					<h3>Software Development</h3>
+					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Applications.</h4>
+					<p>We deliver a full range of software development services – from custom web and mobile app development to QA and software testing.</p>
+					<ul>
+					    <li>Software Design</li>
+					    <li>Code Reviews</li>
+					    <li>Legacy Software Redesign</li>
+                    </ul>
+				</div>
+			</div>
+
+			<div data-tab="tab2" class="tabcontent">
+				<div class="ux-text">
+					<h3>I.T Operations</h3>
+					<h4>Platform Management, Automation, Monitoring, and Reporting by utilising DevOps practises and Cloud services.</h4>
+                    <p>Gain valuable peace of mind that your systems are working as they should as we take care of all aspects of your platform management, from coordinating complex supplier chains to providing comprehensive monitoring and reporting.</p>
+                    <ul>
+                        <li>Managed Services</li>
+                    </ul>
+                    <p>Reap the rewards of increased scalability, reduced costs, and efficiencies as our DevOps and Cloud experts deliver tailored advice for every stage of your cloud journey, alongside support for the implementation of best practice techniques.</p>   
+				</div>
+			</div>
+
+			<div data-tab="tab3" class="tabcontent">
+				<div class="ux-text">
+					<h3>Cyber Security</h3>
+					<h4>Example SubTitle</h4>
+					<p>Robust security management and monitoring services – encompassing vulnerability audits, strategic security consulting and data recovery – protect and preserve your most critical and sensitive IT systems.</p>
+				</div>
+			</div>
+
+			<div data-tab="tab4" class="tabcontent">
+				<div class="ux-text">
+					<h3>I.T Support</h3>
+					<h4>Example SubTitle</h4>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 <section id="discover" style="background:#e0e0e0;">
     <div class="row center-xs">
@@ -50,7 +105,7 @@ excerpt: >
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h3>Why Keep-Alive I.T?</h3>
+<h3>Why Choose Keep-Alive I.T to get the job done?</h3>
 <p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
 
 <section id="why-us" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">

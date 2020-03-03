@@ -2,12 +2,12 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-$(document).ready(function() {
+$(document).ready(function () {
     // FitVids init
     $("#main").fitVids();
 
     // Sticky sidebar
-    var stickySideBar = function() {
+    var stickySideBar = function () {
         var show =
             $(".author__urls-wrapper button").length === 0
                 ? $(window).width() > 1024 // width should match $large Sass variable
@@ -23,18 +23,18 @@ $(document).ready(function() {
 
     stickySideBar();
 
-    $(window).resize(function() {
+    $(window).resize(function () {
         stickySideBar();
     });
 
     // Follow menu drop down
-    $(".author__urls-wrapper button").on("click", function() {
+    $(".author__urls-wrapper button").on("click", function () {
         $(".author__urls").toggleClass("is--visible");
         $(".author__urls-wrapper button").toggleClass("open");
     });
 
     // Close search screen with Esc key
-    $(document).keyup(function(e) {
+    $(document).keyup(function (e) {
         if (e.keyCode === 27) {
             if ($(".initial-content").hasClass("is--hidden")) {
                 $(".search-content").toggleClass("is--visible");
@@ -44,11 +44,11 @@ $(document).ready(function() {
     });
 
     // Search toggle
-    $(".search__toggle").on("click", function() {
+    $(".search__toggle").on("click", function () {
         $(".search-content").toggleClass("is--visible");
         $(".initial-content").toggleClass("is--hidden");
         // set focus on input
-        setTimeout(function() {
+        setTimeout(function () {
             $(".search-content input").focus();
         }, 400);
     });
@@ -62,7 +62,7 @@ $(document).ready(function() {
     });
 
     // Gumshoe scroll spy init
-    if($("nav.toc").length > 0) {
+    if ($("nav.toc").length > 0) {
         var spy = new Gumshoe("nav.toc a", {
             // Active classes
             navClass: "active", // applied to the nav list item
@@ -109,7 +109,7 @@ $(document).ready(function() {
         // make it unique to apply your CSS animations just to this exact popup
         mainClass: "mfp-zoom-in",
         callbacks: {
-            beforeOpen: function() {
+            beforeOpen: function () {
                 // just a hack that adds mfp-anim class to markup
                 this.st.image.markup = this.st.image.markup.replace(
                     "mfp-figure",
@@ -122,7 +122,7 @@ $(document).ready(function() {
     });
 
     // Add anchors for headings
-    $('.page__content').find('h1, h2, h3, h4, h5, h6').each(function() {
+    $('.page__content').find('h1, h2, h3, h4, h5, h6').each(function () {
         var id = $(this).attr('id');
         if (id) {
             var anchor = document.createElement("a");
@@ -137,11 +137,11 @@ $(document).ready(function() {
     $("#industry-pagination > li > a").click(function (e) {
         e.preventDefault();
 
-        $("#industry-pagination > li").find("a").each(function() {
+        $("#industry-pagination > li").find("a").each(function () {
             $(this).removeClass("current")
         });
 
-        $("#industry-filter").find("div").each(function() {
+        $("#industry-filter").find("div").each(function () {
             $(this).hide();
         });
 
@@ -152,16 +152,45 @@ $(document).ready(function() {
     });
 
 
-    if(window.location.pathname == '/tools/ip-address-finder'){
+    if (window.location.pathname === '/tools/ip-address-finder') {
         // Request user IP from apps service
         $.ajax({
             url: "https://apps.keepaliveit.co.uk/ip/index.php",
             cache: false
         })
-        .done(function( result ) {
-            $("#ip-address-result").html( result.ip );
-        });
+            .done(function (result) {
+                $("#ip-address-result").html(result.ip);
+            });
     }
 
+
+    if (window.location.pathname === '/') {
+        if ($('.ux-vertical-tabs').length > 0) {
+            $('.ux-vertical-tabs .tabs button').on("click", function () {
+                var temp_tab = $(this).data('tab');
+                var temp_tab_js = this.getAttribute('data-tab');
+                var temp_content = $('.ux-vertical-tabs .maincontent .tabcontent[data-tab="' + temp_tab + '"]');
+                var temp_content_js = document.querySelector('.ux-vertical-tabs .maincontent .tabcontent[data-tab="' + temp_tab_js + '"]');
+                var temp_content_active_js = document.querySelector('.ux-vertical-tabs .maincontent .tabcontent.active');
+
+                $('.ux-vertical-tabs .tabs button').removeClass('active');
+                $('.ux-vertical-tabs .tabs button[data-tab="' + temp_tab + '"]').addClass('active');
+
+                $('.ux-vertical-tabs .maincontent .tabcontent').removeClass('active');
+                temp_content.addClass('active');
+            });
+        }
+    }
+
+    // Setup menu hover
+   /* $('.visible-links li.masthead__menu-item').hover(
+        function () {
+            $(this).find('.dropdown-menu').attr("style", "display: block !important");
+
+        },
+        function () {
+            $(this).find('.dropdown-menu').stop().slideUp(200);
+        }
+    );*/
 
 });
