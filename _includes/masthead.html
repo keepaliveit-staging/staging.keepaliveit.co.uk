@@ -26,18 +26,18 @@
             {%- endif -%}
             {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
             <li class="masthead__menu-item {% if (page.url == url) or (url_no_home == url) %}active{% endif %}">
-              <a href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>
+              <a class="mfc" href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>
                 <span>{{ link.title }}</span>
               </a>
               <ul class="dropdown-menu">
                 <li>
-                  <a href="">Menu item one</a>
+                  <a class="msc" href="">Menu item one</a>
                 </li>
                 <li>
-                  <a href="">Menu item two</a>
+                  <a class="msc" href="">Menu item two</a>
                 </li>
                 <li>
-                  <a href="">Menu item three</a>
+                  <a class="msc" href="">Menu item three</a>
                 </li>
               </ul>
             </li>
