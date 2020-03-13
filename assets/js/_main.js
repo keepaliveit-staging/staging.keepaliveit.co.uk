@@ -183,7 +183,7 @@ $(document).ready(function () {
     }
 
     // Setup menu hover
-   /* $('.visible-links li.masthead__menu-item').hover(
+    $('.visible-links li.masthead__menu-item').hover(
         function () {
             $(this).find('.dropdown-menu').attr("style", "display: block !important");
 
@@ -191,6 +191,6 @@ $(document).ready(function () {
         function () {
             $(this).find('.dropdown-menu').stop().slideUp(200);
         }
-    );*/
+    );
 
 });
