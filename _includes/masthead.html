@@ -19,27 +19,31 @@
         </div>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
+            {%- if link.item.url contains '://' -%}
+              {%- assign url = link.item.url -%}
             {%- else -%}
-              {%- assign url = link.url | relative_url -%}
+              {%- assign url = link.item.url | relative_url -%}
             {%- endif -%}
             {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
             <li class="masthead__menu-item {% if (page.url == url) or (url_no_home == url) %}active{% endif %}">
-              <a class="mfc" href="{{ url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>
-                <span>{{ link.title }}</span>
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="msc" href="">Menu item one</a>
-                </li>
-                <li>
-                  <a class="msc" href="">Menu item two</a>
-                </li>
-                <li>
-                  <a class="msc" href="">Menu item three</a>
-                </li>
-              </ul>
+                <a class="mfc" href="{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>
+                  <span>{{ link.title }}</span>
+                  <span></span>
+                </a>
+                <ul class="dropdown-menu">
+                  {%- for submenu1 in link.subitems -%}
+                    <li>
+                      <a class="msc" href="{{ submenu1.url }}">{{ submenu1.title }} {% if submenu1.subitems %}<span></span>{% endif %}</a>
+                      <ul class="dropdown-menu-secondary">
+                        {%- for submenu2 in submenu1.subitems -%}
+                        <li>
+                          <a class="msc" href="{{ submenu2.url }}">{{ submenu2.title }} {% if submenu2.subitems %}<span></span>{% endif %} </a>
+                        </li>
+                        {%- endfor -%}
+                      </ul>
+                    </li>
+                  {%- endfor -%}
+                </ul>
             </li>
           {%- endfor -%}
         </ul>

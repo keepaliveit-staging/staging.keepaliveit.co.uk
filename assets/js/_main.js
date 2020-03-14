@@ -189,8 +189,17 @@ $(document).ready(function () {
 
         },
         function () {
-            $(this).find('.dropdown-menu').stop().slideUp(200);
+            $(this).find('.dropdown-menu').stop().slideUp(50);
         }
     );
+
+    $('.visible-links li.masthead__menu-item a.msc').hover(function(){
+        $(this).parent().find('.dropdown-menu-secondary').attr("style", "display: block !important");
+    }, function () {
+        $(this).parent().find('.dropdown-menu-secondary').stop().slideUp(50);
+    });
+
+    //document.querySelector(".visible-links > li:nth-child(1) > ul > li:nth-child(1)")
+    //dropdown-menu-secondary
 
 });

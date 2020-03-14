@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "I.T Support"
-permalink: /it-operations-consultancy/it-support
+permalink: /it-operations-consultancy/it-support-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

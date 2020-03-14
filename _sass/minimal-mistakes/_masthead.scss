@@ -103,10 +103,20 @@
     font-weight: 700;
   }
 
+
+  .dropdown-menu-secondary {
+    position: absolute;
+    top: 0;
+    display: none !important;
+    left: 250px;
+  }
+
+
   .dropdown-menu {
     position: absolute;
     margin: 0 10px;
     display: none !important;
+    max-width: 250px;
 
     li {
       display: block !important;

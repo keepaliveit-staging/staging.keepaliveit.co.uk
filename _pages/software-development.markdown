@@ -27,6 +27,11 @@ Script creation
 - Bash
 - Powershell
 
+
+<img src="/assets/images/christmas/fireplace.png" />
+
+
+
 ### Cost of our Software Development services
 
 

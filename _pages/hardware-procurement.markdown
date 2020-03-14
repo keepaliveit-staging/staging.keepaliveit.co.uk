@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hardware Procurement"
-permalink: /it-operations-consultancy/hardware-procurement
+permalink: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:

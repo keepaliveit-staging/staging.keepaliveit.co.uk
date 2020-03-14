@@ -16,7 +16,7 @@ excerpt: >
   
 ---
 
-<h2>👋 Hello, it's nice to meet you. This is what we do:</h2>
+<h2>👋 Hello, thanks for stopping by at our website. This is what we do:</h2>
 
 <blockquote data-aos="fade-down" data-aos-once="true">
   <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>

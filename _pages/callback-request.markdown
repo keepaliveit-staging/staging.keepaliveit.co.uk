@@ -4,7 +4,7 @@ title: "Request a Call from an I.T Consultant"
 permalink: /request-a-callback
 classes:
   - about
-excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation from one of our I.T consultants to discuss your next I.T project."
+excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation from one of our I.T consultants to discuss your next I.T related project."
 header:
   overlay_image: /assets/images/call.jpg
   overlay_filter: 0.74
