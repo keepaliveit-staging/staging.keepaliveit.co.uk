@@ -9,7 +9,7 @@ main:
         url: /software-consultancy/software-training-services
         subitems:
             - item:
-              title: "1aa"
+              title: "Submenu 1"
               url: /software-consultancy
               subitems:
                 - item:

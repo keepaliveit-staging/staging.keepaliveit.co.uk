@@ -193,13 +193,9 @@ $(document).ready(function () {
         }
     );
 
-    $('.visible-links li.masthead__menu-item a.msc').hover(function(){
+    $('.visible-links li.masthead__menu-item .dropdown-menu li').hover(function(){
+        $(".dropdown-menu-secondary").hide();
         $(this).parent().find('.dropdown-menu-secondary').attr("style", "display: block !important");
-    }, function () {
-        $(this).parent().find('.dropdown-menu-secondary').stop().slideUp(50);
     });
-
-    //document.querySelector(".visible-links > li:nth-child(1) > ul > li:nth-child(1)")
-    //dropdown-menu-secondary
 
 });
