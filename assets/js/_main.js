@@ -198,4 +198,9 @@ $(document).ready(function () {
         $(this).parent().find('.dropdown-menu-secondary').attr("style", "display: block !important");
     });
 
+
+    $('.toggle-menu').click(function(){
+        $('.exo-menu').toggleClass('display');
+
+    });
 });
