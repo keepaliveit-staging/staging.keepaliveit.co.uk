@@ -969,6 +969,14 @@ li.drop-down > ul {
   border-left: 1px solid #365670;
 }
 
+.flyout-right > ul ul,
+.flyout-left > ul ul{
+  top: 0;
+  min-width: 230px;
+  display: none;
+  border-left: 1px solid #365670;
+}
+
 li.drop-down > ul > li > a,
 .flyout-right ul > li > a,
 .flyout-left ul > li > a {
