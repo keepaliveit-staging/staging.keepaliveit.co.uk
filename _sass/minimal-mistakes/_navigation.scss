@@ -205,6 +205,7 @@
   min-height: $nav-height;
   background: $background-color;
 
+  /*
   a {
     display: block;
     margin: 0 1rem;
@@ -224,6 +225,7 @@
       margin-left: 0;
     }
   }
+  */
 
   &__toggle {
     -ms-flex-item-align: center;
@@ -236,6 +238,7 @@
     margin: 1em;
   }
 
+  /*
   .visible-links {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -322,6 +325,7 @@
 
     }
   }
+  */
 
   .hidden-links {
     position: absolute;

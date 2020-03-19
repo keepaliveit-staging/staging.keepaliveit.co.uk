@@ -35,8 +35,8 @@ excerpt: >
 			<div data-tab="tab1" class="tabcontent active">
 				<div class="ux-text">
 					<h3>Software Development</h3>
-					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Applications.</h4>
-					<p>We deliver a full range of software development services – from custom web and mobile app development to QA and software testing.</p>
+					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
+					<p>We deliver a full range of software development services – from custom web and mobile app development to Quality Assurance (QA) and software testing.</p>
 					<ul>
 					    <li>Software Design</li>
 					    <li>Code Reviews</li>
@@ -48,7 +48,7 @@ excerpt: >
 			<div data-tab="tab2" class="tabcontent">
 				<div class="ux-text">
 					<h3>I.T Operations</h3>
-					<h4>Platform Management, Automation, Monitoring, and Reporting by utilising DevOps practises and Cloud services.</h4>
+					<h4>Platform Management, System Automation, Application Monitoring, and Application Reporting by utilising DevOps practises and Cloud services.</h4>
                     <p>Gain valuable peace of mind that your systems are working as they should as we take care of all aspects of your platform management, from coordinating complex supplier chains to providing comprehensive monitoring and reporting.</p>
                     <ul>
                         <li>Managed Services</li>
@@ -68,7 +68,8 @@ excerpt: >
 			<div data-tab="tab4" class="tabcontent">
 				<div class="ux-text">
 					<h3>I.T Support</h3>
-					<h4>Example SubTitle</h4>
+					<h4>1st, 2nd and 3rd line I.T Support for Third Party Hardware & Software.</h4>
+					<p>We support Citrix, Microsoft, IBM, Dell, </p>
 				</div>
 			</div>
 		</div>

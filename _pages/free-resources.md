@@ -2,7 +2,7 @@
 layout: splash 
 author_profile: false 
 title: "Free I.T Resources"
-permalink: /free-resources
+permalink: /resources
 
 toc: true
 toc_sticky: true

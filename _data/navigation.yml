@@ -1,93 +1,54 @@
 # main links
 main:
   - item:
-    title: "Software Consultancy Services"
+    title: "I.T Services"
     url: /software-consultancy
     subitems:
-      - item:
-        title: "Software Training"
-        url: /software-consultancy/software-training-services
-        subitems:
-            - item:
-              title: "Submenu 1"
-              url: /software-consultancy
-              subitems:
-                - item:
-                  title: "1a"
-                  url: /software-consultancy
-            - item:
-              title: "1ab"
-              url: /software-consultancy
-      - item:
-        title: "Software Procurement & Software Implementation"
-        url: /software-consultancy/software-procurement-services
-        subitems:
-          - item:
-            title: "1aa"
-            url: /software-consultancy
-            subitems:
-              - item:
-                title: "1a"
-                url: /software-consultancy
-          - item:
-            title: "1ab"
-            url: /software-consultancy
-      - item:
-        title: "Software Development"
-        url: /software-consultancy/software-development-services
-      - item:
-        title: "Website Development"
-        url: /software-consultancy/website-development-services
-      - item:
-        title: "Software Development Team Formation & Developer On-boarding"
-        url: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
-  - item:
-    title: "I.T Operations Consultancy Services"
-    url: /it-operations-consultancy
-    subitems:
-      - item:
-        title: "Hardware Procurement & Setup"
-        url: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
-      - item:
-        title: "I.T Support"
-        url: /it-operations-consultancy/it-support-services
-      - item:
-        title: "I.T Compliance & Security"
-        url: /it-operations-consultancy/it-compliance-and-security-services
-      - item:
-        title: "Infrastructure Management"
-        url: /it-operations-consultancy/infrastructure-management-services
-      - item:
-        title: "Cloud Services"
-        url: /it-operations-consultancy/cloud-services
-  - item:
-    title: "All I.T Services"
-    url: /services
-    subitems:
-      - item:
-        title: "2a"
-        url: /software-consultancy
-      - item:
-        title: "2b"
-        url: /software-consultancy
-  - item:
-    title: "Business I.T Consultancy Topics"
-    url: /it-consultation
-    subitems:
-      - item:
-        title: "2a"
-        url: /software-consultancy
-      - item:
-        title: "2b"
-        url: /software-consultancy
-  - item:
-    title: "Consumer Tech Tips"
-    url: /tech-tips/ # Pagination plugin makes this redirect
-    subitems:
-      - item:
-        title: "2a"
-        url: /software-consultancy
-      - item:
-        title: "2b"
-        url: /software-consultancy
+    - item:
+      title: "Software Consultancy Services"
+      url: /software-consultancy
+      subitems:
+        - item:
+          title: "Software Training"
+          url: /software-consultancy/software-training-services
+        - item:
+          title: "Software Procurement & Software Implementation"
+          url: /software-consultancy/software-procurement-services
+        - item:
+          title: "Software Development"
+          url: /software-consultancy/software-development-services
+        - item:
+          title: "Website Development"
+          url: /software-consultancy/website-development-services
+        - item:
+          title: "Software Development Team Formation & Developer On-boarding"
+          url: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
+    - item:
+      title: "I.T Operations Consultancy Services"
+      url: /it-operations-consultancy
+      subitems:
+        - item:
+          title: "Hardware Procurement & Setup"
+          url: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
+        - item:
+          title: "I.T Support"
+          url: /it-operations-consultancy/it-support-services
+        - item:
+          title: "I.T Compliance & Security"
+          url: /it-operations-consultancy/it-compliance-and-security-services
+        - item:
+          title: "Infrastructure Management"
+          url: /it-operations-consultancy/infrastructure-management-services
+        - item:
+          title: "Cloud Services"
+          url: /it-operations-consultancy/cloud-services
+
+
+
+
+#    title: "Business I.T Consultancy Topics"
+#    url: /it-consultation
+#  - item:
+#    title: "Consumer Tech Tips"
+#    url: /tech-tips/ # Pagination plugin makes this redirect
 

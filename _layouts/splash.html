@@ -3,20 +3,66 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+{% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
+{% include page__hero_video.html %}
 {% endif %}
 
 <div id="main" role="main">
-  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+    <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+        {% if page.title %}
+        <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
+        {% if page.excerpt %}
+        <meta itemprop="description"
+              content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
+        {% if page.date %}
+        <meta itemprop="datePublished" content="{{ page.date | date: " %B %d, %Y
+        " }}">{% endif %}
+        {% if page.last_modified_at %}
+        <meta itemprop="dateModified" content="{{ page.last_modified_at | date: " %B %d, %Y
+        " }}">{% endif %}
 
-    <section class="page__content" itemprop="text">
-      {{ content }}
-    </section>
-  </article>
+        <section class="page__content" itemprop="text">
+            {{ content }}
+        </section>
+    </article>
 </div>
+
+<div class="notice notice--v3 js-notice">
+    <div class="container max-width-lg">
+        <div class="notice__banner">
+            <div class="text-component text-sm margin-bottom-md">
+                <h4>🍪 Cookie Compliance</h4>
+                <p>We use cookies to give you the best possible website experience. By using {websiteName}, you agree to our <a href="#0">Privacy Policy</a>.</p>
+            </div>
+
+            <button class="btn btn--primary width-100% margin-bottom-xxs js-notice__hide-control">OK, Got it!</button>
+            <button class="btn btn--subtle width-100% js-notice__hide-control">No, Thanks.</button>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    // File#: _1_notice
+    // Usage: codyhouse.co/license
+    (function() {
+        function initNoticeEvents(notice) {
+            notice.addEventListener('click', function(event){
+                if(event.target.closest('.js-notice__hide-control')) {
+                    event.preventDefault();
+                    Util.addClass(notice, 'notice--hide');
+                }
+            });
+        };
+
+        var noticeElements = document.getElementsByClassName('js-notice');
+        if(noticeElements.length > 0) {
+            for(var i=0; i < noticeElements.length; i++) {(function(i){
+                initNoticeEvents(noticeElements[i]);
+            })(i);}
+        }
+    }());
+</script>

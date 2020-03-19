@@ -4,6 +4,8 @@ title:  "Keep-Alive I.T has been approved for NatWest's Accelerator Scheme in Ca
 date:   2019-11-26 22:20:28 +0000
 categories: news
 author_profile: true
+thumbnail: /assets/images/posts/thumbnail/natwest.jpeg
+excerpt: This is an excerpt for natwest post.
 ---
 
 ## We're excited to announce that we've been selected for NatWest's Accelerator Scheme in Cardiff.

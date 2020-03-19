@@ -502,7 +502,7 @@
 }
 
 .secondary-menu > ul > li.masthead__menu-item.active a {
-  background-color: #777;
+  background-color: #365670;
 }
 
 .scrollmenu a:hover {
@@ -644,10 +644,10 @@
       margin-right: 10px;
     }
 
-    svg {
+    i {
       color: #ffffff;
       background: #aa0000;
-      font-size: 2.5em;
+      font-size: 2em;
       padding: 4px;
       border-radius: 5px;
     }
@@ -655,9 +655,8 @@
 
 }
 
-
 $color-primary: #aa0000;
-$color-primary-light: #edf0d0;
+$color-primary-light: #e5ebc3;
 $color-primary-border: #e5ebc3;
 
 // Misc
@@ -835,7 +834,6 @@ $color-primary-border: #e5ebc3;
   }
 }
 
-
 ul.exo-menu {
   margin: 0;
   padding: 0;
@@ -844,9 +842,8 @@ ul.exo-menu {
   float: left;
   list-style-type: none;
   position: relative;
-  background: #23364B;
 
-  height: 80px;
+  height: 100px;
 
   ul {
     list-style-type: none;
@@ -857,7 +854,8 @@ ul.exo-menu {
     padding-left: 0;
 
     li {
-      line-height: 30px;
+      line-height: 24px;
+      font-size: 16px;
     }
 
     li.flyout-left ul, li.flyout-right ul {
@@ -871,8 +869,7 @@ ul.exo-menu {
     }
   }
 
-
-  li.flyout-right ul li > a:hover + ul{
+  li.flyout-right ul li > a:hover + ul {
     display: block;
   }
 
@@ -891,9 +888,15 @@ ul.exo-menu {
   & > li {
     display: inline-block;
     float: left;
-    height: 80px;
+    height: 100px;
     margin-bottom: 0;
-    line-height: 80px;
+    line-height: 100px;
+
+    a {
+      span.menu-item {
+        padding: 0 20px;
+      }
+    }
   }
 
   a, a:hover, a.active, a:active, a:visited, a:focus {
@@ -902,24 +905,21 @@ ul.exo-menu {
   }
 }
 
-
 .exo-menu > li > a {
   color: #ccc;
   text-decoration: none;
   text-transform: uppercase;
-  border-right: 1px #365670 dotted;
+  border-right: 1px #495056 dotted;
   -webkit-transition: color 0.2s linear, background 0.2s linear;
   -moz-transition: color 0.2s linear, background 0.2s linear;
   -o-transition: color 0.2s linear, background 0.2s linear;
   transition: color 0.2s linear, background 0.2s linear;
 
-  height: 80px;
+  height: 100px;
   font-size: 0.88em;
 
   display: block;
-  width: 180px;
-  padding-left: 20px;
-  padding-right: 20px;
+  width: auto;
 }
 
 .exo-menu > li > a.active,
@@ -936,23 +936,8 @@ li.drop-down,
   margin-bottom: 0;
 }
 
-li.mega-drop-down {
-  position: relative;
-}
-
-li.drop-down:before, li.mega-drop-down:before {
-  content: "\f103";
-  color: #fff;
-  font-family: FontAwesome;
-  font-style: normal;
-  display: inline;
-  position: absolute;
-  right: 6px;
-  font-size: 14px;
-}
-
 li.drop-down > ul {
-  left: 0px;
+  left: 0;
   min-width: 230px;
 
 }
@@ -970,7 +955,7 @@ li.drop-down > ul {
 }
 
 .flyout-right > ul ul,
-.flyout-left > ul ul{
+.flyout-left > ul ul {
   top: 0;
   min-width: 230px;
   display: none;
@@ -997,7 +982,6 @@ li.drop-down > ul > li > a,
   border-bottom: 1px dotted #B8C7BC;
 }
 
-
 /*Flyout Mega*/
 .flyout-mega-wrap {
   top: 0;
@@ -1013,7 +997,7 @@ li.drop-down > ul > li > a,
 
 h4.row.mega-title {
   color: #eee;
-  margin-top: 0px;
+  margin-top: 0;
   font-size: 14px;
   padding-left: 15px;
   padding-bottom: 13px;
@@ -1039,14 +1023,42 @@ h4.row.mega-title {
 /*mega menu*/
 
 .mega-menu {
-  left: 0;
   right: 0;
-  padding: 15px;
   display: none;
-  padding-top: 0;
+  padding: 0 15px 15px;
   min-height: 100%;
-  width: 800px;
 
+  ul.stander li a:not(.view-more) {
+    padding: 3px 0;
+    font-size: 0.77em;
+  }
+
+  ul.description {
+    li {
+      span {
+        font-size: 0.67em;
+      }
+      a:not(.view-more) {
+        font-size: 0.77em;
+      }
+    }
+  }
+}
+
+.mega-menu, .Blog {
+  a.view-more {
+    border-radius: 10px;
+    margin-top: 15px;
+    background-color: #009FE1;
+    padding: 2px 10px;
+    line-height: 21px;
+    font-size: 0.66em;
+
+    &:hover {
+      color: #fff;
+      background: #0DADEF;
+    }
+  }
 }
 
 h4.row.mega-title {
@@ -1058,17 +1070,15 @@ h4.row.mega-title {
   text-transform: uppercase;
   border-bottom: 1px solid #547787;
   padding-top: 15px;
-  background-color: #365670
+  background-color: #365670;
+  margin-right: -20px;
+  margin-left: -15px;
 }
 
 .mega-menu ul li a {
   line-height: 25px;
   font-size: 90%;
   display: block;
-}
-
-ul.stander li a {
-  padding: 3px 0px;
 }
 
 ul.description li {
@@ -1079,20 +1089,7 @@ ul.description li {
 ul.description li span {
   color: #ccc;
   font-size: 85%;
-}
-
-a.view-more {
-  border-radius: 1px;
-  margin-top: 15px;
-  background-color: #009FE1;
-  padding: 2px 10px !important;
-  line-height: 21px !important;
-  display: inline-block !important;
-}
-
-a.view-more:hover {
-  color: #fff;
-  background: #0DADEF;
+  line-height: 24px;
 }
 
 ul.icon-des li a i {
@@ -1113,29 +1110,27 @@ ul.icon-des li {
 
 /*Blog DropDown*/
 .Blog {
+  padding: 0 20px 20px;
   left: 0;
   display: none;
   color: #fefefe;
-  padding-top: 15px;
   background: #547787;
-  padding-bottom: 15px;
-}
 
-.Blog .blog-title {
-  color: #fff;
-  font-size: 15px;
-  text-transform: uppercase;
+  .blog-title {
+    color: #fff;
+    font-size: 15px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    line-height: 24px;
+  }
 
-}
-
-.Blog .blog-des {
-  color: #ccc;
-  font-size: 90%;
-  margin-top: 15px;
-}
-
-.Blog a.view-more {
-  margin-top: 0px;
+  .blog-description {
+    color: #f2f3f3;
+    font-size: 0.80em;
+    margin-top: 10px;
+    line-height: 24px;
+    margin-bottom: 0;
+  }
 }
 
 /*Images*/
@@ -1147,12 +1142,12 @@ ul.icon-des li {
   padding-top: 15px;
   background: #547787;
   padding-bottom: 15px;
-}
 
-.Images h4 {
-  font-size: 15px;
-  margin-top: 0px;
-  text-transform: uppercase;
+  h4 {
+    font-size: 15px;
+    margin-top: 0px;
+    text-transform: uppercase;
+  }
 }
 
 /*common*/
@@ -1200,7 +1195,6 @@ li.flyout-mega > a:hover + .flyout-mega-wrap {
 
   .exo-menu {
     min-height: 58px;
-    background-color: #23364B;
     width: 100%;
   }
 
@@ -1236,3 +1230,102 @@ a.toggle-menu {
   width: 80px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------------------------
+
+File#: _1_notice
+Title: Notice
+Descr: Modeless notice banner, visible by default
+Usage: codyhouse.co/license
+
+-------------------------------- */
+
+.notice {
+  position: fixed;
+  bottom: var(--space-md);
+  width: 100%;
+  pointer-events: none;
+  z-index: var(--zindex-fixed-element);
+}
+
+.notice__banner {
+  background-color: var(--color-bg);
+  box-shadow: var(--shadow-md);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm);
+  pointer-events: auto;
+}
+
+.notice__close-btn {
+  padding: 0.5em;
+  display: block; // fallback
+  display: flex;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: alpha(var(--color-contrast-higher), 0.85);
+  color: var(--color-bg);
+
+  &:hover {
+    background-color: var(--color-contrast-higher);
+  }
+
+  .icon {
+    display: block;
+  }
+}
+
+.notice--hide {
+  opacity: 0;
+  visibility: hidden;
+}
+
+@media screen and (prefers-reduced-motion: no-preference) {
+  .notice {
+    transition: opacity .3s, visibility 0s .3s;
+  }
+
+  .notice__banner {
+    transition: transform .3s;
+  }
+
+  .notice--hide {
+    .notice__banner {
+      transform: translateY(20%);
+    }
+  }
+}
+
+// --v2
+.notice--v2 {
+  bottom: 0;
+
+  .notice__banner {
+    padding: var(--space-md) 0;
+    border-radius: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+  }
+}
+
+// --v3
+.notice--v3 {
+  .notice__banner {
+    max-width: 320px;
+  }
+}
