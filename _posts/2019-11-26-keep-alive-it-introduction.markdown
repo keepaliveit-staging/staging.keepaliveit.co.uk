@@ -4,7 +4,7 @@ title:  "Keep-Alive I.T has launched and is ready to begin trading. Here's a bri
 date:   2019-11-26 22:20:28 +0000
 categories: news
 author_profile: true
-thumbnail: /assets/images/posts/thumbnail/launch.jpg
+thumbnail: /assets/images/posts/thumbnail/launch.png
 excerpt: This is an excerpt for launch post.
 ---
 

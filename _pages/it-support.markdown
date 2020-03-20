@@ -41,4 +41,17 @@ IT Audits
 
 We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services
 
+
+1st Line Support – Generally Helpdesk – Job titles such as Helpdesk Operator, First Line Support, IT Call Desk
+
+- This role is generally phone or sometimes internet support based. Onsite requests are usually passed to the 2nd Line Support personnel.
+
+2nd Line Support – The first line of actual onsite contact – Job titles such as Desktop Support, IT Technician, PC Engineer, Desktop Support Analyst
+
+Actual onsite support from the 2nd line is not always the case. Sometimes it is still a remote team with more specific knowledge then the Support Desk (1st line). This as I say is the first set of onsite personnel (normally), usually dealing with (not always) minor issues such as workstation problems, printer, scanner and peripheral issues that were not able to be resolved by the 1st Line Support.
+
+3rd Line Support – Most of the time a more specialised individual or team for onsite contact – Job titles such as Network Specialist, Server Specialist/Engineer and many more specialised job roles.
+
+When these personnel appear you know you’ve got a problem These are usually more qualified individuals, such as Microsoft Certified in the case of MS Windows Server issues.
+
 {% include industry-consultation.md %}

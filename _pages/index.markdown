@@ -36,7 +36,7 @@ excerpt: >
 				<div class="ux-text">
 					<h3>Software Development</h3>
 					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
-					<p>We deliver a full range of software development services – from custom web and mobile app development to Quality Assurance (QA) and software testing.</p>
+					<p>We deliver a full suite of Software Development services – from custom web and mobile app development to Quality Assurance (QA) and software testing.</p>
 					<ul>
 					    <li>Software Design</li>
 					    <li>Code Reviews</li>
@@ -60,7 +60,7 @@ excerpt: >
 			<div data-tab="tab3" class="tabcontent">
 				<div class="ux-text">
 					<h3>Cyber Security</h3>
-					<h4>Example SubTitle</h4>
+					<h4>Data Isolation, Encryption, Password Management, Role-Based Access Control, and System Patching for greater Cyber Resilience.</h4>
 					<p>Robust security management and monitoring services – encompassing vulnerability audits, strategic security consulting and data recovery – protect and preserve your most critical and sensitive IT systems.</p>
 				</div>
 			</div>
