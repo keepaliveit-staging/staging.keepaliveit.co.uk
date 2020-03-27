@@ -5,7 +5,7 @@ permalink: /it-operations-consultancy/cloud-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/cloud-computing.jpg
   overlay_filter: 0.5 
 ---
 
@@ -33,9 +33,14 @@ header:
 - Linux Server Administration
 - Windows Server Administration
 
-<img class="lazy" data-src="/assets/images/cloud/aws-logo.png"/>
-<img class="lazy" data-src="/assets/images/cloud/google-cloud-logo.png"/>
-<img class="lazy" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
-<img class="lazy" data-src="/assets/images/cloud/linode-logo.jpg"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/aws-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/google-cloud-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/linode-logo.jpg"/>
+
+
+## Cloud Elasticity
+Expecting a surge of website traffic during a busy period? Let us take control of keeping your website online through even the largest of traffic peaks.
+
 
 {% include industry-consultation.md %}

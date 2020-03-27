@@ -19,7 +19,7 @@ excerpt: >
 <h2>👋 Hello, thanks for stopping by at our website. This is what we do:</h2>
 
 <blockquote data-aos="fade-down" data-aos-once="true">
-  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
+  <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
 </blockquote>
 
 <div class="container maxwidth">
@@ -36,24 +36,17 @@ excerpt: >
 				<div class="ux-text">
 					<h3>Software Development</h3>
 					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
-					<p>We deliver a full suite of Software Development services – from custom web and mobile app development to Quality Assurance (QA) and software testing.</p>
-					<ul>
-					    <li>Software Design</li>
-					    <li>Code Reviews</li>
-					    <li>Legacy Software Redesign</li>
-                    </ul>
+					<p>We offer a full suite of Software Development services – from custom Web and Mobile App Development, to Software Quality Assurance (QA) services.</p>
+					<p>All of our work is completed by following Agile Software Development best practises and we are able to work with modern codebases, or redesign old Legacy Software Applications to be compatible with modern I.T setups.</p> 
 				</div>
 			</div>
 
 			<div data-tab="tab2" class="tabcontent">
 				<div class="ux-text">
 					<h3>I.T Operations</h3>
-					<h4>Platform Management, System Automation, Application Monitoring, and Application Reporting by utilising DevOps practises and Cloud services.</h4>
-                    <p>Gain valuable peace of mind that your systems are working as they should as we take care of all aspects of your platform management, from coordinating complex supplier chains to providing comprehensive monitoring and reporting.</p>
-                    <ul>
-                        <li>Managed Services</li>
-                    </ul>
-                    <p>Reap the rewards of increased scalability, reduced costs, and efficiencies as our DevOps and Cloud experts deliver tailored advice for every stage of your cloud journey, alongside support for the implementation of best practice techniques.</p>   
+					<h4>Platform Management, System Automation, Application Monitoring, and Application Reporting.</h4>
+                    <p>We utilise  Cloud technologies and DevOps best practises to keep I.T operational. Gain valuable peace of mind that your I.T systems are working as they should be, 24 hours a day, 7 days a week.</p>
+                    <p>Reap the benefits of increased scalability, flexible working, and reduced costs as our DevOps and Cloud experts deliver tailored advice for automating, monitoring, and producing reports on the availability of your I.T.</p>   
 				</div>
 			</div>
 
@@ -61,6 +54,7 @@ excerpt: >
 				<div class="ux-text">
 					<h3>Cyber Security</h3>
 					<h4>Data Isolation, Encryption, Password Management, Role-Based Access Control, and System Patching for greater Cyber Resilience.</h4>
+					<p>Managed cyber security as a service.</p>
 					<p>Robust security management and monitoring services – encompassing vulnerability audits, strategic security consulting and data recovery – protect and preserve your most critical and sensitive IT systems.</p>
 				</div>
 			</div>

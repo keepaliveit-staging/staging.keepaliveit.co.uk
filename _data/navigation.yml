@@ -2,7 +2,7 @@
 main:
   - item:
     title: "I.T Services"
-    url: /software-consultancy
+    url: "#"
     subitems:
     - item:
       title: "Software Consultancy Services"
@@ -43,6 +43,45 @@ main:
           title: "Cloud Services"
           url: /it-operations-consultancy/cloud-services
 
+mobile:
+  - item:
+    title: "Software Consultancy Services"
+    url: /software-consultancy
+    subitems:
+      - item:
+        title: "Software Training"
+        url: /software-consultancy/software-training-services
+      - item:
+        title: "Software Procurement & Software Implementation"
+        url: /software-consultancy/software-procurement-services
+      - item:
+        title: "Software Development"
+        url: /software-consultancy/software-development-services
+      - item:
+        title: "Website Development"
+        url: /software-consultancy/website-development-services
+      - item:
+        title: "Software Development Team Formation & Developer On-boarding"
+        url: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
+  - item:
+    title: "I.T Operations Consultancy Services"
+    url: /it-operations-consultancy
+    subitems:
+      - item:
+        title: "Hardware Procurement & Setup"
+        url: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
+      - item:
+        title: "I.T Support"
+        url: /it-operations-consultancy/it-support-services
+      - item:
+        title: "I.T Compliance & Security"
+        url: /it-operations-consultancy/it-compliance-and-security-services
+      - item:
+        title: "Infrastructure Management"
+        url: /it-operations-consultancy/infrastructure-management-services
+      - item:
+        title: "Cloud Services"
+        url: /it-operations-consultancy/cloud-services
 
 
 

@@ -25,7 +25,7 @@ pagination:
 <p>If you have a request for a tech tip article, please get in touch and we will see what we can do for you.</p>
 
 <div class="container">
-    <div class="row">    
+    <div class="row">
         {% for item in paginator.posts %}            
             <div class="col-xs-12 col-sm-6 techtip-container">
                 <div class="techtip-item">

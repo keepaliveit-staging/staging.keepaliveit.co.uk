@@ -5,8 +5,8 @@ permalink: /software-consultancy/software-procurement-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
-  overlay_filter: 0.5 
+  overlay_image: /assets/images/cad-software.jpg
+  overlay_filter: 0.66 
 ---
 ## Software Procurement, Implementation, and Consultancy
 - Authentication & Authorisation

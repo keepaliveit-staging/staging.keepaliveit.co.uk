@@ -18,7 +18,7 @@ header:
 
 ### What does Keep-Alive I.T do?
 <blockquote data-aos="fade-down" data-aos-once="true">
-  <p>“Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
+  <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
 </blockquote>
 
 Keep-Alive I.T is a universal I.T Hardware & Software Consultancy company who has over a decade of specialist experience with developing agile software solutions, and keeping I.T systems operational. Being a universal I.T consultancy company means we are able to take on work involving Software, or Hardware systems; Covering I.T workloads such as Application Development, Infrastructure Development, and Network Design. 

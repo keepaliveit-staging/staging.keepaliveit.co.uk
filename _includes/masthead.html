@@ -27,7 +27,8 @@
                             {% if site.subtitle %}
                             <span class="site-subtitle">
                                 {{ site.subtitle }}
-                            </span>{% endif %}
+                            </span>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
@@ -48,7 +49,7 @@
                                 ▾
                             </span>
                         </a>
-                        <ul class="drop-down-ul animated fadeIn">
+                        <ul class="drop-down-ul ">
                             {%- for submenu1 in link.subitems -%}
                             <li class="flyout-right">
                                 <a href="{{ submenu1.url }}">
@@ -59,7 +60,7 @@
                                         {% endif %}
                                     </span>
                                 </a>
-                                <ul class="animated fadeIn">
+                                <ul class="">
                                     {%- for submenu2 in submenu1.subitems -%}
                                     <li class="drop-down-submenu">
                                         <a href="{{ submenu2.url }}">
@@ -85,67 +86,93 @@
                                 I.T Resources ▾
                             </span>
                         </a>
-                        <div class="animated fadeIn mega-menu">
+                        <div class="mega-menu">
                             <div class="mega-menu-wrap">
-                                <div class="row">
-                                    <div class="col-sm-4">
-                                        <h4 class="row mega-title">Special Offer</h4>
-                                        <img class="img-responsive lazy"
-                                             data-src="https://3.bp.blogspot.com/-rUk36pd-LbM/VcLb48X4f-I/AAAAAAAAGCI/Y_UxBAgEqwA/s1600/Magento_themes.jpg">
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <h4 class="row mega-title">I.T Resources</h4>
-                                        <ul class="description">
-                                            <li>
-                                                <a href="/it-consultation">I.T Consultancy Articles</a>
-                                                <span>I.T Consultancy Articles covering topics in commercial I.T setups. </span>
-                                            </li>
-                                            <li>
-                                                <a href="/tech-tips">Tech Tips for Consumers</a>
-                                                <span>Technology Tips for Consumers, covering a range of I.T topics for household I.T setups.</span>
-                                            </li>
-                                            <li>
-                                                <a class="view-more btn-sm " href="/resources">View more I.T Resources</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <h4 class="row mega-title">I.T Solutions</h4>
-                                        <ul class="stander">
-                                            <li>
-                                                <a href="/solutions/cyber-essentials-it-compliance">Cyber
-                                                    Essentials I.T Compliance</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/gdpr-it-compliance">GDPR Compliance for
-                                                    I.T</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/it-for-business">I.T Solutions for
-                                                    Businesses</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/it-for-consumers">I.T Solutions for
-                                                    Consumers</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/it-for-non-profit">I.T Solutions for
-                                                    Non-Profits</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/it-for-public-sector">I.T Solutions for
-                                                    Public Sector</a>
-                                            </li>
-                                            <li>
-                                                <a href="/solutions/it-for-startups">I.T Solutions for
-                                                    Startups</a>
-                                            </li>
-                                            <li>
-                                                <a class="view-more btn-sm" href="/solutions">
-                                                    View more I.T Solutions
-                                                </a>
-                                            </li>
-                                        </ul>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <h4 class="row mega-title">Special Offer</h4>
+                                            <img class="img-fluid lazy"
+                                                 data-src="https://3.bp.blogspot.com/-rUk36pd-LbM/VcLb48X4f-I/AAAAAAAAGCI/Y_UxBAgEqwA/s1600/Magento_themes.jpg">
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <h4 class="row mega-title">I.T Resources</h4>
+                                            <ul class="description">
+                                                <li>
+                                                    <a href="/it-consultation">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Consultancy Articles
+                                                    </a>
+                                                    <span>I.T Consultancy Articles covering topics in commercial I.T setups. </span>
+                                                </li>
+                                                <li>
+                                                    <a href="/tech-tips">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        Tech Tips for Consumers
+                                                    </a>
+                                                    <span>Technology Tips for Consumers, covering a range of I.T topics for household I.T setups.</span>
+                                                </li>
+                                                <li>
+                                                    <a class="view-more btn-sm " href="/resources">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        View more I.T Resources
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <h4 class="row mega-title">I.T Solutions</h4>
+                                            <ul class="stander">
+                                                <li>
+                                                    <a href="/solutions/cyber-essentials-it-compliance">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        Cyber Essentials I.T Compliance
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/gdpr-it-compliance">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        GDPR Compliance for I.T
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/it-for-business">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Solutions for Businesses
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/it-for-consumers">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Solutions for Consumers
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/it-for-non-profit">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Solutions for Non-Profit Organisations
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/it-for-public-sector">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Solutions for Public Sector
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/solutions/it-for-startups">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        I.T Solutions for Startups
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="view-more btn-sm" href="/solutions">
+                                                        <i class="fas fa-arrow-circle-right"></i>
+                                                        View more I.T Solutions
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -157,18 +184,23 @@
                                 Blog ▾
                             </span>
                         </a>
-                        <div class="Blog animated fadeIn">
-                            <h4 class="row mega-title">Latest Blog Posts</h4>
-                            <div class="row">
-                                {% for post in site.posts limit:3 %}
-                                <div class="col-sm-4">
-                                    <img class="img-responsive lazy"
-                                         data-src="{{ post.thumbnail }}">
-                                    <h4 class="blog-title">{{ post.title }}</h4>
-                                    <p class="blog-description">{{ post.excerpt | strip_html }}</p>
-                                    <a class="view-more btn- btn-sm" href="{{ post.url }}">Read More</a>
+                        <div class="Blog">
+                            <div class="container">
+                                <h4 class="row mega-title">Latest Blog Posts</h4>
+                                <div class="row">
+                                    {% for post in site.posts limit:3 %}
+                                    <div class="col-sm-4">
+                                        <img class="img-fluid lazy"
+                                             data-src="{{ post.thumbnail }}">
+                                        <h4 class="blog-title">{{ post.title }}</h4>
+                                        <p class="blog-description">{{ post.excerpt | strip_html }}</p>
+                                        <a class="view-more btn- btn-sm" href="{{ post.url }}">
+                                            <i class="fas fa-arrow-circle-right"></i>
+                                            Read More
+                                        </a>
+                                    </div>
+                                    {% endfor %}
                                 </div>
-                                {% endfor %}
                             </div>
                         </div>
                     </li>
@@ -188,12 +220,50 @@
                     </li>
                 </ul>
 
-                <button class="greedy-nav__toggle hidden" type="button">
+                <button class="greedy-nav__toggle menu-btn" type="button">
                     <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
                     <div class="navicon"></div>
                 </button>
-                <ul class="hidden-links hidden"></ul>
             </nav>
         </div>
     </div>
 </div>
+
+<nav class="pushy pushy-right">
+    <div class="pushy-content">
+        <ul>
+            {%- for link in site.data.navigation.mobile -%}
+            {% if link.subitems %}
+            <li class="pushy-submenu">
+                <button>{{ link.title }}</button>
+                <ul>
+                    {%- for submenu1 in link.subitems -%}
+                        {% if submenu1.subitems %}
+                            <li class="pushy-submenu">
+                                <button>{{ submenu1.title }}</button>
+                                <ul>
+                                    <li class="pushy-link"><a href="#">Item 1</a></li>
+                                    <li class="pushy-link"><a href="#">Item 2</a></li>
+                                    <li class="pushy-link"><a href="#">Item 3</a></li>
+                                </ul>
+                            </li>
+                        {% else %}
+                            <li class="pushy-link">
+                                <a href="{{ submenu1.url }}">{{ submenu1.title }}</a>
+                            </li>
+                        {% endif %}
+                    {%- endfor -%}
+                </ul>
+            </li>
+            {% else %}}
+            <li class="pushy-link">
+                <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+            {% endif %}
+            {%- endfor -%}
+        </ul>
+    </div>
+</nav>
+
+<!-- Site Overlay -->
+<div class="site-overlay"></div>

@@ -75,7 +75,7 @@ reCaptcha:
 
 company_number: 12358813
 chat_widget: false
-facebook_pixel: true
+facebook_pixel: false
 
 atom_feed:
   path                   : # blank (default) uses feed.xml

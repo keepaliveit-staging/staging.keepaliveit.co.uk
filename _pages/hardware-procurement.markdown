@@ -5,11 +5,13 @@ permalink: /it-operations-consultancy/hardware-procurement-and-hardware-setup-se
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
+  overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
 ---
 
 {% include breadcrumbs.html %}
+
+> "I need my team equipped with the right technology to get their job done"
 
 IT Strategy
 IT Projects

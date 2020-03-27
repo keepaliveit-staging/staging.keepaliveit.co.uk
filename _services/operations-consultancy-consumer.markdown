@@ -18,13 +18,14 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
+<p>We take care of all aspects of your platform management, from coordinating complex supplier chains to providing comprehensive monitoring and reporting.</p>
+
 ## Save money & make I.T assets more reliable with the help of Keep-Alive I.T
 Home automation
 
 Smart home. Smart you.
 
 Plex server for the home
-
 
 Backup solutions
 
