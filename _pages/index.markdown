@@ -11,6 +11,7 @@ header:
   actions:
     - label: "Discover the Importance of Effective I.T Systems for Businesses & Consumers"
       url: "#discover"
+  page_lead_text_colour: "#aa0000"
 excerpt: >
   We're a Modern, UK based, Hardware & Software I.T Consultancy Company. We provide Agile I.T Development & Operations (DevOps) Solutions & I.T Support Services to Businesses, Consumers, and Non-Profit Organisations.
   
