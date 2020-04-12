@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Managed Wifi Access Points"
-permalink: /it-operations-consultancy/infrastructure-management-services/managed-wifi
+permalink: /it-operations-consultancy/it-infrastructure-management-services/managed-wifi
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

@@ -7,6 +7,7 @@ excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software 
 header:
   overlay_image: /assets/images/software-engineering.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#ea5114"
 ---
 
 {% include breadcrumbs.html %}
@@ -27,6 +28,10 @@ Script creation
 - Bash
 - Powershell
 
+
+<div class="clip-block">
+    <img src="/assets/images/software-development/powershell.png" class="clip-css-diamond">
+</div>
 
 ### Cost of our Software Development services
 

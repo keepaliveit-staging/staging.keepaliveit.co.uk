@@ -7,12 +7,20 @@ excerpt: "Learn how Keep-Alive I.T Services can help your business with staff tr
 header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#ea5114"
+
 ---
 
 {% include breadcrumbs.html %}
 
 
-Having well-versed and knowledgable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.
+Having well-versed and knowledgeable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.
+
+<div class="row">
+    <div class="col-xs-12">
+        <img src="/assets/images/software-training/software-training-ceo-message.png" class="img-fluid">
+    </div>
+</div>
 
 Source:
 https://bdaily.co.uk/articles/2012/09/09/5-benefits-of-a-well-trained-workforce

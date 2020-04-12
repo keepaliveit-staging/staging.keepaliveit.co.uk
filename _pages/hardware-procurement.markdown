@@ -7,6 +7,7 @@ excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#ea5114"
 ---
 
 {% include breadcrumbs.html %}

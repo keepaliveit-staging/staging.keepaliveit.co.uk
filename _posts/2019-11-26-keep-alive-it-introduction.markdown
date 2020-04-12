@@ -21,7 +21,7 @@ As someone who keeps up to date with the latest and greatest technolgies, focuse
 We take analysing your existing I.T infrastructure and software processes.
 
 ## How I came up with the company name
-If you're a techy at heart, you may be aware of the [HTTP Keep-Alive Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive) which is present in most modern web-browsers.
+If you're a techie at heart, you may be aware of the <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive" target="_blank">HTTP Keep-Alive Header</a> which is present in most modern web-browsers.
 
 > Keep alive is a method to allow the same tcp connection for HTTP conversation instead of opening a new one with each new request. More simply put, it is a communication between the web server and the web browser that says "you can grab more than just one file at a time"
 

@@ -50,13 +50,15 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  background: #171717;
 }
 
 .page__footer-follow {
+
   ul {
-    margin: 0;
     padding: 0;
     list-style-type: none;
+    margin: 1em 0em;
   }
 
   li {

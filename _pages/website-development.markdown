@@ -5,8 +5,9 @@ permalink: /software-consultancy/website-development-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
-  overlay_image: /assets/images/software-development-consultancy.jpg
-  overlay_filter: 0.5 
+  overlay_image: /assets/images/web-development.jpg
+  overlay_filter: 0.59 
+  page_lead_text_colour: "#ea5114"
 ---
 
 {% include breadcrumbs.html %}

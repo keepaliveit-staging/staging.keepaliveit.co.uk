@@ -2,58 +2,60 @@
 ---
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-  <head>
+<html lang="{{ site.locale | slice: 0,2 | default: " en" }}" class="no-js">
+<head>
     {% include head.html %}
     {% include head/custom.html %}
-  </head>
+</head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    <div class="header-info-wrapper">
-      <div class="header-info">
-        <span><i class="fas fa-phone-square-alt"></i> <a href="/request-a-callback">Speak to an I.T Consultant</a></span>
+<div class="header-info-wrapper">
+    <div class="header-info">
+        <span><i class="fas fa-phone-square-alt"></i> <a
+                href="/request-a-callback">Speak to an I.T Consultant</a></span>
         <ul class="header-info-nav">
-          <li>
-            <i class="fas fa-file-alt"></i>
-            <!--<a href="assets/downloads/pre-consultation-document.pdf" download="pre-consultation-document.pdf">Pre-Consultation Document</a>-->
-            <a href="/it-consultation-documents">I.T Consultation Documents</a>
-          </li>
+            <li>
+                <i class="fas fa-file-alt"></i>
+                <!--<a href="assets/downloads/pre-consultation-document.pdf" download="pre-consultation-document.pdf">Pre-Consultation Document</a>-->
+                <a href="/it-consultation-documents">I.T Consultation Documents</a>
+            </li>
         </ul>
-      </div>
     </div>
+</div>
 
-    {% include_cached skip-links.html %}
-    {% include_cached browser-upgrade.html %}
-    {% include masthead.html %}
+{% include_cached skip-links.html %}
+{% include_cached browser-upgrade.html %}
+{% include masthead.html %}
 
-    <div class="initial-content">
-      {{ content }}
-    </div>
+<div class="initial-content">
+    {{ content }}
+</div>
 
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include_cached search/search_form.html %}
-      </div>
-    {% endif %}
+{% if site.search == true %}
+<div class="search-content">
+    {% include_cached search/search_form.html %}
+</div>
+{% endif %}
 
 
-    <div id="footer" class="page__footer">
-      <div class="page__hero--overlay" style="background-color: #5e616c; background-image: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.34)), url('/assets/images/meeting.jpg');">
+<footer class="page__footer">
+    <div class="page__hero--overlay"
+         style="background-color: #5e616c; background-image: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.34)), url('/assets/images/meeting.jpg');">
         <div class="wrapper" style="color: white;">
-          <h2>Plan a FREE I.T Consultation Session with a qualified I.T Consultant:</h2>
-          <p>We'd love to get to know more about your I.T requirements. If you'd like us to arrange a completely FREE 15-minute video consultation with you, please visit the following link and fill in the form with your contact details & a preferred call time so we can get back to you.</p>
-          <a class="btn btn--light-outline btn--large btn--grow" href="/request-a-callback">Request a FREE I.T Consultation Session</a>
+            <h2>Plan a FREE I.T Consultation Session with a qualified I.T Consultant:</h2>
+            <p>We'd love to get to know more about your I.T requirements. If you'd like us to arrange a completely FREE
+                15-minute video consultation with you, please visit the following link and fill in the form with your
+                contact details & a preferred call time so we can get back to you.</p>
+            <a class="btn btn--light-outline btn--large btn--grow" href="/request-a-callback">Request a FREE I.T
+                Consultation Session</a>
         </div>
-      </div>
-
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
     </div>
+</footer>
 
-    {% include scripts.html %}
+{% include footer/custom.html %}
+{% include footer.html %}
+{% include scripts.html %}
 
-  </body>
+</body>
 </html>

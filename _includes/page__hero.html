@@ -55,14 +55,20 @@
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
+        <span style="background:#000000;">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
+        </span>
       </h1>
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
-        <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <p class="page__lead">
+        <span style="background: {{ page.header.page_lead_text_colour | default: 'transparent' }};">
+          {{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
+        </span>
+      </p>
       {% endif %}
       {% if page.read_time %}
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>

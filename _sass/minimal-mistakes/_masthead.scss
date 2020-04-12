@@ -2,32 +2,34 @@
    MASTHEAD
    ========================================================================== */
 
+$header-height: 100px;
+
 .masthead {
   position: relative;
   z-index: 20;
   background: #292929;
+  height: $header-height;
 
   .masthead__brand {
-    display: flex;
     min-width: 60%;
     width: 60%;
     max-width: 60%;
-    padding: 1em;
     background: #aa0000;
-    height: 100px;
+    height: $header-height;
+    line-height: $header-height;
 
     @include breakpoint($small) {
-      min-width: 45%;
-      width: 45%;
+      min-width: 35%;
+      width: 35%;
       max-width: 35%;
     }
 
     @include breakpoint($large) {
-      min-width: 35%;
-      width: 35%;
-      max-width: 35%;
-      padding: 10px 20px;
+      min-width: 25%;
+      width: 25%;
+      max-width: 25%;
     }
+
   }
 
   &__inner-wrap {
@@ -57,27 +59,28 @@
   }
 }
 
-.site-logo img {
-  width: 100%;
-  height: auto;
-  padding-right: 10px;
+.site-logo-link {
+  display: block;
+  height: $header-height;
+}
+
+.site-logo-link img {
+  max-height: 60px;
+  padding: 0 15px;
 }
 
 .site-title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-item-align: center;
-  align-self: center;
   font-weight: bold;
   z-index: 20;
   color: #fff !important;
+  line-height: initial;
 }
 
 .site-subtitle {
   display: block;
   font-size: $type-size-8;
   color: #ffffff;
+  line-height: initial;
 }
 
 .masthead__menu {

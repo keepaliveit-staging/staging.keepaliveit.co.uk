@@ -25,7 +25,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Keep-Alive I.T Services"
+title                    : "Keep-Alive I.T"
 title_separator          : "-"
 subtitle                 : "I.T Development & Operations Consultancy Solutions for Businesses and Consumers"
 name                     : "Keep-Alive I.T Ltd." # &name is a YAML anchor which can be *referenced later
@@ -109,7 +109,7 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Keep-Alive I.T Services Ltd. # If the user or organization name differs from the site's name
+  name                   : Keep-Alive I.T Ltd. # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/keepaliveit"
     - "https://www.facebook.com/keepaliveitservices/"

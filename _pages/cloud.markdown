@@ -6,7 +6,8 @@ permalink: /it-operations-consultancy/cloud-services
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cloud-computing.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.3 
+  page_lead_text_colour: "#ea5114"
 ---
 
 {% include breadcrumbs.html %}
@@ -42,5 +43,9 @@ header:
 ## Cloud Elasticity
 Expecting a surge of website traffic during a busy period? Let us take control of keeping your website online through even the largest of traffic peaks.
 
+
+<p>“Our hosting costs have decreased by over 90% and we’re running at about 25% of our capacity allowing us to quickly&nbsp;scale.”</p>
+
+<p>“We have been able to make scaling the technical infrastructure of our business cost effective and&nbsp;efficient.”</p>
 
 {% include industry-consultation.md %}

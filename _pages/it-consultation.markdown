@@ -1,12 +1,13 @@
 ---
 layout: splash
-title: I.T Considerations for Businesses
+title: I.T Consultation Topics
 permalink: /it-consultation
 
-excerpt: "Short Articles giving free I.T Consultation Advice for Businesses I.T.."
+excerpt: "Short Articles giving free I.T Consultation Advice for Businesses I.T."
 header:
   overlay_image: /assets/images/documents.jpg
   overlay_filter: 0.54
+  page_lead_text_colour: "#ea5114"
 ---
 
 {% include breadcrumbs.html %}

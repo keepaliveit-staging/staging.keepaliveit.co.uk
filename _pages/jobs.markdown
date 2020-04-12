@@ -227,6 +227,7 @@ Imagine a having a job where you'll be hands-on with technical problems
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+## Full time positions
 {% for item in site.jobs %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
@@ -234,3 +235,10 @@ Imagine a having a job where you'll be hands-on with technical problems
 See what others have to say about working for us
 Want some insider information about what its like to work at Keep-Alive I.T? 
 Check us out on <a href="https://www.glassdoor.com/Overview/Working-at-Keep-Alive-I-T-Services-EI_IE3186292.11,34.htm" target="_blank">GlassDoor</a>.
+
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+## Jobs for Freelancers
+<img src="/assets/images/jobs/freelancers-banner.png" alt="Looking for freelancers" class="lazy-img"> 
+We have created a portal for freelancing jobs that become available.

@@ -11,7 +11,7 @@ $menu_width: 100vw !default;
     position: fixed;
     width: $menu_width;
     height: 100%;
-    top: 148px;
+    top: 150px;
     z-index: 9999;
     background: #191918;
     overflow: auto;
@@ -152,10 +152,11 @@ $menu_width: 100vw !default;
     button{
         width: 100%;
         color: #b3b3b1;
-        padding: 15px 30px;
+        padding: 20px 15px;
         text-align: left;
         background: transparent;
         border: 0;
+        border-bottom: 1px #495056 dotted;
 
         &:hover{
             color: #FFF;

@@ -4,33 +4,17 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 {% endif %}
 
-<div class="masthead">
+<header class="masthead">
     <div class="masthead__inner-wrap">
         <div class="masthead__menu">
             <nav class="site-nav greedy-nav">
                 <div class="masthead__brand">
-                    <div style="width:20%;">
-                        {% unless logo_path == empty %}
-                        <a class="site-logo" href="{{ '/' | relative_url }}">
-                            <img src="{{ logo_path | relative_url }}"
-                                 class="lazy"
-                                 alt=""></a>
-                        {% endunless %}
-                    </div>
-                    <div style="width:80%;">
-                        <div>
-                            <a class="site-title" href="{{ '/' | relative_url }}">
-                                {{ site.masthead_title | default: site.title }}
-                            </a>
-                        </div>
-                        <div>
-                            {% if site.subtitle %}
-                            <span class="site-subtitle">
-                                {{ site.subtitle }}
-                            </span>
-                            {% endif %}
-                        </div>
-                    </div>
+                    {% unless logo_path == empty %}
+                    <a class="site-logo-link" href="{{ '/' | relative_url }}">
+                        <img src="/assets/images/logo-tagline.svg"
+                             class="lazy img-fluid"
+                             alt="Keep-Alive I.T Logo"></a>
+                    {% endunless %}
                 </div>
 
                 <ul class="exo-menu">
@@ -188,8 +172,8 @@
                             <div class="container">
                                 <h4 class="row mega-title">Latest Blog Posts</h4>
                                 <div class="row">
-                                    {% for post in site.posts limit:3 %}
-                                    <div class="col-sm-4">
+                                    {% for post in site.posts limit:4 %}
+                                    <div class="col-sm-3">
                                         <img class="img-fluid lazy"
                                              data-src="{{ post.thumbnail }}">
                                         <h4 class="blog-title">{{ post.title }}</h4>
@@ -227,7 +211,7 @@
             </nav>
         </div>
     </div>
-</div>
+</header>
 
 <nav class="pushy pushy-right">
     <div class="pushy-content">

@@ -37,8 +37,8 @@ main:
           title: "I.T Compliance & Security"
           url: /it-operations-consultancy/it-compliance-and-security-services
         - item:
-          title: "Infrastructure Management"
-          url: /it-operations-consultancy/infrastructure-management-services
+          title: "I.T Infrastructure Management"
+          url: /it-operations-consultancy/it-infrastructure-management-services
         - item:
           title: "Cloud Services"
           url: /it-operations-consultancy/cloud-services
@@ -77,8 +77,8 @@ mobile:
         title: "I.T Compliance & Security"
         url: /it-operations-consultancy/it-compliance-and-security-services
       - item:
-        title: "Infrastructure Management"
-        url: /it-operations-consultancy/infrastructure-management-services
+        title: "I.T Infrastructure Management"
+        url: /it-operations-consultancy/it-infrastructure-management-services
       - item:
         title: "Cloud Services"
         url: /it-operations-consultancy/cloud-services

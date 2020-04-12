@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Managed Domain Names"
-permalink: /it-operations-consultancy/infrastructure-management-services/managed-domain-names
+permalink: /it-operations-consultancy/it-infrastructure-management-services/managed-domain-names
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

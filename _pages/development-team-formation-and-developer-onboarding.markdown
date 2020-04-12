@@ -7,6 +7,8 @@ excerpt: "Learn how Keep-Alive I.T Services can develop business strategies to m
 header:
   overlay_image: /assets/images/development-team.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#ea5114"
+
 ---
 
 VirtualBox, Git, and Vagrant

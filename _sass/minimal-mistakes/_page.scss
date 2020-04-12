@@ -2,6 +2,15 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+.wrapper {
+  padding-left: 1em;
+  padding-right: 1em;
+
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+}
+
 #main {
   @include clearfix;
   margin-left: auto;
@@ -174,7 +183,6 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
     background-size: cover;
@@ -187,15 +195,6 @@ body {
 
     a {
       color: #fff;
-    }
-
-    .wrapper {
-      padding-left: 1em;
-      padding-right: 1em;
-
-      @include breakpoint($x-large) {
-        max-width: $x-large;
-      }
     }
 
     .page__title,

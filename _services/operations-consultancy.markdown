@@ -109,7 +109,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>INFRASTRCTURE MANAGEMENT SERVICES</h3>
             <p>Firewalls, DNS, Email, Infrastructure Monitoring, Backup solutions</p>
-            <p><a href="/it-operations-consultancy/infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="/it-operations-consultancy/it-infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
