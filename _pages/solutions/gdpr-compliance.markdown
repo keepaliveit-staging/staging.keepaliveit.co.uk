@@ -9,6 +9,8 @@ excerpt: "Are your I.T systems GDPR Compliant? GDPR came into practise on May 25
 header:
   overlay_image: /assets/images/gdpr.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

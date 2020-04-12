@@ -10,6 +10,8 @@ any job positions that you (or a friend) may be interested in applying for."
 header:
   overlay_image: /assets/images/job.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

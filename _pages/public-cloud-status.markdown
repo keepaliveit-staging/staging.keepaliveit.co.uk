@@ -9,6 +9,8 @@ excerpt: "Links to Status Pages of Popular Public Cloud Provider's for your conv
 header:
   overlay_image: /assets/images/cloud.jpg
   overlay_filter: 0.54
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 {% include breadcrumbs.html %}

@@ -9,6 +9,8 @@ excerpt: "Learn how we collect, handle, use, and look after your data."
 header:
   overlay_image: /assets/images/privacy.jpg
   overlay_filter: 0.54
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 {% include breadcrumbs.html %}

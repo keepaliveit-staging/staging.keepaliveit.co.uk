@@ -9,6 +9,8 @@ excerpt: "Are you having issues with I.T at home? Explore our Consumer I.T Solut
 header:
   overlay_image: /assets/images/consumer.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

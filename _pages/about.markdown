@@ -9,6 +9,8 @@ excerpt: "We're a universal I.T Consultancy Company who takes pride in our work.
 header:
   overlay_image: /assets/images/about.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

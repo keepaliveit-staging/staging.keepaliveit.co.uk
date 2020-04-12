@@ -7,6 +7,8 @@ excerpt: "Efficient I.T reduces costs"
 header:
   overlay_image: /assets/images/benefit/cost.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#aa0000"
+
   
 icon: /assets/images/icons/wallet.png
 benefits:

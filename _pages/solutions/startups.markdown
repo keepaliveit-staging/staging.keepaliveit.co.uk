@@ -9,6 +9,8 @@ excerpt: "Whether you're thinking of running a Startup Business, or you already 
 header:
   overlay_image: /assets/images/startups.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

@@ -8,7 +8,8 @@ excerpt: "Need to know your IP Address? You're at the right place."
 header:
   overlay_image: /assets/images/earth.jpg
   overlay_filter: 0.5 
-  
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 {% include breadcrumbs.html %}

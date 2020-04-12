@@ -9,6 +9,8 @@ excerpt: "Are you looking to achieve Cyber Essentials I.T Compliance for your Bu
 header:
   overlay_image: /assets/images/cyber.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

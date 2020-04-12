@@ -7,6 +7,8 @@ excerpt: "Effective I.T brings a range of benefits to the table for Homes and Wo
 header:
   overlay_image: /assets/images/benefit/overview.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 {% include breadcrumbs.html %}

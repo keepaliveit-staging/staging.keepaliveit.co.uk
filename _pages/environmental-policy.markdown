@@ -9,6 +9,8 @@ excerpt: "Keep-Alive I.T cares about the impact our business has on the environm
 header:
   overlay_image: /assets/images/environment.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+  
 ---
 
 

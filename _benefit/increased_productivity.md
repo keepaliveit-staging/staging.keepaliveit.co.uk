@@ -7,6 +7,8 @@ excerpt: "Increased employee productivity at the workplace"
 header:
   overlay_image: /assets/images/benefit/productivity.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#aa0000"
+
   
 icon: /assets/images/icons/productivity.png
 benefits:

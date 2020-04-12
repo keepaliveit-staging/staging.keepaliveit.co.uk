@@ -9,6 +9,8 @@ excerpt: "Private Sector I.T Solutions"
 header:
   overlay_image: /assets/images/mall.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 {% include breadcrumbs.html %}

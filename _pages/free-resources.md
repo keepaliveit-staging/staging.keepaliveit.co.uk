@@ -11,6 +11,8 @@ excerpt: "Free I.T resources to give you a helping hand with your next I.T proje
 header:
   overlay_image: /assets/images/help.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#aa0000"
+
   
 feature_row:
   - image_path: /assets/images/website-consultation.png

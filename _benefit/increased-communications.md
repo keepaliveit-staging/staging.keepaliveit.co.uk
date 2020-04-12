@@ -6,7 +6,9 @@ permalink: /benefits-of-effective-it/increased-communications
 excerpt: "Efficient I.T improves communication"
 header:
   overlay_image: /assets/images/benefit/communication.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.5
+  page_lead_text_colour: "#aa0000"
+ 
   
 icon: /assets/images/icons/communication.png
 benefits:

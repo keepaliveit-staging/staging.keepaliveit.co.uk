@@ -7,6 +7,8 @@ excerpt: "Efficient I.T improves business governance. Discover how this could be
 header:
   overlay_image: /assets/images/benefit/governance.jpg
   overlay_filter: 0.5 
+  page_lead_text_colour: "#aa0000"
+
 
 icon: /assets/images/icons/governance.png
 benefits:
