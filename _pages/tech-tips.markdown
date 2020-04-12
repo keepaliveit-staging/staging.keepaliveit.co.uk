@@ -10,7 +10,6 @@ header:
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
 
-  
 pagination:
   collection: techtip
   enabled: true

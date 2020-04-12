@@ -9,6 +9,8 @@ excerpt: "I.T Solutions"
 header:
   overlay_image: /assets/images/solutions.jpg
   overlay_filter: 0.55
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 

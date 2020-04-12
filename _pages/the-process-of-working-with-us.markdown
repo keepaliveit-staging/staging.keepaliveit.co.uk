@@ -9,6 +9,8 @@ excerpt: "The process of working with us"
 header:
   overlay_image: /assets/images/process.jpg
   overlay_filter: 0.74
+  page_lead_text_colour: "#aa0000"
+
 ---
 
 
