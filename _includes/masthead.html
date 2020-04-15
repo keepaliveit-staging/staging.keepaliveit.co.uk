@@ -203,13 +203,7 @@
                     </li>
                 </ul>
 
-                <ul>
-                    <li>
-                        <button class="greedy-nav__toggle menu-btn" type="button">
-                            <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-                            <div class="navicon"></div>
-                        </button>
-                    </li>
+                <ul class="exo-menu-2">
                     <li>
                         {% if site.search == true %}
                         <button class="search__toggle" type="button">
@@ -221,6 +215,12 @@
                             </svg>
                         </button>
                         {% endif %}
+                    </li>
+                    <li>
+                        <button class="greedy-nav__toggle menu-btn" type="button">
+                            <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
+                            <div class="navicon"></div>
+                        </button>
                     </li>
                 </ul>
             </nav>

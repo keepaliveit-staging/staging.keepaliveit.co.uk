@@ -387,6 +387,7 @@ body:hover .visually-hidden button {
 
 .greedy-nav__toggle{
   margin-right: 1em;
+  outline: none !important;
 }
 .greedy-nav__toggle:hover {
   .navicon,
