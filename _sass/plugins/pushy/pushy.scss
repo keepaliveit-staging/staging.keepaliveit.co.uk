@@ -11,7 +11,7 @@ $menu_width: 100vw !default;
     position: fixed;
     width: $menu_width;
     height: 100%;
-    top: 150px;
+    top: $header-height;
     z-index: 9999;
     background: #191918;
     overflow: auto;

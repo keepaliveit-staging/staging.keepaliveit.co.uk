@@ -11,7 +11,6 @@ header:
 
 {% include breadcrumbs.html %}
 
-
 Having well-versed and knowledgable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.
 
 Source:

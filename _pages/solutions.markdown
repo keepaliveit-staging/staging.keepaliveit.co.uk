@@ -17,3 +17,7 @@ header:
 {% include breadcrumbs.html %}
 
 ## Solutions
+
+{% for item in site.solutions %}
+  {{ item.title }}
+{% endfor %}

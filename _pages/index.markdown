@@ -71,7 +71,7 @@ excerpt: >
 	</div>
 </div>
 
-<section id="discover" style="background:#e0e0e0;">
+<section id="discover">
     <div class="row center-xs">
         <div class="col-xs-12 col-md-6">
             <h2>I.T Matters. At Home, in the Office, and all around the United Kingdom.</h2>
@@ -107,7 +107,7 @@ excerpt: >
 <section id="why-us" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="container">
         <div class="row">
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/contact.png"/>
                 <div class="item-title">Direct contact</div>
@@ -118,7 +118,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/feedback.png"/>
                 <div class="item-title">Customer focused</div>
@@ -129,7 +129,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/payment-day.png"/>
                 <div class="item-title">Monthly repayments</div>
@@ -139,7 +139,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/running.png"/>
                 <div class="item-title">Agile by nature</div>
@@ -150,7 +150,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/locked.png"/>
                 <div class="item-title">Secure & Confidential</div>
@@ -160,7 +160,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/sprout.png"/>
                 <div class="item-title">Passionate About Technology</div>
@@ -171,7 +171,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/clock.png"/>
                 <div class="item-title">Around the clock operation</div>
@@ -182,7 +182,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/toolbox.png"/>
                 <div class="item-title">Unbiased technical advice</div>
@@ -193,7 +193,7 @@ excerpt: >
                 </div>
             </div>
     
-            <div class="col-xs-6 col-sm-6 col-md-4 reason-container">
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
                 <div class="reason-item">
                 <img class="lazy" data-src="assets/images/benefits/pound.png"/>
                 <div class="item-title">Early Invoice payment Incentive</div>
@@ -209,6 +209,6 @@ excerpt: >
 
 <div class="row">
     <div class="col-xs-12">
-        <img src="/assets/images/homepage/reviews-banner.png" class="img-fluid">
+        <img src="/assets/images/homepage/reviews-banner.png" class="img-fluid service-reviews-banner">
     </div>
 </div>

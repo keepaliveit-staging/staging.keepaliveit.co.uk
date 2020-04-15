@@ -184,7 +184,6 @@
   }
 }
 
-
 /* Landing page */
 .landing {
   .or-separator {
@@ -223,7 +222,7 @@
 
 }
 
-/* Business solutions page css */
+/* Business _solutions page css */
 .business_solutions {
   #metrics {
     text-align: center;
@@ -297,6 +296,7 @@
 .reason-container {
   margin-top: 20px;
   margin-bottom: 20px;
+  background: #ffffff;
 
   .reason-item {
     padding: 20px;
@@ -390,13 +390,17 @@
   }
 }
 
-#discover h2 {
-  margin-top: 0px !important;
-  padding: 20px !important;
-}
+#discover {
+  background:#e0e0e0;
 
-#discover h3 {
-  margin-top: 0px !important;
+  h2 {
+    margin-top: 0px !important;
+    padding: 20px !important;
+  }
+
+  h3 {
+    margin-top: 0px !important;
+  }
 }
 
 .pulse {
@@ -595,7 +599,6 @@
     color: #ffffff;
     margin-top: 2em;
 
-
     span {
       background: #000;
     }
@@ -647,8 +650,8 @@
 
   a {
 
-    text-decoration:  none !important;
-    
+    text-decoration: none !important;
+
     &:hover {
       text-decoration: none !important;
     }
@@ -861,7 +864,6 @@ ul.exo-menu {
   ul {
     list-style-type: none;
     margin-top: 0;
-    padding-left: 15px;
   }
 
   ul.drop-down-ul {
@@ -1026,6 +1028,10 @@ li.drop-down > ul > li > a,
     padding-bottom: 13px;
     text-transform: uppercase;
     border-bottom: 1px solid #ccc;
+  }
+
+  h4.row.mega-title:first-child {
+    margin-left: -15px;
   }
 
   h4.row.mega-title:last-child {
@@ -1323,13 +1329,6 @@ Cookie notice
   visibility: hidden;
 }
 
-
-
-
-
-
-
-
 .clip-block {
   text-align: center;
 }
@@ -1349,4 +1348,21 @@ Cookie notice
 .clip-css-diamond {
   -webkit-clip-path: polygon(0 100%, 0 0, 100% 0, 80% 100%);
   clip-path: polygon(0 100%, 0 0, 100% 0, 80% 100%);
+}
+
+.body-overlay {
+  display: none;
+  position: fixed;
+  top: 100px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 19;
+  background-color: rgba(0, 0, 0, 0.8);
+  -webkit-animation: fade 500ms;
+  animation: fade 500ms;
+}
+
+.service-reviews-banner {
+  background: #e0e0e0;
 }

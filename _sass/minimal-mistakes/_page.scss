@@ -44,6 +44,10 @@ body {
   flex: 1 0 auto;
 }
 
+.initial-content {
+  margin-top: $header-height;
+}
+
 .page {
   @include breakpoint($large) {
     float: right;

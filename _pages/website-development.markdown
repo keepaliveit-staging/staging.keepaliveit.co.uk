@@ -7,7 +7,7 @@ excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software 
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4a7237"
 ---
 
 {% include breadcrumbs.html %}

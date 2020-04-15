@@ -5,10 +5,11 @@
 $header-height: 100px;
 
 .masthead {
-  position: relative;
   z-index: 20;
   background: #292929;
   height: $header-height;
+  position:fixed;
+  width: 100%;
 
   .masthead__brand {
     min-width: 60%;

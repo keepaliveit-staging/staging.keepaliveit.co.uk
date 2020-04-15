@@ -235,7 +235,7 @@ collections:
     permalink: /benefits-of-effective-it/:path/
   solutions:
     output: true
-    permalink: /it-solutions/:path/
+    permalink: /it-_solutions/:path/
   services:
     output: true
     permalink: /:collection/:path/
