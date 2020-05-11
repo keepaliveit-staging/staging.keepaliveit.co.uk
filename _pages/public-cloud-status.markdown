@@ -35,4 +35,7 @@ Unfortunately, issues by third party Public Cloud Providers are out of our contr
     <li>
         <a href="https://status.digitalocean.com/" target="_blank">DigitalOcean Status Page</a>
     </li>
+    <li>
+        <a href="https://ocistatus.oraclecloud.com/" target="_blank">Oracle Cloud Infrastructure Status Page</a>
+    </li>
 </ul>

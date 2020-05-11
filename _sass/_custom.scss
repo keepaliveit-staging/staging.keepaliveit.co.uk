@@ -851,7 +851,7 @@ $color-primary-border: #e5ebc3;
 }
 
 ul.exo-menu-2 {
-  display:none;
+  display: none;
 }
 
 ul.exo-menu {
@@ -1002,7 +1002,8 @@ li.drop-down > ul > li > a,
 }
 
 .flyout-right ul > li:last-child > a,
-.flyout-left ul > li:last-child > a {
+.flyout-left ul > li:last-child > a,
+.flyout-right:last-child > a:first-child {
   border-bottom: none !important;
 }
 
@@ -1281,8 +1282,8 @@ li.flyout-mega > a:hover + .flyout-mega-wrap {
       border-right: 1px #495056 dotted;
     }
 
-    li:last-child{
-      border-right:none;
+    li:last-child {
+      border-right: none;
     }
   }
 

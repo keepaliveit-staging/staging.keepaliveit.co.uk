@@ -38,6 +38,7 @@ header:
 <img class="lazy img-respnsive" data-src="/assets/images/cloud/google-cloud-logo.png"/>
 <img class="lazy img-respnsive" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
 <img class="lazy img-respnsive" data-src="/assets/images/cloud/linode-logo.jpg"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/oci-logo.png"/>
 
 
 ## Cloud Elasticity

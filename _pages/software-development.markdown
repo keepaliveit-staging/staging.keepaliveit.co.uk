@@ -33,7 +33,83 @@ Script creation
     <img src="/assets/images/software-development/powershell.png" class="clip-css-diamond">
 </div>
 
-### Cost of our Software Development services
+Version Control Systems
+
+Package Management Systems
+
+## Why rely on our technical expertise to complete your software development tasks?
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="/assets/images/software-development/code.png"/>
+                <div class="item-title">Good Code Quality</div>
+                <div class="item-description">We understand custom written software can become a nightmare to maintain
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="/assets/images/software-development/runtime.png"/>
+                <div class="item-title">Efficient Runtimes</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <div class="item-title">CI/CD Pipeline Integrations</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
+            </div>
+        </div>            
+    </div>
+</div>
+
+## Why Us?
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <div class="item-title">Direct contact</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <div class="item-title">Direct contact</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <div class="item-title">Direct contact</div>
+                <div class="item-description">One of our agents will be your dedicated contact throughout the
+                    duration of our time working together, which means no jumping between multiple contacts at
+                    Keep-Alive I.T and more of a personal relationship with your agent.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+
+## How much do our Software Development Services cost?
+Our Software Development Services are chargeable by the hour
 
 
 {% include industry-consultation.md %}

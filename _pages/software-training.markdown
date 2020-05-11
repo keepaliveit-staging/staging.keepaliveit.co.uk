@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Training Services"
+title: "I.T Software Training Services"
 permalink: /software-consultancy/software-training-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."
@@ -13,6 +13,8 @@ header:
 
 {% include breadcrumbs.html %}
 
+## I.T Software Training Solutions
+Having well trained employees makes the workplace a far better place to work overall. 
 
 Having well-versed and knowledgeable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.
 
@@ -22,11 +24,30 @@ Having well-versed and knowledgeable staff is a key element of ensuring work get
     </div>
 </div>
 
+
+## Types of training solutions that we offer
+
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="/assets/images/software-training/one-on-one.jpg" />
+                <div class="item-title">One on one training</div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="/assets/images/software-training/group.jpg" />
+                <div class="item-title">Group training</div>
+            </div>
+        </div>           
+    </div>
+</div>
+
+
 Source:
 https://bdaily.co.uk/articles/2012/09/09/5-benefits-of-a-well-trained-workforce
 
-## Software Training Solutions
-Having well trained employees makes the workplace a far better place to work overall. 
 
 According to Bdaily, there are 5 principles which make a difference for business performance.
 
@@ -51,7 +72,7 @@ Continual training enc
     <li>Should I consider a commercial or open source implementation?</li>
 </ul>
 
-### Cost of our Software Training services
-Prices start at £1000 per delivery day plus seat costs. Please enquire for more information.
+## Cost of our Software Training services
+<span style="color:red;">Prices start at £1000 per delivery day plus seat costs.</span> Please enquire for more information.
 
 {% include industry-consultation.md %}
