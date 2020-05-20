@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Software Development Services"
-permalink: /software-consultancy/software-development-services
+permalink: /software-products-and-services/software-development-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
@@ -60,7 +60,7 @@ Package Management Systems
         </div>
         <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
             <div class="reason-item">
-                <img class="lazy" data-src="assets/images/benefits/contact.png"/>
+                <img class="lazy" data-src="/assets/images/software-development/pipeline.png"/>
                 <div class="item-title">CI/CD Pipeline Integrations</div>
                 <div class="item-description">One of our agents will be your dedicated contact throughout the
                     duration of our time working together, which means no jumping between multiple contacts at

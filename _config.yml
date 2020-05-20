@@ -24,6 +24,7 @@ whitelist:
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+debugMode                : false
 locale                   : "en-GB"
 title                    : "Keep-Alive I.T"
 title_separator          : "-"

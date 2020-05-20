@@ -55,10 +55,11 @@ $(document).ready(function () {
 
     // Smooth scrolling
     var scroll = new SmoothScroll('a[href*="#"]', {
-        offset: 20,
+        offset: 120,
         speed: 400,
         speedAsDuration: true,
-        durationMax: 500
+        durationMax: 500,
+        updateURL: false
     });
 
     // Gumshoe scroll spy init

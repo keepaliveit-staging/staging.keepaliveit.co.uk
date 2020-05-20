@@ -1,38 +1,48 @@
 # main links
 main:
   - item:
-    title: "I.T Services"
+    title: "Our I.T Services"
     url: "#"
     subitems:
     - item:
-      title: "Software Consultancy Services"
+      title: "Hardware related Products & Services"
+      url: /hardware-products-and-services
+      subitems:
+        - item:
+          title: "Hardware Procurement"
+          url: /hardware-products-and-services/hardware-procurement
+        - item:
+          title: "Hardware Setup"
+          url: /hardware-products-and-services/hardware-setup
+        - item:
+          title: "I.T Hardware Support"
+          url: /hardware-products-and-services/it-hardware-support
+    - item:
+      title: "Software related Products & Services"
       url: /software-consultancy
       subitems:
         - item:
           title: "Software Training"
-          url: /software-consultancy/software-training-services
+          url: /software-products-and-services/software-training
         - item:
-          title: "Software Procurement & Software Implementation"
-          url: /software-consultancy/software-procurement-services
+          title: "Software Procurement"
+          url: /software-products-and-services/software-procurement
+        - item:
+          title: "Software Setup"
+          url: /software-products-and-services/software-setup
         - item:
           title: "Software Development"
-          url: /software-consultancy/software-development-services
+          url: /software-products-and-services/software-development-services
         - item:
-          title: "Website Development"
-          url: /software-consultancy/website-development-services
-        - item:
-          title: "Software Development Team Formation & Developer On-boarding"
-          url: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
+          title: "I.T Software Support"
+          url: /software-products-and-services/it-support-services
     - item:
-      title: "I.T Operations Consultancy Services"
-      url: /it-operations-consultancy
+      title: "I.T Consultancy Services"
+      url: /it-consultancy-services
       subitems:
         - item:
-          title: "Hardware Procurement & Setup"
-          url: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
-        - item:
-          title: "I.T Support"
-          url: /it-operations-consultancy/it-support-services
+          title: "Software Development Team Formation & Developer On-boarding"
+          url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
         - item:
           title: "I.T Compliance & Security"
           url: /it-operations-consultancy/it-compliance-and-security-services
@@ -42,6 +52,29 @@ main:
         - item:
           title: "Cloud Services"
           url: /it-operations-consultancy/cloud-services
+    - item:
+      title: "Cloud Services"
+      url: /it-operations-consultancy
+      subitems:
+        - item:
+          title: "I.T Compliance & Security"
+          url: /it-operations-consultancy/it-compliance-and-security-services
+        - item:
+          title: "I.T Infrastructure Management"
+          url: /it-operations-consultancy/it-infrastructure-management-services
+        - item:
+          title: "Cloud Services"
+          url: /it-operations-consultancy/cloud-services
+    - item:
+      title: "Website Services"
+      url: /it-operations-consultancy
+      subitems:
+        - item:
+          title: "Website Development"
+          url: /it-operations-consultancy/it-compliance-and-security-services
+        - item:
+          title: "Website Maintenance"
+          url: /it-operations-consultancy/it-infrastructure-management-services
 
 mobile:
   - item:
@@ -57,12 +90,6 @@ mobile:
       - item:
         title: "Software Development"
         url: /software-consultancy/software-development-services
-      - item:
-        title: "Website Development"
-        url: /software-consultancy/website-development-services
-      - item:
-        title: "Software Development Team Formation & Developer On-boarding"
-        url: /software-consultancy/software-development-team-formation-and-developer-onboarding-services
   - item:
     title: "I.T Operations Consultancy Services"
     url: /it-operations-consultancy
@@ -79,15 +106,3 @@ mobile:
       - item:
         title: "I.T Infrastructure Management"
         url: /it-operations-consultancy/it-infrastructure-management-services
-      - item:
-        title: "Cloud Services"
-        url: /it-operations-consultancy/cloud-services
-
-
-
-#    title: "Business I.T Consultancy Topics"
-#    url: /it-consultation
-#  - item:
-#    title: "Consumer Tech Tips"
-#    url: /tech-tips/ # Pagination plugin makes this redirect
-

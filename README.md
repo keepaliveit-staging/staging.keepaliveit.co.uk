@@ -108,3 +108,6 @@ The megamenu supports adding regular links, dropdown menus, megamenus, images, a
 </li>
 ````
 
+## Carousel
+https://kenwheeler.github.io/slick/
+

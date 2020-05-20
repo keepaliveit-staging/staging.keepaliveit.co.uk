@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "I.T Software Training Services"
-permalink: /software-consultancy/software-training-services
+permalink: /software-products-and-services/software-training
 
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."
 header:
@@ -18,12 +18,7 @@ Having well trained employees makes the workplace a far better place to work ove
 
 Having well-versed and knowledgeable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.
 
-<div class="row">
-    <div class="col-xs-12">
-        <img src="/assets/images/software-training/software-training-ceo-message.png" class="img-fluid">
-    </div>
-</div>
-
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Types of training solutions that we offer
 
@@ -72,7 +67,13 @@ Continual training enc
     <li>Should I consider a commercial or open source implementation?</li>
 </ul>
 
-## Cost of our Software Training services
+<div class="divider div-transparent div-arrow-down"></div>
+
+## How much do our Software Training services cost?
 <span style="color:red;">Prices start at £1000 per delivery day plus seat costs.</span> Please enquire for more information.
 
-{% include industry-consultation.md %}
+<div class="row">
+    <div class="col-xs-12">
+        <img src="/assets/images/software-training/software-training-ceo-message.png" class="img-fluid">
+    </div>
+</div>

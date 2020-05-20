@@ -4,24 +4,24 @@ title: "Tailored I.T Development & Operations Solutions + I.T Support Services f
 permalink: /
 classes:
   - landing
+customStyleSheets:
+    - something.css
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/software-development.jpg
-  overlay_filter: 0.74 
-  actions:
-    - label: "Discover the Importance of Effective I.T Systems for Businesses & Consumers"
-      url: "#discover"
-  page_lead_text_colour: "#aa0000"
-excerpt: >
-  We're a Modern, UK based, Hardware & Software I.T Consultancy Company. We provide Agile I.T Development & Operations (DevOps) Solutions & I.T Support Services to Businesses, Consumers, and Non-Profit Organisations.
-  
+    video:
+        provider: hosted
+        url: assets/videos/homepage.mp4
+        header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> a Team of Highly skilled & qualified <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
+        header_body: "Showing people what I.T systems are capable of, developing high quality software, and running I.T infrastructure effectively is what we do."
 ---
 
 <h2>👋 Hello, thanks for stopping by at our website. This is what we do:</h2>
 
 <blockquote data-aos="fade-down" data-aos-once="true">
-  <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
+  <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field who work with technology every single day and is familiar with I.T best practises.</p>
 </blockquote>
+
+Our I.T services are split into two main categories; Development & Operations. Our Development and Operations services are complimented by an I.T support model and all of our solutions are built with Cyber Security resilience practises in mind. 
+Learn more about the structure of our services:
 
 <div class="container maxwidth">
 	<div class="ux-vertical-tabs">

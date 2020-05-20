@@ -54,7 +54,7 @@
 >
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
+      <h1 id="page-title" class="page__title" itemprop="headline" data-aos="fade-down" data-aos-once="true">
         <span style="background:#000000;">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
@@ -64,7 +64,7 @@
         </span>
       </h1>
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
-      <p class="page__lead">
+      <p class="page__lead" data-aos="fade-up" data-aos-once="true">
         <span style="background: {{ page.header.page_lead_text_colour | default: 'transparent' }};">
           {{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
         </span>

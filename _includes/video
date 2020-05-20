@@ -1,5 +1,8 @@
 {% capture video_id %}{{ include.id }}{% endcapture %}
 {% capture video_provider %}{{ include.provider }}{% endcapture %}
+{% capture video_url %}{{ include.url }}{% endcapture %}
+{% capture header_text %}{{ include.header_text }}{% endcapture %}
+{% capture header_body %}{{ include.header_body }}{% endcapture %}
 
 <!-- Courtesy of embedresponsively.com //-->
 <div class="responsive-video-container">
@@ -9,5 +12,22 @@
   <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "google-drive" %}
   <iframe src="https://drive.google.com/file/d/{{ video_id }}/preview" frameborder="0" allowfullscreen></iframe>
+{% elsif video_provider == "hosted" %}
+    <video autoplay loop muted playsinline src="{{ video_url }}" class="fillWidth"></video>
+    <div>
+        <div data-aos="fade-down" data-aos-once="true" style="position:absolute;top:100px; left:2%;max-width:96%;background:rgba(0,0,0,0.57);color:#e7e7e7;border-radius:30px;padding:12px;font-size:1.4em;text-align:center;">
+            {{ header_text }}
+        </div>
+
+        <div data-aos="fade-down" data-aos-once="true" data-aos-delay="500" style="position:absolute;top:220px; left:2%;max-width:96%;background:rgba(67,0,0,0.5);color:#e7e7e7;padding:9px;font-size:1.2em;border-radius:30px;padding:18px;text-align:center;">
+            {{ header_body }}
+        </div>
+
+        <div class="bounce-7" data-aos="fade-down" data-aos-once="true" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:400px;left:48%;border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;">
+            <a href="#main">
+                <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
+            </a>
+        </div>
+    </div>
 {% endif %}
 </div>

@@ -15,9 +15,11 @@
 {% include masthead.html %}
 
 <div class="initial-content">
+    {% if debugMode == true %}
     <div style="position: fixed; bottom:0; left 0;background: black;color:yellow;z-index:3;">
         Page path: {{page.path}}
     </div>
+    {% endif %}
     {{ content }}
 </div>
 

@@ -1,4 +1,7 @@
 {% capture video_id %}{{ page.header.video.id }}{% endcapture %}
 {% capture video_provider %}{{ page.header.video.provider }}{% endcapture %}
+{% capture video_url %}{{ page.header.video.url }}{% endcapture %}
+{% capture header_text %}{{ page.header.video.header_text }}{% endcapture %}
+{% capture header_body %}{{ page.header.video.header_body }}{% endcapture %}
 
-{% include video id=video_id provider=video_provider %}
+{% include video id=video_id provider=video_provider url=video_url header_text=header_text header_body=header_body %}
