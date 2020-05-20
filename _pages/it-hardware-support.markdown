@@ -55,4 +55,7 @@ Actual onsite support from the 2nd line is not always the case. Sometimes it is 
 
 When these personnel appear you know you’ve got a problem These are usually more qualified individuals, such as Microsoft Certified in the case of MS Windows Server issues.
 
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
 {% include industry-consultation.md %}

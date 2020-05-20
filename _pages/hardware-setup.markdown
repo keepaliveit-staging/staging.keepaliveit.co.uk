@@ -36,6 +36,10 @@ Including drivers setup
 
 - Servers
 
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+
 ### Cost of our Hardware procurement service
 
 

@@ -7,7 +7,7 @@
 <header class="masthead">
     <div class="masthead__inner-wrap">
         <div class="masthead__menu">
-            <nav class="site-nav greedy-nav">
+            <nav class="site-nav greedy-nav" role="navigation">
                 <div class="masthead__brand">
                     {% unless logo_path == empty %}
                     <a class="site-logo-link" href="{{ '/' | relative_url }}">
@@ -25,7 +25,7 @@
                     {%- assign url = link.item.url | relative_url -%}
                     {%- endif -%}
                     {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
-                    <li class="drop-down {% if (page.url == url) or (url_no_home == url) %}active{% endif %}">
+                    <li class="drop-down {% if (page.url == url) or (url_no_home == url) %}active{% endif %}" aria-haspopup="true">
                         <a href="{{ link.url }}" {% if link.description %}title="{{ link.description }}" {%
                            endif %}>
                             <span class="menu-item">
@@ -33,7 +33,7 @@
                                 ▾
                             </span>
                         </a>
-                        <ul class="drop-down-ul ">
+                        <ul class="drop-down-ul">
                             {%- for submenu1 in link.subitems -%}
                             <li class="flyout-right">
                                 <a href="{{ submenu1.url }}">
@@ -167,14 +167,16 @@
                                 Company News ▾
                             </span>
                         </a>
-                        <div class="Blog">
+                        <div class="blog-menu">
                             <div class="container">
                                 <h4 class="row mega-title">Latest Company News</h4>
                                 <div class="row">
                                     {% for post in site.posts limit:4 %}
                                     <div class="col-sm-3">
-                                        <img class="img-fluid lazy"
-                                             data-src="{{ post.thumbnail }}">
+                                        <div class="blog-thumbnail-image">
+                                            <img class="img-fluid lazy"
+                                                 data-src="{{ post.thumbnail }}">
+                                        </div>
                                         <h4 class="blog-title">{{ post.title }}</h4>
                                         <p class="blog-description">{{ post.excerpt | strip_html }}</p>
                                         <a class="view-more btn- btn-sm" href="{{ post.url }}">

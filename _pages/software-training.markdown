@@ -69,6 +69,9 @@ Continual training enc
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
 ## How much do our Software Training services cost?
 <span style="color:red;">Prices start at £1000 per delivery day plus seat costs.</span> Please enquire for more information.
 

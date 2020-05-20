@@ -98,7 +98,10 @@ We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware
 ## CMS implementation
 Managing information effectively is crucial to maintaining quality standards on I.T systems. We can assist with Content Management systems, including Wordpress.
 
-### Cost of our Software Procurement services
 
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+### Cost of our Software Procurement services
 
 {% include industry-consultation.md %}

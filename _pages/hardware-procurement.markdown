@@ -43,7 +43,11 @@ Including drivers setup
 
 Many enterprises have on-premise equipment that they host on-site to keep data contained. We are able to assist with helping you make informed decisions to purchase sufficient hardware to maintain your I.T workloads.
 
-### Cost of our Hardware procurement service
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+
+## Cost of our Hardware procurement service
 
 
 We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services for your business software needs.

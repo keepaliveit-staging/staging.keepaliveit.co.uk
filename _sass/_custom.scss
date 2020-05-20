@@ -647,19 +647,19 @@
   bottom: 0;
   background: #292929;
   padding: 0.5em;
-  box-shadow: rgba(0,0,0,0.086) 0px 1px 8px 0px, rgba(0,0,0,0.1) 0px 8px 24px 0px;
+  box-shadow: rgba(0, 0, 0, 0.086) 0px 1px 8px 0px, rgba(0, 0, 0, 0.1) 0px 8px 24px 0px;
   border-radius: .42em;
 
   a {
-
+    margin-right: 10px;
     text-decoration: none !important;
 
     &:hover {
       text-decoration: none !important;
     }
 
-    &:first-child {
-      margin-right: 10px;
+    &:last-child {
+      margin-right: 0px;
     }
 
     i {
@@ -870,7 +870,7 @@ ul.exo-menu {
 
   height: 100px;
 
-  .drop-down-submenu{
+  .drop-down-submenu {
     width: 250px;
   }
 
@@ -954,7 +954,12 @@ ul.exo-menu {
 
 .exo-menu > li > a.active,
 .exo-menu > li > a:hover,
-li.drop-down ul > li > a:hover {
+li.drop-down ul > li > a:hover,
+li.drop-down ul > li > a.active,
+li.mega-drop-down > a:hover,
+li.mega-drop-down > a.active,
+li.blog-drop-down > a:hover,
+li.blog-drop-down > a.active {
   background: #009FE1;
   color: #fff;
 }
@@ -1031,7 +1036,7 @@ li.drop-down > ul > li > a,
 
 }
 
-.Blog, .mega-menu {
+.blog-menu, .mega-menu {
 
   line-height: 30px;
 
@@ -1095,7 +1100,7 @@ li.drop-down > ul > li > a,
   }
 }
 
-.mega-menu, .Blog {
+.mega-menu, .blog-menu {
 
   .container {
     @include breakpoint($x-large) {
@@ -1171,14 +1176,24 @@ ul.icon-des li {
 }
 
 /*Blog DropDown*/
-.Blog {
-  padding: 0 20px 20px;
+.blog-menu {
+  padding: 0 10px 20px;
   left: 0;
   display: none;
   color: #fefefe;
   background: #547787;
   width: 100vw;
   position: fixed;
+
+  .blog-thumbnail-image {
+    height: 180px;
+    max-height: 180px;
+
+    img {
+      height: 180px;
+      object-fit: cover;
+    }
+  }
 
   .blog-title {
     color: #fff;
@@ -1223,7 +1238,7 @@ ul.icon-des li {
 }
 
 /*hover*/
-.Blog:hover,
+.blog-menu:hover,
 .Images:hover,
 .mega-menu:hover,
 .drop-down-ul:hover,
@@ -1232,7 +1247,7 @@ li.flyout-right > ul:hover,
 .flyout-mega-wrap:hover,
 li.flyout-left a:hover + ul,
 li.flyout-right a:hover + ul,
-.blog-drop-down > a:hover + .Blog,
+.blog-drop-down > a:hover + .blog-menu,
 li.drop-down > a:hover + .drop-down-ul,
 .images-drop-down > a:hover + .Images,
 .mega-drop-down a:hover + .mega-menu,
@@ -1405,7 +1420,6 @@ Cookie notice
   background: #e0e0e0;
 }
 
-
 .carousel {
   margin: 0 auto;
   padding: 0 70px;
@@ -1431,25 +1445,30 @@ Cookie notice
     bottom: -20px;
   }
 }
+
 .carousel .item {
   color: #999;
   overflow: hidden;
   min-height: 120px;
   font-size: 13px;
 }
+
 .carousel .media {
   position: relative;
   padding: 0 0 0 20px;
 }
+
 .carousel .media img {
   width: 75px;
   height: 75px;
   display: block;
   border-radius: 50%;
 }
+
 .carousel .testimonial-wrapper {
   padding: 0 10px;
 }
+
 .carousel .testimonial {
   color: #808080;
   position: relative;
@@ -1459,6 +1478,7 @@ Cookie notice
   border-radius: 3px;
   margin-bottom: 15px;
 }
+
 .carousel .testimonial::after {
   content: "";
   width: 15px;
@@ -1472,55 +1492,78 @@ Cookie notice
   left: 46px;
   transform: rotateZ(-46deg);
 }
+
 .carousel .star-rating li {
   padding: 0 2px;
 }
+
 .carousel .star-rating i {
   font-size: 16px;
   color: #ffdc12;
 }
+
 .carousel .overview {
   padding: 3px 0 0 15px;
 }
+
 .carousel .overview .details {
   padding: 5px 0 8px;
 }
+
 .carousel .overview b {
   text-transform: uppercase;
   color: #1abc9c;
 }
+
 .carousel .carousel-indicators {
   bottom: -70px;
   text-align: center;
 }
+
 .carousel-indicators li, .carousel-indicators li.active {
   width: 18px;
   height: 18px;
   border-radius: 50%;
   margin: 1px 2px;
 }
+
 .carousel-indicators li {
   background: #e2e2e2;
   border: 4px solid #fff;
   display: inline-block;
 }
+
 .carousel-indicators li.active {
   color: #fff;
   background: #1abc9c;
   border: 5px double;
 }
 
-
 .bounce-7 {
   animation-name: bounce-7;
   animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
 }
+
 @keyframes bounce-7 {
-  0%   { transform: scale(1,1)      translateY(0); }
-  10%  { transform: scale(1.1,.9)   translateY(0); }
-  30%  { transform: scale(.9,1.1)   translateY(-30px); }
-  50%  { transform: scale(1.05,.95) translateY(0); }
-  57%  { transform: scale(1,1)      translateY(-3px); }
-  64%  { transform: scale(1,1)      translateY(0); }
-  100% { transform: scale(1,1)      translateY(0); }
+  0% {
+    transform: scale(1, 1) translateY(0);
+  }
+  10% {
+    transform: scale(1.1, .9) translateY(0);
+  }
+  30% {
+    transform: scale(.9, 1.1) translateY(-30px);
+  }
+  50% {
+    transform: scale(1.05, .95) translateY(0);
+  }
+  57% {
+    transform: scale(1, 1) translateY(-3px);
+  }
+  64% {
+    transform: scale(1, 1) translateY(0);
+  }
+  100% {
+    transform: scale(1, 1) translateY(0);
+  }
 }
