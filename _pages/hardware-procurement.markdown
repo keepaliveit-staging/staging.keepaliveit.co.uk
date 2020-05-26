@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hardware Procurement"
+title: "Enterprise and Small Business Hardware Procurement"
 permalink: /hardware-products-and-services/hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
@@ -13,6 +13,10 @@ header:
 {% include breadcrumbs.html %}
 
 ## Hardware procurement
+
+CapEx vs. Opex
+Capital Expenditure, Operational Expenditure
+
 Having the right tools to do the right job is 
 
 > "I need my team equipped with the right technology to get their job done"

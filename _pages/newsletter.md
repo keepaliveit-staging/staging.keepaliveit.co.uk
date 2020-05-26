@@ -3,7 +3,7 @@ permalink: /newsletter/
 layout: home
 author_profile: false
 classes:
-  - christmas-2019
+  - newsletter
 ---
 
 <!-- Begin Sendinblue Form -->

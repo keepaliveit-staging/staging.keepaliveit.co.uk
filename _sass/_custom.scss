@@ -871,7 +871,7 @@ ul.exo-menu {
   height: 100px;
 
   .drop-down-submenu {
-    width: 250px;
+    width: 300px;
   }
 
   ul {
@@ -973,8 +973,7 @@ li.drop-down,
 
 li.drop-down > ul {
   left: 0;
-  min-width: 230px;
-
+  width: 300px;
 }
 
 .drop-down-ul {

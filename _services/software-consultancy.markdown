@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Software & Software Development Consultancy Services for Businesses"
-permalink: /software-consultancy
+permalink: /software-products-and-services
 classes:
   - software-consultancy
 excerpt: "Learn how Keep-Alive I.T's expert backed I.T Software services can help make critical I.T Software decisions for your workplace. Whatever your desired I.T Software requirements comprise of, you can always count on us to keep your Business's I.T Operational & Compliant - whilst receiving excellent customer service before, during, and after our time working together."

@@ -159,3 +159,6 @@ Save x on a weekly 2125
 
 7995
 Save 925 on a monthly 8925
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}

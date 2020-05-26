@@ -38,6 +38,7 @@
                             <li class="flyout-right">
                                 <a href="{{ submenu1.url }}">
                                     <span>
+                                        {{ submenu1.icon }}
                                         {{ submenu1.title }}
                                         {% if submenu1.subitems %}
                                         ▸
@@ -49,6 +50,7 @@
                                     <li class="drop-down-submenu">
                                         <a href="{{ submenu2.url }}">
                                             <span>
+                                                {{ submenu2.icon }}
                                                 {{ submenu2.title }}
                                                 {% if submenu2.subitems %}
                                                 ▸
@@ -181,7 +183,7 @@
                                         <p class="blog-description">{{ post.excerpt | strip_html }}</p>
                                         <a class="view-more btn- btn-sm" href="{{ post.url }}">
                                             <i class="fas fa-arrow-circle-right"></i>
-                                            Read More
+                                            Read Post
                                         </a>
                                     </div>
                                     {% endfor %}

@@ -163,8 +163,7 @@ $(document).ready(function () {
                 $("#ip-address-result").html(result.ip);
             });
     }
-
-
+    
     if (window.location.pathname === '/') {
         if ($('.ux-vertical-tabs').length > 0) {
             $('.ux-vertical-tabs .tabs button').on("click", function () {

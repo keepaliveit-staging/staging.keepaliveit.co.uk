@@ -86,5 +86,7 @@ We complete all training on our own back, leaving you with no worries or chasing
 ## Our Guarantee
 We'll give you a time estimate for the work that needs completing. If the task to be completed requires more time, we'll notify you ahead of time about this.
 
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
 
 {% include industry-consultation.md %}

@@ -249,7 +249,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  cloud-services:
+      output: true
+      permalink: /:collection/:path/
 
 # Defaults
 defaults:

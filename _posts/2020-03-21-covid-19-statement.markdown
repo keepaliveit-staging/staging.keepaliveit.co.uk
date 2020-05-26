@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "Covid-19 Statement."
+title:  "Covid-19 Statement for Keep-Alive I.T Ltd."
 date:   2020-03-21 17:29:11 +0000
 categories: news
 author_profile: true
 thumbnail: /assets/images/posts/thumbnail/covid19.jpg
-excerpt: Covid-19 update.
+excerpt: An update regarding the operation of Keep-Alive I.T during the Coronavirus pandemic.
 ---
 
 ## Covid-19 Statement and company changes

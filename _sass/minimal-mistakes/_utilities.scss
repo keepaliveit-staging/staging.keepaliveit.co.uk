@@ -562,6 +562,17 @@ a.reversefootnote {
   }
 }
 
+@media screen and (max-width: 768px) {
+  video {
+    display: none;
+  }
+
+  .responsive-video-container {
+    background: url('/assets/images/code.jpg');
+    background-size: cover;
+  }
+}
+
 // full screen video fixes
 :-webkit-full-screen-ancestor {
   .masthead,

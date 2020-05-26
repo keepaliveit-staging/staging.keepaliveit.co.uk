@@ -23,10 +23,13 @@
             {{ header_body }}
         </div>
 
-        <div class="bounce-7" data-aos="fade-down" data-aos-once="true" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:400px;left:48%;border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;">
+        <div data-aos="fade-down" class="bounce-7" data-aos-once="true" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:400px;left:48%;border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;">
             <a href="#main">
                 <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
             </a>
+        </div>
+        <div style="position:absolute;top:455px;left:45%;color:white;">
+            Find out more
         </div>
     </div>
 {% endif %}
