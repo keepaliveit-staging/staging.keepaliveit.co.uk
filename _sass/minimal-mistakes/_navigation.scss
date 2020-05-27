@@ -19,7 +19,7 @@
 
   border: 0.15em solid #6f777d;
   padding: 0 1em;
-  margin: 1em auto 1em;
+  margin: 0 auto 1em auto;
 
   @include breakpoint($x-large) {
     max-width: $x-large;

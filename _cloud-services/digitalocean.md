@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean"
+title: "DigitalOcean Cloud Consultancy Services"
 permalink: /cloud-services/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
@@ -19,7 +19,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## Efficient I.T improves productivity
+## DigitalOcean Cloud Consultancy Services
 
 
 A new way of working 

@@ -1,7 +1,9 @@
 {% capture video_id %}{{ page.header.video.id }}{% endcapture %}
 {% capture video_provider %}{{ page.header.video.provider }}{% endcapture %}
-{% capture video_url %}{{ page.header.video.url }}{% endcapture %}
+{% capture video_url_mp4 %}{{ page.header.video.url_mp4 }}{% endcapture %}
+{% capture video_url_webm %}{{ page.header.video.url_webm }}{% endcapture %}
+{% capture video_url_ogg %}{{ page.header.video.url_ogg }}{% endcapture %}
 {% capture header_text %}{{ page.header.video.header_text }}{% endcapture %}
 {% capture header_body %}{{ page.header.video.header_body }}{% endcapture %}
 
-{% include video id=video_id provider=video_provider url=video_url header_text=header_text header_body=header_body %}
+{% include video id=video_id provider=video_provider video_url_mp4=video_url_mp4 video_url_webm=video_url_webm video_url_ogg=video_url_ogg header_text=header_text header_body=header_body %}

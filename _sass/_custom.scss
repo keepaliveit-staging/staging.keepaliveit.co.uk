@@ -1,3 +1,7 @@
+$color-primary: #aa0000;
+$color-primary-light: #e5ebc3;
+$color-primary-border: #e5ebc3;
+
 .christmas-2019 {
   .fireplace-img {
     height: 140px;
@@ -592,15 +596,22 @@
 .footer-nav-links-container {
   background: #f2f3f3;
 
+  .wrapper-lines {
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
+  }
+
   h3 {
     text-transform: uppercase;
     font-size: 0.84em;
     margin-bottom: 20px;
-    color: #ffffff;
+    color: #000000;
     margin-top: 2em;
 
     span {
-      background: #000;
+      text-decoration-line: underline;
+      text-decoration-style: wavy;
+      text-decoration-color: $color-primary;
     }
   }
 
@@ -676,10 +687,6 @@
 #get-in-touch-container .minimised {
   color: red;
 }
-
-$color-primary: #aa0000;
-$color-primary-light: #e5ebc3;
-$color-primary-border: #e5ebc3;
 
 // Misc
 .container {
@@ -1566,3 +1573,26 @@ Cookie notice
     transform: scale(1, 1) translateY(0);
   }
 }
+
+.element-with-video-bg {
+  margin-left: auto;
+  margin-right: auto;
+
+  @include breakpoint($small) {
+    width: $small;
+  }
+
+  @include breakpoint($medium) {
+    width: $medium;
+  }
+
+  @include breakpoint($large) {
+    width: $large;
+  }
+
+  @include breakpoint($x-large) {
+    width: $x-large;
+  }
+}
+
+

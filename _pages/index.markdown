@@ -9,7 +9,9 @@ customStyleSheets:
 header:
     video:
         provider: hosted
-        url: assets/videos/homepage.mp4
+        url_mp4: assets/videos/homepage.mp4
+        url_webm: assets/videos/homepage.webm
+        url_ogg: assets/videos/homepage.ogg
         header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> a Team of Highly skilled & qualified <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
         header_body: "Showing people what I.T systems are capable of, developing high quality software, and running I.T infrastructure effectively is what we do."
 ---

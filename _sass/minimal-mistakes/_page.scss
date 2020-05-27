@@ -15,13 +15,15 @@
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
+  padding: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
+
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
 
   @include breakpoint($x-large) {
     max-width: $max-width;
@@ -215,6 +217,9 @@ body {
     animation: $intro-transition;
     -webkit-animation-delay: 0.25s;
     animation-delay: 0.25s;
+    max-width: $max-width;
+    margin-left: auto;
+    margin-right: auto;
 
     a {
       color: #fff;

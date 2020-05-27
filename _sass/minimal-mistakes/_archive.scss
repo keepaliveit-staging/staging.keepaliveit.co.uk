@@ -455,3 +455,12 @@
 		display: inline-block;
 	}
 }
+
+.layout--single{
+  .page__title {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #a00;
+    line-height: 1.8em;
+  }
+}

@@ -1,9 +1,9 @@
 ---
 layout: splash 
-title: "AWS (Amazon Web Services)"
+title: "AWS (Amazon Web Services) Cloud Consultancy Services"
 permalink: /cloud-services/amazon-web-services-aws
 
-excerpt: "Efficient I.T improves productivity"
+excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads."
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
@@ -19,7 +19,9 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## Efficient I.T improves productivity
+## AWS Cloud Consultancy Services
+
+Promotes Machine Learning, Compute, Storage, and Analytics.
 
 
 A new way of working 

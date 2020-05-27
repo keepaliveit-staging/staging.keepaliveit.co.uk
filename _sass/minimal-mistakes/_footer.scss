@@ -9,7 +9,6 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  margin-top: 1em;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -51,6 +50,17 @@
   font-family: $global-font-family;
   font-size: $type-size-7;
   background: #171717;
+  width: 100%;
+
+  .container-center-page {
+    @include breakpoint($x-large) {
+      max-width: $max-width;
+    }
+
+    margin-left: auto;
+    margin-right: auto;
+    width: $max-width;
+  }
 }
 
 .page__footer-follow {
