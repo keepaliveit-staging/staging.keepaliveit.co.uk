@@ -214,11 +214,13 @@ figure {
   align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
+  border: 1px solid lightgrey;
+  padding: 1em;
 
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: 20px;
   }
 
   img {
@@ -226,6 +228,12 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    opacity: 0.5;
+
+    &:hover {
+      opacity: 1;
+      cursor: pointer;
+    }
   }
 
   > a {

@@ -9,6 +9,7 @@ customStyleSheets:
 header:
     video:
         provider: hosted
+        poster: assets/videos/homepage-still.jpg
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
