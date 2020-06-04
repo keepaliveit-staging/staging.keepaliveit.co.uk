@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services"
+title: "Microsoft Azure Cloud Consultancy Services for Enterprise"
 permalink: /cloud-services/azure
 
 excerpt: "Efficient I.T improves productivity"
@@ -8,9 +8,11 @@ header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
-
+  min_height: 750px
+  image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
+  more_text: "Discover more about Azure's Cloud Platform and what our Azure consultancy services can do for your Enterprise:"
   
-icon: /assets/images/icons/flexible.png
+icon: /assets/images/cloud/aws-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."

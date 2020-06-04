@@ -8,6 +8,7 @@ excerpt: "Learn how Keep-Alive I.T's expert backed I.T Operations services can h
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
+    
 
 secondaryMenu:
   - title: "I.T Operations Solutions for Businesses"
@@ -153,7 +154,6 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
            Of course! We understand all software requires patching to ensure security is 
         </div>
     </li>
-
 </ul>
 
 <div class="divider div-transparent div-arrow-down"></div>

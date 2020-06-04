@@ -1,16 +1,19 @@
 ---
 layout: splash 
-title: "AWS (Amazon Web Services) Cloud Consultancy Services for Enterprise"
+title: "Amazon Web Services (AWS) Cloud Consultancy Services for Enterprise"
 permalink: /cloud-services/amazon-web-services-aws
 
-excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads."
+excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
-
+  min_height: 750px
+  image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
+  more_text: "Discover more about AWS's Cloud Platform and what our AWS consultancy services can do for your Enterprise:"
+  more_text_colour: "#ff9900"
   
-icon: /assets/images/icons/flexible.png
+icon: /assets/images/cloud/aws-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."
@@ -20,8 +23,10 @@ benefits:
 {% include breadcrumbs.html %}
 
 ## AWS Cloud Consultancy Services
+
+### Why lock your business into AWS?
 Amazon Web Services (AWS) offers a substantial amount of Cloud services that can be used to perform simple computation operations for hobbyist software developers, or running highly complex application workloads with an enterprise grade Service Level Agreement (SLA).
-The flexibility of using Amazon Web Services with projects has deemed it a good choice of Cloud provider due to its Capital Expenditure (CapEx) pricing model. 
+The flexibility of using Amazon Web Services with projects has deemed it a good choice of Cloud provider due to its Capital Expenditure (CapEx) pricing model. Taking the plunge to migrate application workloads to AWS is a decision that must be made with much thought but the exact answer for that decision depends on your current I.T setup and requirements.
 
 ### How much does AWS cost?
 There is no definitive answer to what is the cost of AWS services as the needs and requirements of every enterprise of startup company will be different.
@@ -30,6 +35,9 @@ Some AWS services are free but some are charged at a rate defined by AWS.
 
 
 IT solutions
+
+<img src="/assets/images/cloud/aws-certifications.png" alt="">
+
 
 Amazon themselves claim there are 5 roles to running 
 - Architect
@@ -117,6 +125,51 @@ A new way of working
 
 
 Say goodbye to slow boot times
+
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<h2>Frequently Asked Questions (FAQs):</h2>
+<ul id="my-accordion" class="accordionjs">
+    <li>
+        <div>Do you do AWS migrations from other Cloud provider(s)?</div>
+        <div>
+            Yes. Please contact us.
+        </div>
+    </li>
+    <li>
+        <div>I'm worried about storing my data in a different location. Is this safe?</div>
+        <div>
+            Yes. All data hosted on AWS is encrypted at an enterprise standard and the keys of the encryption algorithm can be stored away from AWS servers.
+        </div>
+    </li>
+    <li>
+        <div>How much time do your  I.T Operations Consultancy Services take to implement or perform?</div>
+        <div>
+           It is impossible to give a precise time-frame for I.T related work but we will aim to give a time estimate
+        </div>
+    </li>
+
+    <li>
+        <div>Do you offer retainer contracts for software maintanence that could be required in future?</div>
+        <div>
+           Of course! We understand all software requires patching to ensure security is 
+        </div>
+    </li>
+</ul>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+Cloud Storage
+Cloud Migration
+Cloud Security
+Multi-Cloud
+Cloud Computing
+Hybrid Cloud
+Public Cloud
+Private Cloud
+
+Architecting a Cloud
 
 {% comment %}
 No need to enter multiple passcodes to access different layers of work and data. The simple-yet-secure authentication process gives you access to everything.

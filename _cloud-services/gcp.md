@@ -8,9 +8,12 @@ header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
+  min_height: 580px
+  image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
+  more_text: "Discover what our Google Cloud consultancy services can do for you:"
 
   
-icon: /assets/images/icons/flexible.png
+icon: /assets/images/cloud/aws-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."

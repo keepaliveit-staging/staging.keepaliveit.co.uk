@@ -1,16 +1,16 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services"
-permalink: /cloud-services/digitalocean
+title: "Oracle Cloud Infrastructure Consultancy Services"
+permalink: /cloud-services/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
 header:
-  overlay_image: /assets/images/benefit/flexible.jpg
+  overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
-  min_height: 680px
-  image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
-  more_text: "Discover what our DigitalOcean consultancy services can do for you:"
+  min_height: 650px
+  image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
+  more_text: "Discover what our Oracle Cloud Infrastructure consultancy services can do for your Enterprise:"
 
   
 icon: /assets/images/cloud/aws-logo.png
@@ -22,8 +22,19 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## DigitalOcean Cloud Consultancy Services
 
+Compute
+Block Storage
+Object Storage
+Load Balancers
+Backups
+Kubernetes
+Managed Database
+
+## Efficient I.T improves productivity
+
+
+<img src="/assets/images/cloud/oci-certifications.jpeg" alt="">
 
 A new way of working 
 
@@ -51,7 +62,3 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
-
-<small>*Keep-Alive I.T cannot by held liable for the information contained on this page. At the time of creation, the information presented on this page was accurate. However, due to the rapid speed at which technology changes, we cannot guarantee that information on this page will still be relevant as it may become out of date without notice.</small>
-
-<small>*All product and company names, logos, images, and videos are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.</small>
