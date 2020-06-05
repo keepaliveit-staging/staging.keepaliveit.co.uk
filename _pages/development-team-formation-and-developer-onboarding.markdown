@@ -76,8 +76,115 @@ Whether you're looking for a drop-in developer for your team to cover instances 
 
 Workflow
 
-### Cost of our Development Team formation and developer onboarding services
+### Cost of our Development Team formation and developer on-boarding services
 
+<div class="pricing pricing--palden">
+    <div class="pricing__item">
+        <div class="pricing__deco">
+            <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
+                <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
+c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z"></path>
+                <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
+c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z"></path>
+                <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
+H42.401L43.415,98.342z"></path>
+                <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
+c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z"></path>
+            </svg>
+            <div class="pricing__price"><span class="pricing__currency">£</span>3995<span class="pricing__period">/ project</span></div>
+            <h3 class="pricing__title">Ideal for Small & Startup Businesses</h3>
+        </div>
+        <ul class="pricing__feature-list">
+            <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Replication of Production Environment in a single Virtual Machine
+            </li>
+            <li class="pricing__feature">
+                <i class="fas fa-check green-tick" aria-hidden="true"></i>
+                Infrastructure components decoupled
+            </li>
+            <li class="pricing__feature">
+                <i class="fas fa-check green-tick" aria-hidden="true"></i>
+                Windows, Linux, and Mac Operating Systems supported
+            </li>
+            <li class="pricing__feature">
+                <i class="fas fa-check green-tick" aria-hidden="true"></i>
+                Training provided for up to 5 Seats
+            </li>
+        </ul>
+        <button class="pricing__action">Choose plan</button>
+    </div>
+    <div class="pricing__item pricing__item--featured">
+        <div class="pricing__deco">
+            <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
+                <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
+c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z"></path>
+                <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
+c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z"></path>
+                <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
+H42.401L43.415,98.342z"></path>
+                <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
+c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z"></path>
+            </svg>
+            <div class="pricing__price"><span class="pricing__currency">£</span>6995<span class="pricing__period">/ project</span></div>
+            <h3 class="pricing__title">Best Value</h3>
+        </div>
+        <ul class="pricing__feature-list">
+           <li class="pricing__feature">
+                <i class="fas fa-check green-tick" aria-hidden="true"></i>
+                Replication of Production Environment in a Virtual Machine
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Infrastructure components decoupled
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Windows, Linux, and Mac Operating Systems supported
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Training provided for up to 25 Seats
+           </li>
+        </ul>
+        <button class="pricing__action">Choose plan</button>
+    </div>
+    <div class="pricing__item">
+        <div class="pricing__deco">
+            <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
+                <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
+c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z"></path>
+                <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
+c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z"></path>
+                <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
+H42.401L43.415,98.342z"></path>
+                <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
+c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z"></path>
+            </svg>
+            <div class="pricing__price"><span class="pricing__currency">£</span>9995<span class="pricing__period">/ project</span></div>
+            <h3 class="pricing__title">Ideal for Enterprise</h3>
+        </div>
+        <ul class="pricing__feature-list">
+            <li class="pricing__feature">
+                <i class="fas fa-check green-tick" aria-hidden="true"></i>
+                Replication of Production Environment in a Virtual Machine
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Infrastructure components decoupled and data migration scripts
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Windows, Linux, and Mac Operating Systems supported
+           </li>
+           <li class="pricing__feature">
+               <i class="fas fa-check green-tick" aria-hidden="true"></i>
+               Training provided for up to 100 Seats
+           </li>
+        </ul>
+        <button class="pricing__action">Choose plan</button>
+    </div>
+</div>
 
 
 ## Training 

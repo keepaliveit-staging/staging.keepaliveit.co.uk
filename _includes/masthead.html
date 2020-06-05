@@ -33,7 +33,7 @@
                                 ▾
                             </span>
                         </a>
-                        <ul class="drop-down-ul">
+                        <ul class="drop-down-ul" style="width: {{ link.submenuwidth | default: "200px" }};">
                             {%- for submenu1 in link.subitems -%}
                             <li class="flyout-right">
                                 <a href="{{ submenu1.url }}">
@@ -41,22 +41,37 @@
                                         {{ submenu1.icon }}
                                         {{ submenu1.title }}
                                         {% if submenu1.subitems %}
-                                        ▸
+                                        <i class="fas fa-chevron-right" aria-hidden="true"></i>
                                         {% endif %}
                                     </span>
                                 </a>
-                                <ul class="">
+                                <ul style="width: {{ submenu1.submenuwidth | default: "200px" }};">
                                     {%- for submenu2 in submenu1.subitems -%}
-                                    <li class="drop-down-submenu">
+                                    <li class="flyout-right">
                                         <a href="{{ submenu2.url }}">
                                             <span>
                                                 {{ submenu2.icon }}
                                                 {{ submenu2.title }}
                                                 {% if submenu2.subitems %}
-                                                ▸
+                                                <i class="fas fa-chevron-right" aria-hidden="true"></i>
                                                 {% endif %}
                                             </span>
                                         </a>
+                                        <ul style="width: {{ submenu2.submenuwidth | default: "200px" }};">
+                                            {%- for submenu3 in submenu2.subitems -%}
+                                            <li class="flyout-right">
+                                                <a href="{{ submenu3.url }}">
+                                                    <span>
+                                                        {{ submenu3.icon }}
+                                                        {{ submenu3.title }}
+                                                        {% if submenu3.subitems %}
+                                                        <i class="fas fa-chevron-right" aria-hidden="true"></i>
+                                                        {% endif %}
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            {%- endfor -%}
+                                        </ul>
                                     </li>
                                     {%- endfor -%}
                                 </ul>

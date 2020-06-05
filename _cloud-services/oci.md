@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure Consultancy Services"
+title: "Oracle Cloud Infrastructure Consultancy Services for Enterprise"
 permalink: /cloud-services/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
-  min_height: 650px
+  min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
   more_text: "Discover what our Oracle Cloud Infrastructure consultancy services can do for your Enterprise:"
 
@@ -31,7 +31,50 @@ Backups
 Kubernetes
 Managed Database
 
-## Efficient I.T improves productivity
+## <i classc="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
+
+## Oracle Cloud Developer 
+### Automating Cloud Tasks
+Use the OCI CLI to simplify repetitive tasks.
+Utilize configuration management tools to
+control infrastructure.
+Manage infrastructure as code.
+Explain user resource manager processes to
+implement infrastructure as code.
+
+
+### Performance Tuning and Troubleshooting
+Explain Troubleshooting resource availability and accessibility.
+Validate OCI performance.
+
+
+### Managing Cost
+Utilize billing tags to track cost.
+Explain how to implement billing alerts.
+Leverage automation to control cost.
+
+
+### Security and Compliance
+Create secure access control policies.
+Leverage compartments for resource isolation.
+Audit cloud access.
+
+
+### Monitoring and Alerting
+Understand Metric Query Language (MQL).
+Create and manage alarms.
+Implement automated notifications.
+
+
+### Data Retention and Archival
+Use Object Storage Lifecycle policies for tiered data storage.
+Manage automated block storage and database backups.
+Implement cross-region data copy strategies.
+
+
+### Designing for cloud-scale agility
+Utilize edge services for automated failover / recovery.
+Implement hybrid network environments.
 
 
 <img src="/assets/images/cloud/oci-certifications.jpeg" alt="">
@@ -62,3 +105,9 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+## Other cloud providers that we offer consultancy services for:
+{% include related-cloud-providers.html %}

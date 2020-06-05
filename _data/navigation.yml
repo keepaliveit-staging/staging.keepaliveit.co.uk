@@ -1,114 +1,238 @@
 # main links
 main:
   - item:
-    title: "Our I.T Services"
+    title: "I.T Services"
     url: "#"
+    submenuwidth: "200px"
     subitems:
     - item:
-      title: "Cloud Services"
-      icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-      url: /cloud-services
+      title: "For Business"
+      icon: "<i class=\"fas fa-building\" aria-hidden=\"true\"></i>"
+      url: "/solutions/it-for-business"
+      submenuwidth: "200px"
       subitems:
-        - item:
-          title: "AWS Cloud Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/amazon-web-services-aws
-        - item:
-          title: "Azure Cloud Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/azure
-        - item:
-          title: "Digital Ocean Cloud Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/digitalocean
-        - item:
-          title: "Google Cloud Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/google-cloud-computing-gcp
-        - item:
-          title: "Linode Cloud Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/linode
-        - item:
-          title: "Oracle Cloud Infrastructure Management"
-          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services/oracle-cloud-infrastructure-oci
+      - item:
+        title: "Cloud Services"
+        icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+        url: /cloud-services
+        submenuwidth: "200px"
+        subitems:
+          - item:
+            title: "AWS Cloud Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/amazon-web-services-aws
+          - item:
+            title: "Azure Cloud Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/azure
+          - item:
+            title: "Digital Ocean Cloud Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/digitalocean
+          - item:
+            title: "Google Cloud Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/google-cloud-computing-gcp
+          - item:
+            title: "Linode Cloud Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/linode
+          - item:
+            title: "Oracle Cloud Infrastructure Management"
+            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+            url: /cloud-services/oracle-cloud-infrastructure-oci
+      - item:
+        title: "Hardware related Products & Services"
+        icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+        url: /hardware-products-and-services
+        submenuwidth: "200px"
+        subitems:
+          - item:
+            title: "Hardware Procurement"
+            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+            url: /hardware-products-and-services/hardware-procurement
+          - item:
+            title: "Hardware Setup"
+            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+            url: /hardware-products-and-services/hardware-setup
+          - item:
+            title: "I.T Hardware Support"
+            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+            url: /hardware-products-and-services/it-hardware-support
+      - item:
+        title: "Software related Products & Services"
+        icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+        url: /software-products-and-services
+        subitems:
+          - item:
+            title: "Software Training"
+            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+            url: /software-products-and-services/software-training
+          - item:
+            title: "Software Procurement"
+            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+            url: /software-products-and-services/software-procurement
+          - item:
+            title: "Software Setup"
+            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+            url: /software-products-and-services/software-setup
+          - item:
+            title: "Software Development"
+            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+            url: /software-products-and-services/software-development-services
+          - item:
+            title: "I.T Software Support"
+            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+            url: /software-products-and-services/it-support-services
+      - item:
+        title: "I.T Consultancy Services"
+        icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+        url: /it-consultancy-services
+        subitems:
+          - item:
+            title: "Software Development Team Formation & Developer On-boarding"
+            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+            url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
+          - item:
+            title: "I.T Compliance & Security"
+            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/it-compliance-and-security-services
+          - item:
+            title: "I.T Infrastructure Management"
+            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/it-infrastructure-management-services
+          - item:
+            title: "Cloud Services"
+            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/cloud-services
+      - item:
+        title: "Website Services"
+        icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+        url: /it-operations-consultancy
+        subitems:
+          - item:
+            title: "Website Development"
+            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/it-compliance-and-security-services
+          - item:
+            title: "Website Maintenance"
+            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/it-infrastructure-management-services
+      - item:
+        title: "Office Fitting in South Wales"
+        icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
+        url: /office-fitting-south-wales
     - item:
-      title: "Hardware related Products & Services"
-      icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-      url: /hardware-products-and-services
+      title: "For Consumers"
+      icon: "<i class=\"fas fa-home\" aria-hidden=\"true\"></i>"
+      url: "/solutions/it-for-consumers"
+      submenuwidth: "200px"
       subitems:
-        - item:
-          title: "Hardware Procurement"
-          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services/hardware-procurement
-        - item:
-          title: "Hardware Setup"
-          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services/hardware-setup
-        - item:
-          title: "I.T Hardware Support"
-          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services/it-hardware-support
-    - item:
-      title: "Software related Products & Services"
-      icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-      url: /software-products-and-services
-      subitems:
-        - item:
-          title: "Software Training"
-          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services/software-training
-        - item:
-          title: "Software Procurement"
-          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services/software-procurement
-        - item:
-          title: "Software Setup"
-          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services/software-setup
-        - item:
-          title: "Software Development"
-          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services/software-development-services
-        - item:
-          title: "I.T Software Support"
-          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services/it-support-services
-    - item:
-      title: "I.T Consultancy Services"
-      icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-      url: /it-consultancy-services
-      subitems:
-        - item:
-          title: "Software Development Team Formation & Developer On-boarding"
-          url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
-        - item:
-          title: "I.T Compliance & Security"
-          url: /it-operations-consultancy/it-compliance-and-security-services
-        - item:
-          title: "I.T Infrastructure Management"
-          url: /it-operations-consultancy/it-infrastructure-management-services
         - item:
           title: "Cloud Services"
-          url: /it-operations-consultancy/cloud-services
-    - item:
-      title: "Website Services"
-      icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-      url: /it-operations-consultancy
-      subitems:
+          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+          url: /cloud-services
+          subitems:
+            - item:
+              title: "AWS Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/amazon-web-services-aws
+            - item:
+              title: "Azure Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/azure
+            - item:
+              title: "Digital Ocean Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/digitalocean
+            - item:
+              title: "Google Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/google-cloud-computing-gcp
+            - item:
+              title: "Linode Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/linode
+            - item:
+              title: "Oracle Cloud Infrastructure Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/oracle-cloud-infrastructure-oci
         - item:
-          title: "Website Development"
-          icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /it-operations-consultancy/it-compliance-and-security-services
+          title: "Hardware related Products & Services"
+          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+          url: /hardware-products-and-services
+          subitems:
+            - item:
+              title: "Hardware Procurement"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services/hardware-procurement
+            - item:
+              title: "Hardware Setup"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services/hardware-setup
+            - item:
+              title: "I.T Hardware Support"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services/it-hardware-support
         - item:
-          title: "Website Maintenance"
+          title: "Software related Products & Services"
+          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+          url: /software-products-and-services
+          subitems:
+            - item:
+              title: "Software Training"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-training
+            - item:
+              title: "Software Procurement"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-procurement
+            - item:
+              title: "Software Setup"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-setup
+            - item:
+              title: "Software Development"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-development-services
+            - item:
+              title: "I.T Software Support"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/it-support-services
+        - item:
+          title: "I.T Consultancy Services"
+          icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+          url: /it-consultancy-services
+          subitems:
+            - item:
+              title: "Software Development Team Formation & Developer On-boarding"
+              url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
+            - item:
+              title: "I.T Compliance & Security"
+              url: /it-operations-consultancy/it-compliance-and-security-services
+            - item:
+              title: "I.T Infrastructure Management"
+              url: /it-operations-consultancy/it-infrastructure-management-services
+            - item:
+              title: "Cloud Services"
+              url: /it-operations-consultancy/cloud-services
+        - item:
+          title: "Website Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /it-operations-consultancy/it-infrastructure-management-services
-    - item:
-      title: "Office Fitting in South Wales"
-      icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
-      url: /office-fitting-south-wales
+          url: /it-operations-consultancy
+          subitems:
+            - item:
+              title: "Website Development"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /it-operations-consultancy/it-compliance-and-security-services
+            - item:
+              title: "Website Maintenance"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /it-operations-consultancy/it-infrastructure-management-services
+        - item:
+          title: "Office Fitting in South Wales"
+          icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
+          url: /office-fitting-south-wales
 
 mobile:
   - item:

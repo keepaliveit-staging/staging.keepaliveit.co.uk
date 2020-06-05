@@ -1,0 +1,26 @@
+{% assign items = site.cloud-services %}
+
+<section>
+    <div class="container">
+        <div class="row">
+            {% for item in items %}
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="{{ item.icon }}"/>
+                    <div class="item-title">
+                        <a href="{{ item.url }}">{{ item.title }}</a>
+                    </div>
+                    <div class="item-description">
+                        <p>An overview of benefits:</p>
+                        <ul>
+                            {% for benefit in item.benefits %}
+                            <li>{{ benefit }}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

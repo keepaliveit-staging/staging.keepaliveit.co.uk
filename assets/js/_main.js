@@ -183,17 +183,28 @@ $(document).ready(function () {
     }
 
     // Setup menu hover
+    // Menu depth = 1
     $('ul.exo-menu > li.drop-down > ul > li').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
-
         },
         function () {
             $(this).parent().parent().children('a').removeClass('active');
         }
     );
 
+    // Menu depth = 2
     $('ul.exo-menu > li.drop-down > ul > li > ul > li').hover(
+        function () {
+            $(this).parent().parent().children('a').addClass('active');
+        },
+        function () {
+            $(this).parent().parent().children('a').removeClass('active');
+        }
+    );
+
+    // Menu depth = 3
+    $('ul.exo-menu > li.drop-down > ul > li > ul > li > ul > li').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
 

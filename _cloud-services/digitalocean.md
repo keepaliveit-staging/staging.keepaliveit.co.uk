@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services"
+title: "DigitalOcean Cloud Consultancy Services for Enterprise"
 permalink: /cloud-services/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#aa0000"
   min_height: 680px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
-  more_text: "Discover what our DigitalOcean consultancy services can do for you:"
+  more_text: "Discover what our DigitalOcean consultancy services can do for your Enterprise:"
 
   
 icon: /assets/images/cloud/aws-logo.png
@@ -22,7 +22,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## DigitalOcean Cloud Consultancy Services
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> DigitalOcean Cloud Consultancy Services
 
 
 A new way of working 
@@ -51,6 +51,12 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+## Other cloud providers that we offer consultancy services for:
+{% include related-cloud-providers.html %}
 
 <small>*Keep-Alive I.T cannot by held liable for the information contained on this page. At the time of creation, the information presented on this page was accurate. However, due to the rapid speed at which technology changes, we cannot guarantee that information on this page will still be relevant as it may become out of date without notice.</small>
 

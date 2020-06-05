@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Cloud Services"
+title: "Cloud Services offered by Keep-Alive I.T"
 permalink: /it-operations-consultancy/cloud-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Cloud
+## Cloud Services offered by keep-Alive I.T
 
 - Managed Cloud
 - Private Cloud

@@ -22,7 +22,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## AWS Cloud Consultancy Services
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services
 
 ### Why lock your business into AWS?
 Amazon Web Services (AWS) offers a substantial amount of Cloud services that can be used to perform simple computation operations for hobbyist software developers, or running highly complex application workloads with an enterprise grade Service Level Agreement (SLA).
@@ -192,3 +192,9 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+## Other cloud providers that we offer consultancy services for:
+{% include related-cloud-providers.html %}

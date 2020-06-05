@@ -21,7 +21,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## Efficient I.T improves productivity
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Microsoft Azure Cloud Consultancy Services
 
 
 A new way of working 
@@ -50,3 +50,9 @@ Other benefits of I.T
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
     {% endfor %}
 </ul>
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
+
+## Other cloud providers that we offer consultancy services for:
+{% include related-cloud-providers.html %}
