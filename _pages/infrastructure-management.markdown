@@ -16,7 +16,7 @@ header:
 Stop blaming your I.T service desk for the complex task of running I.T and begin taking proactive measures to mitigate availability and security of your I.T assets. We can help new or existing companies secure their I.T from an application level, infrastructure level, or hardware level.
 
 
-## Server Management
+## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Server Management
 
 - Linux Server Administration
 - Windows Server Administration

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Consultancy Services for Enterprise"
+title: "Amazon Web Services (AWS) Cloud Consultancy Services for Enterprise and Small Businesses"
 permalink: /cloud-services/amazon-web-services-aws
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
@@ -10,10 +10,11 @@ header:
   page_lead_text_colour: "#aa0000"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
-  more_text: "Discover more about AWS's Cloud Platform and what our AWS consultancy services can do for your Enterprise:"
+  more_text: "Discover more about AWS's Cloud Platform and learn what our AWS consultancy services can do for your Business:"
   more_text_colour: "#ff9900"
   
 icon: /assets/images/cloud/aws-logo.png
+cloud_name: Amazon Web Services (AWS)
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."
@@ -134,7 +135,7 @@ Say goodbye to slow boot times
     <li>
         <div>Do you do AWS migrations from other Cloud provider(s)?</div>
         <div>
-            Yes. Please contact us.
+            Yes. Please see our <a href="/cloud-services">Cloud Services page</a> for a full list of Cloud providers that we support.
         </div>
     </li>
     <li>

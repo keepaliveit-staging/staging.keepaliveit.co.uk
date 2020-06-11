@@ -13,7 +13,7 @@ header:
   more_text: "Discover what our DigitalOcean consultancy services can do for your Enterprise:"
 
   
-icon: /assets/images/cloud/aws-logo.png
+icon: /assets/images/cloud/digitalocean-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."

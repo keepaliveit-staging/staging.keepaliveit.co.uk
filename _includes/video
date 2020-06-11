@@ -30,11 +30,11 @@
         <source src="{{ video_url_ogg }}" type="video/ogg">
     </video>
     <div>
-        <div data-aos="fade-down" data-aos-once="true" style="position:absolute;top:100px; left:2%;max-width:96%;background:rgba(0,0,0,0.57);color:#e7e7e7;border-radius:30px;padding:12px;font-size:1.4em;text-align:center;">
+        <div data-aos="fade-down" data-aos-once="true" class="bubble1">
             {{ header_text }}
         </div>
 
-        <div data-aos="fade-down" data-aos-once="true" data-aos-delay="500" style="position:absolute;top:220px; left:2%;max-width:96%;background:rgba(67,0,0,0.5);color:#e7e7e7;padding:9px;font-size:1.2em;border-radius:30px;padding:18px;text-align:center;">
+        <div data-aos="fade-down" data-aos-once="true" data-aos-delay="500" class="bubble2">
             {{ header_body }}
         </div>
 
@@ -43,8 +43,8 @@
                 <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
             </a>
         </div>
-        <div style="width:200px;position:absolute;top:455px;left:calc(50% - 100px);color:white;text-align:center;">
-            Find out more
+        <div style="width:200px;position:absolute;top:455px;left:calc(50% - 100px);color:white;text-align:center;font-weight:600;">
+            <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);">Learn more about Keep-Alive I.T</a>
         </div>
     </div>
 </div>

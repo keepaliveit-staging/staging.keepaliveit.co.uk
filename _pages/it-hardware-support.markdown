@@ -12,6 +12,8 @@ header:
 
 {% include breadcrumbs.html %}
 
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support
+
 IT Strategy
 IT Projects
 IT Audits

@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Website Services"
-permalink: /website-services/website-development
+title: "Website Maintenance"
+permalink: /website-services/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

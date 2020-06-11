@@ -108,16 +108,16 @@ main:
       - item:
         title: "Website Services"
         icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-        url: /it-operations-consultancy
+        url: /website-services
         subitems:
           - item:
             title: "Website Development"
             icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /it-operations-consultancy/it-compliance-and-security-services
+            url: /website-services/website-development
           - item:
             title: "Website Maintenance"
             icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /it-operations-consultancy/it-infrastructure-management-services
+            url: /website-services/website-maintenance
       - item:
         title: "Office Fitting in South Wales"
         icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
@@ -229,10 +229,6 @@ main:
               title: "Website Maintenance"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
               url: /it-operations-consultancy/it-infrastructure-management-services
-        - item:
-          title: "Office Fitting in South Wales"
-          icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
-          url: /office-fitting-south-wales
 
 mobile:
   - item:

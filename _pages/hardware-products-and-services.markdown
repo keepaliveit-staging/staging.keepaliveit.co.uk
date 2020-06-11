@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Hardware Products and Services
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Products and Services
 Having the right tools to do the right job is 
 
 > "I need my team equipped with the right technology to get their job done"

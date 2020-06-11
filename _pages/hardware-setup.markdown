@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hardware Setup"
+title: "On-Site Hardware Setup"
 permalink: /hardware-products-and-services/hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
@@ -12,8 +12,13 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Hardware Setup
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Setup
 Having the right tools to do the right job is 
+
+
+We come to your location to fit new hardware.
+
+
 
 > "I need my team equipped with the right technology to get their job done"
 

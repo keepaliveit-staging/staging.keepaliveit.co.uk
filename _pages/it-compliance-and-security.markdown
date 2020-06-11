@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## I.T Compliance & Security Services
+## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> I.T Compliance & Security Services
 
 - Cyber Security
 - Cyber Security Audit

@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Hardware procurement
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

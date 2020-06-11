@@ -12,7 +12,8 @@ header:
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover more about Azure's Cloud Platform and what our Azure consultancy services can do for your Enterprise:"
   
-icon: /assets/images/cloud/aws-logo.png
+icon: /assets/images/cloud/azure-logo.png
+cloud_name: Microsoft Azure
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."

@@ -13,7 +13,8 @@ header:
   more_text: "Discover what our Oracle Cloud Infrastructure consultancy services can do for your Enterprise:"
 
   
-icon: /assets/images/cloud/aws-logo.png
+icon: /assets/images/cloud/oci-logo.png
+cloud_name: Oracle Cloud Infrastructure
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."
@@ -22,6 +23,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 
 Compute
 Block Storage
@@ -30,8 +32,6 @@ Load Balancers
 Backups
 Kubernetes
 Managed Database
-
-## <i classc="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 
 ## Oracle Cloud Developer 
 ### Automating Cloud Tasks

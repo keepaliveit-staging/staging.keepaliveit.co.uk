@@ -11,12 +11,13 @@
                         <a href="{{ item.url }}">{{ item.title }}</a>
                     </div>
                     <div class="item-description">
-                        <p>An overview of benefits:</p>
+                        <p>An overview of {{ item.cloud_name }}:</p>
                         <ul>
                             {% for benefit in item.benefits %}
                             <li>{{ benefit }}</li>
                             {% endfor %}
                         </ul>
+                        <small>Visit service page to discover more about our {{ item.cloud_name }} service offerings.</small>
                     </div>
                 </div>
             </div>

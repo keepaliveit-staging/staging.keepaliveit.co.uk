@@ -123,7 +123,7 @@ Imagine a having a job where you'll be hands-on with technical problems
             Dog friendly office
         </div>
         <div>
-            Our offices are dog friendly.
+            What's better than having humans in an office? Yes, having Dogs in an office. Our offices are dog friendly meaning there may be some furry friends lurking around the office ready to be petted.
         </div>
     </li>
     

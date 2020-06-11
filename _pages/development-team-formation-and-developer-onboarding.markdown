@@ -3,7 +3,7 @@ layout: splash
 title: "Software Development Team Formation & Developer Onboarding Consultancy Services"
 permalink: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
 
-excerpt: "Learn how Keep-Alive I.T Services can develop business strategies to make your in-house development teams more successful and able to produce more reliable software."
+excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."
 header:
   overlay_image: /assets/images/development-team.jpg
   overlay_filter: 0.5 
@@ -18,7 +18,7 @@ VirtualBox, Git, and Vagrant
 Forming a new Software Development Team, or on-boarding new Software Developers in an existing Software Development Team can be a challenging, frustrating, and a time consuming process. Offload your Development Team Formation tasks onto us and we'll apply our expertise with forming an in-house, or remote Software Development team for you. We'll do this by hiring new Software Developers, Onboarding new Software Developers into a Team, Managing existing staff, and implementing plans & processes to make Software Development projects easier to manage.
 
 
-## Development Team Formation & Developer Onboarding
+## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Development Team Formation & Developer Onboarding
 Keeping software developers motivated to produce high quality work is a task every modern high-profile business must face
 
 Developing in-house software has its own pro's and con's, with the primary pro being that the software that's developed for an organisation is internal

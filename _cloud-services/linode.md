@@ -8,12 +8,12 @@ header:
   overlay_image: /assets/images/cloud-providers/linode.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
-  min_height: 580px
+  min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
   more_text: "Discover what our Linode Cloud consultancy services can do for you:"
 
   
-icon: /assets/images/cloud/aws-logo.png
+icon: /assets/images/cloud/linode-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."
@@ -22,6 +22,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Linode Cloud Consultancy Services
 
 Compute
 Block Storage
@@ -31,12 +32,6 @@ Backups
 Kubernetes
 Managed Database
 
-## <i classc="fas fa-cloud page-title-icon" aria-hidden="true"></i> Linode Cloud Consultancy Services
-
-A new way of working 
-
-
-Say goodbye to slow boot times
 
 {% comment %}
 No need to enter multiple passcodes to access different layers of work and data. The simple-yet-secure authentication process gives you access to everything.
