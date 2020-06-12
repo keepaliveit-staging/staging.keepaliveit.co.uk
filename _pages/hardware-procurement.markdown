@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Enterprise and Small Business Hardware Procurement"
-permalink: /hardware-products-and-services/hardware-procurement
+permalink: /hardware-products-and-services/it-hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:

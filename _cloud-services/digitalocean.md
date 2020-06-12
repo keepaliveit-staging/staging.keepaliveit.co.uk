@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services for Enterprise"
+title: "DigitalOcean Cloud Consultancy Services for Enterprise and Small Businesses"
 permalink: /cloud-services/digitalocean
 
 excerpt: "Efficient I.T improves productivity"

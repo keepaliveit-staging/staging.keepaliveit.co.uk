@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "On-Site Hardware Setup"
-permalink: /hardware-products-and-services/it-hardware-setup
+title: "Hardware Setup for Consumers"
+permalink: /hardware-products-and-services/it-hardware-setup-consumer
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -10,10 +10,10 @@ header:
   page_lead_text_colour: "#ea5114"
   
 secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /hardware-products-and-services/it-hardware-setup
     - title: "Hardware Setup for Consumers"
       url: hardware-products-and-services/it-hardware-setup-consumer
+    - title: "Hardware Setup for Businesses"
+      url: /hardware-products-and-services/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

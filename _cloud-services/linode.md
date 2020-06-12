@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Linode Cloud Consultancy Services"
+title: "Linode Cloud Consultancy Services for Enterprise and Small Businesses"
 permalink: /cloud-services/linode
 
 excerpt: "Efficient I.T improves productivity"

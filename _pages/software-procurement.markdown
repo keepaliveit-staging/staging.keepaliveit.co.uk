@@ -13,6 +13,8 @@ header:
 
 {% include breadcrumbs.html %}
 
+Understanding licensing costs
+
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">

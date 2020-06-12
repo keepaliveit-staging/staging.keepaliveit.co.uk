@@ -26,7 +26,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need an I.T project managed from start to finish? We can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need an I.T project managed from start to finish? Keep-Alive I.T help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -46,7 +46,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center">Need an App built? We can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need an App built? Keep-Alive I.T can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <h3>App Development as a Service</h3>
@@ -62,7 +62,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need some help with a specific technology or general technical issues? We can probably help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need some help with a specific technology or general technical issues? Keep-Alive I.T can probably help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">

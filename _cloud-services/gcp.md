@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Google Cloud Computing Services (GCP)"
+title: "Google Cloud Platform (GCP) Services for Enterprise and Small Businesses"
 permalink: /cloud-services/google-cloud-computing-gcp
 
 excerpt: "Efficient I.T improves productivity"

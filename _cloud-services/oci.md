@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure Consultancy Services for Enterprise"
+title: "Oracle Cloud Infrastructure Consultancy Services for Enterprise and Small Businesses"
 permalink: /cloud-services/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"

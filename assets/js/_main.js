@@ -183,10 +183,21 @@ $(document).ready(function () {
     }
 
     // Setup menu hover
+    function updateHelpText(elem){
+        $ht = $("#helptext");
+
+        if($ht.css('display') == 'none') {
+            $ht.show();
+        }
+
+        $ht.text(elem.data('helptext'));
+    }
+
     // Menu depth = 1
     $('ul.exo-menu > li.drop-down > ul > li').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
+            updateHelpText($(this));
         },
         function () {
             $(this).parent().parent().children('a').removeClass('active');
@@ -197,6 +208,7 @@ $(document).ready(function () {
     $('ul.exo-menu > li.drop-down > ul > li > ul > li').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
+            updateHelpText($(this));
         },
         function () {
             $(this).parent().parent().children('a').removeClass('active');
@@ -207,7 +219,7 @@ $(document).ready(function () {
     $('ul.exo-menu > li.drop-down > ul > li > ul > li > ul > li').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
-
+            updateHelpText($(this));
         },
         function () {
             $(this).parent().parent().children('a').removeClass('active');
@@ -217,7 +229,6 @@ $(document).ready(function () {
     $('ul.exo-menu > li.mega-drop-down > .mega-menu').hover(
         function () {
             $(this).parent().children('a').addClass('active');
-
         },
         function () {
             $(this).parent().children('a').removeClass('active');
@@ -227,7 +238,6 @@ $(document).ready(function () {
     $('ul.exo-menu > li.blog-drop-down > .blog-menu').hover(
         function () {
             $(this).parent().children('a').addClass('active');
-
         },
         function () {
             $(this).parent().children('a').removeClass('active');

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services for Enterprise"
+title: "Microsoft Azure Cloud Consultancy Services for Enterprise and Small Businesses"
 permalink: /cloud-services/azure
 
 excerpt: "Efficient I.T improves productivity"

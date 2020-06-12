@@ -478,41 +478,46 @@ $color-primary-border: #e5ebc3;
 }
 
 .scrollmenu {
-  background-color: #292929;
+  display: inline;
   overflow-x: scroll;
   overflow-y: hidden;
   white-space: nowrap;
-  height: auto;
   margin: 0;
   padding-left: 20px;
   width: 100%;
-}
+  height: 3em;
 
-.scrollmenu li {
-  list-style: none;
-  display: inline-block;
-  line-height: 3em;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  margin-right: 20px;
-}
+  li {
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-right: 10px;
+    height: 3em;
+    line-height: 3em;
 
-.scrollmenu li a {
-  color: white;
-  text-align: center;
-  padding: 3px 12px;
-  text-decoration: none;
-  background: #333333;
-  border-radius: 20px;
-  font-size: 0.88em;
+    a {
+      color: white;
+      text-align: center;
+      padding: 6px 12px;
+      text-decoration: none;
+      background: #333333;
+      border-radius: 20px;
+      font-size: 0.78em;
+      line-height: 2em;
+      text-shadow: -1px 1px 1px rgba(255, 255, 255, .1), 1px 1px 1px rgba(0, 0, 0, .5);
+      border: 1px solid rgba(200, 200, 200, .21);
+      font-weight: 300;
+
+      &:hover {
+        background-color: #777;
+      }
+    }
+  }
 }
 
 .secondary-menu > ul > li.masthead__menu-item.active a {
   background-color: #365670;
-}
-
-.scrollmenu a:hover {
-  background-color: #777;
 }
 
 .secondary-menu-wrapper {
@@ -531,6 +536,9 @@ $color-primary-border: #e5ebc3;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+  border-top: 1px #495056 dotted;
+  border-bottom: 1px #495056 dotted;
+  height: 3em;
 }
 
 @include breakpoint(max-width $medium) {
@@ -636,7 +644,6 @@ $color-primary-border: #e5ebc3;
 }
 
 .about-row {
-
   margin-top: 20px;
   padding: 20px;
 
@@ -1251,15 +1258,25 @@ ul.icon-des li {
 .Images:hover,
 .mega-menu:hover,
 .drop-down-ul:hover,
+li.flyout-left > ul:focus,
 li.flyout-left > ul:hover,
+li.flyout-right > ul:focus,
 li.flyout-right > ul:hover,
+.flyout-mega-wrap:focus,
 .flyout-mega-wrap:hover,
+li.flyout-left a:focus + ul,
 li.flyout-left a:hover + ul,
+li.flyout-right a:focus + ul,
 li.flyout-right a:hover + ul,
+.blog-drop-down > a:focus + .blog-menu,
 .blog-drop-down > a:hover + .blog-menu,
+li.drop-down > a:focus + .drop-down-ul,
 li.drop-down > a:hover + .drop-down-ul,
+.images-drop-down > a:focus + .Images,
 .images-drop-down > a:hover + .Images,
+.mega-drop-down a:focus + .mega-menu,
 .mega-drop-down a:hover + .mega-menu,
+li.flyout-mega > a:focus + .flyout-mega-wrap
 li.flyout-mega > a:hover + .flyout-mega-wrap {
   display: block;
 }
@@ -1919,4 +1936,22 @@ Cookie notice
   font-weight: 700;
   src: local('Nunito Bold'), local('Nunito-Bold'), url(https://fonts.gstatic.com/s/nunito/v12/XRXW3I6Li01BKofAjsOUYevIWzgPDA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+#helptext {
+  z-index: 20;
+  height: auto;
+  width: 400px;
+  background: red;
+  color: white;
+  position: fixed;
+  bottom: 30px;
+  left: calc(50% - 200px);
+  padding: 20px;
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0.8);
+  font-size: 0.78em;
+  text-align: center;
+  display: none;
 }

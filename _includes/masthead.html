@@ -25,7 +25,7 @@
                     {%- assign url = link.item.url | relative_url -%}
                     {%- endif -%}
                     {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
-                    <li class="drop-down {% if (page.url == url) or (url_no_home == url) %}active{% endif %}" aria-haspopup="true">
+                    <li class="drop-down{% if (page.url == url) or (url_no_home == url) %} active{% endif %}" aria-haspopup="true">
                         <a href="{{ link.url }}" {% if link.description %}title="{{ link.description }}" {%
                            endif %}>
                             <span class="menu-item">
@@ -35,7 +35,7 @@
                         </a>
                         <ul class="drop-down-ul" style="width: {{ link.submenuwidth | default: "200px" }};">
                             {%- for submenu1 in link.subitems -%}
-                            <li class="flyout-right">
+                            <li class="flyout-right" data-helptext="{{ submenu1.helptext }}">
                                 <a href="{{ submenu1.url }}">
                                     <span>
                                         {{ submenu1.icon }}
@@ -47,7 +47,7 @@
                                 </a>
                                 <ul style="width: {{ submenu1.submenuwidth | default: "200px" }};">
                                     {%- for submenu2 in submenu1.subitems -%}
-                                    <li class="flyout-right">
+                                    <li class="flyout-right" data-helptext="{{ submenu2.helptext }}">
                                         <a href="{{ submenu2.url }}">
                                             <span>
                                                 {{ submenu2.icon }}
@@ -59,7 +59,7 @@
                                         </a>
                                         <ul style="width: {{ submenu2.submenuwidth | default: "200px" }};">
                                             {%- for submenu3 in submenu2.subitems -%}
-                                            <li class="flyout-right">
+                                            <li class="flyout-right" data-helptext="{{ submenu3.helptext }}">
                                                 <a href="{{ submenu3.url }}">
                                                     <span>
                                                         {{ submenu3.icon }}
@@ -283,8 +283,8 @@
     </div>
 </nav>
 
-<!-- Site Overlay -->
 <div class="site-overlay"></div>
 
-<!-- Body Overlay -->
 <div class="body-overlay"></div>
+
+<div id="helptext"></div>

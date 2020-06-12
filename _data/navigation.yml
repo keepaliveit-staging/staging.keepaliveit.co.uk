@@ -9,52 +9,61 @@ main:
       title: "For Business"
       icon: "<i class=\"fas fa-building\" aria-hidden=\"true\"></i>"
       url: "/solutions/it-for-business"
+      helptext: "Explore our range of I.T Products and services for Business."
       submenuwidth: "200px"
       subitems:
       - item:
         title: "Cloud Services"
         icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
         url: /cloud-services
+        helptext: "Explore our range of Cloud Consultancy Services and Solutions for Businesses."
         submenuwidth: "200px"
         subitems:
           - item:
             title: "AWS Cloud Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/amazon-web-services-aws
+            helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Businesses."
           - item:
-            title: "Azure Cloud Management"
+            title: "Microsoft Azure Cloud Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/azure
+            helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Businesses."
           - item:
             title: "Digital Ocean Cloud Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/digitalocean
+            helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Businesses."
           - item:
-            title: "Google Cloud Management"
+            title: "Google Cloud Platform (GCP) Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/google-cloud-computing-gcp
+            helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Businesses."
           - item:
             title: "Linode Cloud Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/linode
+            helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Businesses."
           - item:
-            title: "Oracle Cloud Infrastructure Management"
+            title: "Oracle Cloud Infrastructure (OCI) Management"
             icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
             url: /cloud-services/oracle-cloud-infrastructure-oci
+            helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Businesses."
       - item:
-        title: "Hardware related Products & Services"
+        title: "I.T Hardware related Products & Services"
         icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
         url: /hardware-products-and-services
+        helptext: "Explore our range of I.T Hardware related Products & Services for Businesses."
         submenuwidth: "200px"
         subitems:
           - item:
-            title: "Hardware Procurement"
+            title: "I.T Hardware Procurement"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/hardware-procurement
+            url: /hardware-products-and-services/it-hardware-procurement
           - item:
-            title: "Hardware Setup"
+            title: "I.T Hardware Setup"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/hardware-setup
+            url: /hardware-products-and-services/it-hardware-setup
           - item:
             title: "I.T Hardware Support"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
@@ -63,6 +72,7 @@ main:
         title: "Software related Products & Services"
         icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
         url: /software-products-and-services
+        helptext: "Explore our range of Software related Products & Services for Businesses."
         subitems:
           - item:
             title: "Software Training"
@@ -88,6 +98,7 @@ main:
         title: "I.T Consultancy Services"
         icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
         url: /it-consultancy-services
+        helptext: "Explore our range of I.T Consultancy Services for Businesses."
         subitems:
           - item:
             title: "Software Development Team Formation & Developer On-boarding"
@@ -109,6 +120,7 @@ main:
         title: "Website Services"
         icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
         url: /website-services
+        helptext: "Explore our range of Website related Products & Services for Businesses."
         subitems:
           - item:
             title: "Website Development"
@@ -122,71 +134,37 @@ main:
         title: "Office Fitting in South Wales"
         icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
         url: /office-fitting-south-wales
+        helptext: "Office fitting services for Businesses in South Wales."
     - item:
       title: "For Consumers"
       icon: "<i class=\"fas fa-home\" aria-hidden=\"true\"></i>"
       url: "/solutions/it-for-consumers"
+      helptext: "Explore our range of I.T Products and services for Consumers."
       submenuwidth: "200px"
       subitems:
         - item:
-          title: "Cloud Services"
+          title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
           url: /cloud-services
           subitems:
             - item:
-              title: "AWS Cloud Management"
+              title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
               url: /cloud-services/amazon-web-services-aws
-            - item:
-              title: "Azure Cloud Management"
-              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/azure
-            - item:
-              title: "Digital Ocean Cloud Management"
-              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/digitalocean
-            - item:
-              title: "Google Cloud Management"
-              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/google-cloud-computing-gcp
-            - item:
-              title: "Linode Cloud Management"
-              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/linode
-            - item:
-              title: "Oracle Cloud Infrastructure Management"
-              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/oracle-cloud-infrastructure-oci
         - item:
           title: "Hardware related Products & Services"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
           url: /hardware-products-and-services
           subitems:
             - item:
-              title: "Hardware Procurement"
-              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/hardware-procurement
-            - item:
-              title: "Hardware Setup"
-              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/hardware-setup
-            - item:
               title: "I.T Hardware Support"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-support
+              url: /hardware-products-and-services/it-hardware-support-consumer
         - item:
           title: "Software related Products & Services"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services
           subitems:
-            - item:
-              title: "Software Training"
-              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-training
-            - item:
-              title: "Software Procurement"
-              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-procurement
             - item:
               title: "Software Setup"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
@@ -200,35 +178,18 @@ main:
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services/it-support-services
         - item:
-          title: "I.T Consultancy Services"
-          icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-          url: /it-consultancy-services
-          subitems:
-            - item:
-              title: "Software Development Team Formation & Developer On-boarding"
-              url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
-            - item:
-              title: "I.T Compliance & Security"
-              url: /it-operations-consultancy/it-compliance-and-security-services
-            - item:
-              title: "I.T Infrastructure Management"
-              url: /it-operations-consultancy/it-infrastructure-management-services
-            - item:
-              title: "Cloud Services"
-              url: /it-operations-consultancy/cloud-services
-        - item:
           title: "Website Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /it-operations-consultancy
+          url: /website-services
           subitems:
             - item:
               title: "Website Development"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /it-operations-consultancy/it-compliance-and-security-services
+              url: /website-services/website-development-consumer
             - item:
               title: "Website Maintenance"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /it-operations-consultancy/it-infrastructure-management-services
+              url: /website-services/website-maintenance-consumer
 
 mobile:
   - item:

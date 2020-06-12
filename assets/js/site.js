@@ -29,17 +29,16 @@ $(document).ready(function () {
         $p.hide();
 
         $up.css({
-                // Set height to prevent instant jump-down when max height is removed
-                "height": $up.height(),
-                "max-height": 9999
-            })
-            .animate({
-                "height": "100%"
-            });
+            // Set height to prevent instant jump-down when max height is removed
+            "height": $up.height(),
+            "max-height": 9999
+        })
+        .animate({
+            "height": "100%"
+        });
 
         // prevent jump-down
         return false;
-
     });
 
 
@@ -49,6 +48,12 @@ $(document).ready(function () {
     }, function(){
         $(".body-overlay").hide();
     });
+
+    // $(".drop-down").hover(function () {
+    //     return false;
+    // }, function(){
+    //     $("#helptext").hide();
+    // });
 
     scaleVideoContainer();
 

@@ -13,7 +13,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Office fitting on a budget
+## <i class="fas fa-tools page-title-icon" aria-hidden="true"></i>  Office fitting on a budget
 
 Along with all the essentials
 
