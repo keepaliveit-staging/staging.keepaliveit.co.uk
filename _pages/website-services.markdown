@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Services"
+title: "Website Services for Small Business and Enterprise"
 permalink: /website-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

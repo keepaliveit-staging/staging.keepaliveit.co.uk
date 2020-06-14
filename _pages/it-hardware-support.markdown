@@ -18,7 +18,7 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Small Business and Enterprise
 
 IT Strategy
 IT Projects

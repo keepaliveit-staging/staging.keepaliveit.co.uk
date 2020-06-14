@@ -43,17 +43,17 @@ $(document).ready(function () {
 
 
     // Masthead menu
-    $(".drop-down, .mega-drop-down, .blog-drop-down").hover(function () {
+    $("ul.exo-menu > li.drop-down, ul.exo-menu > li.mega-drop-down, ul.exo-menu > li.blog-drop-down").hover(function () {
         $(".body-overlay").show();
     }, function(){
         $(".body-overlay").hide();
     });
 
-    // $(".drop-down").hover(function () {
-    //     return false;
-    // }, function(){
-    //     $("#helptext").hide();
-    // });
+    $("ul.exo-menu > li.drop-down").hover(function () {
+        return false;
+    }, function(){
+        $("#helptext").hide();
+    });
 
     scaleVideoContainer();
 

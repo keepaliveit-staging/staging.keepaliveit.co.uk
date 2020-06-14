@@ -10,7 +10,7 @@
             <nav class="site-nav greedy-nav" role="navigation">
                 <div class="masthead__brand">
                     {% unless logo_path == empty %}
-                    <a class="site-logo-link" href="{{ '/' | relative_url }}">
+                    <a class="site-logo-link" href="{{ '/' | relative_url }}" data-tirole="logo">
                         <img src="/assets/images/logo-tagline.svg"
                              class="lazy img-fluid"
                              alt="Keep-Alive I.T Logo"></a>
@@ -27,7 +27,7 @@
                     {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
                     <li class="drop-down{% if (page.url == url) or (url_no_home == url) %} active{% endif %}" aria-haspopup="true">
                         <a href="{{ link.url }}" {% if link.description %}title="{{ link.description }}" {%
-                           endif %}>
+                           endif %} data-level="1">
                             <span class="menu-item">
                                 {{ link.title }}
                                 ▾
@@ -36,7 +36,7 @@
                         <ul class="drop-down-ul" style="width: {{ link.submenuwidth | default: "200px" }};">
                             {%- for submenu1 in link.subitems -%}
                             <li class="flyout-right" data-helptext="{{ submenu1.helptext }}">
-                                <a href="{{ submenu1.url }}">
+                                <a href="{{ submenu1.url }}" data-level="2">
                                     <span>
                                         {{ submenu1.icon }}
                                         {{ submenu1.title }}
@@ -48,7 +48,7 @@
                                 <ul style="width: {{ submenu1.submenuwidth | default: "200px" }};">
                                     {%- for submenu2 in submenu1.subitems -%}
                                     <li class="flyout-right" data-helptext="{{ submenu2.helptext }}">
-                                        <a href="{{ submenu2.url }}">
+                                        <a href="{{ submenu2.url }}" data-level="3">
                                             <span>
                                                 {{ submenu2.icon }}
                                                 {{ submenu2.title }}
@@ -60,7 +60,7 @@
                                         <ul style="width: {{ submenu2.submenuwidth | default: "200px" }};">
                                             {%- for submenu3 in submenu2.subitems -%}
                                             <li class="flyout-right" data-helptext="{{ submenu3.helptext }}">
-                                                <a href="{{ submenu3.url }}">
+                                                <a href="{{ submenu3.url }}" data-level="4">
                                                     <span>
                                                         {{ submenu3.icon }}
                                                         {{ submenu3.title }}
@@ -82,7 +82,7 @@
                     {%- endfor -%}
 
                     <li class="mega-drop-down">
-                        <a href="#">
+                        <a href="#" data-tirole="mega-drop-down">
                             <span class="menu-item">
                                 I.T Resources ▾
                             </span>

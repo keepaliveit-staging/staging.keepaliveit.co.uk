@@ -60,13 +60,17 @@ main:
             title: "I.T Hardware Procurement"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
             url: /hardware-products-and-services/it-hardware-procurement
+            helptext: "Explore our range of I.T Hardware Procurement Services for Businesses."
           - item:
             title: "I.T Hardware Setup"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
             url: /hardware-products-and-services/it-hardware-setup
+            helptext: "Explore our range of I.T Hardware Setup Services for Businesses."
+
           - item:
             title: "I.T Hardware Support"
             icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+            helptext: "Explore our range of I.T Hardware Support Services for Businesses."
             url: /hardware-products-and-services/it-hardware-support
       - item:
         title: "Software related Products & Services"
