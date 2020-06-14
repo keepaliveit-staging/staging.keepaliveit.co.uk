@@ -15,7 +15,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## The Importance of Effective I.T Systems for Businesses
+## <i class="fas fa-exclamation-circle page-title-icon" aria-hidden="true"></i> The Importance of Effective I.T Systems for Businesses
 ### Did you know?
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">

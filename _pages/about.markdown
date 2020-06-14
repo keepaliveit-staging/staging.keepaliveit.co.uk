@@ -16,7 +16,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## About Keep-Alive I.T
+## <i class="fas fa-info-circle page-title-icon" aria-hidden="true"></i> About Keep-Alive I.T
 
 ### What does Keep-Alive I.T do?
 <blockquote data-aos="fade-down" data-aos-once="true">

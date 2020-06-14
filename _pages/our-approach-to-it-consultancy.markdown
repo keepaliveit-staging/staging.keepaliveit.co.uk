@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Keep-Alive I.T's approach to I.T consultancy
-permalink: /our-approach-to-it-consultancy/
+permalink: /about/our-approach-to-it-consultancy/
 
 excerpt: "Tech Tips for 'Non-Tech Warriors' who want to learn how to complete common computing tasks."
 

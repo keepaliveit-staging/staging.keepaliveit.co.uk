@@ -15,7 +15,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Privacy Policy for keepaliveit.co.uk
+## <i class="fas fa-user-secret page-title-icon" aria-hidden="true"></i> Privacy Policy for keepaliveit.co.uk
 
 <div class="wpb_wrapper">
     <p>Your privacy is important to Keep-Alive I.T and we are committed to safeguarding the privacy of our website

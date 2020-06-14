@@ -14,7 +14,7 @@ header:
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
         header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> an I.T Agency made up of highly skilled & qualified <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
-        header_body: "<a href='/our-approach-to-it-consultancy/'>Showing people what I.T systems are capable of</a>, <a href='/our-approach-to-project-management/'>handling project management</a>, <a href='/our-approach-to-it-consultancy/'>developing high quality software</a>, and <a href='/our-approach-to-it-consultancy/'>running I.T infrastructure effectively</a> is what we do."
+        header_body: "<a href='/about/our-approach-to-it-consultancy/'>Showing people what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, <a href='/about/our-approach-to-it-consultancy/'>developing high quality software</a>, and <a href='/about/our-approach-to-it-consultancy/'>running I.T infrastructure effectively</a> is what we do."
 ---
                                             
 <h2>👋 Hello, and thank you for stopping by at our website. This is what Keep-Alive does:</h2>

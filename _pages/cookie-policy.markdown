@@ -15,7 +15,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Cookie Policy for keepaliveit.co.uk
+## <i class="fas fa-cookie page-title-icon" aria-hidden="true"></i> Cookie Policy for keepaliveit.co.uk
 
 This is the Cookie Policy for the Keep-Alive I.T website, accessible at [https://keepaliveit.co.uk/cookie-policy](https://keepaliveit.co.uk/cookie-policy).
 

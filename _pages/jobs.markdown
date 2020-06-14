@@ -17,7 +17,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Jobs at Keep-Alive I.T
+## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Jobs at Keep-Alive I.T
 
 ### The primary objective of our Business
 Here at Keep-Alive I.T, the primary objective of our business is to develop and maintain I.T systems. Our business keeps its doors open by working with clients on their I.T Hardware & Software requirements. The objective of our business is to analyse, develop, and maintain robust I.T solutions. Our entire revenue stream is performance based and <strong>our client base spans different sectors, different team sizes, and involves local, national, and international reach</strong>.

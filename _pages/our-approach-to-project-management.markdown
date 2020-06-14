@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Our approach to Project Management
-permalink: /our-approach-to-project-management/
+permalink: /about/our-approach-to-project-management/
 
 excerpt: "Tech Tips for 'Non-Tech Warriors' who want to learn how to complete common computing tasks."
 

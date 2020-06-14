@@ -130,10 +130,12 @@ main:
             title: "Website Development"
             icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
             url: /website-services/website-development
+            helptext: "Explore our range of Website Development Services for Businesses."
           - item:
             title: "Website Maintenance"
             icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
             url: /website-services/website-maintenance
+            helptext: "Explore our range of Website Maintenance Services for Businesses."
       - item:
         title: "Office Fitting in South Wales"
         icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"

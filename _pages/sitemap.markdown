@@ -16,7 +16,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Website Sitemap
+## <i class="fas fa-sitemap page-title-icon" aria-hidden="true"></i> Website Sitemap
 
 {% for page in site.pages %}
 {% if page.exclude != true %}

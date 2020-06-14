@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Small Businesses and Enterprises
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure
@@ -20,6 +20,16 @@ Capital Expenditure, Operational Expenditure
 Having the right tools to do the right job is 
 
 > "I need my team equipped with the right technology to get their job done"
+
+How does hardware procurement work?
+
+Set your budget
+
+Tell us what you need
+
+Tell us when you need it by
+
+We'll work to find, and supply you with the I.T equipment you need to make your team more productive.
 
 IT Strategy
 IT Projects
