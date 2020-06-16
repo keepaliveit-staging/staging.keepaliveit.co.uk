@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "On-Site Hardware Setup"
+title: "On-Site Hardware Setup for Small Businesses and Enterprise"
 permalink: /hardware-products-and-services/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

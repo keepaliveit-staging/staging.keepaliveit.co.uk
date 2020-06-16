@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Enterprise Software Development"
+title: "Software Development Services for Small Businesses and Enterprises"
 permalink: /software-products-and-services/software-development-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

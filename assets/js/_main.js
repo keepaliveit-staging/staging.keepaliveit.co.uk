@@ -190,7 +190,7 @@ $(document).ready(function () {
             $ht.show();
         }
 
-        $ht.text(elem.data('helptext'));
+        $ht.children(".text-content").text(elem.data('helptext'));
     }
 
     // Menu depth = 1

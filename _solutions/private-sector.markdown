@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Solutions for Private Sector Businesses"
+title: "I.T Solutions for for Small Businesses and Enterprises"
 permalink: /solutions/it-for-business
 classes:
   - business_solutions

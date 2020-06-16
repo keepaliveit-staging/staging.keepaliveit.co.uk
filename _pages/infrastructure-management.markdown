@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "I.T Infrastructure Management Services"
+title: "I.T Infrastructure Management Services for Small Businesses and Enterprises"
 permalink: /it-operations-consultancy/it-infrastructure-management-services
 
-excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
+excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."
 header:
   overlay_image: /assets/images/infrastructure-management.jpg
   overlay_filter: 0.5 

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software & Software Development Consultancy Services for Businesses"
+title: "Software & Software Development Consultancy Services for Small Businesses and Enterprises"
 permalink: /software-products-and-services
 classes:
   - software-consultancy
@@ -91,7 +91,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
-            <p>Establising your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.</p>
+            <p>Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.</p>
             <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Setup"
+title: "Software Setup Services for Small Businesses and Enterprises"
 permalink: /software-products-and-services/software-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

@@ -38,14 +38,19 @@
             {{ header_body }}
         </div>
 
-        <div data-aos="fade-down" class="bounce-7" data-aos-once="true" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:400px;left:calc(50% - 25px);border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;">
-            <a href="#main">
-                <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
-            </a>
+        <div class="bubble3">
+            <div class="bubble-block-bottom"></div>
+            <div data-aos="fade-down" class="bounce-7" data-aos-once="true" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:85px;left:calc(50% - 26px);border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;border: 1px solid rgba(255,255,255,.29);">
+                <a href="#main">
+                    <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
+                </a>
+            </div>
+            <div style="width:200px;position:absolute;top:20px;left:calc(50% - 100px);color:white;text-align:center;font-weight:300;font-size: 0.77em;">
+                <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);">Learn more about Keep-Alive I.T's I.T Services</a>
+            </div>
         </div>
-        <div style="width:200px;position:absolute;top:455px;left:calc(50% - 100px);color:white;text-align:center;font-weight:600;">
-            <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);">Learn more about Keep-Alive I.T</a>
-        </div>
+
+
     </div>
 </div>
 {% endif %}

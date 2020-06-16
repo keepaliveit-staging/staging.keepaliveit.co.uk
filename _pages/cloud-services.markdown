@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Cloud Services offered by Keep-Alive I.T"
+title: "Cloud Services for Small Businesses and Enterprises"
 permalink: /cloud-services
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
@@ -82,6 +82,14 @@ Expecting a surge of website traffic during a busy period? Let us take control o
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Cloud Services offered by keep-Alive I.T
+
+We offer Cloud consultancy services to ensure your organisation is making the absolute most of Cloud infrastructure services.
+
+Thinking of going Cloud native?
+
+Looking to loosely couple your infrastructure components?
+
+Want to learn more about Iaas, Paas, and Saas? We've got the expertise to guide your organisation from zero knowledge to expert in Cloud technologies.
 
 - Managed Cloud
 - Private Cloud

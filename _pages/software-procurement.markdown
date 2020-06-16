@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Procurement, Software Implementation, and Software Consultancy Services"
+title: "Software Procurement Services for Small Businesses and Enterprises"
 permalink: /software-products-and-services/software-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

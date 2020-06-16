@@ -82,22 +82,27 @@ main:
             title: "Software Training"
             icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
             url: /software-products-and-services/software-training
+            helptext: "Explore our range of Software Training Services for Businesses."
           - item:
             title: "Software Procurement"
             icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
             url: /software-products-and-services/software-procurement
+            helptext: "Explore our range of Software Procurement Services for Businesses."
           - item:
             title: "Software Setup"
             icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
             url: /software-products-and-services/software-setup
+            helptext: "Explore our range of Software Setup Services for Businesses."
           - item:
             title: "Software Development"
             icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
             url: /software-products-and-services/software-development-services
+            helptext: "Explore our range of Software Development Services for Businesses."
           - item:
             title: "I.T Software Support"
             icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/it-support-services
+            url: /software-products-and-services/it-software-support
+            helptext: "Explore our range of I.T Support Services for Businesses."
       - item:
         title: "I.T Consultancy Services"
         icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
@@ -108,18 +113,17 @@ main:
             title: "Software Development Team Formation & Developer On-boarding"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
+            helptext: "Explore our Software Development Team Formation & Developer On-boarding packages for businesses."
           - item:
             title: "I.T Compliance & Security"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-operations-consultancy/it-compliance-and-security-services
+            helptext: "Explore our I.T Compliance & Security packages for businesses."
           - item:
             title: "I.T Infrastructure Management"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-operations-consultancy/it-infrastructure-management-services
-          - item:
-            title: "Cloud Services"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-operations-consultancy/cloud-services
+            helptext: "Explore our I.T Infrastructure Management packages for businesses."
       - item:
         title: "Website Services"
         icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
@@ -152,50 +156,61 @@ main:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
           url: /cloud-services
+          helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
               title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
               url: /cloud-services/amazon-web-services-aws
+              helptext: "This is a test item and should be changed in future"
         - item:
           title: "Hardware related Products & Services"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
           url: /hardware-products-and-services
+          helptext: "Explore our range of Hardware related Services for Consumers."
           subitems:
             - item:
               title: "I.T Hardware Support"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               url: /hardware-products-and-services/it-hardware-support-consumer
+              helptext: "Explore our range of I.T Hardware Support Services for Consumers."
         - item:
           title: "Software related Products & Services"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services
+          helptext: "Explore our range of Software related Products & Services for Consumers."
           subitems:
             - item:
               title: "Software Setup"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services/software-setup
+              helptext: "Explore our range of Software Setup Services for Consumers."
             - item:
               title: "Software Development"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services/software-development-services
+              helptext: "Explore our range of Software Development Services for Consumers."
             - item:
               title: "I.T Software Support"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services/it-support-services
+              helptext: "Explore our range of I.T Software Support Services for Consumers."
         - item:
-          title: "Website Services"
+          title: "Website Products & Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
           url: /website-services
+          helptext: "Explore our range of Website Products & Services for Consumers."
           subitems:
             - item:
               title: "Website Development"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
               url: /website-services/website-development-consumer
+              helptext: "Explore our range of Website Development Services for Consumers."
             - item:
               title: "Website Maintenance"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
               url: /website-services/website-maintenance-consumer
+              helptext: "Explore our range of Website Maintenance Services for Consumers."
 
 mobile:
   - item:

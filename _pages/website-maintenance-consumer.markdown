@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Maintenance"
+title: "Website Maintenance Services for Consumers"
 permalink: /website-services/website-maintenance-consumer
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
@@ -12,9 +12,9 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Website Development for Consumers
+## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development for Consumers
 
-Establising your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
+Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 
 
 We provide website consultancy solutions for the following programming languages:

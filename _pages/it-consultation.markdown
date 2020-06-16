@@ -12,6 +12,8 @@ header:
 
 {% include breadcrumbs.html %}
 
+## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Company Environmental Policy for Keep-Alive I.T Ltd.
+
 <div id="consultancy-posts">
     <h2>Recent I.T Consultancy Posts from our Experts</h2>
     <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>

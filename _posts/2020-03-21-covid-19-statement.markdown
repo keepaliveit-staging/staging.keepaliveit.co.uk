@@ -18,4 +18,5 @@ To stay up to date with official Government Coronavirus guidance, please visit <
 - Staff working from home
 - Closure of Caerphilly based office, meaning no public meetings permitted.
 
-<a href="https://www.business.natwest.com/business/business-services/entrepreneur-accelerator.html" />
+We understand our clients may be facing many issues as a result of this pandemic.
+We will be introducing more flexible payment plans

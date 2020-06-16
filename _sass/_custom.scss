@@ -2,6 +2,30 @@ $color-primary: #aa0000;
 $color-primary-light: #e5ebc3;
 $color-primary-border: #e5ebc3;
 
+.animated-heading {
+  color: #a00;
+  font-weight: 200;
+
+  @-webkit-keyframes zoom1-2 {
+    50% {
+      -webkit-transform: scale(1.01);
+      transform: scale(1.1);
+    }
+  }
+  @keyframes zoom1-2 {
+    50% {
+      -webkit-transform: scale(1.01);
+      transform: scale(1.01);
+    }
+  }
+
+  -webkit-animation: zoom1-2 infinite 1s;
+  animation: zoom1-2 infinite 1s;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+  font-size: 1.5em !important;
+}
+
 .christmas-2019 {
   .fireplace-img {
     height: 140px;
@@ -354,11 +378,11 @@ $color-primary-border: #e5ebc3;
   content: "";
   position: absolute;
   top: 0;
-  left: 2%;
-  right: 2%;
-  width: 96%;
+  left: 0%;
+  right: 0%;
+  width: 100%;
   height: 1px;
-  background-image: linear-gradient(to right, transparent, rgb(170, 0, 0), transparent);
+  background-image: linear-gradient(to right, transparent, rgb(220, 210, 210), transparent);
 }
 
 .div-arrow-down:after {
@@ -371,8 +395,8 @@ $color-primary-border: #e5ebc3;
   height: 14px;
   transform: rotate(45deg);
   background-color: white;
-  border-bottom: 1px solid rgb(170, 0, 0);
-  border-right: 1px solid rgb(170, 0, 0);
+  border-bottom: 1px solid rgb(220, 210, 210);
+  border-right: 1px solid rgb(220, 210, 210);
 }
 
 .consultancy-row {
@@ -1580,13 +1604,13 @@ Cookie notice
     transform: scale(1.1, .9) translateY(0);
   }
   30% {
-    transform: scale(.9, 1.1) translateY(-30px);
+    transform: scale(.9, 1.1) translateY(-15px);
   }
   50% {
     transform: scale(1.05, .95) translateY(0);
   }
   57% {
-    transform: scale(1, 1) translateY(-3px);
+    transform: scale(1, 1) translateY(-2px);
   }
   64% {
     transform: scale(1, 1) translateY(0);
@@ -1635,9 +1659,9 @@ Cookie notice
     top: 250px;
     left: 15%;
     max-width: 70%;
-    background: rgba(67, 0, 0, 0.6);
+    background: rgba(13, 73, 112, 0.93);
     color: #e7e7e7;
-    font-size: 1.2em;
+    font-size: 0.8em;
     border-radius: 30px;
     padding: 18px;
     text-align: center;
@@ -1652,8 +1676,55 @@ Cookie notice
       }
     }
   }
-}
 
+  .bubble3 {
+
+    background-color: rgba(170, 0, 0, 1);
+
+    color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+
+    // mobile first size
+    width: 485px;
+    height: 600px;
+    bottom: -450px;
+
+    @include breakpoint($small) {
+      width: $small;
+      height: $small;
+      bottom: -450px;
+    }
+
+    @include breakpoint($medium) {
+      width: $medium;
+      height: $medium;
+      bottom: -620px;
+    }
+
+    @include breakpoint($large) {
+      width: $large;
+      height: $large;
+      bottom: -875px;
+    }
+
+    @include breakpoint($x-large) {
+      width: $x-large;
+      height: $x-large;
+      bottom: -950px;
+    }
+
+    .bubble-block-bottom {
+      content: "";
+      width: 100%;
+      height: 20px;
+      position: absolute;
+      top: 130px;
+      background: rgba(170, 0, 0, 1);
+    }
+  }
+}
 
 .page-title-icon {
   font-size: 1em;
@@ -1957,4 +2028,9 @@ Cookie notice
   font-size: 0.78em;
   text-align: center;
   display: none;
+
+  .description {
+    font-size: 2em;
+    margin-bottom: 5px;
+  }
 }
