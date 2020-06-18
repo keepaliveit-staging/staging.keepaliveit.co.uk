@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#aa0000"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
-  more_text: "Discover what our Google Cloud consultancy services can do for you:"
+  more_text: "Discover our GCP consultancy services"
 
   
 icon: /assets/images/cloud/google-cloud-logo.png

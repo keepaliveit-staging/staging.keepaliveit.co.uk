@@ -4,12 +4,13 @@ title: "Public Cloud Provider Status Pages"
 permalink: /public-cloud-status
 classes:
   - about
-excerpt: "Links to Status Pages of Popular Public Cloud Provider's for your convenience."
+excerpt: "Links to Status Pages of Popular Public Cloud Providers for your convenience."
 
 header:
   overlay_image: /assets/images/cloud.jpg
   overlay_filter: 0.54
   page_lead_text_colour: "#aa0000"
+  more_text: "View the Service Status of Public Cloud Providers"
 
 ---
 

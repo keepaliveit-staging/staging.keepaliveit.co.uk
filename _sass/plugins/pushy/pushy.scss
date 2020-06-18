@@ -39,6 +39,12 @@ $menu_width: 100vw !default;
     &.pushy-right{
         right: 0;
     }
+
+    .pushy-content {
+        ul {
+            margin: 20px;
+        }
+    }
 }
 
 .pushy-content{

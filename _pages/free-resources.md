@@ -12,6 +12,7 @@ header:
   overlay_image: /assets/images/help.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
+  more_text: "Discover Free I.T Resources"
 
   
 feature_row:
@@ -60,3 +61,6 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-ug.pdf
 Oracle Cloud Infrastructure User Guide
 https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf
 
+
+Did you know? 
+Our team of I.T consultants write expert written articles about various technologies. This is free, practical advice published to our website.

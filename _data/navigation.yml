@@ -113,17 +113,22 @@ main:
             title: "Software Development Team Formation & Developer On-boarding"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
-            helptext: "Explore our Software Development Team Formation & Developer On-boarding packages for businesses."
+            helptext: "Explore our Software Development Team Formation & Developer On-boarding packages for Businesses."
           - item:
             title: "I.T Compliance & Security"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-operations-consultancy/it-compliance-and-security-services
-            helptext: "Explore our I.T Compliance & Security packages for businesses."
+            helptext: "Explore our I.T Compliance & Security packages for Businesses."
           - item:
             title: "I.T Infrastructure Management"
             icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
             url: /it-operations-consultancy/it-infrastructure-management-services
-            helptext: "Explore our I.T Infrastructure Management packages for businesses."
+            helptext: "Explore our I.T Infrastructure Management packages for Businesses."
+          - item:
+            title: "I.T Project Management"
+            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+            url: /it-operations-consultancy/it-project-management
+            helptext: "Explore our I.T Project Management packages for Businesses."
       - item:
         title: "Website Services"
         icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
@@ -155,7 +160,7 @@ main:
         - item:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services
+          url: /cloud-services-consumer
           helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
@@ -166,7 +171,7 @@ main:
         - item:
           title: "Hardware related Products & Services"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services
+          url: /hardware-products-and-services-consumer
           helptext: "Explore our range of Hardware related Services for Consumers."
           subitems:
             - item:
@@ -177,7 +182,7 @@ main:
         - item:
           title: "Software related Products & Services"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services
+          url: /software-products-and-services-consumer
           helptext: "Explore our range of Software related Products & Services for Consumers."
           subitems:
             - item:
@@ -198,7 +203,7 @@ main:
         - item:
           title: "Website Products & Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-services
+          url: /website-services-consumer
           helptext: "Explore our range of Website Products & Services for Consumers."
           subitems:
             - item:

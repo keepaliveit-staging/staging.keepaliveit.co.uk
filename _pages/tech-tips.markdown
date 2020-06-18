@@ -9,6 +9,7 @@ header:
   overlay_image: /assets/images/tips.jpg
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
+  more_text: "Start learning new I.T tips and tricks today"
 
 pagination:
   collection: techtip

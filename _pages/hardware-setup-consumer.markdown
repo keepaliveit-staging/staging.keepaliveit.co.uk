@@ -10,10 +10,10 @@ header:
   page_lead_text_colour: "#ea5114"
   
 secondaryMenu:
-    - title: "Hardware Setup for Consumers"
-      url: hardware-products-and-services/it-hardware-setup-consumer
     - title: "Hardware Setup for Businesses"
       url: /hardware-products-and-services/it-hardware-setup
+    - title: "Hardware Setup for Consumers"
+      url: /hardware-products-and-services/it-hardware-setup-consumer
 ---
 
 {% include breadcrumbs.html %}

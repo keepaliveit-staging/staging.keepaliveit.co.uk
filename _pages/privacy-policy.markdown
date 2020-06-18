@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/privacy.jpg
   overlay_filter: 0.54
   page_lead_text_colour: "#aa0000"
+  more_text: "Read our Website Privacy Policy"
 
 ---
 

@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#aa0000"
   min_height: 680px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
-  more_text: "Discover what our DigitalOcean consultancy services can do for your Enterprise:"
+  more_text: "Discover our DigitalOcean consultancy services"
 
   
 icon: /assets/images/cloud/digitalocean-logo.png

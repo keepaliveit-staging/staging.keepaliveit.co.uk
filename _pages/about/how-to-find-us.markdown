@@ -9,6 +9,7 @@ excerpt: "How to find us"
 header:
   overlay_image: /assets/images/map.jpg
   overlay_filter: 0.74
+  more_text: "Learn where to find us"
 ---
 
 

@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/about.jpg
   overlay_filter: 0.44
   page_lead_text_colour: "#aa0000"
+  more_text: "Discover more information about our company"
 
 ---
 

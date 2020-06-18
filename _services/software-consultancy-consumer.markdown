@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Consumer Software & Software Development Consultancy Services for the Home"
-permalink: /software-consultancy-consumer
+permalink: /software-products-and-services-consumer
 classes:
   - software-consultancy
 excerpt: "Learn how Keep-Alive I.T's Services can assist with consumer software recommendations for individuals, or develop bespoke platform specific Software solutions for your home."
@@ -9,17 +9,19 @@ excerpt: "Learn how Keep-Alive I.T's Services can assist with consumer software 
 header:
   overlay_image: /assets/images/home.jpg
   overlay_filter: 0.54
+  min_height: "750px"
+
 
 secondaryMenu:
   - title: "Software Solutions for Businesses"
-    url: /software-consultancy
+    url: /software-products-and-services
   - title: "Software Solutions for the Home"
-    url: /software-consultancy-consumer
+    url: /software-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## Discover how our I.T Services for Consumers can enhance your experience at home and improve your day-to-day life.
+## <i class="fas fa-code page-title-icon" aria-hidden="true"></i> Discover how our I.T Services for Consumers can enhance your experience at home and improve your day-to-day life.
 
 <div class="divider div-transparent div-arrow-down"></div>
 

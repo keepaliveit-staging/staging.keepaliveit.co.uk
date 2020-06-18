@@ -3,17 +3,18 @@ layout: splash
 title: "Website Services for Consumers"
 permalink: /website-services/website-development-consumer
 
-excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
+excerpt: "Learn how Keep-Alive I.T can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
+  more_text: "Discover our Website Services for Consumers"
   
 secondaryMenu:
-  - title: "Website Development Services for Consumers"
-    url: /website-services/website-development-consumer
   - title: "Website Development Services for Businesses"
     url: /website-services/website-development
+  - title: "Website Development Services for Consumers"
+    url: /website-services/website-development-consumer
 ---
 
 {% include breadcrumbs.html %}

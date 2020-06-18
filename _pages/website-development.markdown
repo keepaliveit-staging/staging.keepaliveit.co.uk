@@ -8,12 +8,14 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
+  min_height: "600px"
+  more_text: "Discover our Website Services for Businesses"
   
 secondaryMenu:
-  - title: "Website Development Services for Consumers"
-    url: /website-services/website-development-consumer
   - title: "Website Development Services for Businesses"
     url: /website-services/website-development
+  - title: "Website Development Services for Consumers"
+    url: /website-services/website-development-consumer
 ---
 
 {% include breadcrumbs.html %}

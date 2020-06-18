@@ -26,10 +26,12 @@ pagination:
 
 <h2>The Keep-Alive I.T approach to project management</h2>
 
+We're focused on getting things right from the beginning of a project, all the way to it's closure
+
 Identification
 The first step involved with managing a project is identifying the project's requirements.
 
-Undertsnading project requirements when working with I.T projects often means doing teardowns of current processes or practises and understanding the dataflow throughout this process.
+Understanding project requirements when working with I.T projects often means doing teardowns of current processes or practises and understanding the dataflow throughout this process.
 
 
 

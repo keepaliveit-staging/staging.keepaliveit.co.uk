@@ -2,7 +2,7 @@ $color-primary: #aa0000;
 $color-primary-light: #e5ebc3;
 $color-primary-border: #e5ebc3;
 
-.animated-heading {
+.animated-heading, .static-heading {
   color: #a00;
   font-weight: 200;
 
@@ -24,6 +24,11 @@ $color-primary-border: #e5ebc3;
   -webkit-transform-origin: 0 0;
   transform-origin: 0 0;
   font-size: 1.5em !important;
+}
+.static-heading {
+  -webkit-animation: none;
+  -o-animation: none;
+  animation: none;
 }
 
 .christmas-2019 {
@@ -625,6 +630,7 @@ $color-primary-border: #e5ebc3;
 }
 
 .footer-nav-links-container {
+  z-index: 1;
 
   .wrapper-lines {
     border-left: 1px solid lightgrey;

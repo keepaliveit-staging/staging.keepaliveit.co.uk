@@ -14,10 +14,10 @@ header:
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
         header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> an I.T Agency comprising of highly skilled & qualified <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
-        header_body: "<a href='/about/our-approach-to-it-consultancy/'>Showing people what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-consultancy/'>running I.T infrastructure effectively</a> is what we do."
+        header_body: "<a href='/about/our-approach-to-it-consultancy/'>Showing people what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-consultancy/'>running I.T infrastructure effectively</a>  for Consumers, Small Businesses, and Enterprises is what we do."
 ---
                                             
-<h2>👋 Hello, and thank you for stopping by at our website. This is what the Keep-Alive team does:</h2>
+<h2 class="text-center static-heading">👋 Hello! This is what the Keep-Alive team does:</h2>
 
 <blockquote data-aos="zoom-in" data-aos-once="true">
   <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
@@ -28,7 +28,7 @@ header:
 </h2>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need an I.T project managed from start to finish? Keep-Alive I.T can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need an I.T project managed from start to finish? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -36,10 +36,46 @@ header:
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>Project Management as a Service</h3>
-            <p>Offload your project requirements to us and we'll do all the hard work of making your digital project a reality - from the beginning of a project, all the way to it's closure.</p>
-            <p>Whether you're planning a full Datacentre migration, or need an e-commerce website that can handle major traffic spikes without going down, you can count on use to manage your project efficiently.</p>
+            <p>We can help with managing your technical projects. Offload your project requirements to us and our I.T consultants will do all the hard work of making your digital project a reality - and with minimal effort on your behalf.</p>
+            <p>Whether you're planning a full Datacentre migration, or need an e-commerce website built that can handle major traffic spikes without going down, you can count on use to manage your project efficiently.</p>
             
-            <p>Save £100,000s from having to hire staff for an individual project by hiring us to complete the management, testing, and hosting on your behalf.</p>
+            <p>Companies could typically save £100,000s from having to hire staff for an individual project by hiring us to complete the management, testing, and hosting on your behalf.</p>
+            <a href="/it-operations-consultancy/it-project-management" class="btn button btn--primary">Discover I.T Project Management as a Service</a>
+        </div>
+    </div>
+</section>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<section data-aos="zoom-in" data-aos-once="true">
+    <h3 class="text-center">Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <div class="row">
+        <div class="col-sm-6 col-xs-12">
+            <img src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
+        </div>
+        <div class="col-sm-6 col-xs-12">
+            <h3>Process Automation as a Service</h3>
+            <p>Let's be honest, nobody likes repeating the same task over and over again.</p>
+            <p>Luckily for us humans, computers have become very good at automating tasks for us and have even become more efficient at performing tasks for us too. This is thanks to a whole load of new tooling and advanced learning techniques by utilising Artificial Intelligence (AI) and Machine Learning (ML).</p>
+            <p>However, process automation requires a </p>
+            <a href="/software-products-and-services/software-development-services" class="btn button btn--primary">Discover Software Development Services</a>
+        </div>
+    </div>
+</section>
+
+<div class="divider div-transparent div-arrow-down"></div>
+
+<section data-aos="fade-right" data-aos-once="true">
+    <h3 class="text-center">Need help with general technical issues? Keep-Alive I.T can probably help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    
+    <div class="row">
+        <div class="col-sm-6 col-xs-12">
+            <img src="/assets/images/homepage/remote-team.svg" alt="Project Management">
+        </div>
+        <div class="col-sm-6 col-xs-12">
+            <h3>I.T support as a Service</h3>
+            <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
+            <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
             <a class="btn button btn--primary">Discover project management as a service</a>
         </div>
     </div>
@@ -48,47 +84,16 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center">Need a process automated? Keep-Alive I.T can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <h3>Process Automation as a Service</h3>
-            <p>Let's be honest, nobody likes repeating the same task over and over again.</p>
+            <img src="/assets/images/homepage/support-team.svg" alt="Project Management">
         </div>
-        <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
-        </div>
-    </div>
-</section>
-
-<div class="divider div-transparent div-arrow-down"></div>
-
-<section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need help with general technical issues? Keep-Alive I.T can probably help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
-    
-    <div class="row">
-        <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/remote-team.svg" alt="Project Management">
-        </div>
-        <div class="col-sm-6 col-xs-12">
-            <h3>I.T support as a Service</h3>
-            <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
-            <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
-        </div>
-    </div>
-</section>
-
-<div class="divider div-transparent div-arrow-down"></div>
-
-<section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center">Need an App built? Keep-Alive I.T can help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
-    <div class="row">
         <div class="col-sm-6 col-xs-12">
             <h3>App Development as a Service</h3>
             <p>Apps for platform specific</p>
             <p>We can build apps that are functional, secure, and stable.</p>
-        </div>
-        <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/support-team.svg" alt="Project Management">
+            <a class="btn button btn--primary">Discover project management as a service</a>
         </div>
     </div>
 </section>
@@ -96,7 +101,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need some help with a specific technology or general technical issues? Keep-Alive I.T can probably help with that <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need some help with a technical issue? Keep-Alive I.T can probably help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -106,6 +111,7 @@ header:
             <h3>I.T support as a Service</h3>
             <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
             <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
+            <a class="btn button btn--primary">Discover project management as a service</a>
         </div>
     </div>
 </section>

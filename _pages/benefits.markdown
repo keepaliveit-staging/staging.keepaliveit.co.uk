@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/benefit/overview.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
+  more_text: "Discover the benefits of effective I.T systems and processes"
 
 ---
 

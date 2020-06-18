@@ -8,7 +8,7 @@ tags:
     - hp
     - printing
     - printer
-    - dobule
+    - double
     - sided
     - duplex
 ---

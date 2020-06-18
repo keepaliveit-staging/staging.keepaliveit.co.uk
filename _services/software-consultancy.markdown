@@ -8,17 +8,18 @@ excerpt: "Learn how Keep-Alive I.T's expert backed I.T Software services can hel
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
+  min_height: "750px"
   
 secondaryMenu:
   - title: "Software Solutions for Businesses"
-    url: /software-consultancy
+    url: /software-products-and-services
   - title: "Software Solutions for the Home"
-    url: /software-consultancy-consumer
+    url: /software-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## Software & Software Development Consultancy Services for Businesses
+## <i class="fas fa-code page-title-icon" aria-hidden="true"></i> Software & Software Development Consultancy Services for Businesses
 In the modern technology focused era that we live in, having robust & functioning software implemented and [operating on appropriate infrastructure](/it-operations-consultancy) has become an essential requirement for the operation of any business. 
 
 Overall, high quality Software <a href="/benefits-of-effective-it/increased-productivity">enhances employee productivity</a>, improves company operations, and promotes business growth. Some companies certainly wouldn't be as successful as they are today without the high quality Software that they've implemented & adopted over time.

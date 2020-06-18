@@ -1,21 +1,23 @@
 ---
 layout: splash
-title: "I.T Solutions for for Small Businesses and Enterprises"
+title: "I.T Solutions for Small Businesses and Enterprises"
 permalink: /solutions/it-for-business
 classes:
   - business_solutions
-excerpt: "Private Sector I.T Solutions"
+excerpt: "A case study looking into the current state of private Sector I.T setups and how our I.T solutions could save your business money."
 
 header:
   overlay_image: /assets/images/mall.jpg
   overlay_filter: 0.74
+  min_height: 600px
   page_lead_text_colour: "#aa0000"
+  more_text: "Read the case study on effective Business I.T"
 
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-exclamation-circle page-title-icon" aria-hidden="true"></i> The Importance of Effective I.T Systems for Businesses
+## <i class="fas fa-exclamation-circle page-title-icon" aria-hidden="true"></i> Case Study: The Importance of Effective I.T Systems for Businesses
 ### Did you know?
 <section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
     <div class="row">

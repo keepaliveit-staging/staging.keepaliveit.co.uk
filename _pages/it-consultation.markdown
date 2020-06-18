@@ -8,15 +8,15 @@ header:
   overlay_image: /assets/images/documents.jpg
   overlay_filter: 0.54
   page_lead_text_colour: "#ea5114"
+  more_text: "FREE, expert advice from I.T Consultants"
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Company Environmental Policy for Keep-Alive I.T Ltd.
+## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Recent I.T Consultancy Posts from our I.T Experts
+<p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
 
 <div id="consultancy-posts">
-    <h2>Recent I.T Consultancy Posts from our Experts</h2>
-    <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
     {% assign groups = site.consultation | group_by: "category" | sort: "name" %}
     <ul class="post-list">
     {% for group in groups %}
