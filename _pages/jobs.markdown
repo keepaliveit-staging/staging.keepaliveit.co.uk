@@ -242,5 +242,5 @@ Check us out on <a href="https://www.glassdoor.com/Overview/Working-at-Keep-Aliv
 <div class="divider div-transparent div-arrow-down"></div>
 
 ## Jobs for Freelancers
-<img src="/assets/images/jobs/freelancers-banner.png" alt="Looking for freelancers" class="lazy-img"> 
+<img src="/assets/images/jobs/freelancers-banner.png" alt="Looking for freelancers" class="lazy"> 
 We have created a portal for freelancing jobs that become available.

@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "I.T Hardware Products and Services for Small Businesses and Enterprises"
-permalink: /hardware-products-and-services
+title: "I.T Hardware Products and Services for Consumers"
+permalink: /hardware-products-and-services-consumer
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "600px"
   more_text: "Discover our Hardware Products & Services"
-  
+
 secondaryMenu:
     - title: "I.T Hardware Services for Businesses"
       url: /hardware-products-and-services

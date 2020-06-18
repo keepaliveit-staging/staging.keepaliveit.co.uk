@@ -236,7 +236,7 @@ mobile:
     url: /it-operations-consultancy
     subitems:
       - item:
-        title: "Hardware Procurement & Setup"
+        title: "I.T Hardware Procurement & Setup"
         url: /it-operations-consultancy/hardware-procurement-and-hardware-setup-services
       - item:
         title: "I.T Support"

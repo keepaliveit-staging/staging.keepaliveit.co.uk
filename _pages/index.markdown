@@ -32,7 +32,7 @@ header:
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/task.svg" alt="Project Management">
+            <img class="lazy" src="/assets/images/homepage/task.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>Project Management as a Service</h3>
@@ -51,7 +51,7 @@ header:
     <h3 class="text-center">Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
+            <img class="lazy" src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>Process Automation as a Service</h3>
@@ -70,7 +70,7 @@ header:
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/remote-team.svg" alt="Project Management">
+            <img class="lazy" src="/assets/images/homepage/remote-team.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>I.T support as a Service</h3>
@@ -87,7 +87,7 @@ header:
     <h3 class="text-center">Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/support-team.svg" alt="Project Management">
+            <img class="lazy" src="/assets/images/homepage/support-team.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>App Development as a Service</h3>
@@ -105,7 +105,7 @@ header:
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
-            <img src="/assets/images/homepage/remote-team.svg" alt="Project Management">
+            <img class="lazy" src="/assets/images/homepage/remote-team.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
             <h3>I.T support as a Service</h3>
