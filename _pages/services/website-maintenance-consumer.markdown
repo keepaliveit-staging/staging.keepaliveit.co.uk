@@ -1,26 +1,18 @@
 ---
 layout: splash
-title: "Website Development for Small Businesses and Enterprises"
-permalink: /website-services/website-development
+title: "Website Maintenance Services for Consumers"
+permalink: /website-services-consumer/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
-  min_height: "600px"
-  more_text: "Discover our Website Services for Businesses"
-  
-secondaryMenu:
-  - title: "Website Development Services for Businesses"
-    url: /website-services/website-development
-  - title: "Website Development Services for Consumers"
-    url: /website-services/website-development-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development
+## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development for Consumers
 
 Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 

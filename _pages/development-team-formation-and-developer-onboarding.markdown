@@ -113,7 +113,7 @@ c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.9
                 Training provided for up to 5 Seats
             </li>
         </ul>
-        <button class="pricing__action">Choose plan</button>
+        <button class="pricing__action" data-package="Development Team Formation & Developer Onboarding for Small & Startup Businesses">Choose Package</button>
     </div>
     <div class="pricing__item pricing__item--featured">
         <div class="pricing__deco">
@@ -148,7 +148,7 @@ c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.9
                Training provided for up to 25 Seats
            </li>
         </ul>
-        <button class="pricing__action">Choose plan</button>
+        <button class="pricing__action" data-package="">Choose Package</button>
     </div>
     <div class="pricing__item">
         <div class="pricing__deco">
@@ -183,7 +183,7 @@ c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.9
                Training provided for up to 100 Seats
            </li>
         </ul>
-        <button class="pricing__action">Choose plan</button>
+        <button class="pricing__action" data-package="">Choose Package</button>
     </div>
 </div>
 

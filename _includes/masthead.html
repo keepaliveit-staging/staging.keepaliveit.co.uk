@@ -149,7 +149,7 @@
                                                     </a>
                                                 </li>
                                                 <li>
-                                                    <a href="/solutions/it-for-non-profit">
+                                                    <a href="/solutions/it-for-non-profit-organisations">
                                                         <i class="fas fa-arrow-circle-right"></i>
                                                         I.T Solutions for Non-Profit Organisations
                                                     </a>
@@ -250,24 +250,38 @@
 <nav class="pushy pushy-right">
     <div class="pushy-content">
         <ul>
-            {%- for link in site.data.navigation.mobile -%}
+            {%- for link in site.data.navigation.main[0].subitems -%}
             {% if link.subitems %}
             <li class="pushy-submenu">
-                <button>{{ link.title }}</button>
+                <button>
+                    {{ link.icon }} &nbsp;
+                    {{ link.titleMobile }}
+                </button>
                 <ul>
                     {%- for submenu1 in link.subitems -%}
                         {% if submenu1.subitems %}
                             <li class="pushy-submenu">
-                                <button>{{ submenu1.title }}</button>
+                                <button>
+                                    {{ submenu1.icon }} &nbsp;
+                                    {{ submenu1.title }}
+                                </button>
                                 <ul>
-                                    <li class="pushy-link"><a href="#">Item 1</a></li>
-                                    <li class="pushy-link"><a href="#">Item 2</a></li>
-                                    <li class="pushy-link"><a href="#">Item 3</a></li>
+                                    {%- for submenu2 in submenu1.subitems -%}
+                                        <li class="pushy-link">
+                                            <a href="{{ submenu2.url }}">
+                                                {{ submenu2.icon }} &nbsp;
+                                                {{ submenu2.title }}
+                                            </a>
+                                        </li>
+                                    {%- endfor -%}
                                 </ul>
                             </li>
                         {% else %}
                             <li class="pushy-link">
-                                <a href="{{ submenu1.url }}">{{ submenu1.title }}</a>
+                                <a href="{{ submenu1.url }}">
+                                    {{ submenu1.icon }} &nbsp;
+                                    {{ submenu1.title }}
+                                </a>
                             </li>
                         {% endif %}
                     {%- endfor -%}

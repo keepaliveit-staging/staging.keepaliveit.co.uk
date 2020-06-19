@@ -55,8 +55,8 @@ As a way of saying thank you to our customers for supporting us as a business, w
 
 Unfortunately, there are currently no Free I.T Resources to display. Please check back soon!
 
-Amazon Compute Cloud (EC2) User Guide for Linux Instances
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-ug.pdf
+<a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-ug.pdf">Amazon Compute Cloud (EC2) User Guide for Linux Instances</a>
+
 
 Oracle Cloud Infrastructure User Guide
 https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf

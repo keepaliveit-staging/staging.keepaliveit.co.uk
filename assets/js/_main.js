@@ -163,7 +163,7 @@ $(document).ready(function () {
                 $("#ip-address-result").html(result.ip);
             });
     }
-    
+
     if (window.location.pathname === '/') {
         if ($('.ux-vertical-tabs').length > 0) {
             $('.ux-vertical-tabs .tabs button').on("click", function () {
@@ -183,10 +183,10 @@ $(document).ready(function () {
     }
 
     // Setup menu hover
-    function updateHelpText(elem){
+    function updateHelpText(elem) {
         $ht = $("#helptext");
 
-        if($ht.css('display') == 'none') {
+        if ($ht.css('display') == 'none') {
             $ht.show();
         }
 
@@ -244,8 +244,87 @@ $(document).ready(function () {
         }
     );
 
-    $('.toggle-menu').click(function(){
+    $('.toggle-menu').click(function () {
         $('.exo-menu').toggleClass('display');
 
     });
+
+
+    $(".pricing__action").click(function () {
+        var package = $(this).data("package");
+
+        console.log(
+            validate(
+                {
+                    email: "test@smsmaii"
+                },
+                {
+                    email: {
+                        email: true
+                    }
+                }
+            )
+        );
+
+        Swal.fire({
+            title: '<strong>Thank you!</strong>',
+            icon: 'success',
+            html:
+                'You chose: </br>' +
+                '<span style="color:#9a7f5f;font-style: italic;">' +
+                package.toString() +
+                '</span>.' +
+                '</br></br>' +
+                'Please fill in your contact details so we can get back to you to complete your purchase:' +
+                '</br></br>' +
+                '<label for="swal-input1">Email Address:</label>' +
+                '<input id="swal-input1" type="email" class="swal2-input" placeholder="contact@domain.com">' +
+                '<label for="swal-input2">Phone Number:</label>' +
+                '<input id="swal-input2" type="tel" class="swal2-input" placeholder="00000000000">',
+            showCloseButton: true,
+            showCancelButton: true,
+            focusConfirm: false,
+            confirmButtonText:
+                '<i class="fa fa-paper-plane"></i> Send Details',
+            confirmButtonAriaLabel: 'Send details',
+            cancelButtonText:
+                '<i class="fa fa-ban"></i> Cancel Purchase',
+            cancelButtonAriaLabel: 'Cancel Purchase',
+            preConfirm: function () {
+                var email = document.getElementById('swal-input1').value;
+                var phone = document.getElementById('swal-input2').value;
+
+                var constraints = {
+                    email: {
+                        presence: true,
+                        email: true
+                    },
+                    phone: {
+                        presence: true,
+                        format: {
+                            pattern: /^\s*\(?(020[7,8]{1}\)?[ ]?[1-9]{1}[0-9{2}[ ]?[0-9]{4})|(0[1-8]{1}[0-9]{3}\)?[ ]?[1-9]{1}[0-9]{2}[ ]?[0-9]{3})\s*$/gm,
+                            flags: "i",
+                            message: "must be a valid UK phone number."
+                        }
+                    }
+                };
+
+                var result = validate({
+                    email: email,
+                    phone: phone,
+                }, constraints);
+
+                if(result.email){
+                    Swal.showValidationMessage(result.email);
+                    return;
+                }
+
+                if(result.phone){
+                    Swal.showValidationMessage(result.phone);
+                    return;
+                }
+            }
+        });
+    });
+
 });

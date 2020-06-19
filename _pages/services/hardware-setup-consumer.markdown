@@ -1,19 +1,20 @@
 ---
 layout: splash
-title: "On-Site Hardware Setup for Small Businesses and Enterprise"
-permalink: /hardware-products-and-services/it-hardware-setup
+title: "Hardware Setup for Consumers"
+permalink: /hardware-products-and-services-consumer/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  more_text: "Discover On-Site Hardware Setup Services"
   
 secondaryMenu:
     - title: "Hardware Setup for Businesses"
       url: /hardware-products-and-services/it-hardware-setup
     - title: "Hardware Setup for Consumers"
-      url: hardware-products-and-services/it-hardware-setup-consumer
+      url: /hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}
@@ -54,6 +55,6 @@ Including drivers setup
 ### Cost of our Hardware procurement service
 
 
-We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services for your business software needs.
+We also offer <a href="/">software procurement</a> services for your business software needs.
 
 {% include industry-consultation.md %}

@@ -1,16 +1,26 @@
 ---
 layout: splash
-title: "I.T Software Support for Small Businesses and Enterprises"
-permalink: /software-products-and-services/it-software-support
+title: "I.T Hardware Support for Consumers"
+permalink: /hardware-products-and-services/it-hardware-support-consumer
 
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  min_height: "600px"
+  more_text: "Discover I.T Hardware Support Services"
+  
+secondaryMenu:
+    - title: "Hardware Support for Businesses"
+      url: /hardware-products-and-services/it-hardware-support
+    - title: "Hardware Support for Consumers"
+      url: hardware-products-and-services/it-hardware-support-consumer
 ---
 
 {% include breadcrumbs.html %}
+
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Consumers
 
 IT Strategy
 IT Projects
@@ -40,7 +50,7 @@ IT Audits
     - Android Devices
     - iOS Devices
 
-We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services
+We also offer <a href="/">software procurement</a> services
 
 
 1st Line Support – Generally Helpdesk – Job titles such as Helpdesk Operator, First Line Support, IT Call Desk
@@ -54,5 +64,8 @@ Actual onsite support from the 2nd line is not always the case. Sometimes it is 
 3rd Line Support – Most of the time a more specialised individual or team for onsite contact – Job titles such as Network Specialist, Server Specialist/Engineer and many more specialised job roles.
 
 When these personnel appear you know you’ve got a problem These are usually more qualified individuals, such as Microsoft Certified in the case of MS Windows Server issues.
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
 
 {% include industry-consultation.md %}

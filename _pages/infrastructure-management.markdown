@@ -25,7 +25,7 @@ Datacentre decommissioning
 
 Physical and Viirtual infrastructure management for companies and corporations.
 
-[Managed WiFi Access Points](/it-operations-consultancy/it-infrastructure-management-services/managed-wifi)
-[Managed Domain Names](/it-operations-consultancy/it-infrastructure-management-services/managed-domain-names)
+[Managed WiFi Access Points](/)
+[Managed Domain Names](/)
 
 {% include industry-consultation.md %}

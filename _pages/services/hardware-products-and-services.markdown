@@ -1,30 +1,27 @@
 ---
 layout: splash
-title: "Hardware Setup for Consumers"
-permalink: /hardware-products-and-services/it-hardware-setup-consumer
+title: "I.T Hardware Products and Services for Small Businesses and Enterprises"
+permalink: /hardware-products-and-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  min_height: "600px"
+  more_text: "Discover our Hardware Products & Services"
   
 secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /hardware-products-and-services/it-hardware-setup
-    - title: "Hardware Setup for Consumers"
-      url: /hardware-products-and-services/it-hardware-setup-consumer
+    - title: "I.T Hardware Services for Businesses"
+      url: /hardware-products-and-services
+    - title: "I.T Hardware Services for Consumers"
+      url: /hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Setup
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Products and Services
 Having the right tools to do the right job is 
-
-
-We come to your location to fit new hardware.
-
-
 
 > "I need my team equipped with the right technology to get their job done"
 
@@ -47,13 +44,9 @@ Including drivers setup
 
 - Servers
 
-## Why choose Keep-Alive I.T?
-{% include why-us-section.html %}
-
-
 ### Cost of our Hardware procurement service
 
 
-We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services for your business software needs.
+We also offer <a href="/">software procurement</a> services for your business software needs.
 
 {% include industry-consultation.md %}

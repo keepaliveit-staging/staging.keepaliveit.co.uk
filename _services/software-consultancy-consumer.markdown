@@ -78,7 +78,7 @@ secondaryMenu:
         <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
-            <p><a href="/software-consultancy-consumer/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -92,8 +92,8 @@ secondaryMenu:
         </div>
         <div class="col-xs-8 col-sm-9">
             <h3>CODE MENTORING</h3>
-            <p>Looking to learn how to code? We can provide quality code mentorship sessions for groups, or individuals.</p>
-            <p><a href="/software-consultancy-consumer/code-mentorship-service">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p>Looking to learn how to code? We can provide quality code mentoring sessions for groups, or individuals.</p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>

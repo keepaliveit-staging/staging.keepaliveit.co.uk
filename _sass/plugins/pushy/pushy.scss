@@ -17,6 +17,16 @@ $menu_width: 100vw !default;
     overflow: auto;
     -webkit-overflow-scrolling: touch; /* enables momentum scrolling in iOS overflow elements */
 
+    i.fas:first-child {
+        font-size: 1em;
+        width: 1.6em;
+        text-align: center;
+        line-height: 1.6em;
+        background: #aa0000;
+        color: #fff;
+        border-radius: 0.8em;
+    }
+
     a{
         display: block;
         color: #b3b3b1;
@@ -41,8 +51,8 @@ $menu_width: 100vw !default;
     }
 
     .pushy-content {
-        ul {
-            margin: 20px;
+        & > ul {
+            margin: 10px;
         }
     }
 }
@@ -150,6 +160,10 @@ $menu_width: 100vw !default;
 
         .pushy-link{
             transition: opacity 0.2s ease-in-out;
+
+            a {
+                padding: 15px 15px;
+            }
         }
     }
 

@@ -27,8 +27,8 @@
                         </li>
                         <li>
                             <i class="fas fa-arrow-circle-right"></i>
-                            <a class="{% if page.permalink == '/solutions/it-for-non-profit' %}active{% endif %}"
-                               href="/solutions/it-for-non-profit">I.T Solutions for Non-Profit Organisations</a>
+                            <a class="{% if page.permalink == '/solutions/it-for-non-profit-organisations' %}active{% endif %}"
+                               href="/solutions/it-for-non-profit-organisations">I.T Solutions for Non-Profit Organisations</a>
                         </li>
                         <li>
                             <i class="fas fa-arrow-circle-right"></i>
@@ -123,7 +123,7 @@
                         </li>
                         <li>
                             <i class="fas fa-arrow-circle-right"></i>
-                            <a class="{% if page.permalink == '/tools' %}active{% endif %}" href="/tools">Tools</a>
+                            <a class="{% if page.permalink == '/tools' %}active{% endif %}" href="/tools">I.T Tools & Utilities</a>
                         </li>
                     </ul>
                 </nav>
@@ -137,18 +137,16 @@
         <div class="page__footer-follow">
             <ul class="social-icons">
                 {% if site.footer.links %}
-                {% for link in site.footer.links %}
-                {% if link.label and link.url %}
-                <li>
-                    <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
-                        <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
-
-                    </a>
-                </li>
+                    {% for link in site.footer.links %}
+                        {% if link.label and link.url %}
+                            <li>
+                                <a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+                                    <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+                                </a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
                 {% endif %}
-                {% endfor %}
-                {% endif %}
-
                 <li>
                     <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
                         <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i>

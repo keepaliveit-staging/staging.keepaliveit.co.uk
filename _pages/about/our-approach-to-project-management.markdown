@@ -10,15 +10,6 @@ header:
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
 
-pagination:
-  collection: techtip
-  enabled: true
-  sort_reverse: true
-  sort_field: 'date'
-  per_page: 4
-  trail:
-    before: 1
-    after: 1
 ---
 
 {% include breadcrumbs.html %}

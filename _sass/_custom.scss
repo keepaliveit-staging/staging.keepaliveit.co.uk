@@ -1649,21 +1649,22 @@ Cookie notice
 
   .bubble1 {
     position: absolute;
-    top: 70px;
-    left: 10%;
-    max-width: 80%;
     background: rgba(0, 0, 0, 0.57);
     color: #e7e7e7;
     border-radius: 30px;
     padding: 12px;
     font-size: 1.4em;
     text-align: center;
+
+    // Mobile first
+    top: 40px;
+    left: 10%;
+    max-width: 80%;
+
   }
 
   .bubble2 {
     position: absolute;
-    top: 250px;
-    left: 15%;
     max-width: 70%;
     background: rgba(13, 73, 112, 0.93);
     color: #e7e7e7;
@@ -1671,6 +1672,10 @@ Cookie notice
     border-radius: 30px;
     padding: 18px;
     text-align: center;
+
+    // Mobile first
+    top: 270px;
+    left: 15%;
 
     a {
       color: white;
@@ -1686,6 +1691,7 @@ Cookie notice
   .bubble3 {
 
     background-color: rgba(170, 0, 0, 1);
+    opacity: 0.78;
 
     color: white;
     border-radius: 50%;
@@ -1693,30 +1699,30 @@ Cookie notice
     left: 0;
 
     // mobile first size
-    width: 485px;
+    width: 100%;
     height: 600px;
-    bottom: -450px;
+    bottom: -460px;
 
     @include breakpoint($small) {
-      width: $small;
+      width: 100%;
       height: $small;
-      bottom: -450px;
+      bottom: -460px;
     }
 
     @include breakpoint($medium) {
-      width: $medium;
+      width: 100%;
       height: $medium;
       bottom: -620px;
     }
 
     @include breakpoint($large) {
-      width: $large;
+      width: 100%;
       height: $large;
       bottom: -875px;
     }
 
     @include breakpoint($x-large) {
-      width: $x-large;
+      width: 100%;
       height: $x-large;
       bottom: -950px;
     }

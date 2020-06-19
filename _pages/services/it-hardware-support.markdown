@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "I.T Hardware Support for Consumers"
-permalink: /hardware-products-and-services/it-hardware-support-consumer
+title: "On-Site I.T Hardware Support for Small Business and Enterprise"
+permalink: /hardware-products-and-services/it-hardware-support
 
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
@@ -12,15 +12,15 @@ header:
   more_text: "Discover I.T Hardware Support Services"
   
 secondaryMenu:
+    - title: "Hardware Support for Consumers"
+      url: /hardware-products-and-services/it-hardware-support-consumer
     - title: "Hardware Support for Businesses"
       url: /hardware-products-and-services/it-hardware-support
-    - title: "Hardware Support for Consumers"
-      url: hardware-products-and-services/it-hardware-support-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Consumers
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Small Business and Enterprise
 
 IT Strategy
 IT Projects
@@ -50,7 +50,7 @@ IT Audits
     - Android Devices
     - iOS Devices
 
-We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services
+We also offer <a href="/">software procurement</a> services
 
 
 1st Line Support – Generally Helpdesk – Job titles such as Helpdesk Operator, First Line Support, IT Call Desk

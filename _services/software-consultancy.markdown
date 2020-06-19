@@ -48,7 +48,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE TRAINING</h3>
             <p>Having well-versed and knowledgable staff is a key element of ensuring work gets done by your staff efficiently and on time. We offer one-to-one, or group workshop based software training sessions tailored towards training staff with I.T Systems & Software Packages. Offload your staff I.T training requirements onto us so that your staff are confident with using whatever I.T you throw at them and we guarantee your business will become a better, happier, and easier place to work at for your staff.</p>    
-            <p><a href="/software-consultancy/software-training-services">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Training Services.</a></p>
         </div>
     </div>
 </div>
@@ -63,7 +63,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE PROCUREMENT AND SOFTWARE IMPLEMENTATION</h3>
             <p>Procuring I.T Software can get confusing when complex multi-tenant or virtualised setups exist within an organisation. Offload your Software Procuring & Software Implementing tasks onto us and you'll never have to worry about suprising future software costs ever again.</p>      
-            <p><a href="/software-consultancy/software-procurement-services">View more information and discover pricing for Keep-Alive I.T's Software Procurement & Implementation consultancy Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Procurement & Implementation consultancy Services.</a></p>
         </div>
     </div>
 </div>
@@ -78,7 +78,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         <div class="col-xs-8 col-sm-9">
             <h3>SOFTWARE DEVELOPMENT</h3>
             <p>Having functional & robust software implemented in a business is essential for ensuring company operations are being performed & completed successfully. We write clean & tested code which conforms to industry best practises, resulting in bespoke software that's going to push your business ahead of its competitors. Whether your in-house development team are up to their eyes with other work, or you don't have an in house development team and require bespoke software for your business, you can rely on us to get the job done.</p>
-            <p><a href="/software-consultancy/software-development-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -93,7 +93,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         <div class="col-xs-8 col-sm-9">
             <h3>WEBSITE DEVELOPMENT</h3>
             <p>Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.</p>
-            <p><a href="/software-consultancy/website-development-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -108,7 +108,7 @@ We will plan, consult, and implement I.T solutions for organisations of all size
         <div class="col-xs-8 col-sm-9">
             <h3>DEVELOPMENT TEAM FORMATION & DEVELOPER ONBOARDING</h3>
             <p>Forming a new Software Development Team, or onboarding new Software Developers in an existing Software Development Team can be a challenging, frustrating, and a time consuming process. Offload your Development Team Formation tasks onto us and we'll apply our expertise with forming an in-house, or remote Software Development team for you. We'll do this by hiring new Software Developers, Onboarding new Software Developers into a Team, Managing existing staff, and implementing plans & processes to make Software Development projects easier to manage.</p>
-            <p><a href="/software-consultancy/software-development-team-formation-and-developer-onboarding-services">View more information and discover pricing for Keep-Alive I.T's Development Team formation & Software Developer onboarding Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Development Team formation & Software Developer onboarding Services.</a></p>
         </div>
     </div>
 </div>

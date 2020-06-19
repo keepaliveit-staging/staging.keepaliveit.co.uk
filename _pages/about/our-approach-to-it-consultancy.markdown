@@ -3,7 +3,7 @@ layout: splash
 title: Keep-Alive I.T's approach to I.T consultancy
 permalink: /about/our-approach-to-it-consultancy/
 
-excerpt: "Tech Tips for 'Non-Tech Warriors' who want to learn how to complete common computing tasks."
+excerpt: "Keep-Alive I.T's approach to I.T Consultancy explained."
 
 header:
   overlay_image: /assets/images/tips.jpg
@@ -11,15 +11,6 @@ header:
   page_lead_text_colour: "#aa0000"
   more_text: "Read about our approach to I.T consultancy"
 
-pagination:
-  collection: techtip
-  enabled: true
-  sort_reverse: true
-  sort_field: 'date'
-  per_page: 4
-  trail:
-    before: 1
-    after: 1
 ---
 
 {% include breadcrumbs.html %}

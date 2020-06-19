@@ -65,7 +65,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>HARDWARE PROCUREMENT AND SETUP SERVICE</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>      
-            <p><a href="/it-operations-consultancy/hardware-procurement">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Implementation consultancy Services.</a></p>
         </div>
     </div>
 </div>
@@ -80,7 +80,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>I.T SUPPORT SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
-            <p><a href="/it-operations-consultancy/it-support">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -95,7 +95,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>I.T COMPLIANCE & SECURITY SERVICES</h3>
             <p>We offer explained help and planning around all aspects of your I.T needs as experts in the I.T industry. We can help you answer questions similar to the following:</p>
-            <p><a href="/it-operations-consultancy/it-compliance-and-security-services">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Software Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -110,7 +110,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>INFRASTRCTURE MANAGEMENT SERVICES</h3>
             <p>Firewalls, DNS, Email, Infrastructure Monitoring, Backup solutions</p>
-            <p><a href="/it-operations-consultancy/it-infrastructure-management-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>
@@ -125,7 +125,7 @@ Secure, operational, and robust infrastructure is crucial for businesses who wan
         <div class="col-xs-8 col-sm-9">
             <h3>CLOUD CONSULTANCY SERVICES</h3>
             <p>Establishing your business’s brand online through a professionally developed website is beneficial :</p>
-            <p><a href="/it-operations-consultancy/cloud-services">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
+            <p><a href="">View more information and discover pricing for Keep-Alive I.T's Website Development Services.</a></p>
         </div>
     </div>
 </div>

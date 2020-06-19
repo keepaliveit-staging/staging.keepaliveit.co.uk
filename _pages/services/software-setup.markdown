@@ -1,20 +1,17 @@
 ---
 layout: splash
-title: "Software Procurement Services for Small Businesses and Enterprises"
-permalink: /software-products-and-services/software-procurement
+title: "Software Setup Services for Small Businesses and Enterprises"
+permalink: /software-products-and-services/software-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
   page_lead_text_colour: "#897ad1"
-  min_height: "600px"
-  more_text: "Learn why you should offload I.T procurement"
+
 ---
 
 {% include breadcrumbs.html %}
-
-Understanding licensing costs
 
 <div class="container">
 	<div class="row">
@@ -92,7 +89,7 @@ Enterprises and large corporate customers.
 - Freelancer Software
 - Surveying Software
 
-We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware procurement</a> services for your business hardware needs.
+We also offer <a href="">hardware procurement</a> services for your business hardware needs.
 
 - Software Licensing
 - IT Supplier Management
@@ -100,7 +97,6 @@ We also offer <a href="/it-operations-consultancy/hardware-procurement">hardware
 
 ## CMS implementation
 Managing information effectively is crucial to maintaining quality standards on I.T systems. We can assist with Content Management systems, including Wordpress.
-
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}

@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Hardware Procurement for Small Businesses and Enterprises"
-permalink: /hardware-products-and-services/it-hardware-procurement
+title: "I.T Consultancy Services for Small Businesses and Enterprises"
+permalink: /it-consultancy-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -12,7 +12,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure
@@ -64,6 +64,6 @@ Many enterprises have on-premise equipment that they host on-site to keep data c
 ## Cost of our Hardware procurement service
 
 
-We also offer <a href="/software-consultancy/software-procurement-services">software procurement</a> services for your business software needs.
+We also offer <a href="/">software procurement</a> services for your business software needs.
 
 {% include industry-consultation.md %}
