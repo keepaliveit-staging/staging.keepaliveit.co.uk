@@ -17,3 +17,6 @@ header:
 {% include breadcrumbs.html %}
 
 ## I.T Solutions for Not For Profit Organisations
+
+We offer a small amount of I.T services at a reduced rate for Non-Profit Organisations.
+
