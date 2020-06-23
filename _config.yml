@@ -26,6 +26,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 debugMode                : true
 host                     : 0.0.0.0
+collections_dir          : "collections"
 locale                   : "en-GB"
 title                    : "Keep-Alive I.T"
 title_separator          : "-"
@@ -237,7 +238,7 @@ collections:
     permalink: /benefits-of-effective-it/:path/
   solutions:
     output: true
-    permalink: /it-_solutions/:path/
+    permalink: /:collection/:path/
   services:
     output: true
     permalink: /:collection/:path/
@@ -250,9 +251,61 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  cloud-services:
-      output: true
-      permalink: /:collection/:path/
+  cloud-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  cloud-products-and-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  cloud-products-and-services-for-non-profits:
+    output: true
+    permalink: /:collection/:path/
+  cloud-products-and-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
+  cloud-products-and-services-for-consumers:
+    output: true
+    permalink: /:collection/:path/
+  office-fitting-services:
+    output: true
+    permalink: /:collection/:path/
+  office-fitting-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  it-consultancy-services:
+    output: true
+    permalink: /:collection/:path/
+  it-consultancy-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  it-consultancy-services-for-non-profits:
+    output: true
+    permalink: /:collection/:path/
+  it-consultancy-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
+  website-services:
+    output: true
+    permalink: /:collection/:path/
+  website-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  hardware-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  hardware-products-and-services-for-consumers:
+    output: true
+    permalink: /:collection/:path/
+  hardware-products-and-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  software-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  software-products-and-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:

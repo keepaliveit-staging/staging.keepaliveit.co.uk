@@ -4,248 +4,245 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 {% endif %}
 
-<header class="masthead">
-    <div class="masthead__inner-wrap">
-        <div class="masthead__menu">
-            <nav class="site-nav greedy-nav" role="navigation">
-                <div class="masthead__brand">
-                    {% unless logo_path == empty %}
-                    <a class="site-logo-link" href="{{ '/' | relative_url }}" data-tirole="logo">
-                        <img src="/assets/images/logo-tagline.svg"
-                             class="lazy img-fluid"
-                             alt="Keep-Alive I.T Logo"></a>
-                    {% endunless %}
-                </div>
+<div class="droopmenu-boxed">
+    <div class="droopmenu-navbar dmfixed">
+        <div class="droopmenu-inner">
+            <div class="droopmenu-header">
+                <a href="/" class="droopmenu-brand">
+                    <img src="/assets/images/logo-tagline.svg"
+                         class="lazy"
+                         alt="Keep-Alive I.T Logo">
+                </a>
+                <a href="#" class="droopmenu-toggle"></a>
+            </div><!-- droopmenu-header -->
+            <div class="droopmenu-nav">
+                <ul class="droopmenu">
 
-                <ul class="exo-menu">
                     {%- for link in site.data.navigation.main -%}
                     {%- if link.item.url contains '://' -%}
                     {%- assign url = link.item.url -%}
                     {%- else -%}
                     {%- assign url = link.item.url | relative_url -%}
                     {%- endif -%}
-                    {%- assign url_no_home = page.url | replace: "-consumer", "" -%}
-                    <li class="drop-down{% if (page.url == url) or (url_no_home == url) %} active{% endif %}" aria-haspopup="true">
-                        <a href="{{ link.url }}" {% if link.description %}title="{{ link.description }}" {%
-                           endif %} data-level="1">
-                            <span class="menu-item">
-                                {{ link.title }}
-                                ▾
-                            </span>
+
+                    <li class="droopmenu-parent droopmenu-mega" aria-haspopup="true">
+                        <a href="{{ link.url }}" aria-expanded="false">
+                            {{ link.title }}
                         </a>
-                        <ul class="drop-down-ul" style="width: {{ link.submenuwidth | default: "200px" }};">
-                            {%- for submenu1 in link.subitems -%}
-                            <li class="flyout-right" data-helptext="{{ submenu1.helptext }}">
-                                <a href="{{ submenu1.url }}" data-level="2">
-                                    <span>
-                                        {{ submenu1.icon }}
-                                        {{ submenu1.title }}
-                                        {% if submenu1.subitems %}
-                                        <i class="fas fa-chevron-right" aria-hidden="true"></i>
-                                        {% endif %}
-                                    </span>
-                                </a>
-                                <ul style="width: {{ submenu1.submenuwidth | default: "200px" }};">
-                                    {%- for submenu2 in submenu1.subitems -%}
-                                    <li class="flyout-right" data-helptext="{{ submenu2.helptext }}">
-                                        <a href="{{ submenu2.url }}" data-level="3">
-                                            <span>
-                                                {{ submenu2.icon }}
-                                                {{ submenu2.title }}
-                                                {% if submenu2.subitems %}
-                                                <i class="fas fa-chevron-right" aria-hidden="true"></i>
-                                                {% endif %}
-                                            </span>
+                        <ul class="droopmenu-megamenu droopmenu-grid">
+                            <li class="droopmenu-tabs tabs-justify droopmenu-tab-hover">
+                                <div class="droopmenu-tabpanel droopmenutabcol">
+                                    <!-- TAB -->
+                                    {%- for submenu1 in link.subitems -%}
+                                    <div class="droopmenu-tabsection" class="droopmenu-helptext"
+                                         data-helptext="{{ submenu1.helptext }}">
+                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader">
+                                            {{ submenu1.icon }}
+                                            {{ submenu1.short_title }}
                                         </a>
-                                        <ul style="width: {{ submenu2.submenuwidth | default: "200px" }};">
-                                            {%- for submenu3 in submenu2.subitems -%}
-                                            <li class="flyout-right" data-helptext="{{ submenu3.helptext }}">
-                                                <a href="{{ submenu3.url }}" data-level="4">
-                                                    <span>
-                                                        {{ submenu3.icon }}
-                                                        {{ submenu3.title }}
-                                                        {% if submenu3.subitems %}
-                                                        <i class="fas fa-chevron-right" aria-hidden="true"></i>
-                                                        {% endif %}
-                                                    </span>
+                                        <div class="droopmenu-tabcontent">
+                                            <div class="droopmenu-row">
+                                                {%- for submenu2 in submenu1.subitems -%}
+                                                <ul class="droopmenu-col">
+                                                    <li class="droopmenu-helptext"
+                                                        data-helptext="{{ submenu2.helptext }}">
+                                                        <h4>
+                                                            {{ submenu2.icon }}
+                                                            {{ submenu2.title }}
+                                                        </h4>
+                                                    </li>
+                                                    {%- for submenu3 in submenu2.subitems -%}
+                                                    <li class="droopmenu-helptext"
+                                                        data-helptext="{{ submenu3.helptext }}">
+                                                        <a href="{{ submenu3.url }}">{{ submenu3.title }}</a>
+                                                    </li>
+                                                    {%- endfor -%}
+                                                </ul>
+                                                {%- endfor -%}
+                                            </div>
+                                            <div>
+                                                <a href="{{ submenu1.url }}">
+                                                    {{ submenu1.icon }}
+                                                    Explore all I.T Solutions for {{ submenu1.short_title }}
                                                 </a>
-                                            </li>
-                                            {%- endfor -%}
-                                        </ul>
-                                    </li>
+                                            </div>
+                                        </div>
+                                    </div>
                                     {%- endfor -%}
-                                </ul>
+                                </div>
                             </li>
-                            {%- endfor -%}
                         </ul>
                     </li>
+
                     {%- endfor -%}
 
-                    <li class="mega-drop-down">
-                        <a href="#" data-tirole="mega-drop-down">
-                            <span class="menu-item">
-                                I.T Resources ▾
-                            </span>
-                        </a>
-                        <div class="mega-menu">
-                            <div class="mega-menu-wrap">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-sm-4">
-                                            <h4 class="row mega-title">Special Offer</h4>
-                                            <img class="img-fluid lazy"
-                                                 data-src="/assets/images/placeholders/300x250.png">
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <h4 class="row mega-title">I.T Resources</h4>
-                                            <ul class="description">
+                    <li>
+                        <a href="#">I.T Consultancy Topics</a>
+                        <ul>
+                            <li>
+                                <a href="#">Flyout</a>
+                                <ul>
+                                    <li>
+                                        <a href="#">Multi Level</a>
+                                        <ul>
+                                            <li><a href="#">Level 11</a></li>
+                                            <li>
+                                                <a href="#">Level 12</a>
+                                                <ul>
+                                                    <li><a href="#">Level Link 12</a></li>
+                                                    <li><a href="#">Level Link 12</a></li>
+                                                    <li><a href="#">Level Link 12</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="#">Level 13</a></li>
+                                            <li><a href="#">Level 14</a></li>
+                                            <li><a href="#">Level 15</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Codecanyon</a></li>
+                                    <li><a href="#">Themeforest</a></li>
+                                    <li><a href="#">Graphicriver</a></li>
+                                    <li><a href="#">Audiojungle</a></li>
+                                    <li><a href="#">Photodune</a></li>
+                                    <li><a href="#">Videohive</a></li>
+                                    <li><a href="#">3Docean</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">Company</a>
+                        <ul class="droopmenu-megamenu droopmenu-grid">
+                            <li class="droopmenu-grid-container">
+                                <div class="droopmenu-row dm-equalize">
+                                    <div class="droopmenu-col droopmenu-col4">
+                                        <div class="droopmenu-content dm-border-right">
+                                            <h4>Latest Company News</h4>
+                                            <p>
+                                                <span class="dm-small">23rd June 2018</span><br/>
+                                                Sed at veniam antiopam neglegentur, cu libris labores quaestio
+                                                ius. Sed ad consul disputando. Et perfecto urbanitas intellegam nam
+                                                obcaecati eveniet voluptatem optio soluta corporis quas.
+                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
+                                            </p>
+                                            <p>
+                                                <span class="dm-small">12th July 2018</span><br/>
+                                                Suspendisse ut vulputate erat. Vestibulum quis auctor odio.
+                                                Etiam porta nec lectus non sollicitudin. Nunc id tortor nisi.
+                                                Vivamus sed tortor in ante dignissim
+                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
+                                            </p>
+                                            <p>
+                                                <span class="dm-small dm-bold">28th July 2018</span><br/>
+                                                Pro an animalmaiestatis eat omittam fastidii wisi iudico
+                                                numquam eos at, excorpora contentiones sed, dicant constituam
+                                                eu est. Ex eruditi facilis mei, id vero omittantur eum.
+                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
+                                            </p>
+                                        </div><!-- droopmenu-content -->
+                                    </div><!-- col5 -->
+                                    <div class="droopmenu-col droopmenu-col4">
+                                        <div class="droopmenu-content dm-border-right">
+                                            <h4>About Us</h4>
+                                            <p>Donec tortor augue, semper eu convallis vitae,
+                                                mollis commodo neque. Morbi nibh erat, imperdiet viverra
+                                                volutpat a, vulputate vel nunc. Etiam consequat scelerisque
+                                                volutpat. Suspendisse potenti mollis sit amet sagittis.</p>
+                                            <hr class="dm-border-bottom">
+                                            <h4>Our Mission</h4>
+                                            <p>Sed mi erat, dictum id ultricies adipiscing,
+                                                viverra sit amet elit ut, tempor ornare id massa
+                                                commodo, iaculis libero sit amet.</p>
+                                            <hr class="dm-border-bottom">
+                                            <h4>Social Media</h4>
+                                            <div class="droopmenu-social-icons">
+                                                <a href="#" class="dms-icon dm-facebook"> <i
+                                                        class="ion-social-facebook"></i> </a>
+                                                <a href="#" class="dms-icon dm-twitter"> <i
+                                                        class="ion-social-twitter"></i> </a>
+                                                <a href="#" class="dms-icon dm-googleplus"> <i
+                                                        class="ion-social-google"></i> </a>
+                                                <a href="#" class="dms-icon dm-linkedin"><i
+                                                        class="ion-social-linkedin"></i></a>
+                                                <a href="#" class="dms-icon dm-rss"><i class="ion-social-rss"></i></a>
+                                                <a href="#" class="dms-icon dm-instagram"><i
+                                                        class="ion-social-instagram"></i></a>
+                                                <a href="#" class="dms-icon dm-youtube"><i
+                                                        class="ion-social-youtube"></i></a>
+                                                <a href="#" class="dms-icon dm-whatsapp"><i
+                                                        class="ion-social-whatsapp"></i></a>
+                                            </div><!-- social-icons -->
+                                        </div><!-- droopmenu-content -->
+                                    </div>
+                                    <div class="droopmenu-col droopmenu-col4">
+                                        <div class="droopmenu-content">
+                                            <h4>Icon Links</h4>
+                                            <ul class="droopmenu-icon-links">
                                                 <li>
-                                                    <a href="/it-consultation">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Consultancy Articles
-                                                    </a>
-                                                    <span>I.T Consultancy Articles covering topics in commercial I.T setups. </span>
+                                                    <a href="#">Security</a>
+                                                    <div class="dm-details">
+                                                        <span>Security</span>
+                                                        <p>Potencialize os resultados com
+                                                            nossos poderosos recursos</p>
+                                                    </div>
+                                                    <div class="dm-icon-holder">
+                                                        <i class="ion-android-lock"></i>
+                                                    </div>
                                                 </li>
                                                 <li>
-                                                    <a href="/tech-tips">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        Tech Tips for Consumers
-                                                    </a>
-                                                    <span>Technology Tips for Consumers, covering a range of I.T topics for household I.T setups.</span>
+                                                    <a href="#">Group Chat</a>
+                                                    <div class="dm-details">
+                                                        <span>Group Chat</span>
+                                                        <p>Potencialize os resultados com
+                                                            nossos poderosos recursos</p>
+                                                    </div>
+                                                    <div class="dm-icon-holder">
+                                                        <i class="ion-chatboxes"></i>
+                                                    </div>
                                                 </li>
                                                 <li>
-                                                    <a class="view-more btn-sm " href="/resources">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        View more I.T Resources
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <h4 class="row mega-title">I.T Solutions</h4>
-                                            <ul class="stander">
-                                                <li>
-                                                    <a href="/solutions/cyber-essentials-it-compliance">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        Cyber Essentials I.T Compliance
-                                                    </a>
+                                                    <a href="#">Useful Tips</a>
+                                                    <div class="dm-details">
+                                                        <span>Useful Tips</span>
+                                                        <p>Potencialize os resultados com
+                                                            nossos poderosos recursos</p>
+                                                    </div>
+                                                    <div class="dm-icon-holder">
+                                                        <i class="ion-ios-lightbulb"></i>
+                                                    </div>
                                                 </li>
                                                 <li>
-                                                    <a href="/solutions/gdpr-it-compliance">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        GDPR Compliance for I.T
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="/solutions/it-for-business">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Solutions for Businesses
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="/solutions/it-for-consumers">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Solutions for Consumers
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="/solutions/it-for-non-profit-organisations">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Solutions for Non-Profit Organisations
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="/solutions/it-for-public-sector">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Solutions for Public Sector
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="/solutions/it-for-startups">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        I.T Solutions for Startups
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a class="view-more btn-sm" href="/solutions">
-                                                        <i class="fas fa-arrow-circle-right"></i>
-                                                        View more I.T Solutions
-                                                    </a>
+                                                    <a href="#">Analytics</a>
+                                                    <div class="dm-details">
+                                                        <span>Analytics</span>
+                                                        <p>Potencialize os resultados com
+                                                            nossos poderosos recursos</p>
+                                                    </div>
+                                                    <div class="dm-icon-holder">
+                                                        <i class="ion-pie-graph"></i>
+                                                    </div>
                                                 </li>
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </li>
+                        </ul>
                     </li>
-                    <li class="blog-drop-down">
-                        <a href="#">
-                            <span class="menu-item">
-                                Company News ▾
-                            </span>
-                        </a>
-                        <div class="blog-menu">
-                            <div class="container">
-                                <h4 class="row mega-title">Latest Company News</h4>
-                                <div class="row">
-                                    {% for post in site.posts limit:4 %}
-                                    <div class="col-sm-3">
-                                        <div class="blog-thumbnail-image">
-                                            <img class="img-fluid lazy"
-                                                 data-src="{{ post.thumbnail }}">
-                                        </div>
-                                        <h4 class="blog-title">{{ post.title }}</h4>
-                                        <p class="blog-description">{{ post.excerpt | strip_html }}</p>
-                                        <a class="view-more btn- btn-sm" href="{{ post.url }}">
-                                            <i class="fas fa-arrow-circle-right"></i>
-                                            Read Post
-                                        </a>
-                                    </div>
-                                    {% endfor %}
-                                </div>
-                            </div>
-                        </div>
-                    </li>
+                </ul>
+            </div>
+            <div class="droopmenu-extra">
+                <ul class="droopmenu">
                     <li>
-                        <a href="#">
-                            {% if site.search == true %}
-                            <button class="search__toggle" type="button">
-                                <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-                                <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg"
-                                     viewBox="0 0 15.99 16">
-                                    <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z"
-                                          transform="translate(-.01)"></path>
-                                </svg>
-                            </button>
-                            {% endif %}
+                        <a class="droopmenu-button" href="/search">
+                            <span>Search</span>
                         </a>
                     </li>
                 </ul>
-
-                <ul class="exo-menu-2">
-                    <li>
-                        {% if site.search == true %}
-                        <button class="search__toggle" type="button">
-                            <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-                            <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg"
-                                 viewBox="0 0 15.99 16">
-                                <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z"
-                                      transform="translate(-.01)"></path>
-                            </svg>
-                        </button>
-                        {% endif %}
-                    </li>
-                    <li>
-                        <button class="greedy-nav__toggle menu-btn" type="button">
-                            <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
-                            <div class="navicon"></div>
-                        </button>
-                    </li>
-                </ul>
-            </nav>
+            </div>
         </div>
     </div>
-</header>
+</div>
 
 <nav class="pushy pushy-right">
     <div class="pushy-content">
@@ -259,31 +256,31 @@
                 </button>
                 <ul>
                     {%- for submenu1 in link.subitems -%}
-                        {% if submenu1.subitems %}
-                            <li class="pushy-submenu">
-                                <button>
-                                    {{ submenu1.icon }} &nbsp;
-                                    {{ submenu1.title }}
-                                </button>
-                                <ul>
-                                    {%- for submenu2 in submenu1.subitems -%}
-                                        <li class="pushy-link">
-                                            <a href="{{ submenu2.url }}">
-                                                {{ submenu2.icon }} &nbsp;
-                                                {{ submenu2.title }}
-                                            </a>
-                                        </li>
-                                    {%- endfor -%}
-                                </ul>
-                            </li>
-                        {% else %}
+                    {% if submenu1.subitems %}
+                    <li class="pushy-submenu">
+                        <button>
+                            {{ submenu1.icon }} &nbsp;
+                            {{ submenu1.title }}
+                        </button>
+                        <ul>
+                            {%- for submenu2 in submenu1.subitems -%}
                             <li class="pushy-link">
-                                <a href="{{ submenu1.url }}">
-                                    {{ submenu1.icon }} &nbsp;
-                                    {{ submenu1.title }}
+                                <a href="{{ submenu2.url }}">
+                                    {{ submenu2.icon }} &nbsp;
+                                    {{ submenu2.title }}
                                 </a>
                             </li>
-                        {% endif %}
+                            {%- endfor -%}
+                        </ul>
+                    </li>
+                    {% else %}
+                    <li class="pushy-link">
+                        <a href="{{ submenu1.url }}">
+                            {{ submenu1.icon }} &nbsp;
+                            {{ submenu1.title }}
+                        </a>
+                    </li>
+                    {% endif %}
                     {%- endfor -%}
                 </ul>
             </li>

@@ -5,298 +5,162 @@ main:
     url: "#"
     submenuwidth: "250px"
     subitems:
+
     - item:
       title: "I.T Products & Services For Startups"
+      short_title: "For Startups"
       icon: "<i class=\"fas fa-rocket\" aria-hidden=\"true\"></i>"
-      url: "/solutions/it-for-business"
+      url: "/solutions/it-for-startups"
       helptext: "Explore our range of I.T Products and services for Startups."
       submenuwidth: "200px"
       subitems:
-      - item:
-        title: "Cloud Products & Services for Startups"
-        icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-        url: /cloud-services
-        helptext: "Explore our range of Cloud Products, Cloud Consultancy Services, and Cloud Solutions for Startups."
-        submenuwidth: "200px"
-        subitems:
-          - item:
-            title: "AWS Cloud Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/amazon-web-services-aws
-            helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Startups."
-          - item:
-            title: "Microsoft Azure Cloud Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/azure
-            helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Startups."
-          - item:
-            title: "Digital Ocean Cloud Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/digitalocean
-            helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Startups."
-          - item:
-            title: "Google Cloud Platform (GCP) Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/google-cloud-computing-gcp
-            helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Startups."
-          - item:
-            title: "Linode Cloud Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/linode
-            helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Startups."
-          - item:
-            title: "Oracle Cloud Infrastructure (OCI) Management for Startups"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/oracle-cloud-infrastructure-oci
-            helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Startups."
-      - item:
-        title: "I.T Hardware related Products & Services for Startups"
-        icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-        url: /hardware-products-and-services
-        helptext: "Explore our range of I.T Hardware related Products & Services for Startups."
-        submenuwidth: "200px"
-        subitems:
-          - item:
-            title: "I.T Hardware Procurement for Startups"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/it-hardware-procurement
-            helptext: "Explore our range of I.T Hardware Procurement Services for Startups."
-          - item:
-            title: "I.T Hardware Setup for Startups"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/it-hardware-setup
-            helptext: "Explore our range of I.T Hardware Setup Services for Startups."
+        - item:
+          title: "Cloud Products & Services for Startups"
+          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+          url: /cloud-services
+          helptext: "Explore our range of Cloud Products, Cloud Consultancy Services, and Cloud Solutions for Startups."
+          submenuwidth: "200px"
+          subitems:
+            - item:
+              title: "AWS Cloud Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/amazon-web-services-aws
+              helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Startups."
+            - item:
+              title: "Microsoft Azure Cloud Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/azure
+              helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Startups."
+            - item:
+              title: "Digital Ocean Cloud Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/digitalocean
+              helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Startups."
+            - item:
+              title: "Google Cloud Platform (GCP) Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/google-cloud-computing-gcp
+              helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Startups."
+            - item:
+              title: "Linode Cloud Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/linode
+              helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Startups."
+            - item:
+              title: "Oracle Cloud Infrastructure (OCI) Management for Startups"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services-for-startups/oracle-cloud-infrastructure-oci
+              helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Startups."
+        - item:
+          title: "I.T Hardware related Products & Services for Startups"
+          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+          url: /hardware-products-and-services-for-startups
+          helptext: "Explore our range of I.T Hardware related Products & Services for Startups."
+          submenuwidth: "200px"
+          subitems:
+            - item:
+              title: "I.T Hardware Procurement for Startups"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services-for-startups/it-hardware-procurement
+              helptext: "Explore our range of I.T Hardware Procurement Services for Startups."
+            - item:
+              title: "I.T Hardware Setup for Startups"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services-for-startups/it-hardware-setup
+              helptext: "Explore our range of I.T Hardware Setup Services for Startups."
 
-          - item:
-            title: "I.T Hardware Support for Startups"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            helptext: "Explore our range of I.T Hardware Support Services for Startups."
-            url: /hardware-products-and-services/it-hardware-support
-      - item:
-        title: "Software related Products & Services for Startups"
-        icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-        url: /software-products-and-services
-        helptext: "Explore our range of Software related Products & Services for Startups."
-        subitems:
-          - item:
-            title: "Software Training for Startups"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-training
-            helptext: "Explore our range of Software Training Services for Startups."
-          - item:
-            title: "Software Procurement for Startups"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-procurement
-            helptext: "Explore our range of Software Procurement Services for Startups."
-          - item:
-            title: "Software Setup for Startups"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-setup
-            helptext: "Explore our range of Software Setup Services for Startups."
-          - item:
-            title: "Software Development for Startups"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-development-services
-            helptext: "Explore our range of Software Development Services for Startups."
-          - item:
-            title: "I.T Software Support for Startups"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/it-software-support
-            helptext: "Explore our range of I.T Support Services for Startups."
-      - item:
-        title: "I.T Consultancy Services for Startups"
-        icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-        url: /it-consultancy-services
-        helptext: "Explore our range of I.T Consultancy Services for Startups."
-        subitems:
-          - item:
-            title: "Software Development Team Formation & Developer On-boarding Consultancy for Startups"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
-            helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Startups."
-          - item:
-            title: "I.T Compliance & Security Consultancy for Startups"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-compliance-and-security-services
-            helptext: "Explore our I.T Compliance & Security Consultancy packages for Startups."
-          - item:
-            title: "I.T Infrastructure Management Consultancy for Startups"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-infrastructure-management-services
-            helptext: "Explore our I.T Infrastructure Management Consultancy packages for Startups."
-          - item:
-            title: "I.T Project Management Consultancy for Startups"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-project-management
-            helptext: "Explore our I.T Project Management Consultancy packages for Startups."
-      - item:
-        title: "Website Services for Startups"
-        icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-        url: /website-services
-        helptext: "Explore our range of Website related Products & Services for Startups."
-        subitems:
-          - item:
-            title: "Website Development for Startups"
-            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /website-services/website-development
-            helptext: "Explore our range of Website Development Services for Startups."
-          - item:
-            title: "Website Maintenance for Startups"
-            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /website-services/website-maintenance
-            helptext: "Explore our range of Website Maintenance Services for Startups."
-      - item:
-        title: "Office Fitting in South Wales for Startups"
-        icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
-        url: /office-fitting-south-wales
-        helptext: "Office fitting services for Startups in South Wales."
-    - item:
-      title: "I.T Services For Established Businesses"
-      icon: "<i class=\"fas fa-building\" aria-hidden=\"true\"></i>"
-      url: "/solutions/it-for-business"
-      helptext: "Explore our range of I.T Products and services for Business."
-      submenuwidth: "200px"
-      subitems:
-      - item:
-        title: "Cloud Services"
-        icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-        url: /cloud-services
-        helptext: "Explore our range of Cloud Consultancy Services and Solutions for Businesses."
-        submenuwidth: "200px"
-        subitems:
-          - item:
-            title: "AWS Cloud Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/amazon-web-services-aws
-            helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Businesses."
-          - item:
-            title: "Microsoft Azure Cloud Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/azure
-            helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Businesses."
-          - item:
-            title: "Digital Ocean Cloud Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/digitalocean
-            helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Businesses."
-          - item:
-            title: "Google Cloud Platform (GCP) Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/google-cloud-computing-gcp
-            helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Businesses."
-          - item:
-            title: "Linode Cloud Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/linode
-            helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Businesses."
-          - item:
-            title: "Oracle Cloud Infrastructure (OCI) Management"
-            icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-            url: /cloud-services/oracle-cloud-infrastructure-oci
-            helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Businesses."
-      - item:
-        title: "I.T Hardware related Products & Services"
-        icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-        url: /hardware-products-and-services
-        helptext: "Explore our range of I.T Hardware related Products & Services for Businesses."
-        submenuwidth: "200px"
-        subitems:
-          - item:
-            title: "I.T Hardware Procurement"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/it-hardware-procurement
-            helptext: "Explore our range of I.T Hardware Procurement Services for Businesses."
-          - item:
-            title: "I.T Hardware Setup"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            url: /hardware-products-and-services/it-hardware-setup
-            helptext: "Explore our range of I.T Hardware Setup Services for Businesses."
-
-          - item:
-            title: "I.T Hardware Support"
-            icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-            helptext: "Explore our range of I.T Hardware Support Services for Businesses."
-            url: /hardware-products-and-services/it-hardware-support
-      - item:
-        title: "Software related Products & Services"
-        icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-        url: /software-products-and-services
-        helptext: "Explore our range of Software related Products & Services for Businesses."
-        subitems:
-          - item:
-            title: "Software Training"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-training
-            helptext: "Explore our range of Software Training Services for Businesses."
-          - item:
-            title: "Software Procurement"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-procurement
-            helptext: "Explore our range of Software Procurement Services for Businesses."
-          - item:
-            title: "Software Setup"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-setup
-            helptext: "Explore our range of Software Setup Services for Businesses."
-          - item:
-            title: "Software Development"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/software-development-services
-            helptext: "Explore our range of Software Development Services for Businesses."
-          - item:
-            title: "I.T Software Support"
-            icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-            url: /software-products-and-services/it-software-support
-            helptext: "Explore our range of I.T Support Services for Businesses."
-      - item:
-        title: "I.T Consultancy Services"
-        icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-        url: /it-consultancy-services
-        helptext: "Explore our range of I.T Consultancy Services for Businesses."
-        subitems:
-          - item:
-            title: "Software Development Team Formation & Developer On-boarding Consultancy"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
-            helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Businesses."
-          - item:
-            title: "I.T Compliance & Security Consultancy"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-compliance-and-security-services
-            helptext: "Explore our I.T Compliance & Security Consultancy packages for Businesses."
-          - item:
-            title: "I.T Infrastructure Management Consultancy"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-infrastructure-management-services
-            helptext: "Explore our I.T Infrastructure Management Consultancy packages for Businesses."
-          - item:
-            title: "I.T Project Management Consultancy"
-            icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-            url: /it-consultancy-services/it-project-management
-            helptext: "Explore our I.T Project Management Consultancy packages for Businesses."
-      - item:
-        title: "Website Services"
-        icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-        url: /website-services
-        helptext: "Explore our range of Website related Products & Services for Businesses."
-        subitems:
-          - item:
-            title: "Website Development"
-            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /website-services/website-development
-            helptext: "Explore our range of Website Development Services for Businesses."
-          - item:
-            title: "Website Maintenance"
-            icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-            url: /website-services/website-maintenance
-            helptext: "Explore our range of Website Maintenance Services for Businesses."
-      - item:
-        title: "Office Fitting in South Wales"
-        icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
-        url: /office-fitting-south-wales
-        helptext: "Office fitting services for Businesses in South Wales."
+            - item:
+              title: "I.T Hardware Support for Startups"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              helptext: "Explore our range of I.T Hardware Support Services for Startups."
+              url: /hardware-products-and-services-for-startups/it-hardware-support
+        - item:
+          title: "Software related Products & Services for Startups"
+          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+          url: /software-products-and-services-for-startups
+          helptext: "Explore our range of Software related Products & Services for Startups."
+          subitems:
+            - item:
+              title: "Software Training for Startups"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services-for-startups/software-training
+              helptext: "Explore our range of Software Training Services for Startups."
+            - item:
+              title: "Software Procurement for Startups"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services-for-startups/software-procurement
+              helptext: "Explore our range of Software Procurement Services for Startups."
+            - item:
+              title: "Software Setup for Startups"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services-for-startups/software-setup
+              helptext: "Explore our range of Software Setup Services for Startups."
+            - item:
+              title: "Software Development for Startups"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services-for-startups/software-development-services
+              helptext: "Explore our range of Software Development Services for Startups."
+            - item:
+              title: "I.T Software Support for Startups"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services-for-startups/it-software-support
+              helptext: "Explore our range of I.T Support Services for Startups."
+        - item:
+          title: "I.T Consultancy Services for Startups"
+          icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+          url: /it-consultancy-services-for-startups
+          helptext: "Explore our range of I.T Consultancy Services for Startups."
+          subitems:
+            - item:
+              title: "Software Development Team Formation & Developer On-boarding Consultancy for Startups"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services-for-startups/software-development-team-formation-and-developer-onboarding-services
+              helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Startups."
+            - item:
+              title: "I.T Compliance & Security Consultancy for Startups"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services-for-startups/it-compliance-and-security-services
+              helptext: "Explore our I.T Compliance & Security Consultancy packages for Startups."
+            - item:
+              title: "I.T Infrastructure Management Consultancy for Startups"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services-for-startups/it-infrastructure-management-services
+              helptext: "Explore our I.T Infrastructure Management Consultancy packages for Startups."
+            - item:
+              title: "I.T Project Management Consultancy for Startups"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services-for-startups/it-project-management
+              helptext: "Explore our I.T Project Management Consultancy packages for Startups."
+        - item:
+          title: "Website Services for Startups"
+          icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+          url: /website-services-for-startups
+          helptext: "Explore our range of Website related Products & Services for Startups."
+          subitems:
+            - item:
+              title: "Website Development for Startups"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /website-services-for-startups/website-development
+              helptext: "Explore our range of Website Development Services for Startups."
+            - item:
+              title: "Website Maintenance for Startups"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /website-services-for-startups/website-maintenance
+              helptext: "Explore our range of Website Maintenance Services for Startups."
+        - item:
+          title: "Misc. Services for Public Sector Organisations"
+          icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
+          url: /office-fitting-south-wales
+          helptext: "Office fitting services for Public Sector Organisations in South Wales."
+          subitems:
+            - item:
+              title: "Office Fitting in South Wales for Public Sector Organisations"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /office-fitting-services-for-startups/office-fitting-south-wales
+              helptext: "Explore our range of Office Fitting Services for Public Sector Organisations."
     - item:
       title: "I.T Services For Consumers"
+      short_title: "For Consumers"
       icon: "<i class=\"fas fa-home\" aria-hidden=\"true\"></i>"
       url: "/solutions/it-for-consumers"
       helptext: "Explore our range of I.T Products and services for Consumers."
@@ -305,64 +169,65 @@ main:
         - item:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services-consumer
+          url: /cloud-services-for-consumers
           helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
               title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/amazon-web-services-aws
+              url: /cloud-services-for-consumers/amazon-web-services-aws
               helptext: "This is a test item and should be changed in future"
         - item:
           title: "Hardware related Products & Services"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services-consumer
+          url: /hardware-products-and-services-for-consumers
           helptext: "Explore our range of Hardware related Services for Consumers."
           subitems:
             - item:
               title: "I.T Hardware Support"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-support-consumer
+              url: /hardware-products-and-services-for-consumers/it-hardware-support-consumer
               helptext: "Explore our range of I.T Hardware Support Services for Consumers."
         - item:
           title: "Software related Products & Services"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services-consumer
+          url: /software-products-and-services-for-consumers
           helptext: "Explore our range of Software related Products & Services for Consumers."
           subitems:
             - item:
               title: "Software Setup"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-setup
+              url: /software-products-and-services-for-consumers/software-setup
               helptext: "Explore our range of Software Setup Services for Consumers."
             - item:
               title: "Software Development"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-development-services
+              url: /software-products-and-services-for-consumers/software-development-services
               helptext: "Explore our range of Software Development Services for Consumers."
             - item:
               title: "I.T Software Support"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/it-software-support
+              url: /software-products-and-services-for-consumers/it-software-support
               helptext: "Explore our range of I.T Software Support Services for Consumers."
         - item:
           title: "Website Products & Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-services-consumer
+          url: /website-services-for-consumers
           helptext: "Explore our range of Website Products & Services for Consumers."
           subitems:
             - item:
               title: "Website Development"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services-consumer/website-development
+              url: /website-services-for-consumers/website-development
               helptext: "Explore our range of Website Development Services for Consumers."
             - item:
               title: "Website Maintenance"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services-consumer/website-maintenance
+              url: /website-services-for-consumers/website-maintenance
               helptext: "Explore our range of Website Maintenance Services for Consumers."
     - item:
       title: "I.T Services For Non-Profit Organisations"
+      short_title: "For Non-Profits"
       icon: "<i class=\"fas fa-hand-holding-heart\" aria-hidden=\"true\"></i>"
       url: "/solutions/it-for-non-profit-organisations"
       helptext: "Explore our range of I.T Products and services for Consumers."
@@ -371,16 +236,17 @@ main:
         - item:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services-consumer
+          url: /cloud-services-for-consumers
           helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
               title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/amazon-web-services-aws
+              url: /cloud-services-for-consumers/amazon-web-services-aws
               helptext: "This is a test item and should be changed in future"
     - item:
       title: "I.T Services For Public Sector Organisations"
+      short_title: "For Public Sector"
       icon: "<i class=\"fas fa-address-card\" aria-hidden=\"true\"></i>"
       url: "/solutions/it-for-public-sector"
       helptext: "Explore our range of I.T Products and services for Public Sector."
@@ -389,138 +255,296 @@ main:
         - item:
           title: "Cloud Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services
+          url: /cloud-services-for-public-sector
           helptext: "Explore our range of Cloud Products, Cloud Consultancy Services, and Cloud Solutions for Public Sector Organisations."
           submenuwidth: "200px"
           subitems:
             - item:
               title: "AWS Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/amazon-web-services-aws
+              url: /cloud-services-for-public-sector/amazon-web-services-aws
               helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Microsoft Azure Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/azure
+              url: /cloud-services-for-public-sector/azure
               helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Digital Ocean Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/digitalocean
+              url: /cloud-services-for-public-sector/digitalocean
               helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Google Cloud Platform (GCP) Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/google-cloud-computing-gcp
+              url: /cloud-services-for-public-sector/google-cloud-computing-gcp
               helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Linode Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/linode
+              url: /cloud-services-for-public-sector/linode
               helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Oracle Cloud Infrastructure (OCI) Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services/oracle-cloud-infrastructure-oci
+              url: /cloud-services-for-public-sector/oracle-cloud-infrastructure-oci
               helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Public Sector Organisations."
         - item:
           title: "I.T Hardware related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services
+          url: /hardware-products-and-services-for-public-sector
           helptext: "Explore our range of I.T Hardware related Products & Services for Public Sector Organisations."
           submenuwidth: "200px"
           subitems:
             - item:
               title: "I.T Hardware Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-procurement
+              url: /hardware-products-and-services-for-public-sector/it-hardware-procurement
               helptext: "Explore our range of I.T Hardware Procurement Services for Public Sector Organisations."
             - item:
               title: "I.T Hardware Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-setup
+              url: /hardware-products-and-services-for-public-sector/it-hardware-setup
               helptext: "Explore our range of I.T Hardware Setup Services for Public Sector Organisations."
 
             - item:
               title: "I.T Hardware Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               helptext: "Explore our range of I.T Hardware Support Services for Public Sector Organisations."
-              url: /hardware-products-and-services/it-hardware-support
+              url: /hardware-products-and-services-for-public-sector/it-hardware-support
         - item:
           title: "Software related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services
+          url: /software-products-and-services-for-public-sector
           helptext: "Explore our range of Software related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Software Training for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-training
+              url: /software-products-and-services-for-public-sector/software-training
               helptext: "Explore our range of Software Training Services for Public Sector Organisations."
             - item:
               title: "Software Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-procurement
+              url: /software-products-and-services-for-public-sector/software-procurement
               helptext: "Explore our range of Software Procurement Services for Public Sector Organisations."
             - item:
               title: "Software Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-setup
+              url: /software-products-and-services-for-public-sector/software-setup
               helptext: "Explore our range of Software Setup Services for Public Sector Organisations."
             - item:
               title: "Software Development for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/software-development-services
+              url: /software-products-and-services-for-public-sector/software-development-services
               helptext: "Explore our range of Software Development Services for Public Sector Organisations."
             - item:
               title: "I.T Software Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services/it-software-support
+              url: /software-products-and-services-for-public-sector/it-software-support
               helptext: "Explore our range of I.T Support Services for Public Sector Organisations."
         - item:
           title: "I.T Consultancy Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-          url: /it-consultancy-services
+          url: /it-consultancy-services-for-public-sector
           helptext: "Explore our range of I.T Consultancy Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Software Development Team Formation & Developer On-boarding Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
+              url: /it-consultancy-services-for-public-sector/software-development-team-formation-and-developer-onboarding-services
               helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Compliance & Security Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services/it-compliance-and-security-services
+              url: /it-consultancy-services-for-public-sector/it-compliance-and-security-services
               helptext: "Explore our I.T Compliance & Security Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Infrastructure Management Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services/it-infrastructure-management-services
+              url: /it-consultancy-services-for-public-sector/it-infrastructure-management-services
               helptext: "Explore our I.T Infrastructure Management Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Project Management Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services/it-project-management
+              url: /it-consultancy-services/it-project-management-for-public-sector
               helptext: "Explore our I.T Project Management Consultancy packages for Public Sector Organisations."
         - item:
           title: "Website Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-services
+          url: /website-services-for-public-sector
           helptext: "Explore our range of Website related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Website Development for Public Sector Organisations"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services/website-development
+              url: /website-services-for-public-sector/website-development
               helptext: "Explore our range of Website Development Services for Public Sector Organisations."
             - item:
               title: "Website Maintenance for Public Sector Organisations"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services/website-maintenance
+              url: /website-services-for-public-sector/website-maintenance
               helptext: "Explore our range of Website Maintenance Services for Public Sector Organisations."
         - item:
-          title: "Office Fitting in South Wales for Public Sector Organisations"
+          title: "Misc. Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
           url: /office-fitting-south-wales
           helptext: "Office fitting services for Public Sector Organisations in South Wales."
+          subitems:
+            - item:
+              title: "Office Fitting in South Wales for Public Sector Organisations"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /office-fitting-services-for-public-sector/office-fitting-south-wales
+              helptext: "Explore our range of Website Development Services for Public Sector Organisations."
+    - item:
+      title: "I.T Services For Established Businesses"
+      short_title: "For SME's"
+      icon: "<i class=\"fas fa-building\" aria-hidden=\"true\"></i>"
+      url: "/solutions/it-for-business"
+      helptext: "Explore our range of I.T Products and services for Business."
+      submenuwidth: "200px"
+      subitems:
+        - item:
+          title: "Cloud Services"
+          icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+          url: /cloud-services
+          helptext: "Explore our range of Cloud Consultancy Services and Solutions for Businesses."
+          submenuwidth: "200px"
+          subitems:
+            - item:
+              title: "AWS Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/amazon-web-services-aws
+              helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Businesses."
+            - item:
+              title: "Microsoft Azure Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/azure
+              helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Businesses."
+            - item:
+              title: "Digital Ocean Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/digitalocean
+              helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Businesses."
+            - item:
+              title: "Google Cloud Platform (GCP) Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/google-cloud-computing-gcp
+              helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Businesses."
+            - item:
+              title: "Linode Cloud Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/linode
+              helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Businesses."
+            - item:
+              title: "Oracle Cloud Infrastructure (OCI) Management"
+              icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
+              url: /cloud-services/oracle-cloud-infrastructure-oci
+              helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Businesses."
+        - item:
+          title: "I.T Hardware related Products & Services"
+          icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+          url: /hardware-products-and-services
+          helptext: "Explore our range of I.T Hardware related Products & Services for Businesses."
+          submenuwidth: "200px"
+          subitems:
+            - item:
+              title: "I.T Hardware Procurement"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services/it-hardware-procurement
+              helptext: "Explore our range of I.T Hardware Procurement Services for Businesses."
+            - item:
+              title: "I.T Hardware Setup"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              url: /hardware-products-and-services/it-hardware-setup
+              helptext: "Explore our range of I.T Hardware Setup Services for Businesses."
+
+            - item:
+              title: "I.T Hardware Support"
+              icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
+              helptext: "Explore our range of I.T Hardware Support Services for Businesses."
+              url: /hardware-products-and-services/it-hardware-support
+        - item:
+          title: "Software related Products & Services"
+          icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+          url: /software-products-and-services
+          helptext: "Explore our range of Software related Products & Services for Businesses."
+          subitems:
+            - item:
+              title: "Software Training"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-training
+              helptext: "Explore our range of Software Training Services for Businesses."
+            - item:
+              title: "Software Procurement"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-procurement
+              helptext: "Explore our range of Software Procurement Services for Businesses."
+            - item:
+              title: "Software Setup"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-setup
+              helptext: "Explore our range of Software Setup Services for Businesses."
+            - item:
+              title: "Software Development"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/software-development-services
+              helptext: "Explore our range of Software Development Services for Businesses."
+            - item:
+              title: "I.T Software Support"
+              icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
+              url: /software-products-and-services/it-software-support
+              helptext: "Explore our range of I.T Support Services for Businesses."
+        - item:
+          title: "I.T Consultancy Services"
+          icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+          url: /it-consultancy-services
+          helptext: "Explore our range of I.T Consultancy Services for Businesses."
+          subitems:
+            - item:
+              title: "Software Development Team Formation & Developer On-boarding Consultancy"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services/software-development-team-formation-and-developer-onboarding-services
+              helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Businesses."
+            - item:
+              title: "I.T Compliance & Security Consultancy"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services/it-compliance-and-security-services
+              helptext: "Explore our I.T Compliance & Security Consultancy packages for Businesses."
+            - item:
+              title: "I.T Infrastructure Management Consultancy"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services/it-infrastructure-management-services
+              helptext: "Explore our I.T Infrastructure Management Consultancy packages for Businesses."
+            - item:
+              title: "I.T Project Management Consultancy"
+              icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
+              url: /it-consultancy-services/it-project-management
+              helptext: "Explore our I.T Project Management Consultancy packages for Businesses."
+        - item:
+          title: "Website Services"
+          icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+          url: /website-services
+          helptext: "Explore our range of Website related Products & Services for Businesses."
+          subitems:
+            - item:
+              title: "Website Development"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /website-services/website-development
+              helptext: "Explore our range of Website Development Services for Businesses."
+            - item:
+              title: "Website Maintenance"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /website-services/website-maintenance
+              helptext: "Explore our range of Website Maintenance Services for Businesses."
+        - item:
+          title: "Office Fitting Services for Startups in South Wales"
+          icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
+          url: /office-fitting-services
+          helptext: "Office fitting services for Startups in South Wales."
+          subitems:
+            - item:
+              title: "Office Fitting in South Wales for Public Sector Organisations"
+              icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
+              url: /office-fitting-services/office-fitting-south-wales
+              helptext: "Explore our range of Office Fitting Services for Startups in South Wales."

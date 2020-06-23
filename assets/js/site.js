@@ -8,11 +8,9 @@ $(document).ready(function () {
         defaultImage: "data:image/svg+xml;base64,PCEtLSBCeSBTYW0gSGVyYmVydCAoQHNoZXJiKSwgZm9yIGV2ZXJ5b25lLiBNb3JlIEAgaHR0cDovL2dvby5nbC83QUp6YkwgLS0+Cjxzdmcgd2lkdGg9IjM4IiBoZWlnaHQ9IjM4IiB2aWV3Qm94PSIwIDAgMzggMzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjMDAwIj4KICAgIDxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMSAxKSIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPGNpcmNsZSBzdHJva2Utb3BhY2l0eT0iLjUiIGN4PSIxOCIgY3k9IjE4IiByPSIxOCIvPgogICAgICAgICAgICA8cGF0aCBkPSJNMzYgMThjMC05Ljk0LTguMDYtMTgtMTgtMTgiPgogICAgICAgICAgICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0KICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iCiAgICAgICAgICAgICAgICAgICAgdHlwZT0icm90YXRlIgogICAgICAgICAgICAgICAgICAgIGZyb209IjAgMTggMTgiCiAgICAgICAgICAgICAgICAgICAgdG89IjM2MCAxOCAxOCIKICAgICAgICAgICAgICAgICAgICBkdXI9IjFzIgogICAgICAgICAgICAgICAgICAgIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgICAgICAgICAgIDwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg=="
     });
 
-
     var $el, $ps, $up, totalHeight;
 
     $(".sidebar-box .button").click(function () {
-
         totalHeight = 0;
 
         $el = $(this);
@@ -43,16 +41,12 @@ $(document).ready(function () {
 
 
     // Masthead menu
-    $("ul.exo-menu > li.drop-down, ul.exo-menu > li.mega-drop-down, ul.exo-menu > li.blog-drop-down").hover(function () {
-        $(".body-overlay").show();
+    $("ul.droopmenu li.droopmenu-parent").hover(function () {
+         $(".body-overlay").show();
     }, function(){
-        $(".body-overlay").hide();
-    });
+         $(".body-overlay").hide();
+         $("#helptext").hide();
 
-    $("ul.exo-menu > li.drop-down").hover(function () {
-        return false;
-    }, function(){
-        $("#helptext").hide();
     });
 
     scaleVideoContainer();
@@ -90,8 +84,6 @@ function scaleBannerVideoSize(element) {
         windowHeight = $(window).height() + 5,
         videoWidth,
         videoHeight;
-
-    // console.log(windowHeight);
 
     $(element).each(function(){
         var videoAspectRatio = $(this).data('height')/$(this).data('width');

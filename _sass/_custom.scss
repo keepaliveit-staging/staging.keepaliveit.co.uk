@@ -2,6 +2,8 @@ $color-primary: #aa0000;
 $color-primary-light: #e5ebc3;
 $color-primary-border: #e5ebc3;
 
+@import "minimal-mistakes/variables";
+
 .animated-heading, .static-heading {
   color: #a00;
   font-weight: 200;
@@ -25,6 +27,7 @@ $color-primary-border: #e5ebc3;
   transform-origin: 0 0;
   font-size: 1.5em !important;
 }
+
 .static-heading {
   -webkit-animation: none;
   -o-animation: none;
@@ -1468,7 +1471,7 @@ Cookie notice
   right: 0;
   bottom: 0;
   left: 0;
-  z-index: 19;
+  z-index: 6;
   background-color: rgba(0, 0, 0, 0.8);
   -webkit-animation: fade 500ms;
   animation: fade 500ms;
@@ -2046,4 +2049,86 @@ Cookie notice
     font-size: 2em;
     margin-bottom: 5px;
   }
+}
+
+
+// Custom styles for droopmenu
+.droopmenu-inner,
+.droopmenu-boxed{
+  max-width: $max-width;
+}
+
+.droopmenu-navbar {
+  background: #171717;
+  height: $header-height;
+}
+
+.droopmenu-header {
+  background: #aa0102;
+  height: $header-height;
+}
+
+.dm-nav-brand a img, .droopmenu-brand img {
+  height: 50px;
+  top: -3px;
+}
+
+.droopmenu .droopmenu-tabcontent {
+  border-bottom: 1px solid #BB9D7D;
+  background: #365670;
+}
+
+.dm-nav-brand a, .droopmenu-brand, .droopmenu > li > a, .droopmenu > li > span {
+  line-height: $header-height;
+  height: $header-height;
+}
+
+
+.droopmenu .droopmenu-tabnav {
+  background: #273f58;
+}
+
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a {
+  font-weight: bold;
+  height: 100px;
+  vertical-align: middle;
+  line-height: inherit !important;
+}
+
+.droopmenu-tabcontent .droopmenu-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+  &:before {
+    display: inherit !important;
+    content: inherit !important;
+  }
+
+  & > ul.droopmenu-col {
+    padding: 10px;
+    margin: 5px 5px 5px 10px;
+  }
+}
+
+.dmarrow-down .droopmenu li.dmopener .dm-arrow {
+  border-top: 10px solid #71818C;
+  bottom: 0;
+}
+
+.droopmenu-col h4 {
+  color: #e9e9e9;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.droopmenu-col h4 i {
+  font-size: 12px;
+}
+
+.droopmenu .droopmenu-col li a {
+  color : white;
+}
+
+a.droopmenu-tab-active {
+  color: white;
 }

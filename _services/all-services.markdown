@@ -9,6 +9,7 @@ excerpt: "All I.T Hardware & Software Services offered by our DevOps, BizOps, an
 header:
   overlay_image: /assets/images/code.jpg
   overlay_filter: 0.54
+  more_text: "See all of our services"
 ---
 
 {% include breadcrumbs.html %}
@@ -19,4 +20,761 @@ We know how frustrating it can be when companies use cryptic, jargon-filled text
  
 We build digital solutions for absolutely any business that needs them, no matter what industry it’s in, or what its employees’ current understanding of technology is.
 
-[List all services here in a nice grid]
+### Cloud Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+### I.T Hardware related Products & Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+I.T Hardware Procurement
+I.T Hardware Setup
+I.T Hardware Support
+
+### Software related Products & Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+Software Training
+Software Procurement
+Software Setup
+Software Development
+I.T Software Support
+ 
+### I.T Consultancy Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+Software Development Team Formation & Developer On-boarding Consultancy
+I.T Compliance & Security Consultancy
+I.T Infrastructure Management Consultancy
+I.T Project Management Consultancy
+
+### Website Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+Website Development
+Website Maintenance
+
+### Misc Services
+<table id="tablePreview" class="table">
+    <thead>
+    <tr>
+        <th>Service Name</th>
+        <th>Consumer Offering</th>
+        <th>Enterprise Offering</th>
+        <th>Startup Offering</th>
+        <th>Public Sector Offering</th>
+        <th>Non-Profit Offering</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>AWS Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Microsoft Azure Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Digital Ocean Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Google Cloud Platform (GCP) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Linode Cloud Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    <tr>
+        <td>Oracle Cloud Infrastructure (OCI) Management</td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+        <td>
+            <i class="fas fa-check page-title-icon" aria-hidden="true"></i>
+        </td>
+    </tr>
+    </tbody>
+</table>
+Office Fitting in South Wales

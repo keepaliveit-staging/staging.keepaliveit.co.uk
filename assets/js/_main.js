@@ -3,6 +3,13 @@
    ========================================================================== */
 
 $(document).ready(function () {
+
+    $('.droopmenu-navbar').droopmenu({
+        dmArrow: false
+    });
+    //$("div.droopmenu-nav > div > div > ul > li:nth-child(1)").addClass("dmopener");
+
+
     // FitVids init
     $("#main").fitVids();
 
@@ -153,7 +160,7 @@ $(document).ready(function () {
     });
 
 
-    if (window.location.pathname === '/tools/ip-address-finder') {
+    if (window.location.pathname === '/tools-and-utilities/ip-address-finder') {
         // Request user IP from apps service
         $.ajax({
             url: "https://apps.keepaliveit.co.uk/ip/index.php",
@@ -193,54 +200,13 @@ $(document).ready(function () {
         $ht.children(".text-content").text(elem.data('helptext'));
     }
 
-    // Menu depth = 1
-    $('ul.exo-menu > li.drop-down > ul > li').hover(
+    $('.droopmenu-helptext').hover(
         function () {
             $(this).parent().parent().children('a').addClass('active');
             updateHelpText($(this));
         },
         function () {
             $(this).parent().parent().children('a').removeClass('active');
-        }
-    );
-
-    // Menu depth = 2
-    $('ul.exo-menu > li.drop-down > ul > li > ul > li').hover(
-        function () {
-            $(this).parent().parent().children('a').addClass('active');
-            updateHelpText($(this));
-        },
-        function () {
-            $(this).parent().parent().children('a').removeClass('active');
-        }
-    );
-
-    // Menu depth = 3
-    $('ul.exo-menu > li.drop-down > ul > li > ul > li > ul > li').hover(
-        function () {
-            $(this).parent().parent().children('a').addClass('active');
-            updateHelpText($(this));
-        },
-        function () {
-            $(this).parent().parent().children('a').removeClass('active');
-        }
-    );
-
-    $('ul.exo-menu > li.mega-drop-down > .mega-menu').hover(
-        function () {
-            $(this).parent().children('a').addClass('active');
-        },
-        function () {
-            $(this).parent().children('a').removeClass('active');
-        }
-    );
-
-    $('ul.exo-menu > li.blog-drop-down > .blog-menu').hover(
-        function () {
-            $(this).parent().children('a').addClass('active');
-        },
-        function () {
-            $(this).parent().children('a').removeClass('active');
         }
     );
 
@@ -248,7 +214,6 @@ $(document).ready(function () {
         $('.exo-menu').toggleClass('display');
 
     });
-
 
     $(".pricing__action").click(function () {
         var package = $(this).data("package");
@@ -314,12 +279,12 @@ $(document).ready(function () {
                     phone: phone,
                 }, constraints);
 
-                if(result.email){
+                if (result.email) {
                     Swal.showValidationMessage(result.email);
                     return;
                 }
 
-                if(result.phone){
+                if (result.phone) {
                     Swal.showValidationMessage(result.phone);
                     return;
                 }
