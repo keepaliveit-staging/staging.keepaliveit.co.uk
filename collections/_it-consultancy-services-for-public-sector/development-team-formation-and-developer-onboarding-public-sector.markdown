@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Small Businesses and Enterprises"
+title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Public Sector Organisations"
 permalink: /it-consultancy-services-for-public-sector/software-development-team-formation-and-developer-onboarding-services
 
 excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."

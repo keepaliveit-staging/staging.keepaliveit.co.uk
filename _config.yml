@@ -290,6 +290,9 @@ collections:
   website-services-for-startups:
     output: true
     permalink: /:collection/:path/
+  website-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
   hardware-products-and-services:
     output: true
     permalink: /:collection/:path/
@@ -299,10 +302,16 @@ collections:
   hardware-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
+  hardware-products-and-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
   software-products-and-services:
     output: true
     permalink: /:collection/:path/
   software-products-and-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  software-products-and-services-for-public-sector:
     output: true
     permalink: /:collection/:path/
 

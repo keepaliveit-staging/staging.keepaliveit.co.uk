@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Infrastructure Management Services for Small Businesses and Enterprises"
+title: "I.T Infrastructure Management Services for Public Sector Organisations"
 permalink: /it-consultancy-services-for-public-sector/it-infrastructure-management-services
 
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."
