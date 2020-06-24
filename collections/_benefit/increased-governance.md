@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/benefit/governance.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
+  more_text: "Learn more about I.T governance"
 
 
 icon: /assets/images/icons/governance.png

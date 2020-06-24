@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/benefit/cyber.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
+  more_text: "Learn about I.T Cyber Resilience"
 
   
 icon: /assets/images/icons/cyber.png

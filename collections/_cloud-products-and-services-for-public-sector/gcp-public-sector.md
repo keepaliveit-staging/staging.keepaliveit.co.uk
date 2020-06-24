@@ -3,7 +3,7 @@ layout: splash
 title: "Google Cloud Platform (GCP) Services for Public Sector Organisations"
 permalink: /cloud-services-for-public-sector/google-cloud-computing-gcp
 
-excerpt: "Efficient I.T improves productivity"
+excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Google Cloud Platform workloads for Public Sector Organisations. Our Google Cloud Platform services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
@@ -21,6 +21,26 @@ benefits:
 ---
 
 {% include breadcrumbs.html %}
+
+<section id="hero">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center aos-init aos-animate"
+                 data-aos="fade-up">
+                <div>
+                    <h1>We help Public Sector Organisations Scale & Grow Microsoft Azure Cloud Workloads</h1>
+                    <h2>Our specialist Cloud knowledge can improve Public Sector engagements with the people of the UK.</h2>
+                    <p>If your public sector organisation is thinking of utilising Microsoft Azure's Cloud Services, or is already using Azure Cloud and needs some Cloud advice - we're here to guide you along the way to scaling your I.T workloads for maximum cost & operational efficiency.</p>
+                    
+                    <a href="#about" class="btn-get-started">Get Started</a>
+                </div>
+            </div>
+            <div class="col-md-6 order-1 order-lg-2 hero-img aos-init aos-animate" data-aos="fade-left">
+                <img src="https://bootstrapmade.com/demo/themes/Scaffold/assets/img/hero-img.png" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+</section>
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Google Cloud Computing (GCP) Cloud Consultancy Services
 

@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/benefit/communication.jpg
   overlay_filter: 0.5
   page_lead_text_colour: "#aa0000"
+  more_text: "Learn what increased communications means"
  
   
 icon: /assets/images/icons/communication.png
