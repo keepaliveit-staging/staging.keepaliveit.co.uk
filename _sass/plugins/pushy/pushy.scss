@@ -18,13 +18,14 @@ $menu_width: 100vw !default;
     -webkit-overflow-scrolling: touch; /* enables momentum scrolling in iOS overflow elements */
 
     i.fas:first-child {
-        font-size: 1em;
-        width: 1.6em;
+        font-size: 0.66em;
         text-align: center;
-        line-height: 1.6em;
+        line-height: 2.4em;
         background: #aa0000;
         color: #fff;
-        border-radius: 0.8em;
+        border-radius: 50px;
+        height: 25px;
+        width: 25px;
     }
 
     a{

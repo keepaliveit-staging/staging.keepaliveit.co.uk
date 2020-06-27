@@ -118,6 +118,9 @@ header:
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+<h2 class="text-center animated-heading">
+    A bigger picture of our services
+</h2>
 Our I.T services are split into two main categories; Development & Operations. Our Development and Operations services are complimented by an I.T support model and all of our solutions are built with Cyber Security resilience practises in mind. 
 Learn more about the structure of our services:
 
@@ -168,11 +171,6 @@ Manage risk, make more timely decisions, and stay competitive while maintaining 
 
 Public sector
 Help improve citizen services, increase operational effectiveness, and deliver proven innovation at your government agency.
-
-
-<h2 class="text-center animated-heading">
-    The bigger picture of our services
-</h2>
 
 <div class="container maxwidth">
 	<div class="ux-vertical-tabs">

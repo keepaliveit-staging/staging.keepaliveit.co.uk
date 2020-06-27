@@ -1,6 +1,7 @@
 /* ==========================================================================
    Forms
-   ========================================================================== */
+   ==========================================================================
+ */
 
 form {
   margin: 0 0 5px 0;
@@ -106,7 +107,8 @@ input[type="radio"] {
   line-height: normal;
   cursor: pointer;
   border-radius: 0;
-  border: 0 \9;
+  border: 0 \9
+;
 }
 
 input[type="checkbox"],
@@ -218,9 +220,10 @@ input:focus,
 textarea:focus {
   border-color: $primary-color;
   outline: 0;
-  outline: thin dotted \9;
+  outline: thin dotted \9
+;
   box-shadow: inset 0 1px 3px rgba($text-color, 0.06),
-    0 0 5px rgba($primary-color, 0.7);
+  0 0 5px rgba($primary-color, 0.7);
 }
 
 input[type="file"]:focus,
@@ -330,7 +333,8 @@ select:focus {
 
 /*
      .form--loading
-     ========================================================================== */
+     ==========================================================================
+*/
 
 .form--loading:before {
   content: "";
@@ -360,13 +364,15 @@ select:focus {
 
 /*
      Google search form
-     ========================================================================== */
+     ==========================================================================
+*/
 
 #goog-fixurl {
   ul {
     list-style: none;
     margin-left: 0;
     padding-left: 0;
+
     li {
       list-style-type: none;
     }

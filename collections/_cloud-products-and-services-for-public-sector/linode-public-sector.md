@@ -29,7 +29,7 @@ benefits:
                  data-aos="fade-up">
                 <div>
                     <h1>We help Public Sector Organisations Scale & Grow Microsoft Azure Cloud Workloads</h1>
-                    <h2>Our specialist Cloud knowledge can improve Public Sector engagements with the people of the UK.</h2>
+                    <h2>Our Cloud consultancy services aim to boost Cloud usage, and future proof I.T in UK based Public Sector organisations.</h2>
                     <p>If your public sector organisation is thinking of utilising Microsoft Azure's Cloud Services, or is already using Azure Cloud and needs some Cloud advice - we're here to guide you along the way to scaling your I.T workloads for maximum cost & operational efficiency.</p>
                     
                     <a href="#about" class="btn-get-started">Get Started</a>
