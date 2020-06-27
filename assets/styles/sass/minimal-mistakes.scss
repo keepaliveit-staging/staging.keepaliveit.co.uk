@@ -38,14 +38,3 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
-
-/* Additional plugins I've added */
-@import "plugins/aos/aos";
-@import "plugins/pushy/pushy";
-@import "plugins/accordian/accordion";
-@import "plugins/swal/sweetalert2";
-@import "plugins/droopmenu/droopmenu";
-//@import "grid";
-
-/* Customised user-defined styles */
-@import "custom";

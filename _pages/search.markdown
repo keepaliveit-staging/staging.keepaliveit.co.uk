@@ -1,16 +1,17 @@
 ---
 layout: splash
-title: "Search Keep-Alive I.T's Website"
+title: "Search keepaliveit.co.uk"
 permalink: /search
 
-excerpt: "Search our Website"
+excerpt: "Search website content on keepaliveit.co.uk"
 header:
   overlay_image: /assets/images/cloud-computing.jpg
   overlay_filter: 0.3 
   page_lead_text_colour: "#ea5114"
+  more_text: "Search keepaliveit.co.uk"
 ---
 
 {% include breadcrumbs.html %}
 
 ## Search
-Search for content on our website
+An instant search widget for searching for content on our website.

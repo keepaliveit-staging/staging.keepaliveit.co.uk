@@ -1,0 +1,13 @@
+/* Base theme */
+@import "minimal-mistakes";
+
+/* Additional plugins I've added */
+@import "plugins/aos/aos";
+@import "plugins/pushy/pushy";
+@import "plugins/accordian/accordion";
+@import "plugins/swal/sweetalert2";
+@import "plugins/droopmenu/droopmenu";
+@import 'plugins/bootstrap/scss/bootstrap-grid';
+
+/* Customised user-defined styles */
+@import "custom";

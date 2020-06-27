@@ -623,7 +623,6 @@ $color-primary-border: #e5ebc3;
 }
 
 .footer-nav-links-container {
-  z-index: 1;
 
   .wrapper-lines {
     border-left: 1px solid lightgrey;
@@ -721,16 +720,6 @@ $color-primary-border: #e5ebc3;
 }
 
 // Misc
-.container {
-  position: relative;
-}
-
-.maxwidth {
-  max-width: 74rem;
-  width: 100%;
-  margin: 0 auto;
-}
-
 .ux-text h3 {
   font-size: 1.4rem;
   text-transform: uppercase;
@@ -1175,18 +1164,6 @@ Cookie notice
   margin-right: auto;
   border-bottom: 5px solid #aa0000;
 
-  @include breakpoint($small) {
-    width: $small;
-  }
-
-  @include breakpoint($medium) {
-    width: $medium;
-  }
-
-  @include breakpoint($large) {
-    width: $large;
-  }
-
   @include breakpoint($x-large) {
     width: $x-large;
   }
@@ -1630,7 +1607,7 @@ Cookie notice
 
 
 .droopmenu .droopmenu-tabnav {
-  background: #273f58;
+  background: #273f58 !important;
 }
 
 .droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a {
@@ -2023,4 +2000,8 @@ a.droopmenu-tab-active {
   img {
     transition: all 0.4s ease-in-out;
   }
+}
+
+.test101{
+  background: blue;
 }

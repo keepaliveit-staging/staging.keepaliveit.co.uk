@@ -172,52 +172,50 @@ Manage risk, make more timely decisions, and stay competitive while maintaining 
 Public sector
 Help improve citizen services, increase operational effectiveness, and deliver proven innovation at your government agency.
 
-<div class="container maxwidth">
-	<div class="ux-vertical-tabs">
-		<div class="tabs">
-			<button data-tab="tab1" class="active">Software Development<span></span></button>
-			<button data-tab="tab2">I.T Operations<span></span></button>
-			<button data-tab="tab3">Cyber Security<span></span></button>
-			<button data-tab="tab4">I.T Support<span></span></button>
-			<button class="empty"></button>
-		</div>
-		<div class="maincontent">
-			<div data-tab="tab1" class="tabcontent active">
-				<div class="ux-text">
-					<h3>Software Development</h3>
-					<h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
-					<p>We offer a full suite of Software Development services – from custom Web and Mobile App Development, to Software Quality Assurance (QA) services.</p>
-					<p>All of our work is completed by following Agile Software Development best practises and we are able to work with modern codebases, or redesign old Legacy Software Applications to be compatible with modern I.T setups.</p> 
-				</div>
-			</div>
+<div class="ux-vertical-tabs">
+    <div class="tabs">
+        <button data-tab="tab1" class="active">Software Development<span></span></button>
+        <button data-tab="tab2">I.T Operations<span></span></button>
+        <button data-tab="tab3">Cyber Security<span></span></button>
+        <button data-tab="tab4">I.T Support<span></span></button>
+        <button class="empty"></button>
+    </div>
+    <div class="maincontent">
+        <div data-tab="tab1" class="tabcontent active">
+            <div class="ux-text">
+                <h3>Software Development</h3>
+                <h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
+                <p>We offer a full suite of Software Development services – from custom Web and Mobile App Development, to Software Quality Assurance (QA) services.</p>
+                <p>All of our work is completed by following Agile Software Development best practises and we are able to work with modern codebases, or redesign old Legacy Software Applications to be compatible with modern I.T setups.</p> 
+            </div>
+        </div>
 
-			<div data-tab="tab2" class="tabcontent">
-				<div class="ux-text">
-					<h3>I.T Operations</h3>
-					<h4>Platform Management, System Automation, Application Monitoring, and Application Reporting.</h4>
-                    <p>We utilise  Cloud technologies and DevOps best practises to keep I.T operational. Gain valuable peace of mind that your I.T systems are working as they should be, 24 hours a day, 7 days a week.</p>
-                    <p>Reap the benefits of increased scalability, flexible working, and reduced costs as our DevOps and Cloud experts deliver tailored advice for automating, monitoring, and producing reports on the availability of your I.T.</p>   
-				</div>
-			</div>
+        <div data-tab="tab2" class="tabcontent">
+            <div class="ux-text">
+                <h3>I.T Operations</h3>
+                <h4>Platform Management, System Automation, Application Monitoring, and Application Reporting.</h4>
+                <p>We utilise  Cloud technologies and DevOps best practises to keep I.T operational. Gain valuable peace of mind that your I.T systems are working as they should be, 24 hours a day, 7 days a week.</p>
+                <p>Reap the benefits of increased scalability, flexible working, and reduced costs as our DevOps and Cloud experts deliver tailored advice for automating, monitoring, and producing reports on the availability of your I.T.</p>   
+            </div>
+        </div>
 
-			<div data-tab="tab3" class="tabcontent">
-				<div class="ux-text">
-					<h3>Cyber Security</h3>
-					<h4>Data Isolation, Encryption, Password Management, Role-Based Access Control, and System Patching for greater Cyber Resilience.</h4>
-					<p>Managed cyber security as a service.</p>
-					<p>Robust security management and monitoring services – encompassing vulnerability audits, strategic security consulting and data recovery – protect and preserve your most critical and sensitive IT systems.</p>
-				</div>
-			</div>
+        <div data-tab="tab3" class="tabcontent">
+            <div class="ux-text">
+                <h3>Cyber Security</h3>
+                <h4>Data Isolation, Encryption, Password Management, Role-Based Access Control, and System Patching for greater Cyber Resilience.</h4>
+                <p>Managed cyber security as a service.</p>
+                <p>Robust security management and monitoring services – encompassing vulnerability audits, strategic security consulting and data recovery – protect and preserve your most critical and sensitive IT systems.</p>
+            </div>
+        </div>
 
-			<div data-tab="tab4" class="tabcontent">
-				<div class="ux-text">
-					<h3>I.T Support</h3>
-					<h4>1st, 2nd and 3rd line I.T Support for Third Party Hardware & Software.</h4>
-					<p>We support Citrix, Microsoft, IBM, Dell, </p>
-				</div>
-			</div>
-		</div>
-	</div>
+        <div data-tab="tab4" class="tabcontent">
+            <div class="ux-text">
+                <h3>I.T Support</h3>
+                <h4>1st, 2nd and 3rd line I.T Support for Third Party Hardware & Software.</h4>
+                <p>We support Citrix, Microsoft, IBM, Dell, </p>
+            </div>
+        </div>
+    </div>
 </div>
 
 <section id="discover">
@@ -274,102 +272,99 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 </div>
 
 <section id="testimonials" class="testimonials">
-    <div class="container">
-        <div class="section-title">
-            <h2>Testimonials</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
-                sit in iste officiis commodi quidem hic quas.</p>
+    <div class="section-title">
+        <h2>Testimonials</h2>
+        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
+            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
+            sit in iste officiis commodi quidem hic quas.</p>
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-6">
+            <div class="testimonial-item">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Saul Goodman</h3>
+                <h4>Ceo &amp; Founder</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
+                    Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+            </div>
         </div>
 
-        <div class="row">
-
-            <div class="col-md-6">
-                <div class="testimonial-item">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Saul Goodman</h3>
-                    <h4>Ceo &amp; Founder</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
-                        Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
+        <div class="col-md-6">
+            <div class="testimonial-item mt-4 mt-lg-0">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Sara Wilsson</h3>
+                <h4>Designer</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram
+                    malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
             </div>
+        </div>
 
-            <div class="col-md-6">
-                <div class="testimonial-item mt-4 mt-lg-0">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Sara Wilsson</h3>
-                    <h4>Designer</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram
-                        malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
+        <div class="col-md-6">
+            <div class="testimonial-item mt-4">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Jena Karlis</h3>
+                <h4>Store Owner</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis
+                    minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
             </div>
+        </div>
 
-            <div class="col-md-6">
-                <div class="testimonial-item mt-4">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Jena Karlis</h3>
-                    <h4>Store Owner</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis
-                        minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
+        <div class="col-md-6">
+            <div class="testimonial-item mt-4">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Matt Brandon</h3>
+                <h4>Freelancer</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim
+                    velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum
+                    veniam.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
             </div>
+        </div>
 
-            <div class="col-md-6">
-                <div class="testimonial-item mt-4">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Matt Brandon</h3>
-                    <h4>Freelancer</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim
-                        velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum
-                        veniam.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
+        <div class="col-md-6">
+            <div class="testimonial-item mt-4">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>John Larson</h3>
+                <h4>Entrepreneur</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
+                    culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum
+                    quid.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
             </div>
+        </div>
 
-            <div class="col-md-6">
-                <div class="testimonial-item mt-4">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>John Larson</h3>
-                    <h4>Entrepreneur</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
-                        culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum
-                        quid.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
+        <div class="col-md-6">
+            <div class="testimonial-item mt-4">
+                <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Emily Harison</h3>
+                <h4>Store Owner</h4>
+                <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Eius ipsam praesentium dolor quaerat inventore rerum odio. Quos laudantium adipisci eius.
+                    Accusamus qui iste cupiditate sed temporibus est aspernatur. Sequi officiis ea et quia quidem.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
             </div>
-
-            <div class="col-md-6">
-                <div class="testimonial-item mt-4">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3>Emily Harison</h3>
-                    <h4>Store Owner</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        Eius ipsam praesentium dolor quaerat inventore rerum odio. Quos laudantium adipisci eius.
-                        Accusamus qui iste cupiditate sed temporibus est aspernatur. Sequi officiis ea et quia quidem.
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
-                </div>
-            </div>
-
         </div>
 
     </div>

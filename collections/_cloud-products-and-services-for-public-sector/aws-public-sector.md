@@ -44,108 +44,105 @@ benefits:
 </section>
 
 <section id="services" class="services">
-    <div class="container">
-        <div class="row">
-            <section class="section-title" data-aos="fade-up">
-                <h2>The journey of migrating Public Sector I.T workloads to AWS Cloud technologies: </h2>
-                <p>On-boarding Public Sector Organisations with Cloud technology is never an easy task and is a movement which requires a deep amount of technical knowledge to ensure the transition is as smooth as possible. The process of migrating traditional I.T infrastructure to Cloud is usually a gradual movement which can take many months, or even years to implement. Cloud migrations usually cost upwards of a few Million pounds to implement, dependant on the scale of the I.T workload being migrated. However, the cost and elasticity benefits that are introduced as a result of a cloud migration being completed are often significant enough to be considered as a solid I.T investment for Public Sector Organisations. This benefit alone often entices the movement of gradually shifting I.T workloads to be Cloud powered. Another game changing benefit of introducing Cloud movements to Public Sector Organisations, comes thanks to its elasticity characteristics. Elasticity encourages organisations to be more agile and promotes future projects to be shipped to the public up-to 1000x faster than using traditional I.T hosting environments. Once an organisation hits this point of their Cloud related journey, they will start to adapt a DevOps culture and embrace a new way of working.</p>
-                <p>The UK Government has <a href="https://www.gov.uk/government/publications/cloud-guide-for-the-public-sector/cloud-guide-for-the-public-sector" target="_blank">published guidance on Public Cloud Technology</a> on it's website. This document is suited for technical leads of Public Sector Organisations and aims to give an overview of the process of migrating I.T workloads to the Cloud. Key objectives of the document are:</p>
-                <ul>
-                    <li>to help technical leads decide on, and implement cloud strategies.</li>
-                    <li>to help technical teams with implementing migrations to cloud services.</li>
-                    <li>to help technical teams with managing cloud resources and Cloud spending budgets.</li>
-                </ul>
-                
-                <p>As good of a resource that this is, there is much more groundwork than highlighted in this document to get I.T workloads migrated onto Cloud technologies. One of the biggest setbacks for Public Sector Organisations is that they must hire additional staff resources to even begin migrating I.T workloads. Hiring project managers, cloud experts, database experts, application developers, solutions architects, and testers certainly doesn't come cheap, and training staff to be equipped with the required skills is often he biggest hurdle to overcome.</p>
-                 <p>This is where we, Keep-Alive I.T come into the equation and are able to step in and help Public Sector Organisations to make better decisions with their Cloud related work items. Operating Clouds at high scale, and maintaining Clouds for Our goal here at Keep-Alive I.T is to consult you of the steps involved with embracing Cloud technologies</p>
-                <p>If your Public Sector Organisation already has an AWS Setup that needs managing, you can jump straight to our services overview to see if hiring us to manage your Cloud infrastructure and associated applications is the right fit for your Organisation.</p>
-            </section>
-        </div>             
-        <div class="row">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="icon-box">
-                    <div class="icon">
-                        <i class="bx bxl-dribbble"></i>
-                    </div>
-                    <h4><a href="#cloud-introduction">An introduction to the Cloud</a></h4>
-                    <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
-                </div>
-            </div>
+        <section class="section-title" data-aos="fade-up">
+            <h2>The journey of migrating Public Sector I.T workloads to AWS Cloud technologies: </h2>
+            <p>On-boarding Public Sector Organisations with Cloud technology is never an easy task and is a movement which requires a deep amount of technical knowledge to ensure the transition is as smooth as possible. The process of migrating traditional I.T infrastructure to Cloud is usually a gradual movement which can take many months, or even years to implement. Cloud migrations usually cost upwards of a few Million pounds to implement, dependant on the scale of the I.T workload being migrated. However, the cost and elasticity benefits that are introduced as a result of a cloud migration being completed are often significant enough to be considered as a solid I.T investment for Public Sector Organisations. This benefit alone often entices the movement of gradually shifting I.T workloads to be Cloud powered. Another game changing benefit of introducing Cloud movements to Public Sector Organisations, comes thanks to its elasticity characteristics. Elasticity encourages organisations to be more agile and promotes future projects to be shipped to the public up-to 1000x faster than using traditional I.T hosting environments. Once an organisation hits this point of their Cloud related journey, they will start to adapt a DevOps culture and embrace a new way of working.</p>
+            <p>The UK Government has <a href="https://www.gov.uk/government/publications/cloud-guide-for-the-public-sector/cloud-guide-for-the-public-sector" target="_blank">published guidance on Public Cloud Technology</a> on it's website. This document is suited for technical leads of Public Sector Organisations and aims to give an overview of the process of migrating I.T workloads to the Cloud. Key objectives of the document are:</p>
+            <ul>
+                <li>to help technical leads decide on, and implement cloud strategies.</li>
+                <li>to help technical teams with implementing migrations to cloud services.</li>
+                <li>to help technical teams with managing cloud resources and Cloud spending budgets.</li>
+            </ul>
             
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="icon-box">
-                    <div class="icon">
-                        <i class="bx bxl-dribbble"></i>
-                    </div>
-                    <h4><a href="#cloud-introduction">Cloud Success stories for Public Sector Organisations</a></h4>
-                    <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
+            <p>As good of a resource that this is, there is much more groundwork than highlighted in this document to get I.T workloads migrated onto Cloud technologies. One of the biggest setbacks for Public Sector Organisations is that they must hire additional staff resources to even begin migrating I.T workloads. Hiring project managers, cloud experts, database experts, application developers, solutions architects, and testers certainly doesn't come cheap, and training staff to be equipped with the required skills is often he biggest hurdle to overcome.</p>
+             <p>This is where we, Keep-Alive I.T come into the equation and are able to step in and help Public Sector Organisations to make better decisions with their Cloud related work items. Operating Clouds at high scale, and maintaining Clouds for Our goal here at Keep-Alive I.T is to consult you of the steps involved with embracing Cloud technologies</p>
+            <p>If your Public Sector Organisation already has an AWS Setup that needs managing, you can jump straight to our services overview to see if hiring us to manage your Cloud infrastructure and associated applications is the right fit for your Organisation.</p>
+    </section>
+           
+    <div class="row">
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+                <div class="icon">
+                    <i class="bx bxl-dribbble"></i>
                 </div>
+                <h4><a href="#cloud-introduction">An introduction to the Cloud</a></h4>
+                <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
             </div>
-            
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="icon-box">
-                    <div class="icon">
-                        <i class="bx bxl-dribbble"></i>
-                    </div>
-                    <h4><a href="#aws-cloud-introduction">AWS Cloud Introduction</a></h4>
-                    <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+                <div class="icon">
+                    <i class="bx bxl-dribbble"></i>
                 </div>
+                <h4><a href="#cloud-introduction">Cloud Success stories for Public Sector Organisations</a></h4>
+                <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
             </div>
-                        
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                    <h4><a href="#cloud-consultancy">AWS Cloud Migration: Creating a strategy</a></h4>
-                    <p>Curious to embrace the advantages of the Cloud for your Public Sector Organisation but unsure where to start? Our AWS Cloud experts can guide you through the </p>
+        </div>
+        
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+                <div class="icon">
+                    <i class="bx bxl-dribbble"></i>
                 </div>
+                <h4><a href="#aws-cloud-introduction">AWS Cloud Introduction</a></h4>
+                <p>If you're unsure what Cloud Computing is, or why you might need it, this is a good starting point.</p>
             </div>
-                        
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                    <h4><a href="#cloud-architecture">AWS Cloud Architecture</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
-                </div>
+        </div>
+                    
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4><a href="#cloud-consultancy">AWS Cloud Migration: Creating a strategy</a></h4>
+                <p>Curious to embrace the advantages of the Cloud for your Public Sector Organisation but unsure where to start? Our AWS Cloud experts can guide you through the </p>
             </div>
+        </div>
+                    
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4><a href="#cloud-architecture">AWS Cloud Architecture</a></h4>
+                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+            </div>
+        </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bx-file"></i></div>
-                    <h4><a href="#cloud-operations">AWS Cloud Operations</a></h4>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bx-file"></i></div>
+                <h4><a href="#cloud-operations">AWS Cloud Operations</a></h4>
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
+        </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bx-tachometer"></i></div>
-                    <h4><a href="#cloud-maintenance">AWS Cloud Maintenance</a></h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bx-tachometer"></i></div>
+                <h4><a href="#cloud-maintenance">AWS Cloud Maintenance</a></h4>
+                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
+        </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bx-world"></i></div>
-                    <h4><a href="#data-migrations">AWS Data Migrations</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bx-world"></i></div>
+                <h4><a href="#data-migrations">AWS Data Migrations</a></h4>
+                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
+        </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bx-slideshow"></i></div>
-                    <h4><a href="#high-availibility">AWS High Availibility</a></h4>
-                    <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bx-slideshow"></i></div>
+                <h4><a href="#high-availibility">AWS High Availibility</a></h4>
+                <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
+        </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-                <div class="icon-box">
-                    <div class="icon"><i class="bx bx-arch"></i></div>
-                    <h4><a href="#fault-tolerance">AWS Fault Tolerance</a></h4>
-                    <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
-                </div>
+        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+            <div class="icon-box">
+                <div class="icon"><i class="bx bx-arch"></i></div>
+                <h4><a href="#fault-tolerance">AWS Fault Tolerance</a></h4>
+                <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
         </div>
     </div>
@@ -179,79 +176,76 @@ benefits:
 </section>
 
 <section id="case-studies">
-    <div class="container">
-        <div class="row">
-            <section class="section-title" data-aos="fade-up">
-                <h2>Cloud Success Stories in Public Sector Organisations</h2>
-                <p>Amazon Web Services (AWS) is one of the World's leading Cloud Computing providers. Cloud computing is the on-demand delivery of I.T resources via the internet, with a pay-as-you-go pricing model.</p>
-            </section>
-        </div>            
-        <div class="row">
-            <div class="features col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up">
-                <div class="card"
-                     style="background-image: url(/assets/images/public-sector/home-office.jpg);">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="">Home Office Cloud Migration</a></h5>
-                        <p class="card-text">How the Home Office’s Immigration Technology department reduced its cloud costs by 40%.</p>
-                        <div class="read-more">
-                            <a href="https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40" target="_blank">
-                                <i class="icofont-arrow-right"></i> 
-                                Read Case Study
-                            </a>
-                        </div>
+    <section class="section-title" data-aos="fade-up">
+        <h2>Cloud Success Stories in Public Sector Organisations</h2>
+        <p>Amazon Web Services (AWS) is one of the World's leading Cloud Computing providers. Cloud computing is the on-demand delivery of I.T resources via the internet, with a pay-as-you-go pricing model.</p>
+    </section>
+    
+    <div class="row">
+        <div class="features col-md-6 d-flex align-items-stretch aos-init aos-animate" data-aos="fade-up">
+            <div class="card"
+                 style="background-image: url(/assets/images/public-sector/home-office.jpg);">
+                <div class="card-body">
+                    <h5 class="card-title"><a href="">Home Office Cloud Migration</a></h5>
+                    <p class="card-text">How the Home Office’s Immigration Technology department reduced its cloud costs by 40%.</p>
+                    <div class="read-more">
+                        <a href="https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40" target="_blank">
+                            <i class="icofont-arrow-right"></i> 
+                            Read Case Study
+                        </a>
                     </div>
                 </div>
             </div>
-            <div class="features col-md-6 d-flex align-items-stretch mt-4 mt-md-0 aos-init aos-animate" data-aos="fade-up">
-                <div class="card"
-                     style="background-image: url(/assets/images/public-sector/welsh-government.jpg);">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <a href="">How the Welsh Government migrated their technology to the cloud</a>
-                        </h5>
-                        <p class="card-text">How the Welsh Government planned and migrated their technology systems, services and data to the cloud.</p>
-                        <div class="read-more">
-                            <a href="https://www.gov.uk/government/case-studies/how-the-welsh-government-migrated-their-technology-to-the-cloud" target="_blank">
-                                <i class="icofont-arrow-right"></i> 
-                                Read Case Study
-                            </a>
-                        </div>
+        </div>
+        <div class="features col-md-6 d-flex align-items-stretch mt-4 mt-md-0 aos-init aos-animate" data-aos="fade-up">
+            <div class="card"
+                 style="background-image: url(/assets/images/public-sector/welsh-government.jpg);">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="">How the Welsh Government migrated their technology to the cloud</a>
+                    </h5>
+                    <p class="card-text">How the Welsh Government planned and migrated their technology systems, services and data to the cloud.</p>
+                    <div class="read-more">
+                        <a href="https://www.gov.uk/government/case-studies/how-the-welsh-government-migrated-their-technology-to-the-cloud" target="_blank">
+                            <i class="icofont-arrow-right"></i> 
+                            Read Case Study
+                        </a>
                     </div>
                 </div>
             </div>
-            <div class="features col-md-6 d-flex align-items-stretch mt-4 aos-init aos-animate" data-aos="fade-up"
-             data-aos-delay="100">
-                <div class="card"
-                     style="background-image: url(/assets/images/public-sector/office-for-national-statistics.jpg);">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <a href="">How ONS changed workplace culture to get the best out of cloud</a>
-                        </h5>
-                        <p class="card-text">Find out how ONS overcame blockers to cloud migration and the steps it took to engage with its workforce.</p>
-                        <div class="read-more">
-                            <a href="https://www.gov.uk/government/case-studies/how-ons-changed-workplace-culture-to-get-the-best-out-of-cloud" target="_blank">
-                                <i class="icofont-arrow-right"></i> 
-                                Read Case Study
-                            </a>
-                        </div>
+        </div>
+        <div class="features col-md-6 d-flex align-items-stretch mt-4 aos-init aos-animate" data-aos="fade-up"
+         data-aos-delay="100">
+            <div class="card"
+                 style="background-image: url(/assets/images/public-sector/office-for-national-statistics.jpg);">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="">How ONS changed workplace culture to get the best out of cloud</a>
+                    </h5>
+                    <p class="card-text">Find out how ONS overcame blockers to cloud migration and the steps it took to engage with its workforce.</p>
+                    <div class="read-more">
+                        <a href="https://www.gov.uk/government/case-studies/how-ons-changed-workplace-culture-to-get-the-best-out-of-cloud" target="_blank">
+                            <i class="icofont-arrow-right"></i> 
+                            Read Case Study
+                        </a>
                     </div>
                 </div>
             </div>
-            <div class="features col-md-6 d-flex align-items-stretch mt-4 aos-init aos-animate" data-aos="fade-up"
-             data-aos-delay="100">
-                <div class="card"
-                     style="background-image: url(/assets/images/public-sector/network-rail.jpg);">
-                    <div class="card-body">
-                        <h5 class="card-title">
-                            <a href="">How Network Rail implemented its hybrid cloud strategy</a>
-                        </h5>
-                        <p class="card-text">Learn about how Network Rail moved to the hybrid cloud, the challenges it faced and the technologies it used.</p>
-                        <div class="read-more">
-                            <a href="https://www.gov.uk/government/case-studies/how-network-rail-implemented-its-hybrid-cloud-strategy" target="_blank">
-                                <i class="icofont-arrow-right"></i> 
-                                Read Case Study
-                            </a>
-                        </div>
+        </div>
+        <div class="features col-md-6 d-flex align-items-stretch mt-4 aos-init aos-animate" data-aos="fade-up"
+         data-aos-delay="100">
+            <div class="card"
+                 style="background-image: url(/assets/images/public-sector/network-rail.jpg);">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="">How Network Rail implemented its hybrid cloud strategy</a>
+                    </h5>
+                    <p class="card-text">Learn about how Network Rail moved to the hybrid cloud, the challenges it faced and the technologies it used.</p>
+                    <div class="read-more">
+                        <a href="https://www.gov.uk/government/case-studies/how-network-rail-implemented-its-hybrid-cloud-strategy" target="_blank">
+                            <i class="icofont-arrow-right"></i> 
+                            Read Case Study
+                        </a>
                     </div>
                 </div>
             </div>
@@ -260,24 +254,20 @@ benefits:
 </section>
 
 <section id="services" class="services">
-    <div class="container">
-        <div class="row">
-            <section class="section-title" data-aos="fade-up">
-                <h2>AWS Cloud offerings: Diving deeper into the Cloud services Amazon offers</h2>
-                <p>Amazon Web Services (AWS) is one of the World's leading Cloud Computing providers. Cloud computing is the on-demand delivery of I.T resources via the internet, with a pay-as-you-go pricing model.</p>
-                    
-                    <p>Organisations of every type, size and industry are using the cloud for a wide variety of use cases. Including (but not limited to); data backup, disaster recovery, email, virtual desktops, software development and testing, big data analytics, and customer facing web applications. Public Sector Organisations could be utilising the benefits of an AWS Cloud to give a better experience to the public, whilst saving thousands of pounds on I.T operation costs.
-                    </p>
-                                        
-                    <p>Amazon Web Services works like this; Instead of buying, owning and maintaining physical data centers and server on-site, you can access a gigantic pool of technology resources, such as computing power, storage and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS). AWS focuses on the setup of complex infrastructure sites across the globe and physical security of Data Centres. This means that a Public Sector Organisation has to do to reap the benefits of aPublic Cloud provider is hire a specialised team of I.T professionals to Architect, Operate, and Maintain Cloud based I.T workloads. It can often be tricky to find AWS Cloud Consultants due to the amount of technical expertise required. However, that shouldn't put Public Sector Organisations off using Cloud technologies as there are companies like Keep-Alive I.T around to help with this.
-                    </p>
-                
-                <p>Whether this is the first time you've come across Amazon Web Services, or you've been using Amazon Web Services for months/years, this page will include some free information on AWS topics. More advanced topics will require a consultancy session with us. These are charged at £50 per hour (inc. VAT) for public sector organisations.</p>
-                <p>AWS global infrastructure</p>
-                <p>Select an item to jump to page section</p>
-            </section> 
-        </div>
-    </div>
+    <section class="section-title" data-aos="fade-up">
+        <h2>AWS Cloud offerings: Diving deeper into the Cloud services Amazon offers</h2>
+        <p>Amazon Web Services (AWS) is one of the World's leading Cloud Computing providers. Cloud computing is the on-demand delivery of I.T resources via the internet, with a pay-as-you-go pricing model.</p>
+            
+            <p>Organisations of every type, size and industry are using the cloud for a wide variety of use cases. Including (but not limited to); data backup, disaster recovery, email, virtual desktops, software development and testing, big data analytics, and customer facing web applications. Public Sector Organisations could be utilising the benefits of an AWS Cloud to give a better experience to the public, whilst saving thousands of pounds on I.T operation costs.
+            </p>
+                                
+            <p>Amazon Web Services works like this; Instead of buying, owning and maintaining physical data centers and server on-site, you can access a gigantic pool of technology resources, such as computing power, storage and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS). AWS focuses on the setup of complex infrastructure sites across the globe and physical security of Data Centres. This means that a Public Sector Organisation has to do to reap the benefits of aPublic Cloud provider is hire a specialised team of I.T professionals to Architect, Operate, and Maintain Cloud based I.T workloads. It can often be tricky to find AWS Cloud Consultants due to the amount of technical expertise required. However, that shouldn't put Public Sector Organisations off using Cloud technologies as there are companies like Keep-Alive I.T around to help with this.
+            </p>
+        
+        <p>Whether this is the first time you've come across Amazon Web Services, or you've been using Amazon Web Services for months/years, this page will include some free information on AWS topics. More advanced topics will require a consultancy session with us. These are charged at £50 per hour (inc. VAT) for public sector organisations.</p>
+        <p>AWS global infrastructure</p>
+        <p>Select an item to jump to page section</p>
+    </section> 
 </section>
 
 <section id="aws-cloud-introduction">
