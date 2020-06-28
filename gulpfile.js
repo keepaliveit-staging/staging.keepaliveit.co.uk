@@ -2,6 +2,7 @@
 
 // https://gulpjs.com/docs/en/getting-started/creating-tasks
 // series() and parallel() can be nested to any arbitrary depth.
+
 const devBuild = (process.env.NODE_ENV !== 'production');
 
 const gulp = require('gulp');
@@ -147,7 +148,7 @@ build = (done) => {
 };
 
 // Run jekyll build command.
-jekyllBuild = (callback) => {
+jekyllBuild = () => {
     const jekyll = child.spawn('jekyll', [
         'build',
         '--watch',
@@ -164,13 +165,16 @@ jekyllBuild = (callback) => {
     jekyll.stdout.on('data', jekyllLogger);
     jekyll.stderr.on('data', jekyllLogger);
 
-    browserSync.reload();
+    var watcher = gulp.watch('_site/assets/css/jekyll.css');
 
-    callback();
+    watcher.on('change', function (path, stats) {
+        console.log(`File ${path} was added omg lol`);
+        buildStyles();
+    });
 };
 
 // Serve site and watch files
-serve = (callback) => {
+serverInit = (done) => {
     // Initialise browsersync
     browserSync.init({
         server: paths.siteDir,
@@ -187,6 +191,8 @@ serve = (callback) => {
         open: false       // Toggle to auto-open page when starting
     });
 
+    jekyllBuild();
+
     //gulp.watch(['_config.yml'], gulp.series('build:jekyll:watch'));
 
     // Watch .scss files and pipe changes to browserSync
@@ -198,11 +204,10 @@ serve = (callback) => {
     // Watch image files and pipe changes to browserSync
     //gulp.watch('assets/img/**/*', gulp.series('build:images'));
 
-    callback();
+    //watcher.close();
 };
 
 
 exports.buildStyles = buildStyles;
 exports.jekyllBuild = jekyllBuild;
-exports.build = build;
-exports.serve = gulp.series(jekyllBuild, buildStyles, serve);
+exports.serve = serverInit;

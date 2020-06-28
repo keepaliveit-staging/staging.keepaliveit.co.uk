@@ -7,6 +7,32 @@
 @import "plugins/accordian/accordion";
 @import "plugins/swal/sweetalert2";
 @import "plugins/droopmenu/droopmenu";
+
+
+// Grid breakpoints
+//
+// Define the minimum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+$grid-breakpoints: (
+        xs: 0,
+        sm: $small,
+        md: $medium,
+        lg: $large,
+        xl: $x-large
+);
+
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+        sm: $small,
+        md: $medium,
+        lg: $large,
+        xl: $max-width
+);
+
 @import 'plugins/bootstrap/scss/bootstrap-grid';
 
 /* Customised user-defined styles */
