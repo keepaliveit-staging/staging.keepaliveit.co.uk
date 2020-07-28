@@ -10,6 +10,7 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "650px"
   more_text: "Learn more about our Office Fitting Service"
+  more_text_colour: "#36454f"
 
 ---
 

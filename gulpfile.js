@@ -152,7 +152,7 @@ jekyllBuild = () => {
     const jekyll = child.spawn('jekyll', [
         'build',
         '--watch',
-        '--incremental',
+        //'--incremental',
         '--drafts'
     ]);
 
@@ -168,7 +168,6 @@ jekyllBuild = () => {
     var watcher = gulp.watch('_site/assets/css/jekyll.css');
 
     watcher.on('change', function (path, stats) {
-        console.log(`File ${path} was added omg lol`);
         buildStyles();
     });
 };

@@ -10,8 +10,8 @@ header:
   page_lead_text_colour: "#aa0000"
   min_height: 780px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
-  more_text: "Discover our AWS consultancy services"
-  more_text_colour: "#ff9900"
+  more_text: "Discover our AWS consultancy services for Public Sector"
+  more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)

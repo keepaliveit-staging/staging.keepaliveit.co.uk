@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/gdpr.jpg
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
+  min_height: "700px"
   more_text: "Learn more about GDPR Compliance"
 
 ---

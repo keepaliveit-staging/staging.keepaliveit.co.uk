@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Privacy Policy for keepaliveit.co.uk"
-permalink: /privacy-policy
+permalink: /privacy-policy.html
 classes:
   - privacy-policy
 excerpt: "Learn how we collect, handle, use, and look after your data."

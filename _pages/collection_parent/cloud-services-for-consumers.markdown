@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Cloud Services for Consumers"
-permalink: /cloud-services-consumer
+permalink: /cloud-services-for-consumers
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:

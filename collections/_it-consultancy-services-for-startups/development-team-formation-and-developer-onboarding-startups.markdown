@@ -10,6 +10,8 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "700px"
   more_text: "Discover how we can improve your team"
+  more_text_colour: "#36454f"
+
 ---
 
 {% include breadcrumbs.html %}

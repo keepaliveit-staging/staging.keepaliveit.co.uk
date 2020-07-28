@@ -11,7 +11,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
   more_text: "Discover our Linode Cloud consultancy services"
-
+  more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/linode-logo.png
 benefits:

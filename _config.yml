@@ -220,6 +220,9 @@ kramdown:
 
 # Collections
 collections:
+  testimonial:
+    output: false
+    permalink: /testimonial/:path/
   industry:
     output: true
     permalink: /it-consultations-for/:path/
@@ -271,6 +274,9 @@ collections:
   office-fitting-services-for-startups:
     output: true
     permalink: /:collection/:path/
+  office-fitting-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
   it-consultancy-services:
     output: true
     permalink: /:collection/:path/
@@ -310,7 +316,13 @@ collections:
   software-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
+  software-products-and-services-for-consumers:
+    output: true
+    permalink: /:collection/:path/
   software-products-and-services-for-public-sector:
+    output: true
+    permalink: /:collection/:path/
+  it-tools-and-utilities:
     output: true
     permalink: /:collection/:path/
 

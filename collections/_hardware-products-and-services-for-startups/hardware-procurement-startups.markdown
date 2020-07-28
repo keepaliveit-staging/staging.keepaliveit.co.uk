@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
   more_text: ""
+  more_text_colour: "#36454f"
+
 ---
 
 {% include breadcrumbs.html %}

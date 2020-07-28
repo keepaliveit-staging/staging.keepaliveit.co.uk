@@ -1,17 +1,17 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Consultancy Services for Enterprise and Small Businesses"
+title: "Amazon Web Services (AWS) Cloud Consultancy Services"
 permalink: /cloud-services/amazon-web-services-aws
 
-excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
+excerpt: "Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective high volume Cloud workloads on Amazon Web Services (AWS). By hiring Keep-Alive I.T to implement or manage AWS Cloud Services, Enterprises could benefit from improved I.T Operations across individual departments, or even an entire organisation."
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
-  min_height: 750px
+  page_lead_text_colour: "#215e51"
+  min_height: 850px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
-  more_text: "Discover our AWS consultancy services"
-  more_text_colour: "#ff9900"
+  more_text: "Discover our AWS consultancy services for SME Businesses"
+  more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
@@ -23,7 +23,119 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's
+
+As an established SME, you know your line of business and understand your revenue streams well. One thing that seperates your business from others is your selling capabilites and the amount of cashflow that runs through your business. 
+
+
+
+
+#### North America
+US East (Northern Virginia) Region
+Availability Zones: 6
+Launched 2006
+
+US East (Ohio) Region
+Availability Zones: 3
+Launched 2016
+
+US West (Oregon) Region
+Availability Zones: 4
+Launched 2011
+Local Zone: 1
+Launched 2019
+
+US West (Northern California) Region
+Availability Zones: 3*
+Launched 2009
+
+GovCloud (US-West) Region
+Availability Zones: 3
+Launched 2011
+
+GovCloud (US-East) Region
+Availability Zones: 3
+Launched 2018
+
+Canada (Central) Region**
+Availability Zones: 3
+Launched 2016
+
+#### South America
+South America (São Paulo) Region
+Availability Zones: 3*
+Launched 2011
+
+#### Europe/Middle East/ Africa
+
+Europe (Frankfurt) Region
+Availability Zones: 3
+Launched 2014
+
+Europe (London) Region
+Availability Zones: 3
+Launched 2016
+
+Europe (Paris) Region
+Availability Zones: 3
+Launched 2017
+
+Middle East (Bahrain) Region
+Availability Zones: 3
+Launched 2019
+
+Europe (Ireland) Region
+Availability Zones: 3
+Launched 2007
+
+Europe (Milan) Region
+Availability Zones: 3
+Launched 2020
+
+Europe (Stockholm) Region
+Availability Zones: 3
+Launched 2018
+
+AWS Africa (Cape Town) Region
+Availability Zones: 3
+Launched 2020
+
+#### Asia Pacific
+Asia Pacific (Singapore) Region
+Availability Zones: 3
+Launched 2010
+
+Mainland China (Beijing) Region
+Availability Zones: 2
+Learn more at www.amazonaws.cn
+
+Asia Pacific (Sydney) Region
+Availability Zones: 3
+Launched 2012
+
+Asia Pacific (Tokyo) Region
+Availability Zones: 4*
+Launched 2011
+
+Asia Pacific (Seoul) Region
+Availability Zones: 4
+Launched 2016
+
+Mainland China (Ningxia) Region
+Availability Zones: 3
+Learn more at www.amazonaws.cn
+
+Asia Pacific (Osaka) Local Region1
+Availability Zones: 1
+Launched 2018
+
+Asia Pacific (Mumbai) Region
+Availability Zones: 3
+Launched 2016
+
+Asia Pacific (Hong Kong) Region
+Availability Zones: 3
+Launched 2019
 
 ### Why lock your business into AWS?
 Amazon Web Services (AWS) offers a substantial amount of Cloud services that can be used to perform simple computation operations for hobbyist software developers, or running highly complex application workloads with an enterprise grade Service Level Agreement (SLA).

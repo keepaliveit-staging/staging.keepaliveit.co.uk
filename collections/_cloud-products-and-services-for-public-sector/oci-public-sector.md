@@ -11,7 +11,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
   more_text: "Discover our OCI consultancy services"
-
+  more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/oci-logo.png
 cloud_name: Oracle Cloud Infrastructure
@@ -42,6 +42,272 @@ benefits:
         </div>
     </div>
 </section>
+
+
+<table class="table vl-table-bordered vl-table-divider-col" summary="This table summarizes basic information about each region"><caption></caption><colgroup><col><col><col><col><col><col></colgroup><thead class="thead">
+<tr class="row">
+<th class="entry" id="About__entry__1">Region Name</th>
+<th class="entry" id="About__entry__2">Region Identifier</th>
+<th class="entry" id="About__entry__3">Region Location</th>
+<th class="entry" id="About__entry__4">Region Key</th>
+<th class="entry" id="About__entry__5">Realm  Key</th>
+<th class="entry" id="About__entry__6">Availability Domains</th>
+</tr>
+</thead><tbody class="tbody">
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Australia East (Sydney)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-sydney-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Sydney, Australia</td>
+<td class="entry" headers="About__entry__4"><span class="ph">SYD</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Australia Southeast (Melbourne)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-melbourne-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Melbourne, Australia</td>
+<td class="entry" headers="About__entry__4"><span class="ph">MEL</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Brazil East (Sao Paulo)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">sa-saopaulo-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Sao Paulo, Brazil</td>
+<td class="entry" headers="About__entry__4"><span class="ph">GRU</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Canada Southeast (Montreal)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ca-montreal-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Montreal, Canada</td>
+<td class="entry" headers="About__entry__4"><span class="ph">YUL</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Canada Southeast (Toronto)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ca-toronto-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Toronto, Canada</td>
+<td class="entry" headers="About__entry__4"><span class="ph">YYZ</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Germany Central (Frankfurt)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">eu-frankfurt-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Frankfurt, Germany</td>
+<td class="entry" headers="About__entry__4"><span class="ph">FRA</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">3</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">India South (Hyderabad)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-hyderabad-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Hyderabad, India</td>
+<td class="entry" headers="About__entry__4"><span class="ph">HYD</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1 </td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">India West (Mumbai)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-mumbai-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Mumbai, India</td>
+<td class="entry" headers="About__entry__4"><span class="ph">BOM</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1 </td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Japan Central (Osaka)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-osaka-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Osaka, Japan</td>
+<td class="entry" headers="About__entry__4"><span class="ph">KIX</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Japan East (Tokyo)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-tokyo-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Tokyo, Japan</td>
+<td class="entry" headers="About__entry__4"><span class="ph">NRT</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Netherlands Northwest (Amsterdam)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">eu-amsterdam-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Amsterdam, Netherlands</td>
+<td class="entry" headers="About__entry__4"><span class="ph">AMS</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Saudi Arabia West (Jeddah)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">me-jeddah-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Jeddah, Saudi Arabia</td>
+<td class="entry" headers="About__entry__4"><span class="ph">JED</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">South Korea Central (Seoul)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-seoul-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Seoul, South Korea</td>
+<td class="entry" headers="About__entry__4"><span class="ph">ICN</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">South Korea North (Chuncheon)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">ap-chuncheon-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Chuncheon, South Korea</td>
+<td class="entry" headers="About__entry__4"><span class="ph">YNY</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">Switzerland North (Zurich)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">eu-zurich-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Zurich, Switzerland</td>
+<td class="entry" headers="About__entry__4"><span class="ph">ZRH</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">1</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">UK&nbsp;South (London)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">uk-london-1</span>
+</td>
+<td class="entry" headers="About__entry__3">London, United Kingdom</td>
+<td class="entry" headers="About__entry__4"><span class="ph">LHR</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">3</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">US&nbsp;East (Ashburn)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">us-ashburn-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Ashburn, VA</td>
+<td class="entry" headers="About__entry__4"><span class="ph">IAD</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">3</td>
+</tr>
+<tr class="row">
+<td class="entry" headers="About__entry__1"><span class="ph">US West (Phoenix)</span>
+</td>
+<td class="entry" headers="About__entry__2"><span class="ph">us-phoenix-1</span>
+</td>
+<td class="entry" headers="About__entry__3">Phoenix, AZ </td>
+<td class="entry" headers="About__entry__4"><span class="ph">PHX</span>
+</td>
+<td class="entry" headers="About__entry__5">OC1</td>
+<td class="entry" headers="About__entry__6">3</td>
+</tr>
+</tbody></table>
+
+Analytics
+Announcements Service
+API Gateway
+Application Migration Service
+Audit
+Autoscaling
+Big Data Service
+Budgets
+Block Volume Service
+Container Engine for Kubernetes
+Compute Service
+Compute Management Service
+Data Catalog
+Data Flow
+Data Integration
+Data Safe
+Data Science
+Database Service
+DNS
+Data Transfer Service
+Email Delivery
+Events
+Functions Service
+File Storage
+Health Checks
+Identity and Access Management Service
+Oracle Integration
+Key Management
+Load Balancing
+Service limits
+Marketplace Service
+Monitoring
+MySQL Database Service
+Networking Service
+NoSQL Database
+Oracle Content and Experience
+Oracle Cloud VMware Solution
+Digital Assistant Service Instance
+Notifications
+Object Storage Service
+OS Management
+Makes a raw request against an OCI service
+Resource Manager
+Search Service
+Secrets
+Session commands for CLI
+Setup commands for CLI
+Streaming Service
+Support Management
+Usage
+Secrets Management
+Web Application Acceleration and Security Services
+Work Requests
+
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 

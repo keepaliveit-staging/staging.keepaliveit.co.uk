@@ -10,6 +10,7 @@ header:
   page_lead_text_colour: "#4a7237"
   min_height: "600px"
   more_text: "Discover our Website Services for Businesses"
+  more_text_colour: "#215e51"
   
 secondaryMenu:
   - title: "Website Development Services for Businesses"

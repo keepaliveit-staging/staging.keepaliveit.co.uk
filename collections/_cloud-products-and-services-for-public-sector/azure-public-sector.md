@@ -11,6 +11,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover our Azure consultancy services"
+  more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/azure-logo.png
 cloud_name: Microsoft Azure

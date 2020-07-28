@@ -11,6 +11,8 @@ header:
   min_height: 680px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
   more_text: "Discover our DigitalOcean consultancy services"
+  more_text_colour: "#36454f"
+
 
   
 icon: /assets/images/cloud/digitalocean-logo.png

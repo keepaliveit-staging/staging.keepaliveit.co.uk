@@ -102,11 +102,13 @@
   {% endif %}
 
   <div class="bubble3">
-    <div class="bubble-block-bottom"></div>
-    <div style="width:200px;position:absolute;top:30px;left:calc(50% - 100px);color:white;text-align:center;font-weight:300;font-size: 0.77em;">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="{{ page.header.more_text_colour | default: '#a00' }}" fill-opacity="1" d="M0,32L120,48C240,64,480,96,720,112C960,128,1200,128,1320,128L1440,128L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path>
+    </svg>
+    <div style="width:200px;position:absolute;bottom:30px;left:calc(50% - 100px);color:white;text-align:center;font-weight:300;font-size: 0.77em;">
       <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);">{{ page.header.more_text }}</a>
     </div>
-    <div class="bounce-7" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:85px;left:calc(50% - 26px);border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;border: 1px solid rgba(255,255,255,.29);">
+    <div class="bounce-7" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;bottom:85px;left:calc(50% - 26px);border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;border: 1px solid rgba(255,255,255,.29);">
       <a href="#main">
         <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
       </a>

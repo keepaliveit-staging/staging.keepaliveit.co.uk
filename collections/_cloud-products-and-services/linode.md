@@ -1,17 +1,17 @@
 ---
 layout: splash 
-title: "Linode Cloud Consultancy Services for Enterprise and Small Businesses"
+title: "Linode Cloud Consultancy Services"
 permalink: /cloud-services/linode
 
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud-providers/linode.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#215e51"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
   more_text: "Discover our Linode Cloud consultancy services"
-
+  more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/linode-logo.png
 benefits:

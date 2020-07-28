@@ -1,16 +1,17 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services for Enterprise and Small Businesses"
+title: "Microsoft Azure Cloud Consultancy Services"
 permalink: /cloud-services/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#215e51"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover our Azure consultancy services"
+  more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/azure-logo.png
 cloud_name: Microsoft Azure

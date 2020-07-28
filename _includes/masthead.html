@@ -36,7 +36,7 @@
                                     {%- for submenu1 in link.subitems -%}
                                     <div class="droopmenu-tabsection" class="droopmenu-helptext"
                                          data-helptext="{{ submenu1.helptext }}">
-                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader">
+                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader" style="color: {{ submenu1.color }};">
                                             {{ submenu1.icon }}
                                             {{ submenu1.short_title }}
                                         </a>
@@ -77,10 +77,10 @@
                     {%- endfor -%}
 
                     <li>
-                        <a href="#">I.T Consultancy Topics</a>
+                        <a href="#">Knowledgebase </a>
                         <ul>
                             <li>
-                                <a href="#">Flyout</a>
+                                <a href="#">I.T Consultancy Topics</a>
                                 <ul>
                                     <li>
                                         <a href="#">Multi Level</a>
@@ -108,10 +108,13 @@
                                     <li><a href="#">3Docean</a></li>
                                 </ul>
                             </li>
+                            <li>
+                                <a href="/tech-tips">Technology Tips</a>
+                            </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Company</a>
+                        <a href="#">Company </a>
                         <ul class="droopmenu-megamenu droopmenu-grid">
                             <li class="droopmenu-grid-container">
                                 <div class="droopmenu-row dm-equalize">
@@ -176,12 +179,12 @@
                                     </div>
                                     <div class="droopmenu-col droopmenu-col4">
                                         <div class="droopmenu-content">
-                                            <h4>Icon Links</h4>
+                                            <h4>Company Values</h4>
                                             <ul class="droopmenu-icon-links">
                                                 <li>
-                                                    <a href="#">Security</a>
+                                                    <a href="#">Environmental</a>
                                                     <div class="dm-details">
-                                                        <span>Security</span>
+                                                        <span>Environmental</span>
                                                         <p>Potencialize os resultados com
                                                             nossos poderosos recursos</p>
                                                     </div>
@@ -190,9 +193,9 @@
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <a href="#">Group Chat</a>
+                                                    <a href="#">Fair Employer</a>
                                                     <div class="dm-details">
-                                                        <span>Group Chat</span>
+                                                        <span>Fair Employer</span>
                                                         <p>Potencialize os resultados com
                                                             nossos poderosos recursos</p>
                                                     </div>
@@ -203,7 +206,7 @@
                                                 <li>
                                                     <a href="#">Useful Tips</a>
                                                     <div class="dm-details">
-                                                        <span>Useful Tips</span>
+                                                        <span>Community Contributor</span>
                                                         <p>Potencialize os resultados com
                                                             nossos poderosos recursos</p>
                                                     </div>

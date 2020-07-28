@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Cookie Policy for keepaliveit.co.uk"
-permalink: /cookie-policy
+permalink: /cookie-policy.html
 classes:
   - cookie_policy
 excerpt: "Learn how Web Browser Cookies are used at keepaliveit.co.uk"

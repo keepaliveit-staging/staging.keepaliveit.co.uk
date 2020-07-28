@@ -8,6 +8,8 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
+  more_text_colour: "#36454f"
+
 ---
 
 {% include breadcrumbs.html %}

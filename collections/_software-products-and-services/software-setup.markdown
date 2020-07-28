@@ -8,7 +8,8 @@ header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
   page_lead_text_colour: "#897ad1"
-
+  more_text_colour: "#215e51"
+  
 ---
 
 {% include breadcrumbs.html %}

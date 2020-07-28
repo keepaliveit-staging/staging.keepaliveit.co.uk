@@ -8,6 +8,8 @@ header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  more_text_colour: "#00416a"
+
 ---
 
 {% include breadcrumbs.html %}

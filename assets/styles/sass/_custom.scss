@@ -1617,6 +1617,21 @@ Cookie notice
   line-height: inherit !important;
 }
 
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a.droopmenu-tab-active,
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a:hover {
+  color: white;
+
+  i {
+    font-size: 12px;
+    width: 1.6em;
+    text-align: center;
+    color: white;
+    line-height: 1.6em !important;
+    background: #a00;
+    border-radius: 0.8em;
+  }
+}
+
 .droopmenu-tabcontent .droopmenu-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -1641,10 +1656,18 @@ Cookie notice
   color: #e9e9e9;
   font-size: 16px;
   font-weight: bold;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #71818c;
 }
 
 .droopmenu-col h4 i {
   font-size: 12px;
+  width: 1.6em;
+  text-align: center;
+  line-height: 1.6em !important;
+  background: #a00;
+  color: #fff;
+  border-radius: .8em;
 }
 
 .droopmenu .droopmenu-col li a {
@@ -2002,6 +2025,6 @@ a.droopmenu-tab-active {
   }
 }
 
-.test101{
+.test101 {
   background: blue;
 }

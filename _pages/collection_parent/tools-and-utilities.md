@@ -2,7 +2,7 @@
 layout: splash 
 author_profile: false 
 title: "I.T related Tools and Utilities"
-permalink: /tools-and-utilities
+permalink: /it-tools-and-utilities
 
 excerpt: "Tools and Utilities which help us diagnose common issues with your I.T operations."
 header:
@@ -18,5 +18,8 @@ header:
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> I.T Tools and Utilities
 
-
-<a href="/tools-and-utilities/ip-address-finder">IP Address Finder</a>
+{% assign items = site.it-tools-and-utilities %}
+        
+{% for item in items %}            
+<a href="{{ item.url }}">{{ item.title }}</a>
+{% endfor %}

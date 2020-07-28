@@ -11,7 +11,13 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Application Hosting
+## Disaster Recover as a Service
+
+RPO
+Recovery Point Objective (RPO) refers to a company's loss tolerance; the amount of data that can be lost before significant harm to the business occurs.
+
+RTO
+Recovery Time Objective (RTO) refers to how much time an application can be down without causing significant damage to the business.
 
 
 {% include industry-consultation.md %}

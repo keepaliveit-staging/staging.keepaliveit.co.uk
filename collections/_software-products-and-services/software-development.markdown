@@ -10,6 +10,8 @@ header:
   page_lead_text_colour: "#ea149b"
   min_height: "600px"
   more_text: "Discover Our Software Development Services"
+  more_text_colour: "#215e51"
+  
 ---
 
 {% include breadcrumbs.html %}

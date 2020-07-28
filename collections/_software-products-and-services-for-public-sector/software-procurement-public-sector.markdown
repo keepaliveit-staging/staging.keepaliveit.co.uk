@@ -10,6 +10,8 @@ header:
   page_lead_text_colour: "#897ad1"
   min_height: "600px"
   more_text: "Learn why you should offload I.T procurement"
+  more_text_colour: "#00416a"
+
 ---
 
 {% include breadcrumbs.html %}

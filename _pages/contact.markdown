@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Contact Us"
-permalink: /contact
+permalink: /contact.html
 classes:
   - contact
 excerpt: "Discover the different ways to get in touch with us."

@@ -1,17 +1,17 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services for Enterprise and Small Businesses"
+title: "DigitalOcean Cloud Consultancy Services"
 permalink: /cloud-services/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#215e51"
   min_height: 680px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
   more_text: "Discover our DigitalOcean consultancy services"
-
+  more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/digitalocean-logo.png
 benefits:

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Cloud Services for Small Businesses and Enterprises"
+title: "Cloud Services offered by Keep-Alive I.T"
 permalink: /cloud-services
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."

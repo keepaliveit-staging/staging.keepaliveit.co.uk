@@ -10,6 +10,7 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "600px"
   more_text: "Discover I.T Hardware Support Services"
+  more_text_colour: "#00416a"
   
 secondaryMenu:
     - title: "Hardware Support for Consumers"

@@ -1,17 +1,17 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Enterprise and Small Businesses"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services "
 permalink: /cloud-services/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#215e51"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
   more_text: "Discover our OCI consultancy services"
-
+  more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/oci-logo.png
 cloud_name: Oracle Cloud Infrastructure

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Website Sitemap for keepaliveit.co.uk"
-permalink: /sitemap
+permalink: /sitemap.html
 classes:
   - about
 excerpt: "Website Sitemap for keepaliveit.co.uk"

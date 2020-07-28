@@ -9,7 +9,8 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
   more_text: "Discover On-Site Hardware Setup Services"
-
+  more_text_colour: "#00416a"
+  
 secondaryMenu:
     - title: "Hardware Setup for Businesses"
       url: /hardware-products-and-services/it-hardware-setup
