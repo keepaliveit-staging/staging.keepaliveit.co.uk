@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "On-Site I.T Hardware Support for Small Business and Enterprise"
-permalink: /hardware-products-and-services/it-hardware-support
+permalink: /it-hardware-products-and-services/it-hardware-support
 
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
@@ -14,9 +14,9 @@ header:
   
 secondaryMenu:
     - title: "Hardware Support for Consumers"
-      url: /hardware-products-and-services/it-hardware-support-consumer
+      url: /it-hardware-products-and-services/it-hardware-support-consumer
     - title: "Hardware Support for Businesses"
-      url: /hardware-products-and-services/it-hardware-support
+      url: /it-hardware-products-and-services/it-hardware-support
 ---
 
 {% include breadcrumbs.html %}

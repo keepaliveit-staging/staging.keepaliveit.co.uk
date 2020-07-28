@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "DigitalOcean Cloud Consultancy Services for Startups"
-permalink: /cloud-services-for-startups/digitalocean
+permalink: /cloud-products-and-services-for-startups/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
 header:

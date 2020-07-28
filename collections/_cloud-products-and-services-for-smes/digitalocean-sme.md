@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "DigitalOcean Cloud Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
-permalink: /cloud-services-for-smes/digitalocean
+permalink: /cloud-products-and-services-for-smes/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
 header:

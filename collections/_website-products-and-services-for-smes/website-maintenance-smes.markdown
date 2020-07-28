@@ -1,19 +1,15 @@
 ---
 layout: splash
-title: "Website Services for Small Business and Enterprise"
-permalink: /website-services
+title: "Website Maintenance Services for Small Businesses and Enterprises"
+permalink: /website-products-and-services-for-smes/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
+  more_text_colour: "#215e51"
   
-secondaryMenu:
-    - title: "Website Services for Businesses"
-      url: /website-services
-    - title: "Website Services for Consumers"
-      url: /website-services-consumer
 ---
 
 {% include breadcrumbs.html %}

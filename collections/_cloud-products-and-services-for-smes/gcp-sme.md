@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Google Cloud Platform (GCP) Services for Small and Medium-sized Enterprises (SMEs)"
-permalink: /cloud-services-for-smes/google-cloud-computing-gcp
+permalink: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
 
 excerpt: "Efficient I.T improves productivity"
 header:

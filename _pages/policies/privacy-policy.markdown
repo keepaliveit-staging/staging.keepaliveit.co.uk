@@ -32,7 +32,7 @@ header:
             including information relating to any purchases you make of our goods or services;
         </li>
         <li>information that you provide to us for the purpose of registering with us;</li>
-        <li>information that you provide to us for the purpose of subscribing to our website services, email
+        <li>information that you provide to us for the purpose of subscribing to our Website Products and Services, email
             notifications and/or newsletters; and
         </li>
         <li>any other information that you choose to send to us.</li>

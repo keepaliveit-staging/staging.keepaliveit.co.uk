@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Cloud Services for SME's"
-permalink: /cloud-services-for-smes
+title: "Cloud Products and Services offered by Keep-Alive I.T"
+permalink: /cloud-products-and-services
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
@@ -9,7 +9,7 @@ header:
     overlay_filter: 0.3
     min_height: "600px" 
     page_lead_text_colour: "#ea5114"
-    more_text: "Discover Consumer Cloud offerings"
+    more_text: "Discover Business & Enterprise Cloud offerings"
 
 secondaryMenu:
     - title: "Cloud Services for Businesses"
@@ -42,11 +42,11 @@ secondaryMenu:
 - Linux Server Administration
 - Windows Server Administration
 
-<img class="lazy img-responsive" data-src="/assets/images/cloud/aws-logo.png"/>
-<img class="lazy img-responsive" data-src="/assets/images/cloud/google-cloud-logo.png"/>
-<img class="lazy img-responsive" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
-<img class="lazy img-responsive" data-src="/assets/images/cloud/linode-logo.jpg"/>
-<img class="lazy img-responsive" data-src="/assets/images/cloud/oci-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/aws-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/google-cloud-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/microsoft-azure-logo.png"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/linode-logo.jpg"/>
+<img class="lazy img-respnsive" data-src="/assets/images/cloud/oci-logo.png"/>
 
 {% assign items = site.cloud-services %}
 

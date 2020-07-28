@@ -14,61 +14,61 @@ main:
         - item:
           title: "Cloud Products & Services for Businesses"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services-for-smes
+          url: /cloud-products-and-services-for-smes
           helptext: "Explore our range of Cloud Consultancy Services and Solutions for Businesses."
           subitems:
             - item:
               title: "AWS Cloud Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/amazon-web-services-aws
+              url: /cloud-products-and-services-for-smes/amazon-web-services-aws
               helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Businesses."
             - item:
               title: "Microsoft Azure Cloud Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/azure
+              url: /cloud-products-and-services-for-smes/azure
               helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Businesses."
             - item:
               title: "Digital Ocean Cloud Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/digitalocean
+              url: /cloud-products-and-services-for-smes/digitalocean
               helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Businesses."
             - item:
               title: "Google Cloud Platform (GCP) Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/google-cloud-computing-gcp
+              url: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
               helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Businesses."
             - item:
               title: "Linode Cloud Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/linode
+              url: /cloud-products-and-services-for-smes/linode
               helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Businesses."
             - item:
               title: "Oracle Cloud Infrastructure (OCI) Management for Businesses"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-smes/oracle-cloud-infrastructure-oci
+              url: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
               helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Businesses."
         - item:
           title: "I.T Hardware related Products & Services for Businesses"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services
+          url: /it-hardware-products-and-services
           helptext: "Explore our range of I.T Hardware related Products & Services for Businesses."
           subitems:
             - item:
               title: "I.T Hardware Procurement for Businesses"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-procurement
+              url: /it-hardware-products-and-services/it-hardware-procurement
               helptext: "Explore our range of I.T Hardware Procurement Services for Businesses."
             - item:
               title: "I.T Hardware Setup for Businesses"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services/it-hardware-setup
+              url: /it-hardware-products-and-services/it-hardware-setup
               helptext: "Explore our range of I.T Hardware Setup Services for Businesses."
 
             - item:
               title: "I.T Hardware Support for Businesses"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               helptext: "Explore our range of I.T Hardware Support Services for Businesses."
-              url: /hardware-products-and-services/it-hardware-support
+              url: /it-hardware-products-and-services/it-hardware-support
         - item:
           title: "Software related Products & Services for Businesses"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
@@ -127,20 +127,20 @@ main:
               url: /it-consultancy-services/it-project-management
               helptext: "Explore our I.T Project Management Consultancy packages for Businesses."
         - item:
-          title: "Website Services for Businesses"
+          title: "Website Products and Services for Businesses"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-services
+          url: /website-products-and-services-for-smes
           helptext: "Explore our range of Website related Products & Services for Businesses."
           subitems:
             - item:
               title: "Website Development for Businesses"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services/website-development
+              url: /website-products-and-services-for-smes/website-development
               helptext: "Explore our range of Website Development Services for Businesses."
             - item:
               title: "Website Maintenance for Businesses"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services/website-maintenance
+              url: /website-products-and-services-for-smes/website-maintenance
               helptext: "Explore our range of Website Maintenance Services for Businesses."
         - item:
           title: "Office Fitting Services for Businesses in South Wales"
@@ -169,55 +169,55 @@ main:
             - item:
               title: "AWS Cloud Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/amazon-web-services-aws
+              url: /cloud-products-and-services-for-startups/amazon-web-services-aws
               helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Startups."
             - item:
               title: "Microsoft Azure Cloud Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/azure
+              url: /cloud-products-and-services-for-startups/azure
               helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Startups."
             - item:
               title: "Digital Ocean Cloud Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/digitalocean
+              url: /cloud-products-and-services-for-startups/digitalocean
               helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Startups."
             - item:
               title: "Google Cloud Platform (GCP) Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/google-cloud-computing-gcp
+              url: /cloud-products-and-services-for-startups/google-cloud-computing-gcp
               helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Startups."
             - item:
               title: "Linode Cloud Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/linode
+              url: /cloud-products-and-services-for-startups/linode
               helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Startups."
             - item:
               title: "Oracle Cloud Infrastructure (OCI) Management for Startups"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-startups/oracle-cloud-infrastructure-oci
+              url: /cloud-products-and-services-for-startups/oracle-cloud-infrastructure-oci
               helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Startups."
         - item:
           title: "I.T Hardware related Products & Services for Startups"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services-for-startups
+          url: /it-hardware-products-and-services-for-startups
           helptext: "Explore our range of I.T Hardware related Products & Services for Startups."
           subitems:
             - item:
               title: "I.T Hardware Procurement for Startups"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services-for-startups/it-hardware-procurement
+              url: /it-hardware-products-and-services-for-startups/it-hardware-procurement
               helptext: "Explore our range of I.T Hardware Procurement Services for Startups."
             - item:
               title: "I.T Hardware Setup for Startups"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services-for-startups/it-hardware-setup
+              url: /it-hardware-products-and-services-for-startups/it-hardware-setup
               helptext: "Explore our range of I.T Hardware Setup Services for Startups."
 
             - item:
               title: "I.T Hardware Support for Startups"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               helptext: "Explore our range of I.T Hardware Support Services for Startups."
-              url: /hardware-products-and-services-for-startups/it-hardware-support
+              url: /it-hardware-products-and-services-for-startups/it-hardware-support
         - item:
           title: "Software related Products & Services for Startups"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
@@ -276,7 +276,7 @@ main:
               url: /it-consultancy-services-for-startups/it-project-management
               helptext: "Explore our I.T Project Management Consultancy packages for Startups."
         - item:
-          title: "Website Services for Startups"
+          title: "Website Products and Services for Startups"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
           url: /website-services-for-startups
           helptext: "Explore our range of Website related Products & Services for Startups."
@@ -349,25 +349,25 @@ main:
         - item:
           title: "I.T Hardware related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services-for-public-sector
+          url: /it-hardware-products-and-services-for-public-sector
           helptext: "Explore our range of I.T Hardware related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "I.T Hardware Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services-for-public-sector/it-hardware-procurement
+              url: /it-hardware-products-and-services-for-public-sector/it-hardware-procurement
               helptext: "Explore our range of I.T Hardware Procurement Services for Public Sector Organisations."
             - item:
               title: "I.T Hardware Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services-for-public-sector/it-hardware-setup
+              url: /it-hardware-products-and-services-for-public-sector/it-hardware-setup
               helptext: "Explore our range of I.T Hardware Setup Services for Public Sector Organisations."
 
             - item:
               title: "I.T Hardware Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               helptext: "Explore our range of I.T Hardware Support Services for Public Sector Organisations."
-              url: /hardware-products-and-services-for-public-sector/it-hardware-support
+              url: /it-hardware-products-and-services-for-public-sector/it-hardware-support
         - item:
           title: "Software related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
@@ -426,7 +426,7 @@ main:
               url: /it-consultancy-services-for-public-sector/it-project-management
               helptext: "Explore our I.T Project Management Consultancy packages for Public Sector Organisations."
         - item:
-          title: "Website Services for Public Sector Organisations"
+          title: "Website Products and Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
           url: /website-services-for-public-sector
           helptext: "Explore our range of Website related Products & Services for Public Sector Organisations."
@@ -473,13 +473,13 @@ main:
         - item:
           title: "Hardware related Products & Services"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /hardware-products-and-services-for-consumers
+          url: /it-hardware-products-and-services-for-consumers
           helptext: "Explore our range of Hardware related Services for Consumers."
           subitems:
             - item:
               title: "I.T Hardware Support"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /hardware-products-and-services-for-consumers/it-hardware-support-consumer
+              url: /it-hardware-products-and-services-for-consumers/it-hardware-support-consumer
               helptext: "Explore our range of I.T Hardware Support Services for Consumers."
         - item:
           title: "Software related Products & Services"

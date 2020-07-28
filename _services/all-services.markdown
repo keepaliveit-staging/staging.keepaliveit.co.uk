@@ -528,7 +528,7 @@ I.T Compliance & Security Consultancy
 I.T Infrastructure Management Consultancy
 I.T Project Management Consultancy
 
-### Website Services
+### Website Products and Services
 <table id="tablePreview" class="table">
     <thead>
     <tr>

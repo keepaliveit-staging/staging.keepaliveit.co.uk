@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "I.T Hardware Products and Services for Consumers"
-permalink: /hardware-products-and-services-for-consumers
+permalink: /it-hardware-products-and-services-for-consumers
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -13,9 +13,9 @@ header:
 
 secondaryMenu:
     - title: "I.T Hardware Services for Businesses"
-      url: /hardware-products-and-services
+      url: /it-hardware-products-and-services
     - title: "I.T Hardware Services for Consumers"
-      url: /hardware-products-and-services-consumer
+      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}

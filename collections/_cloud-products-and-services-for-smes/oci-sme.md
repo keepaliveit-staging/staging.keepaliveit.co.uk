@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
-permalink: /cloud-services-for-smes/oracle-cloud-infrastructure-oci
+permalink: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
 header:

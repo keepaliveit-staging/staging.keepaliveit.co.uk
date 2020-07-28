@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Startups"
-permalink: /cloud-services-for-startups/oracle-cloud-infrastructure-oci
+permalink: /cloud-products-and-services-for-startups/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
 header:

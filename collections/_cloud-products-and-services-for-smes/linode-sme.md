@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Linode Cloud Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
-permalink: /cloud-services-for-smes/linode
+permalink: /cloud-products-and-services-for-smes/linode
 
 excerpt: "Efficient I.T improves productivity"
 header:

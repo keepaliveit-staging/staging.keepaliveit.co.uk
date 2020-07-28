@@ -1,7 +1,7 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Consultancy Services for Startups"
-permalink: /cloud-services-for-startups/amazon-web-services-aws
+title: "Amazon Web Services (AWS) Cloud Products and Services for Startups"
+permalink: /cloud-products-and-services-for-startups/amazon-web-services-aws
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
 header:

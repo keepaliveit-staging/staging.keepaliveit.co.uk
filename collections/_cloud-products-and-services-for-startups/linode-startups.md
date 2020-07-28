@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Linode Cloud Consultancy Services for Startups"
-permalink: /cloud-services-for-startups/linode
+permalink: /cloud-products-and-services-for-startups/linode
 
 excerpt: "Efficient I.T improves productivity"
 header:

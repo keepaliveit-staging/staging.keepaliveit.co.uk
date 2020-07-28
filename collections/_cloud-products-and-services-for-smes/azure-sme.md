@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Microsoft Azure Cloud Consultancy Services ffor Small and Medium-sized Enterprises (SMEs)"
-permalink: /cloud-services-for-smes/azure
+permalink: /cloud-products-and-services-for-smes/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"
 header:

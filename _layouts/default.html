@@ -16,8 +16,15 @@
 
 <div class="initial-content">
     {% if site.debugMode == true %}
-    <div style="position: fixed; bottom:0; left: 0;background: black;color:yellow;z-index:3;">
-        Page path: {{page.path}}
+    {% assign path = "" %}
+    {% if page.collection %}
+        {% assign path = "collections/" | append: page.path %}
+    {% else %}
+        {% assign path = page.path %}
+    {% endif %}
+
+    <div style="position: fixed; bottom:0; left: 0;background: black;color:yellow;z-index:3;" onclick='$.get("http://localhost:63342/api/file?file={{ path }}", null);'>
+        Page path: {{ path }}
     </div>
     {% endif %}
     {{ content }}

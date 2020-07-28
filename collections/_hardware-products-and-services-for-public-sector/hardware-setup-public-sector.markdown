@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "On-Site Hardware Setup for Public Sector Organisations"
-permalink: /hardware-products-and-services-for-public-sector/it-hardware-setup
+permalink: /it-hardware-products-and-services-for-public-sector/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -13,9 +13,9 @@ header:
   
 secondaryMenu:
     - title: "Hardware Setup for Businesses"
-      url: /hardware-products-and-services/it-hardware-setup
+      url: /it-hardware-products-and-services/it-hardware-setup
     - title: "Hardware Setup for Consumers"
-      url: /hardware-products-and-services-consumer/it-hardware-setup
+      url: /it-hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

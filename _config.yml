@@ -256,6 +256,9 @@ collections:
   cloud-products-and-services:
     output: true
     permalink: /:collection/:path/
+  cloud-products-and-services-for-smes:
+    output: true
+    permalink: /:collection/:path/
   cloud-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
@@ -271,6 +274,9 @@ collections:
   office-fitting-services:
     output: true
     permalink: /:collection/:path/
+  office-fitting-services-for-smes:
+    output: true
+    permalink: /:collection/:path/
   office-fitting-services-for-startups:
     output: true
     permalink: /:collection/:path/
@@ -278,6 +284,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   it-consultancy-services:
+    output: true
+    permalink: /:collection/:path/
+  it-consultancy-services-for-smes:
     output: true
     permalink: /:collection/:path/
   it-consultancy-services-for-startups:
@@ -289,16 +298,22 @@ collections:
   it-consultancy-services-for-public-sector:
     output: true
     permalink: /:collection/:path/
-  website-services:
+  website-products-and-services:
     output: true
     permalink: /:collection/:path/
-  website-services-for-startups:
+  website-products-and-services-for-smes:
     output: true
     permalink: /:collection/:path/
-  website-services-for-public-sector:
+  website-products-and-services-for-startups:
+    output: true
+    permalink: /:collection/:path/
+  website-products-and-services-for-public-sector:
     output: true
     permalink: /:collection/:path/
   hardware-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  hardware-products-and-services-for-smes:
     output: true
     permalink: /:collection/:path/
   hardware-products-and-services-for-consumers:
@@ -311,6 +326,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   software-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  software-products-and-services-for-smes:
     output: true
     permalink: /:collection/:path/
   software-products-and-services-for-startups:

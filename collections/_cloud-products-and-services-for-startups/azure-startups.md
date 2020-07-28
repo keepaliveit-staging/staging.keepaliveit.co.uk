@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Microsoft Azure Cloud Consultancy Services for Startups"
-permalink: /cloud-services-for-startups/azure
+permalink: /cloud-products-and-services-for-startups/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"
 header:

@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Google Cloud Platform (GCP) Services for Startups"
-permalink: /cloud-services-for-startups/google-cloud-computing-gcp
+permalink: /cloud-products-and-services-for-startups/google-cloud-computing-gcp
 
 excerpt: "Efficient I.T improves productivity"
 header:
