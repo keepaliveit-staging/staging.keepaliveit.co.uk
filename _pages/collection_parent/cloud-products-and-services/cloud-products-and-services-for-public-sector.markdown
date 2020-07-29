@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Cloud Products and Services for Startup Businesses"
-permalink: /cloud-products-and-services-for-startups/
+title: "Cloud Products and Services for Public Sector Organisations"
+permalink: /cloud-products-and-services-for-public-sector/
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
@@ -10,7 +10,7 @@ header:
     min_height: "600px" 
     page_lead_text_colour: "#ea5114"
     more_text: "Discover Business & Enterprise Cloud offerings"
-    more_text_colour: "#36454f"
+    more_text_colour: "#00416a"
 
 secondaryMenu:
     - title: "Cloud Services for Businesses"

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Website Development for Startups"
-permalink: /website-services-for-startups/website-development
+permalink: /website-products-and-services-for-startups/website-development
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

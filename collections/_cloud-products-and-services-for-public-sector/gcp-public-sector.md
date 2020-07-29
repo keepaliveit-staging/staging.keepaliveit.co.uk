@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "Google Cloud Platform (GCP) Services for Public Sector Organisations"
-permalink: /cloud-services-for-public-sector/google-cloud-computing-gcp
+permalink: /cloud-products-and-services-for-public-sector/google-cloud-computing-gcp
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Google Cloud Platform workloads for Public Sector Organisations. Our Google Cloud Platform services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: I.T Consultation Topics
-permalink: /it-consultation
+permalink: /it-consultation/
 
 excerpt: "Short Articles giving free I.T Consultation Advice for Businesses I.T."
 header:

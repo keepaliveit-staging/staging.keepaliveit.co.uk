@@ -1,7 +1,7 @@
 ---
 layout: splash 
 title: "DigitalOcean Cloud Consultancy Services for Public Sector Organisations"
-permalink: /cloud-services-for-public-sector/digitalocean
+permalink: /cloud-products-and-services-for-public-sector/digitalocean
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume DigitalOcean Cloud workloads for Public Sector Organisations. Our DigitalOcean Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:

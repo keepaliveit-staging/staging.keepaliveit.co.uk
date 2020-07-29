@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "I.T Hardware Products and Services for Consumers"
-permalink: /it-hardware-products-and-services-for-consumers
+title: "Office Fitting Services for Startups"
+permalink: /office-fitting-services-for-startups/
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -10,6 +10,8 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "600px"
   more_text: "Discover our Hardware Products & Services"
+  more_text_colour: "#36454f"
+
 
 secondaryMenu:
     - title: "I.T Hardware Services for Businesses"

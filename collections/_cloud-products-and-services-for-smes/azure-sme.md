@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services ffor Small and Medium-sized Enterprises (SMEs)"
+title: "Microsoft Azure Cloud Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
 permalink: /cloud-products-and-services-for-smes/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"

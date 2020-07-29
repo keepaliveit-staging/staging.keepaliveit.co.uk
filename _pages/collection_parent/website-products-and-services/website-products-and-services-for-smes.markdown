@@ -8,6 +8,10 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
+  more_text_colour: "#215e51"
+  more_text: "Explore products and services"
+  min_height: "620px"
+
   
 secondaryMenu:
     - title: "Website Products and Services for Businesses"
@@ -18,7 +22,7 @@ secondaryMenu:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development
+## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Products & Services
 
 Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 

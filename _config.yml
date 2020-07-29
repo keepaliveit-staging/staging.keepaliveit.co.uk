@@ -310,19 +310,19 @@ collections:
   website-products-and-services-for-public-sector:
     output: true
     permalink: /:collection/:path/
-  hardware-products-and-services:
+  it-hardware-products-and-services:
     output: true
     permalink: /:collection/:path/
-  hardware-products-and-services-for-smes:
+  it-hardware-products-and-services-for-smes:
     output: true
     permalink: /:collection/:path/
-  hardware-products-and-services-for-consumers:
+  it-hardware-products-and-services-for-consumers:
     output: true
     permalink: /:collection/:path/
-  hardware-products-and-services-for-startups:
+  it-hardware-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  hardware-products-and-services-for-public-sector:
+  it-hardware-products-and-services-for-public-sector:
     output: true
     permalink: /:collection/:path/
   software-products-and-services:

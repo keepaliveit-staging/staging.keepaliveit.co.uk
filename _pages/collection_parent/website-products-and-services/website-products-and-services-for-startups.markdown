@@ -1,14 +1,15 @@
 ---
 layout: splash
-title: "Website Products and Services for Consumers"
-permalink: /website-products-and-services-for-consumers/
+title: "Website Products and Services for Startups"
+permalink: /website-products-and-services-for-startups/
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
-  
+  more_text_colour: "#36454f"
+
 secondaryMenu:
   - title: "Website Products and Services for Businesses"
     url: /website-services
