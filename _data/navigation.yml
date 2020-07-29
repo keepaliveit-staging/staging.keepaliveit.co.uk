@@ -479,7 +479,7 @@ main:
             - item:
               title: "I.T Hardware Support"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /it-hardware-products-and-services-for-consumers/it-hardware-support-consumer
+              url: /it-hardware-products-and-services-for-consumers/it-hardware-support
               helptext: "Explore our range of I.T Hardware Support Services for Consumers."
         - item:
           title: "Software related Products & Services"
@@ -505,18 +505,18 @@ main:
         - item:
           title: "Website Products & Services"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-services-for-consumers
+          url: /website-products-and-services-for-consumers
           helptext: "Explore our range of Website Products & Services for Consumers."
           subitems:
             - item:
               title: "Website Development"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services-for-consumers/website-development
+              url: /website-products-and-services-for-consumers/website-development
               helptext: "Explore our range of Website Development Services for Consumers."
             - item:
               title: "Website Maintenance"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-services-for-consumers/website-maintenance
+              url: /website-products-and-services-for-consumers/website-maintenance
               helptext: "Explore our range of Website Maintenance Services for Consumers."
     - item:
       title: "I.T Services For Non-Profit Organisations"

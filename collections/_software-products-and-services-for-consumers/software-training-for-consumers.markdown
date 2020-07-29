@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Software Training Services for Consumers"
-permalink: /software-consultancy-consumer/software-training-services
+permalink: /software-products-and-services-for-public-sector/software-training-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help you with software training."
 header:

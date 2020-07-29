@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Website Maintenance Services for Consumers"
-permalink: /website-services-for-consumers/website-maintenance
+permalink: /website-products-and-services-for-consumers/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:

@@ -14,7 +14,7 @@ header:
 
 secondaryMenu:
     - title: "Hardware Support for Consumers"
-      url: /it-hardware-products-and-services/it-hardware-support-consumer
+      url: /it-hardware-products-and-services-for-consumers/it-hardware-support
     - title: "Hardware Support for Businesses"
       url: /it-hardware-products-and-services/it-hardware-support
 ---
