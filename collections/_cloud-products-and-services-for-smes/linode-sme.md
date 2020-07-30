@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#5e212e"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
-  more_text: "Discover our Linode Cloud consultancy services"
+  more_text: "Discover our AWS consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/linode-logo.png

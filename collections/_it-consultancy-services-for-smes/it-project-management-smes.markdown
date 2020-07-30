@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Project Management Services for Small Businesses and Enterprises"
+title: "I.T Project Management Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /it-consultancy-services-for-smes/it-project-management
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

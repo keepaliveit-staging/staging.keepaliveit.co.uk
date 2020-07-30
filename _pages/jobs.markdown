@@ -12,8 +12,8 @@ header:
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
   more_text: "Discover I.T Career Opportunities"
+  min_height: "650px"
 ---
-
 
 {% include breadcrumbs.html %}
 

@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#5e212e"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
-  more_text: "Discover our Azure consultancy services"
+  more_text: "Discover our Azure consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/azure-logo.png
@@ -23,7 +23,7 @@ benefits:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Microsoft Azure Cloud Consultancy Services
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Microsoft Azure Cloud Consultancy Services for SME's
 
 
 A new way of working 

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "On-Site Hardware Setup for Small Businesses and Enterprise"
+title: "On-Site Hardware Setup for Small to Medium-sized Enterprises (SMEs)"
 permalink: /it-hardware-products-and-services-for-smes/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
@@ -8,7 +8,8 @@ header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  more_text: "Discover On-Site Hardware Setup Services"
+  more_text: "Discover our On-site I.T Hardware Setup Services for SME's"
+
   more_text_colour: "#215e51"
   min_height: "700px"
 

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hardware Procurement for Small Businesses and Enterprises"
+title: "Hardware Procurement for Small to Medium-sized Enterprises (SMEs)"
 permalink: /it-hardware-products-and-services-for-smes/it-hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
+  more_text: "Discover our I.T Hardware Procurement Services for SME's"
   more_text_colour: "#215e51"
   min_height: "700px"
   

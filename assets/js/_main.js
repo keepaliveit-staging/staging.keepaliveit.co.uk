@@ -5,7 +5,11 @@
 $(document).ready(function () {
 
     $('.droopmenu-navbar').droopmenu({
-        dmArrow: false
+        dmArrow: false,
+        dmAnimDelay: 0,
+        dmShowDelay: 0,
+        dmHideDelay: 0,
+        dmAnimation: false
     });
     //$("div.droopmenu-nav > div > div > ul > li:nth-child(1)").addClass("dmopener");
 

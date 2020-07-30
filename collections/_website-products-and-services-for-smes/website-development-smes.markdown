@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Development Services for Small Businesses and Enterprises"
+title: "Website Development Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /website-products-and-services-for-smes/website-development
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.59 
   page_lead_text_colour: "#5e212e"
   min_height: "600px"
-  more_text: "Discover our Website Products and Services for Businesses"
+  more_text: "Discover our Website Development Products and Services for SME's"
   more_text_colour: "#215e51"
   min_height: "700px"
   

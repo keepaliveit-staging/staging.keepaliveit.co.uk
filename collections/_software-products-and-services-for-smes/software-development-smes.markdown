@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Software Development Services for Small Businesses and Enterprises"
+title: "Software Development Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /software-products-and-services-for-smes/software-development-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

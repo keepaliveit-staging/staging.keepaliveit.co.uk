@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Maintenance Services for Small Businesses and Enterprises"
+title: "Website Maintenance Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /website-products-and-services-for-smes/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#5e212e"
+  more_text: "Discover our Website Maintenance Products and Services for SME's"
   more_text_colour: "#215e51"
   min_height: "700px"
 
