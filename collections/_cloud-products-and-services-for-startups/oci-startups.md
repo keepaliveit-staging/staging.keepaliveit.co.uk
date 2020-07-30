@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#4f4036"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
-  more_text: "Discover our OCI consultancy services"
+  more_text: "Discover our OCI consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
   
 icon: /assets/images/cloud/oci-logo.png

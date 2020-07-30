@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.59 
   page_lead_text_colour: "#4f4036"
   min_height: "600px"
-  more_text: "Discover our Website Products and Services for Businesses"
+  more_text: "Discover our Website Development Services for Startup Businesses"
   more_text_colour: "#36454f"
 
 ---

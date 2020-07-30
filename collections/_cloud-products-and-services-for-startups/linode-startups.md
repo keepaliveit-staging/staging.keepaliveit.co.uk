@@ -10,10 +10,9 @@ header:
   page_lead_text_colour: "#4f4036"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
-  more_text: "Discover our Linode Cloud consultancy services"
+  more_text: "Discover our Linode consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
 
-  
 icon: /assets/images/cloud/linode-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."

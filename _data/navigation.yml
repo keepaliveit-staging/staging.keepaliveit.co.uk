@@ -70,28 +70,28 @@ main:
               helptext: "Explore our range of I.T Hardware Support Services for Businesses."
               url: /it-hardware-products-and-services-for-smes/it-hardware-support
         - item:
-          title: "Software related Products & Services for Businesses"
+          title: "I.T Software related Products & Services for Businesses"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services-for-smes
-          helptext: "Explore our range of Software related Products & Services for Businesses."
+          helptext: "Explore our range of I.T Software related Products & Services for Businesses."
           subitems:
             - item:
-              title: "Software Training for Businesses"
+              title: "I.T Software Training for Businesses"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-smes/software-training
               helptext: "Explore our range of Software Training Services for Businesses."
             - item:
-              title: "Software Procurement for Businesses"
+              title: "I.T Software Procurement for Businesses"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-smes/software-procurement
-              helptext: "Explore our range of Software Procurement Services for Businesses."
+              helptext: "Explore our range of I.T Software Procurement Services for Businesses."
             - item:
-              title: "Software Setup for Businesses"
+              title: "I.T Software Setup for Businesses"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-smes/software-setup
-              helptext: "Explore our range of Software Setup Services for Businesses."
+              helptext: "Explore our range of I.T Software Setup Services for Businesses."
             - item:
-              title: "Software Development for Businesses"
+              title: "I.T Software Development for Businesses"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-smes/software-development-services
               helptext: "Explore our range of Software Development Services for Businesses."
@@ -99,7 +99,7 @@ main:
               title: "I.T Software Support for Businesses"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-smes/it-software-support
-              helptext: "Explore our range of I.T Support Services for Businesses."
+              helptext: "Explore our range of I.T Software Support Services for Businesses."
         - item:
           title: "I.T Consultancy Services for Businesses"
           icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
@@ -219,28 +219,28 @@ main:
               helptext: "Explore our range of I.T Hardware Support Services for Startups."
               url: /it-hardware-products-and-services-for-startups/it-hardware-support
         - item:
-          title: "Software related Products & Services for Startups"
+          title: "I.T Software related Products & Services for Startups"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services-for-startups
           helptext: "Explore our range of Software related Products & Services for Startups."
           subitems:
             - item:
-              title: "Software Training for Startups"
+              title: "I.T Software Training for Startups"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-startups/software-training
               helptext: "Explore our range of Software Training Services for Startups."
             - item:
-              title: "Software Procurement for Startups"
+              title: "I.T Software Procurement for Startups"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-startups/software-procurement
               helptext: "Explore our range of Software Procurement Services for Startups."
             - item:
-              title: "Software Setup for Startups"
+              title: "I.T Software Setup for Startups"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-startups/software-setup
               helptext: "Explore our range of Software Setup Services for Startups."
             - item:
-              title: "Software Development for Startups"
+              title: "I.T Software Development for Startups"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-startups/software-development-services
               helptext: "Explore our range of Software Development Services for Startups."
@@ -248,7 +248,7 @@ main:
               title: "I.T Software Support for Startups"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-startups/it-software-support
-              helptext: "Explore our range of I.T Support Services for Startups."
+              helptext: "Explore our range of I.T Software Support Services for Startups."
         - item:
           title: "I.T Consultancy Services for Startups"
           icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
@@ -369,36 +369,36 @@ main:
               helptext: "Explore our range of I.T Hardware Support Services for Public Sector Organisations."
               url: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-support
         - item:
-          title: "Software related Products & Services for Public Sector Organisations"
+          title: "I.T Software related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services-for-public-sector-organisations
-          helptext: "Explore our range of Software related Products & Services for Public Sector Organisations."
+          helptext: "Explore our range of I.T Software related Products & Services for Public Sector Organisations."
           subitems:
             - item:
-              title: "Software Training for Public Sector Organisations"
+              title: "I.T Software Training for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-public-sector-organisations/software-training-services
-              helptext: "Explore our range of Software Training Services for Public Sector Organisations."
+              helptext: "Explore our range of I.T Software Training Services for Public Sector Organisations."
             - item:
-              title: "Software Procurement for Public Sector Organisations"
+              title: "I.T Software Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-public-sector-organisations/software-procurement
-              helptext: "Explore our range of Software Procurement Services for Public Sector Organisations."
+              helptext: "Explore our range of I.T Software Procurement Services for Public Sector Organisations."
             - item:
-              title: "Software Setup for Public Sector Organisations"
+              title: "I.T Software Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-public-sector-organisations/software-setup
-              helptext: "Explore our range of Software Setup Services for Public Sector Organisations."
+              helptext: "Explore our range of I.T Software Setup Services for Public Sector Organisations."
             - item:
-              title: "Software Development for Public Sector Organisations"
+              title: "I.T Software Development for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-public-sector-organisations/software-development-services
-              helptext: "Explore our range of Software Development Services for Public Sector Organisations."
+              helptext: "Explore our range of I.T Software Development Services for Public Sector Organisations."
             - item:
               title: "I.T Software Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-public-sector-organisations/it-software-support
-              helptext: "Explore our range of I.T Support Services for Public Sector Organisations."
+              helptext: "Explore our range of I.T Software Support Services for Public Sector Organisations."
         - item:
           title: "I.T Consultancy Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
@@ -482,21 +482,21 @@ main:
               url: /it-hardware-products-and-services-for-consumers/it-hardware-support
               helptext: "Explore our range of I.T Hardware Support Services for Consumers."
         - item:
-          title: "Software related Products & Services"
+          title: "I.T Software related Products & Services"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
           url: /software-products-and-services-for-consumers
-          helptext: "Explore our range of Software related Products & Services for Consumers."
+          helptext: "Explore our range of I.T Software related Products & Services for Consumers."
           subitems:
             - item:
-              title: "Software Setup"
+              title: "I.T Software Setup"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-consumers/software-setup
-              helptext: "Explore our range of Software Setup Services for Consumers."
+              helptext: "Explore our range of I.T Software Setup Services for Consumers."
             - item:
-              title: "Software Development"
+              title: "I.T Software Development"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
               url: /software-products-and-services-for-consumers/software-development-services
-              helptext: "Explore our range of Software Development Services for Consumers."
+              helptext: "Explore our range of I.T Software Development Services for Consumers."
             - item:
               title: "I.T Software Support"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"

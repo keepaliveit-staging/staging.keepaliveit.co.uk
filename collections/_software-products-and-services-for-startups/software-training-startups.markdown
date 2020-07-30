@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
+  more_text: "Discover our I.T Software Training Services for Startup Businesses"
   more_text_colour: "#36454f"
 
 ---

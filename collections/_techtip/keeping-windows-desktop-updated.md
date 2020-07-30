@@ -7,7 +7,7 @@ excerpt: "Do you need to know how to update the Software on your Windows Desktop
 header:
   overlay_image: /assets/images/techtip/windows-desktop.jpg
   overlay_filter: 0.5 
-  min_height: "600px"
+  min_height: "700px"
   more_text: "Learn how to update a Windows OS"
 
 thumbnail: /assets/images/techtip/thumbnail/windows-desktop.jpg

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services for Startups"
+title: "Digital Ocean Cloud Consultancy Services for Startups"
 permalink: /cloud-products-and-services-for-startups/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#4f4036"
   min_height: 680px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
-  more_text: "Discover our DigitalOcean consultancy services"
+  more_text: "Discover our Digital Ocean consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
 
 

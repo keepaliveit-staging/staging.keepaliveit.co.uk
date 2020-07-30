@@ -10,7 +10,7 @@ header:
   page_lead_text_colour: "#6a2900"
   more_text: "Discover On-Site Hardware Setup Services"
   more_text_colour: "#00416a"
-  
+  min_height: "700px"
 ---
 
 {% include breadcrumbs.html %}
