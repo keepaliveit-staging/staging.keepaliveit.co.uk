@@ -1,22 +1,15 @@
 ---
 layout: splash
-title: "Website Development for Public Sector Organisations"
-permalink: /website-products-and-services-for-public-sector/website-development
+title: "Website Maintenance Services for Public Sector Organisations"
+permalink: /website-products-and-services-for-public-sector-organisations/website-maintenance
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
-  page_lead_text_colour: "#4a7237"
-  min_height: "600px"
-  more_text: "Discover our Website Products and Services for Businesses"
+  page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
-    
-secondaryMenu:
-  - title: "Website Development Services for Businesses"
-    url: /website-services/website-development
-  - title: "Website Development Services for Consumers"
-    url: /website-services-consumer/website-development
+
 ---
 
 {% include breadcrumbs.html %}

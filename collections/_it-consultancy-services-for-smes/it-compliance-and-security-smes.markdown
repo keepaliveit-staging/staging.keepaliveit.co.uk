@@ -7,10 +7,11 @@ excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software 
 header:
   overlay_image: /assets/images/compliance-and-security.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#5e212e"
   more_text: "Browse our I.T Security Services"
   more_text_colour: "#215e51"
-  
+  min_height: "700px"
+
 ---
 
 {% include breadcrumbs.html %}

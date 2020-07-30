@@ -1,20 +1,20 @@
 ---
 layout: splash
-title: "I.T Project Management Services for Public Sector Organisations"
-permalink: /it-consultancy-services-for-public-sector/it-project-management
+title: "Hardware Procurement for Public Sector Organisations"
+permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
-
+  
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Small Businesses and Enterprises
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Cloud Products and Services offered by Keep-Alive I.T"
-permalink: /cloud-products-and-services
+permalink: /cloud-products-and-services/
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
@@ -11,16 +11,37 @@ header:
     page_lead_text_colour: "#ea5114"
     more_text: "Discover Business & Enterprise Cloud offerings"
 
-secondaryMenu:
-    - title: "Cloud Services for Businesses"
-      url: /cloud-services
-    - title: "Cloud Services for Consumers"
-      url: /cloud-services-consumer
+
 ---
 
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Cloud Services offered by keep-Alive I.T
+
+For consumers
+{% for item in site.cloud-products-and-services-for-consumers %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Non-Profit Organisations
+{% for item in site.cloud-products-and-services-for-non-profits %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Public Sector Organisations
+{% for item in site.cloud-products-and-services-for-public-sector-organisations %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For SME's
+{% for item in site.cloud-products-and-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Startups
+{% for item in site.cloud-products-and-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 - Managed Cloud
 - Private Cloud
@@ -85,8 +106,6 @@ Expecting a surge of website traffic during a busy period? Let us take control o
 
 {% include industry-consultation.md %}
 
-
-{% include breadcrumbs.html %}
 
 ## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Cloud Services offered by keep-Alive I.T
 

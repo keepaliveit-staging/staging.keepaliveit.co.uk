@@ -11,12 +11,6 @@ header:
   overlay_filter: 0.54
   min_height: "750px"
 
-
-secondaryMenu:
-  - title: "Software Solutions for Businesses"
-    url: /software-products-and-services
-  - title: "Software Solutions for the Home"
-    url: /software-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}

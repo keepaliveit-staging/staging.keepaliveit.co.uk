@@ -1,13 +1,13 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#215e51"
+  page_lead_text_colour: "#5e212e"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
   more_text: "Discover our OCI consultancy services"

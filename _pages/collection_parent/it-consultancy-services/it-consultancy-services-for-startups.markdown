@@ -15,7 +15,11 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Startups
+
+{% for item in site.it-consultancy-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

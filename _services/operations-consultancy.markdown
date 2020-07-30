@@ -8,13 +8,7 @@ excerpt: "Learn how Keep-Alive I.T's expert backed I.T Operations services can h
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
-    
 
-secondaryMenu:
-  - title: "I.T Operations Solutions for Businesses"
-    url: /it-operations-consultancy
-  - title: "I.T Operations Solutions for the Home"
-    url: /it-operations-consultancy-consumer
 ---
 
 {% include breadcrumbs.html %}

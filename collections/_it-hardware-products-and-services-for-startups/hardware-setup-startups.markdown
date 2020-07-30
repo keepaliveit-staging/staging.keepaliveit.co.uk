@@ -7,15 +7,10 @@ excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4f4036"
   more_text: "Discover On-Site Hardware Setup Services"
   more_text_colour: "#36454f"
 
-secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-setup
-    - title: "Hardware Setup for Consumers"
-      url: /it-hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

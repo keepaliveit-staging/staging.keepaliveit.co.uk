@@ -16,6 +16,10 @@ header:
 
 ## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
 
+{% for item in site.it-consultancy-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure
 

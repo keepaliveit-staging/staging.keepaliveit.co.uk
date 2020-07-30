@@ -1182,6 +1182,10 @@ Cookie notice
     left: 10%;
     max-width: 80%;
 
+    @include breakpoint($x-large) {
+      top: 60px;
+    }
+
   }
 
   .bubble2 {
@@ -2027,4 +2031,8 @@ a.droopmenu-tab-active {
 
 .test101 {
   background: blue;
+}
+
+.droopmenu > li:hover {
+  background: #273f58;
 }

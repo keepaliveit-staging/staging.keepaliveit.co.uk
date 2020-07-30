@@ -1,14 +1,16 @@
 ---
 layout: splash
 title: "I.T Software Training Services for Public Sector Organisations"
-permalink: /software-products-and-services-for-public-sector/software-training
+permalink: /software-products-and-services-for-public-sector-organisations/software-training-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."
 header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
+  min_height: "700px"
+
 
 ---
 

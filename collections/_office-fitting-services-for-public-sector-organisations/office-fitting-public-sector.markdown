@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Office Fitting Services for Public Sector Organisations"
-permalink: /office-fitting-services-for-public-sector/office-fitting-south-wales
+permalink: /office-fitting-services-for-public-sector-organisations/office-fitting-south-wales
 
 excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet up and we'll sort everything from procurement, fitting, cable management, and device patching."
 header:
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.33 
   min_height: "650px"
   more_text: "Learn more about our Office Fitting Service"
-  more_text_colour: "#00416a"
+  more_text_colour: "#6a2900"
   page_lead_text_colour: "#ea5114"
     
 

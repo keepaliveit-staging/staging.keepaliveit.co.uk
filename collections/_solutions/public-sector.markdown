@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Public Sector I.T Solutions"
-permalink: /solutions/it-for-public-sector
+permalink: /solutions/it-for-public-sector-organisations
 classes:
   - solutions
 excerpt: "Public Sector I.T Solutions"

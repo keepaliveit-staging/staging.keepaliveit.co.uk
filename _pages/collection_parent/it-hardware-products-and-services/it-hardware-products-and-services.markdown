@@ -12,17 +12,36 @@ header:
   more_text: "Discover our Hardware Products & Services"
   more_text_colour: "#215e51"
 
-secondaryMenu:
-    - title: "I.T Hardware Services for Businesses"
-      url: /it-hardware-products-and-services
-    - title: "I.T Hardware Services for Consumers"
-      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Products and Services
-Having the right tools to do the right job is 
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Products and Services
+
+For consumers
+{% for item in site.it-hardware-products-and-services-for-consumers %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Non-Profit Organisations
+{% for item in site.it-hardware-products-and-services-for-non-profits %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Public Sector Organisations
+{% for item in site.it-hardware-products-and-services-for-public-sector-organisations %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For SME's
+{% for item in site.it-hardware-products-and-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Startups
+{% for item in site.it-hardware-products-and-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 > "I need my team equipped with the right technology to get their job done"
 

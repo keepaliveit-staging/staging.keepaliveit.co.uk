@@ -7,9 +7,10 @@ excerpt: "Does your organisation use a piece of infrastructure but you're unsure
 header:
   overlay_image: /assets/images/infrastructure-management.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#5e212e"
   more_text_colour: "#215e51"
-  
+  min_height: "700px"
+
 ---
 
 {% include breadcrumbs.html %}

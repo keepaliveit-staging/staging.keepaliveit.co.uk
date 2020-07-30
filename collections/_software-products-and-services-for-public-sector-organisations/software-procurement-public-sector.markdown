@@ -1,18 +1,22 @@
 ---
 layout: splash
-title: "Software Setup Services for Public Sector Organisations"
-permalink: /software-products-and-services-for-public-sector/software-setup
+title: "Software Procurement Services for Public Sector Organisations"
+permalink: /software-products-and-services-for-public-sector-organisations/software-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
-  page_lead_text_colour: "#897ad1"
+  page_lead_text_colour: "#6a2900"
+  min_height: "600px"
+  more_text: "Learn why you should offload I.T procurement"
   more_text_colour: "#00416a"
 
 ---
 
 {% include breadcrumbs.html %}
+
+Understanding licensing costs
 
 <div class="container">
 	<div class="row">
@@ -98,6 +102,7 @@ We also offer <a href="">hardware procurement</a> services for your business har
 
 ## CMS implementation
 Managing information effectively is crucial to maintaining quality standards on I.T systems. We can assist with Content Management systems, including Wordpress.
+
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}

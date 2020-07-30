@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "I.T Consultancy Services for Small Businesses and Enterprises"
-permalink: /it-consultancy-services
+title: "I.T Consultancy Services"
+permalink: /it-consultancy-services/
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -12,7 +12,32 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy Services
+
+For consumers
+{% for item in site.it-consultancy-services-for-consumers %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Non-Profit Organisations
+{% for item in site.it-consultancy-services-for-non-profits %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Public Sector Organisations
+{% for item in site.it-consultancy-services-for-public-sector-organisations %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For SME's
+{% for item in site.it-consultancy-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
+For Startups
+{% for item in site.it-consultancy-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

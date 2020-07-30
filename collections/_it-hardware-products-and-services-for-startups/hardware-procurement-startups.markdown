@@ -7,7 +7,7 @@ excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4f4036"
   more_text: ""
   more_text_colour: "#36454f"
 
@@ -15,7 +15,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Procurement for Startups
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

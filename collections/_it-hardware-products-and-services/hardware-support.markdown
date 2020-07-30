@@ -12,11 +12,6 @@ header:
   more_text: "Discover I.T Hardware Support Services"
   more_text_colour: "#215e51"
   
-secondaryMenu:
-    - title: "Hardware Support for Consumers"
-      url: /it-hardware-products-and-services-for-consumers/it-hardware-support
-    - title: "Hardware Support for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-support
 ---
 
 {% include breadcrumbs.html %}

@@ -1,13 +1,13 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for Small and Medium-sized Enterprises (SMEs)"
+title: "Google Cloud Platform (GCP) Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
 
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#215e51"
+  page_lead_text_colour: "#5e212e"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
   more_text: "Discover our GCP consultancy services"

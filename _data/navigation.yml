@@ -307,142 +307,142 @@ main:
       short_title: "For Public Sector Organisations"
       icon: "<i class=\"fas fa-address-card\" aria-hidden=\"true\"></i>"
       color: "#f5c227"
-      url: "/solutions/it-for-public-sector"
+      url: "/solutions/it-for-public-sector-organisations"
       helptext: "Explore our range of I.T Products and services for Public Sector."
       subitems:
         - item:
           title: "Cloud Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-products-and-services-for-public-sector
+          url: /cloud-products-and-services-for-public-sector-organisations
           helptext: "Explore our range of Cloud Products, Cloud Consultancy Services, and Cloud Solutions for Public Sector Organisations."
           subitems:
             - item:
               title: "AWS Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/amazon-web-services-aws
+              url: /cloud-products-and-services-for-public-sector-organisations/amazon-web-services-aws
               helptext: "Explore our range of Amazon Web Services (AWS) Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Microsoft Azure Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/azure
+              url: /cloud-products-and-services-for-public-sector-organisations/azure
               helptext: "Explore our range of Microsoft Azure Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Digital Ocean Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/digitalocean
+              url: /cloud-products-and-services-for-public-sector-organisations/digitalocean
               helptext: "Explore our range of DigitalOcean Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Google Cloud Platform (GCP) Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/google-cloud-computing-gcp
+              url: /cloud-products-and-services-for-public-sector-organisations/google-cloud-computing-gcp
               helptext: "Explore our range of Google Cloud Platform (GCP) Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Linode Cloud Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/linode
+              url: /cloud-products-and-services-for-public-sector-organisations/linode
               helptext: "Explore our range of Linode Cloud Consultancy Services and Solutions for Public Sector Organisations."
             - item:
               title: "Oracle Cloud Infrastructure (OCI) Management for Public Sector Organisations"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-products-and-services-for-public-sector/oracle-cloud-infrastructure-oci
+              url: /cloud-products-and-services-for-public-sector-organisations/oracle-cloud-infrastructure-oci
               helptext: "Explore our range of Oracle Cloud Infrastructure (OCI) Consultancy Services and Solutions for Public Sector Organisations."
         - item:
           title: "I.T Hardware related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-          url: /it-hardware-products-and-services-for-public-sector
+          url: /it-hardware-products-and-services-for-public-sector-organisations
           helptext: "Explore our range of I.T Hardware related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "I.T Hardware Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /it-hardware-products-and-services-for-public-sector/it-hardware-procurement
+              url: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-procurement
               helptext: "Explore our range of I.T Hardware Procurement Services for Public Sector Organisations."
             - item:
               title: "I.T Hardware Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
-              url: /it-hardware-products-and-services-for-public-sector/it-hardware-setup
+              url: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-setup
               helptext: "Explore our range of I.T Hardware Setup Services for Public Sector Organisations."
 
             - item:
               title: "I.T Hardware Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-microchip\" aria-hidden=\"true\"></i>"
               helptext: "Explore our range of I.T Hardware Support Services for Public Sector Organisations."
-              url: /it-hardware-products-and-services-for-public-sector/it-hardware-support
+              url: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-support
         - item:
           title: "Software related Products & Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-          url: /software-products-and-services-for-public-sector
+          url: /software-products-and-services-for-public-sector-organisations
           helptext: "Explore our range of Software related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Software Training for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services-for-public-sector/software-training
+              url: /software-products-and-services-for-public-sector-organisations/software-training-services
               helptext: "Explore our range of Software Training Services for Public Sector Organisations."
             - item:
               title: "Software Procurement for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services-for-public-sector/software-procurement
+              url: /software-products-and-services-for-public-sector-organisations/software-procurement
               helptext: "Explore our range of Software Procurement Services for Public Sector Organisations."
             - item:
               title: "Software Setup for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services-for-public-sector/software-setup
+              url: /software-products-and-services-for-public-sector-organisations/software-setup
               helptext: "Explore our range of Software Setup Services for Public Sector Organisations."
             - item:
               title: "Software Development for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services-for-public-sector/software-development-services
+              url: /software-products-and-services-for-public-sector-organisations/software-development-services
               helptext: "Explore our range of Software Development Services for Public Sector Organisations."
             - item:
               title: "I.T Software Support for Public Sector Organisations"
               icon: "<i class=\"fas fa-code\" aria-hidden=\"true\"></i>"
-              url: /software-products-and-services-for-public-sector/it-software-support
+              url: /software-products-and-services-for-public-sector-organisations/it-software-support
               helptext: "Explore our range of I.T Support Services for Public Sector Organisations."
         - item:
           title: "I.T Consultancy Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-          url: /it-consultancy-services-for-public-sector
+          url: /it-consultancy-services-for-public-sector-organisations
           helptext: "Explore our range of I.T Consultancy Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Software Development Team Formation & Developer On-boarding Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services-for-public-sector/software-development-team-formation-and-developer-onboarding-services
+              url: /it-consultancy-services-for-public-sector-organisations/software-development-team-formation-and-developer-onboarding-services
               helptext: "Explore our Software Development Team Formation & Developer On-boarding Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Compliance & Security Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services-for-public-sector/it-compliance-and-security-services
+              url: /it-consultancy-services-for-public-sector-organisations/it-compliance-and-security-services
               helptext: "Explore our I.T Compliance & Security Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Infrastructure Management Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services-for-public-sector/it-infrastructure-management-services
+              url: /it-consultancy-services-for-public-sector-organisations/it-infrastructure-management-services
               helptext: "Explore our I.T Infrastructure Management Consultancy packages for Public Sector Organisations."
             - item:
               title: "I.T Project Management Consultancy for Public Sector Organisations"
               icon: "<i class=\"fas fa-user-tie\" aria-hidden=\"true\"></i>"
-              url: /it-consultancy-services-for-public-sector/it-project-management
+              url: /it-consultancy-services-for-public-sector-organisations/it-project-management
               helptext: "Explore our I.T Project Management Consultancy packages for Public Sector Organisations."
         - item:
           title: "Website Products and Services for Public Sector Organisations"
           icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-          url: /website-products-and-services-for-public-sector
+          url: /website-products-and-services-for-public-sector-organisations
           helptext: "Explore our range of Website related Products & Services for Public Sector Organisations."
           subitems:
             - item:
               title: "Website Development for Public Sector Organisations"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-products-and-services-for-public-sector/website-development
+              url: /website-products-and-services-for-public-sector-organisations/website-development
               helptext: "Explore our range of Website Development Services for Public Sector Organisations."
             - item:
               title: "Website Maintenance for Public Sector Organisations"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /website-products-and-services-for-public-sector/website-maintenance
+              url: /website-products-and-services-for-public-sector-organisations/website-maintenance
               helptext: "Explore our range of Website Maintenance Services for Public Sector Organisations."
         - item:
-          title: "Misc. Services for Public Sector Organisations"
+          title: "Office Fitting Services for Public Sector Organisations in South wales"
           icon: "<i class=\"fas fa-tools\" aria-hidden=\"true\"></i>"
           url: /office-fitting-south-wales
           helptext: "Office fitting services for Public Sector Organisations in South Wales."
@@ -450,7 +450,7 @@ main:
             - item:
               title: "Office Fitting in South Wales for Public Sector Organisations"
               icon: "<i class=\"fas fa-globe\" aria-hidden=\"true\"></i>"
-              url: /office-fitting-services-for-public-sector/office-fitting-south-wales
+              url: /office-fitting-services-for-public-sector-organisations/office-fitting-south-wales
               helptext: "Explore our range of Website Development Services for Public Sector Organisations."
     - item:
       title: "I.T Services For Consumers"

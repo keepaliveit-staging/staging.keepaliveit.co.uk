@@ -12,18 +12,15 @@ header:
   more_text: "Discover our Hardware Products & Services"
   more_text_colour: "#36454f"
 
-
-secondaryMenu:
-    - title: "I.T Hardware Services for Businesses"
-      url: /it-hardware-products-and-services
-    - title: "I.T Hardware Services for Consumers"
-      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Products and Services
-Having the right tools to do the right job is 
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Products and Services
+
+{% for item in site.it-hardware-products-and-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 > "I need my team equipped with the right technology to get their job done"
 

@@ -1,13 +1,13 @@
 ---
 layout: splash
 title: "Software Development Services for Public Sector Organisations"
-permalink: /software-products-and-services-for-public-sector/software-development-services
+permalink: /software-products-and-services-for-public-sector-organisations/software-development-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/software-engineering.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea149b"
+  page_lead_text_colour: "#6a2900"
   min_height: "600px"
   more_text: "Discover Our Software Development Services"
   more_text_colour: "#00416a"

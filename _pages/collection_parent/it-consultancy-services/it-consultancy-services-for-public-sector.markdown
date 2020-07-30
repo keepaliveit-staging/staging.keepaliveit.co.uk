@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "I.T Consultancy Services for Public Sector Organisations"
-permalink: /it-consultancy-services-for-public-sector/
+permalink: /it-consultancy-services-for-public-sector-organisations/
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -9,13 +9,16 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
   more_text_colour: "#00416a"
-
-
+  
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Consultancy Services for Public Sector Organisations
+
+{% for item in site.it-consultancy-services-for-public-sector-organisations %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure

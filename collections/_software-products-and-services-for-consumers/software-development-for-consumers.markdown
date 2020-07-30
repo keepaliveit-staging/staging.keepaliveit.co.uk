@@ -7,6 +7,9 @@ excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software 
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg
   overlay_filter: 0.5 
+  more_text_colour: "#35344b"
+  min_height: "700px"
+
 ---
 
 {% include breadcrumbs.html %}

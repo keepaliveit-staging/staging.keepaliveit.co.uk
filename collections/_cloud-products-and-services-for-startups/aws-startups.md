@@ -7,7 +7,7 @@ excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, an
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#4f4036"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services"

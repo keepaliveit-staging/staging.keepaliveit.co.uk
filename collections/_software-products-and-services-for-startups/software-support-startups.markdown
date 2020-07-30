@@ -7,7 +7,7 @@ excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with
 header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4f4036"
   more_text_colour: "#36454f"
 
 ---

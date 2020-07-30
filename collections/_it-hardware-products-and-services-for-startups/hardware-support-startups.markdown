@@ -7,16 +7,11 @@ excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with
 header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4f4036"
   min_height: "600px"
   more_text: "Discover I.T Hardware Support Services"
   more_text_colour: "#36454f"
 
-secondaryMenu:
-    - title: "Hardware Support for Consumers"
-      url: /it-hardware-products-and-services-for-consumers/it-hardware-support
-    - title: "Hardware Support for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-support
 ---
 
 {% include breadcrumbs.html %}

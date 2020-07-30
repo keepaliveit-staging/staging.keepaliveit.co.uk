@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Solutions for Startups"
+title: "I.T Solutions for Startup Businesses"
 permalink: /solutions/it-for-startups
 classes:
   - solutions
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/startups.jpg
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
-  min_height: "650px"
+  min_height: "680px"
   more_text: "Learn how we can help your startup's I.T needs"
 ---
 

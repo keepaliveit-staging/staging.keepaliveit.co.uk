@@ -12,11 +12,6 @@ header:
   more_text: "Discover our Website Products and Services for Businesses"
   more_text_colour: "#215e51"
   
-secondaryMenu:
-  - title: "Website Development Services for Businesses"
-    url: /website-services/website-development
-  - title: "Website Development Services for Consumers"
-    url: /website-services-consumer/website-development
 ---
 
 {% include breadcrumbs.html %}

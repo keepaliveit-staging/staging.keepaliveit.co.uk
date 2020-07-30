@@ -12,16 +12,16 @@ header:
     more_text: "Discover our Offerings"
     more_text_colour: "#215e51"
 
-secondaryMenu:
-    - title: "Cloud Services for Businesses"
-      url: /cloud-services
-    - title: "Cloud Services for Consumers"
-      url: /cloud-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Cloud Services offered by keep-Alive I.T
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Cloud Products and Services for Small to Medium-sized Enterprises (SMEs)
+
+{% for item in site.cloud-products-and-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
+
 
 - Managed Cloud
 - Private Cloud

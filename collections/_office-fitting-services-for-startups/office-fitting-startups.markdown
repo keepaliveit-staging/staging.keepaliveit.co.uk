@@ -7,7 +7,7 @@ excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet
 header:
   overlay_image: /assets/images/office-fitting/modern-office.jpg
   overlay_filter: 0.33 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#4f4036"
   min_height: "650px"
   more_text: "Learn more about our Office Fitting Service"
   more_text_colour: "#36454f"
@@ -17,6 +17,10 @@ header:
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-tools page-title-icon" aria-hidden="true"></i>  Office fitting on a budget
+
+{% for item in site.office-fitting-services-for-startups %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 Along with all the essentials
 

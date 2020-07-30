@@ -12,17 +12,15 @@ header:
   more_text: "Explore products and services"
   min_height: "620px"
 
-  
-secondaryMenu:
-    - title: "Website Products and Services for Businesses"
-      url: /website-services
-    - title: "Website Products and Services for Consumers"
-      url: /website-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Products & Services
+
+{% for item in site.website-products-and-services-for-smes %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 

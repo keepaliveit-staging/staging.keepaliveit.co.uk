@@ -1,12 +1,15 @@
 ---
 layout: splash
 title: "Software Training Services for Consumers"
-permalink: /software-products-and-services-for-public-sector/software-training-services
+permalink: /software-products-and-services-for-public-sector-organisations/software-training-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help you with software training."
 header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
+  more_text_colour: "#35344b"
+  min_height: "700px"
+
 ---
 
 {% include breadcrumbs.html %}

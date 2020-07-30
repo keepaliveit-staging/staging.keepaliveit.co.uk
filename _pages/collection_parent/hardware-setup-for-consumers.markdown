@@ -10,11 +10,6 @@ header:
   page_lead_text_colour: "#ea5114"
   more_text: "Discover On-Site Hardware Setup Services"
   
-secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-setup
-    - title: "Hardware Setup for Consumers"
-      url: /it-hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

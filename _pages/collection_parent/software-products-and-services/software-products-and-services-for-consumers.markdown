@@ -11,11 +11,6 @@ header:
   min_height: "600px"
   more_text: "Discover our Hardware Products & Services"
 
-secondaryMenu:
-    - title: "I.T Hardware Services for Businesses"
-      url: /it-hardware-products-and-services
-    - title: "I.T Hardware Services for Consumers"
-      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}

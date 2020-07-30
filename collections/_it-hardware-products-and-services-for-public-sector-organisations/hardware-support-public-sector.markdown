@@ -1,18 +1,22 @@
 ---
 layout: splash
-title: "I.T Software Support for Public Sector Organisations"
-permalink: /software-products-and-services-for-public-sector/it-software-support
+title: "On-Site I.T Hardware Support for Public Sector Organisations"
+permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-support
 
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
+  min_height: "600px"
+  more_text: "Discover I.T Hardware Support Services"
   more_text_colour: "#00416a"
-
+  
 ---
 
 {% include breadcrumbs.html %}
+
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Small Business and Enterprise
 
 IT Strategy
 IT Projects
@@ -56,5 +60,8 @@ Actual onsite support from the 2nd line is not always the case. Sometimes it is 
 3rd Line Support – Most of the time a more specialised individual or team for onsite contact – Job titles such as Network Specialist, Server Specialist/Engineer and many more specialised job roles.
 
 When these personnel appear you know you’ve got a problem These are usually more qualified individuals, such as Microsoft Certified in the case of MS Windows Server issues.
+
+## Why choose Keep-Alive I.T?
+{% include why-us-section.html %}
 
 {% include industry-consultation.md %}

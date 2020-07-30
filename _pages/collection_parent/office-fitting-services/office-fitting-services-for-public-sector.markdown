@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Office Fitting Services for Public Sector"
-permalink: /office-fitting-services-for-public-sector/
+title: "Office Fitting Services for Public Sector Organisations"
+permalink: /office-fitting-services-for-public-sector-organisations/
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
@@ -12,18 +12,15 @@ header:
   more_text: "Discover our Hardware Products & Services"
   more_text_colour: "#00416a"
 
-
-secondaryMenu:
-    - title: "I.T Hardware Services for Businesses"
-      url: /it-hardware-products-and-services
-    - title: "I.T Hardware Services for Consumers"
-      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware Products and Services
-Having the right tools to do the right job is 
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Office Fitting Services for Public Sector Organisations
+
+{% for item in site.office-fitting-services-for-public-sector-organisations %}
+[{{ item.name }} {{item.title}}]({{ item.url }})
+{% endfor %}
 
 > "I need my team equipped with the right technology to get their job done"
 

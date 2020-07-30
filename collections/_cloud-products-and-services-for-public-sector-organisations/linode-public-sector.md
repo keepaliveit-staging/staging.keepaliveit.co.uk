@@ -1,19 +1,19 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for Public Sector Organisations"
-permalink: /cloud-products-and-services-for-public-sector/google-cloud-computing-gcp
+title: "Linode Cloud Consultancy Services for Public Sector Organisations"
+permalink: /cloud-products-and-services-for-public-sector-organisations/linode
 
-excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Google Cloud Platform workloads for Public Sector Organisations. Our Google Cloud Platform services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
+excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Linode Cloud workloads for Public Sector Organisations. Our Linode Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:
-  overlay_image: /assets/images/benefit/flexible.jpg
+  overlay_image: /assets/images/cloud-providers/linode.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#6a2900"
   min_height: 750px
-  image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
-  more_text: "Discover our GCP consultancy services"
+  image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
+  more_text: "Discover our Linode Cloud consultancy services"
   more_text_colour: "#00416a"
   
-icon: /assets/images/cloud/google-cloud-logo.png
+icon: /assets/images/cloud/linode-logo.png
 benefits:
     - "Allow staff to work from anywhere, anytime."
     - "Improved work/life balance for staff."
@@ -42,10 +42,16 @@ benefits:
     </div>
 </section>
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Google Cloud Computing (GCP) Cloud Consultancy Services
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Linode Cloud Consultancy Services
 
+Compute
+Block Storage
+Object Storage
+Load Balancers
+Backups
+Kubernetes
+Managed Database
 
-...
 
 {% comment %}
 No need to enter multiple passcodes to access different layers of work and data. The simple-yet-secure authentication process gives you access to everything.

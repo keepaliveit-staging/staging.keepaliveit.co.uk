@@ -1,21 +1,16 @@
 ---
 layout: splash
 title: "On-Site Hardware Setup for Public Sector Organisations"
-permalink: /it-hardware-products-and-services-for-public-sector/it-hardware-setup
+permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
   more_text: "Discover On-Site Hardware Setup Services"
   more_text_colour: "#00416a"
   
-secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-setup
-    - title: "Hardware Setup for Consumers"
-      url: /it-hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

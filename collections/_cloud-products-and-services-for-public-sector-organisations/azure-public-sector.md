@@ -1,13 +1,13 @@
 ---
 layout: splash 
 title: "Microsoft Azure Cloud Consultancy Services for Public Sector Organisations"
-permalink: /cloud-products-and-services-for-public-sector/azure
+permalink: /cloud-products-and-services-for-public-sector-organisations/azure
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Microsoft Azure Cloud workloads for Public Sector Organisations. Our Microsoft Azure Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#6a2900"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover our Azure consultancy services"

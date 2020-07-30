@@ -1,13 +1,13 @@
 ---
 layout: splash
 title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Public Sector Organisations"
-permalink: /it-consultancy-services-for-public-sector/software-development-team-formation-and-developer-onboarding-services
+permalink: /it-consultancy-services-for-public-sector-organisations/software-development-team-formation-and-developer-onboarding-services
 
 excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."
 header:
   overlay_image: /assets/images/development-team.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
   min_height: "700px"
   more_text: "Discover how we can improve your team"
   more_text_colour: "#00416a"

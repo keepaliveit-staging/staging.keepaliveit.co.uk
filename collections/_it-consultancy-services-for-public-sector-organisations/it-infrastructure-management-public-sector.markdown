@@ -1,14 +1,15 @@
 ---
 layout: splash
 title: "I.T Infrastructure Management Services for Public Sector Organisations"
-permalink: /it-consultancy-services-for-public-sector/it-infrastructure-management-services
+permalink: /it-consultancy-services-for-public-sector-organisations/it-infrastructure-management-services
 
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."
 header:
   overlay_image: /assets/images/infrastructure-management.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
+  min_height: "700px"
 
 ---
 

@@ -7,14 +7,10 @@ excerpt: "Learn how Keep-Alive I.T can help make critical I.T Software decisions
 header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
-  page_lead_text_colour: "#4a7237"
+  page_lead_text_colour: "#35344b"
   more_text: "Discover our Website Products and Services for Consumers"
+  more_text_colour: "#35344b"
   
-secondaryMenu:
-  - title: "Website Development Services for Businesses"
-    url: /website-services/website-development
-  - title: "Website Development Services for Consumers"
-    url: /website-services-consumer/website-development
 ---
 
 {% include breadcrumbs.html %}

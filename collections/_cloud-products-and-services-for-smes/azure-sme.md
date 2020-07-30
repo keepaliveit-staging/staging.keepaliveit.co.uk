@@ -1,13 +1,13 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services for Small and Medium-sized Enterprises (SMEs)"
+title: "Microsoft Azure Cloud Consultancy Services for Small to Medium-sized Enterprises (SMEs)"
 permalink: /cloud-products-and-services-for-smes/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#215e51"
+  page_lead_text_colour: "#5e212e"
   min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover our Azure consultancy services"

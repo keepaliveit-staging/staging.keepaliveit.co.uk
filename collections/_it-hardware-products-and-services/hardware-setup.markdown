@@ -11,11 +11,6 @@ header:
   more_text: "Discover On-Site Hardware Setup Services"
   more_text_colour: "#215e51"
 
-secondaryMenu:
-    - title: "Hardware Setup for Businesses"
-      url: /it-hardware-products-and-services/it-hardware-setup
-    - title: "Hardware Setup for Consumers"
-      url: /it-hardware-products-and-services-consumer/it-hardware-setup
 ---
 
 {% include breadcrumbs.html %}

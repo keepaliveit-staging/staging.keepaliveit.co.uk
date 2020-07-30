@@ -12,12 +12,6 @@ header:
   more_text: "Discover our Hardware Products & Services"
   more_text_colour: "#36454f"
 
-
-secondaryMenu:
-    - title: "I.T Hardware Services for Businesses"
-      url: /it-hardware-products-and-services
-    - title: "I.T Hardware Services for Consumers"
-      url: /it-hardware-products-and-services-consumer
 ---
 
 {% include breadcrumbs.html %}

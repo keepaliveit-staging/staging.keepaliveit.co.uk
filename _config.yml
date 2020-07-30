@@ -81,7 +81,7 @@ facebook_pixel: false
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
@@ -265,7 +265,7 @@ collections:
   cloud-products-and-services-for-non-profits:
     output: true
     permalink: /:collection/:path/
-  cloud-products-and-services-for-public-sector:
+  cloud-products-and-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   cloud-products-and-services-for-consumers:
@@ -280,7 +280,7 @@ collections:
   office-fitting-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  office-fitting-services-for-public-sector:
+  office-fitting-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   it-consultancy-services:
@@ -295,10 +295,13 @@ collections:
   it-consultancy-services-for-non-profits:
     output: true
     permalink: /:collection/:path/
-  it-consultancy-services-for-public-sector:
+  it-consultancy-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   website-products-and-services:
+    output: true
+    permalink: /:collection/:path/
+  website-products-and-services-for-consumers:
     output: true
     permalink: /:collection/:path/
   website-products-and-services-for-smes:
@@ -307,7 +310,7 @@ collections:
   website-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  website-products-and-services-for-public-sector:
+  website-products-and-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   it-hardware-products-and-services:
@@ -322,7 +325,7 @@ collections:
   it-hardware-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  it-hardware-products-and-services-for-public-sector:
+  it-hardware-products-and-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   software-products-and-services:
@@ -337,7 +340,7 @@ collections:
   software-products-and-services-for-consumers:
     output: true
     permalink: /:collection/:path/
-  software-products-and-services-for-public-sector:
+  software-products-and-services-for-public-sector-organisations:
     output: true
     permalink: /:collection/:path/
   it-tools-and-utilities:

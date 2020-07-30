@@ -1,13 +1,13 @@
 ---
 layout: splash 
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for Public Sector Organisations"
-permalink: /cloud-products-and-services-for-public-sector/amazon-web-services-aws
+permalink: /cloud-products-and-services-for-public-sector-organisations/amazon-web-services-aws
 
 excerpt: "Keep-Alive I.T has the expertise to Architect, Operate, and Maintain high volume AWS Cloud workloads for Public Sector Organisations. Our AWS Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare Organisations in the United Kingdom."
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
-  page_lead_text_colour: "#aa0000"
+  page_lead_text_colour: "#6a2900"
   min_height: 780px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services for Public Sector"

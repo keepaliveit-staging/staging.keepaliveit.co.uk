@@ -8,12 +8,6 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#4a7237"
-  
-secondaryMenu:
-  - title: "Website Products and Services for Businesses"
-    url: /website-services
-  - title: "Website Products and Services for Consumers"
-    url: /website-services-consumer
     
 ---
 

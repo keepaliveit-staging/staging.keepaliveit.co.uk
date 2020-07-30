@@ -7,9 +7,10 @@ excerpt: "Learn how Keep-Alive I.T Services can help your business with staff tr
 header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
-  page_lead_text_colour: "#ea5114"
+  page_lead_text_colour: "#5e212e"
   more_text_colour: "#215e51"
-  
+  min_height: "700px"
+
 ---
 
 {% include breadcrumbs.html %}
