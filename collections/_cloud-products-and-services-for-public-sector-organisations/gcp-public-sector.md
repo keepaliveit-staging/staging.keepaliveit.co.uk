@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for Public Sector Organisations"
+title: "Google Cloud Platform (GCP) Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/google-cloud-computing-gcp
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Google Cloud Platform workloads for Public Sector Organisations. Our Google Cloud Platform services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
@@ -14,10 +14,8 @@ header:
   more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/google-cloud-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: Google Cloud Platform
+
 ---
 
 {% include breadcrumbs.html %}

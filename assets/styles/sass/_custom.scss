@@ -2,7 +2,7 @@ $color-primary: #aa0000;
 $color-primary-light: #e5ebc3;
 $color-primary-border: #e5ebc3;
 
-@import "minimal-mistakes/variables";
+@import "keepaliveit-theme/variables";
 
 .animated-heading, .static-heading {
   color: #a00;
@@ -2029,10 +2029,63 @@ a.droopmenu-tab-active {
   }
 }
 
-.test101 {
-  background: blue;
+section.emergency {
+  padding: 80px 0;
+  background: repeating-linear-gradient(-45deg, #fdb300, #fdb300 25px, #ffbb18 25px, #ffbb18 50px);
 }
 
 .droopmenu > li:hover {
   background: #273f58;
+}
+
+
+.blog_single_layout {}
+
+
+.service-single-widget {
+  padding: 25px;
+  background-color: #f8f8f8;
+
+  .service-widget-title {
+    font-weight: 700;
+    padding-bottom: 20px;
+    line-height: 1;
+    margin-top: 0;
+  }
+
+  .service-list {
+
+    margin-top: 0;
+    margin-left: -40px;
+
+    li {
+      list-style: none;
+
+      a {
+        color: black;
+        display: inline;
+        margin-bottom: 10px;
+        position: relative;
+        padding-left: 15px;
+
+        &:hover {
+          color: #aa0102;
+          padding-left: 20px;
+        }
+      }
+
+      &:before {
+        font-family: "Font Awesome 5 Free";
+        font-weight: 400;
+        content: "\f058";
+        color: forestgreen;
+      }
+
+      &:last-child {
+        a {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
 }

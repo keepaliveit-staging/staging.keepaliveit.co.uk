@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services for Startups"
+title: "Microsoft Azure Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/azure
 
 excerpt: "Microsoft Azure Cloud Consultancy Services"
@@ -16,10 +16,7 @@ header:
   
 icon: /assets/images/cloud/azure-logo.png
 cloud_name: Microsoft Azure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

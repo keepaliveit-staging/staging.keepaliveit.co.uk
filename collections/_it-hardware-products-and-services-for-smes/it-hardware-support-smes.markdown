@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "On-Site I.T Hardware Support for Small to Medium-sized Enterprises (SMEs)"
+title: "On-Site I.T Hardware Support for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /it-hardware-products-and-services-for-smes/it-hardware-support
 
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
@@ -17,6 +17,12 @@ header:
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Support for Small Business and Enterprise
+
+Install New Hardware and Software
+
+Sometime’s its unnecessary to upgrade your computer when technology evolves. With a team of IT specialists, we’ll diagnose the status of your PC or Mac computer and determine if there’s a cost-effective solution or if it’s simply better to upgrade.
+
+We’ll install anything as small as memory and graphics cards to more complex installations like motherboards and CPU’s.
 
 IT Strategy
 IT Projects

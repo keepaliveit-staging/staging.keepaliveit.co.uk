@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Linode Cloud Consultancy Services for Public Sector Organisations"
+title: "Linode Cloud Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/linode
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Linode Cloud workloads for Public Sector Organisations. Our Linode Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
@@ -14,10 +14,8 @@ header:
   more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/linode-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: Linode
+
 ---
 
 {% include breadcrumbs.html %}

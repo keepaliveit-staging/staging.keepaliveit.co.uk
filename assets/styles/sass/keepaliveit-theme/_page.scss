@@ -126,6 +126,9 @@ body {
 
 .page__content {
   h2 {
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: "Sarabun", sans-serif;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
@@ -248,9 +251,6 @@ body {
     }
 
     .bubble3 {
-
-      opacity: 0.88;
-
       color: white;
       position: absolute;
       left: 0;

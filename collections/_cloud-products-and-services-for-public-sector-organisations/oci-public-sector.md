@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Public Sector Organisations"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/oracle-cloud-infrastructure-oci
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Oracle Cloud Infrastructure workloads for Public Sector Organisations. Our Oracle Cloud Infrastructure Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
@@ -8,17 +8,14 @@ header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: 750px
-  image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
+  min_height: 800px
+  image_overlay_url: /assets/images/cloud/oci-logo-square.png 
   more_text: "Discover our OCI consultancy services"
   more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/oci-logo.png
 cloud_name: Oracle Cloud Infrastructure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}
@@ -43,6 +40,7 @@ benefits:
     </div>
 </section>
 
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 
 <table class="table vl-table-bordered vl-table-divider-col" summary="This table summarizes basic information about each region"><caption></caption><colgroup><col><col><col><col><col><col></colgroup><thead class="thead">
 <tr class="row">
@@ -254,62 +252,59 @@ benefits:
 </tr>
 </tbody></table>
 
-Analytics
-Announcements Service
-API Gateway
-Application Migration Service
-Audit
-Autoscaling
-Big Data Service
-Budgets
-Block Volume Service
-Container Engine for Kubernetes
-Compute Service
-Compute Management Service
-Data Catalog
-Data Flow
-Data Integration
-Data Safe
-Data Science
-Database Service
-DNS
-Data Transfer Service
-Email Delivery
-Events
-Functions Service
-File Storage
-Health Checks
-Identity and Access Management Service
-Oracle Integration
-Key Management
-Load Balancing
-Service limits
-Marketplace Service
-Monitoring
-MySQL Database Service
-Networking Service
-NoSQL Database
-Oracle Content and Experience
-Oracle Cloud VMware Solution
-Digital Assistant Service Instance
-Notifications
-Object Storage Service
-OS Management
-Makes a raw request against an OCI service
-Resource Manager
-Search Service
-Secrets
-Session commands for CLI
-Setup commands for CLI
-Streaming Service
-Support Management
-Usage
-Secrets Management
-Web Application Acceleration and Security Services
-Work Requests
-
-
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
+- Analytics
+- Announcements Service
+- API Gateway
+- Application Migration Service
+- Audit
+- Autoscaling
+- Big Data Service
+- Budgets
+- Block Volume Service
+- Container Engine for Kubernetes
+- Compute Service
+- Compute Management Service
+- Data Catalog
+- Data Flow
+- Data Integration
+- Data Safe
+- Data Science
+- Database Service
+- DNS
+- Data Transfer Service
+- Email Delivery
+- Events
+- Functions Service
+- File Storage
+- Health Checks
+- Identity and Access Management Service
+- Oracle Integration
+- Key Management
+- Load Balancing
+- Service limits
+- Marketplace Service
+- Monitoring
+- MySQL Database Service
+- Networking Service
+- NoSQL Database
+- Oracle Content and Experience
+- Oracle Cloud VMware Solution
+- Digital Assistant Service Instance
+- Notifications
+- Object Storage Service
+- OS Management
+- Makes a raw request against an OCI service
+- Resource Manager
+- Search Service
+- Secrets
+- Session commands for CLI
+- Setup commands for CLI
+- Streaming Service
+- Support Management
+- Usage
+- Secrets Management
+- Web Application Acceleration and Security Services
+- Work Requests
 
 Compute
 Block Storage

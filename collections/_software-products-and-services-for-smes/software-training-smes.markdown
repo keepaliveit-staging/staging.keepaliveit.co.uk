@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Software Training Services for Small to Medium-sized Enterprises (SMEs)"
+title: "I.T Software Training Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /software-products-and-services-for-smes/software-training
 
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."

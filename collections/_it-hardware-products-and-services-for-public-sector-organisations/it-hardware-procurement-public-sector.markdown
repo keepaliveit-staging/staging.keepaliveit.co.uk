@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hardware Procurement for Public Sector Organisations"
+title: "I.T Hardware Procurement for UK Based Public Sector Organisations"
 permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-procurement
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
-  
+  min_height: 700px
 ---
 
 {% include breadcrumbs.html %}

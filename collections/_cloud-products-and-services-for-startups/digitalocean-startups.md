@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Digital Ocean Cloud Consultancy Services for Startups"
+title: "Digital Ocean Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
@@ -13,13 +13,9 @@ header:
   more_text: "Discover our Digital Ocean consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
 
-
-  
 icon: /assets/images/cloud/digitalocean-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: DigitalOcean
+
 ---
 
 {% include breadcrumbs.html %}

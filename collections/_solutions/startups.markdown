@@ -20,7 +20,7 @@ header:
 ## I.T Solutions for Startups
 
 ### Scenario
-You’ve got the most perfect business idea in your head which you think is going to earn you Millions of pounds and make you rich quickly. 
+Maybe you’ve got the most perfect business idea in your head which you think is going to earn you Millions of pounds and make you rich quickly. 
 Great, that’s a solid start and wonderful news! 
 
 ### Reality

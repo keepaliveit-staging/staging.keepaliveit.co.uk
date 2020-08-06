@@ -15,10 +15,7 @@ header:
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

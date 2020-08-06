@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Products and Services for Startups"
+title: "Amazon Web Services (AWS) Cloud Products and Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/amazon-web-services-aws
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
@@ -15,10 +15,7 @@ header:
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

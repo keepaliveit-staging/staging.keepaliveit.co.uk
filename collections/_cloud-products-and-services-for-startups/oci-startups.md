@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Startups"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/oracle-cloud-infrastructure-oci
 
 excerpt: "Efficient I.T improves productivity"
@@ -9,16 +9,13 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
   min_height: 750px
-  image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
+  image_overlay_url: /assets/images/cloud/oci-logo-square.png 
   more_text: "Discover our OCI consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
   
 icon: /assets/images/cloud/oci-logo.png
 cloud_name: Oracle Cloud Infrastructure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

@@ -14,10 +14,8 @@ header:
 
   
 icon: /assets/images/cloud/digitalocean-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: DigitalOcean
+
 ---
 
 {% include breadcrumbs.html %}

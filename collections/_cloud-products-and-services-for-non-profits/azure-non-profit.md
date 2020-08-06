@@ -14,10 +14,7 @@ header:
   
 icon: /assets/images/cloud/azure-logo.png
 cloud_name: Microsoft Azure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

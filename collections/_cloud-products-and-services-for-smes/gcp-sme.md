@@ -1,23 +1,21 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for Small to Medium-sized Enterprises (SMEs)"
+title: "Google Cloud Platform (GCP) Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
 
-excerpt: "Efficient I.T improves productivity"
+excerpt: "Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective Cloud workloads on Google Cloud Platform. By hiring Keep-Alive I.T to implement or manage Google Cloud Platform Services on behalf of your enterprise, a significant improvement of I.T Operations can be achieved across individual departments, or even an entire organisation."
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  min_height: 750px
-  image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
+  min_height: 840px
+  image_overlay_url: /assets/images/cloud/google-cloud-logo.png 
   more_text: "Discover our GCP consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/google-cloud-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: Google Cloud Platform
+
 ---
 
 {% include breadcrumbs.html %}

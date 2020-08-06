@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Consultancy Services for Public Sector Organisations"
+title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/amazon-web-services-aws
 
 excerpt: "Keep-Alive I.T has the expertise to Architect, Operate, and Maintain high volume AWS Cloud workloads for Public Sector Organisations. Our AWS Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare Organisations in the United Kingdom."
@@ -15,10 +15,7 @@ header:
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
-benefits:
-    - Offers a 
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

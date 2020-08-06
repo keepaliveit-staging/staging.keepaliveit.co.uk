@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Linode Cloud Consultancy Services for Startups"
+title: "Linode Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/linode
 
 excerpt: "Efficient I.T improves productivity"
@@ -14,10 +14,8 @@ header:
   more_text_colour: "#36454f"
 
 icon: /assets/images/cloud/linode-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: Linode
+
 ---
 
 {% include breadcrumbs.html %}

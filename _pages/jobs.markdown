@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Jobs at Keep-Alive I.T"
-permalink: /jobs
+permalink: /jobs/
 classes:
   - about
 excerpt: "Are you looking for a Career in I.T? Learn what it's like to work for Keep-Alive I.T and have a look to see if there's 
@@ -132,7 +132,7 @@ Imagine a having a job where you'll be hands-on with technical problems
             A workstation of your choice             
         </div>
         <div>
-            Windows or Mac? Your choice. We supply every new employee with a Windows Laptop, or a Android Phone.
+            Windows or Mac? As an I.T engineer, we know it can be a hard choice. We supply every new employee with a Windows Laptop, or a Android Phone.
         </div>
     </li>
     

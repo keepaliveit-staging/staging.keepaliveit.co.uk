@@ -1,24 +1,21 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Small to Medium-sized Enterprises (SMEs)"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
 
-excerpt: "Efficient I.T improves productivity"
+excerpt: "Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective Cloud workloads on Oracle Cloud Infrastructure (OCI). By hiring Keep-Alive I.T to implement or manage Oracle Cloud Infrastructure Services on behalf of your enterprise, a significant improvement of I.T Operations can be achieved across individual departments, or even an entire organisation."
 header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  min_height: 750px
-  image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
+  min_height: 880px
+  image_overlay_url: /assets/images/cloud/oci-logo-square.png 
   more_text: "Discover our OCI consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
-icon: /assets/images/cloud/oci-logo.png
+icon: /assets/images/cloud/oci-logo-square.png
 cloud_name: Oracle Cloud Infrastructure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

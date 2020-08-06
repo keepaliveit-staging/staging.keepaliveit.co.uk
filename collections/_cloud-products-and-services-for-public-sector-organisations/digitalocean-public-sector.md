@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services for Public Sector Organisations"
+title: "DigitalOcean Cloud Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/digitalocean
 
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume DigitalOcean Cloud workloads for Public Sector Organisations. Our DigitalOcean Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
@@ -8,16 +8,14 @@ header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: 680px
+  min_height: 780px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
   more_text: "Discover our DigitalOcean consultancy services"
   more_text_colour: "#00416a"
   
 icon: /assets/images/cloud/digitalocean-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: DigitalOcean
+
 ---
 
 {% include breadcrumbs.html %}

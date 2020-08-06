@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "DigitalOcean Cloud Consultancy Services for Small to Medium-sized Enterprises (SMEs)"
+title: "DigitalOcean Cloud Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/digitalocean
 
 excerpt: "Efficient I.T improves productivity"
@@ -9,15 +9,13 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
   min_height: 680px
-  image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
+  image_overlay_url: /assets/images/cloud/digitalocean-logo-square.png 
   more_text: "Discover our DigitalOcean consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/digitalocean-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: DigitalOcean
+
 ---
 
 {% include breadcrumbs.html %}

@@ -1,24 +1,21 @@
 ---
 layout: splash 
-title: "Microsoft Azure Cloud Consultancy Services for Small to Medium-sized Enterprises (SMEs)"
+title: "Microsoft Azure Cloud Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/azure
 
-excerpt: "Microsoft Azure Cloud Consultancy Services"
+excerpt: "Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective Cloud workloads on Azure Cloud. By hiring Keep-Alive I.T to implement or manage Azure Cloud Services on behalf of your enterprise, a significant improvement of I.T Operations can be achieved across individual departments, or even an entire organisation."
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  min_height: 750px
-  image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
+  min_height: 780px
+  image_overlay_url: /assets/images/cloud/azure-logo-square.png 
   more_text: "Discover our Azure consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/azure-logo.png
 cloud_name: Microsoft Azure
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+
 ---
 
 {% include breadcrumbs.html %}

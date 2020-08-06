@@ -16,7 +16,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Cloud Products and Services for Small to Medium-sized Enterprises (SMEs)
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Cloud Products and Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)
 
 {% for item in site.cloud-products-and-services-for-smes %}
 [{{ item.name }} {{item.title}}]({{ item.url }})

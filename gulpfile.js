@@ -149,7 +149,9 @@ build = (done) => {
 
 // Run jekyll build command.
 jekyllBuild = () => {
-    const jekyll = child.spawn('jekyll', [
+    const jekyll = child.spawn('bundle', [
+        'exec',
+        'jekyll',
         'build',
         '--watch',
         //'--incremental',

@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Website Development Services for Small to Medium-sized Enterprises (SMEs)"
+title: "Website Development Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /website-products-and-services-for-smes/website-development
 
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

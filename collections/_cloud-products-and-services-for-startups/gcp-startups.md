@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for Startups"
+title: "Google Cloud Platform (GCP) Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/google-cloud-computing-gcp
 
 excerpt: "Efficient I.T improves productivity"
@@ -14,10 +14,8 @@ header:
   more_text_colour: "#36454f"
   
 icon: /assets/images/cloud/google-cloud-logo.png
-benefits:
-    - "Allow staff to work from anywhere, anytime."
-    - "Improved work/life balance for staff."
-    - "Enables 'on-call' working hours."
+cloud_name: Google Cloud Platform
+
 ---
 
 {% include breadcrumbs.html %}
