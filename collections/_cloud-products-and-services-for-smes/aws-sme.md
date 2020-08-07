@@ -47,22 +47,31 @@ title_short_name: "AWS Cloud Services for SME's"
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's new to AWS
 
-Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving to the Cloud is a difficult task which requires a lot of thought and a deep amount of technical understanding to be successful - especially for production environments. However, don't let this put you off as our Cloud consultants are here to help simplify the process of creating new cloud workloads, or migrating .
+Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires a lot of thought and a deep amount of technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
 
 ### AWS introduction: a brief introduction to Amazon's Cloud Platform
 As an Enterprise Business owner or representative, chances are that you've more than likely heard of Amazon Web Services (AWS) before. This is because AWS is now one of the leading Cloud Providers in existence and it's huge growth of popularity in recent years is showing little signs of slowing down.
 
 If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. To keep things simple, here are 10 reasons why we think AWS is a suitable Cloud platform for SMEs:
 
-1. 
-2. 
-3.
-4.
-5.
-6.
+1. Security: 
+
+2. Cost:
+
+3. Environmental: Lower CO2 impact on the environment 
+
+4. Agile: Make 
+
+5. Remote work: enable remote working for your SME, so there's no need for your staff to be working from the office if they need to quickly get something done in the evenings.
+
+6. 
+
 7.
+
 8.
+
 9.
+
 10.
 
 Migrating existing infrastructure, or I.T services onto AWS is done by moving 
