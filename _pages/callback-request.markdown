@@ -9,6 +9,8 @@ header:
   overlay_image: /assets/images/call.jpg
   overlay_filter: 0.74
   more_text: "Request a call from Keep-Alive I.T"
+  min_height: 600px
+  
 ---
 
 

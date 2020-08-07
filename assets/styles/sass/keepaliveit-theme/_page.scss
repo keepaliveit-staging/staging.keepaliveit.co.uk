@@ -87,35 +87,25 @@ body {
 
 .page__title {
   line-height: 1.3em;
-
+  font-weight: 700;
   color: #000;
   font-size: 26px;
-  font-weight: 300;
   text-align: center;
   position: relative;
-  margin: 30px 0 60px;
-
-  h2::after {
-    content: "";
-    width: 100px;
-    position: absolute;
-    margin: 0 auto;
-    height: 4px;
-    border-radius: 1px;
-    background: #1abc9c;
-    left: 0;
-    right: 0;
-    bottom: -20px;
-  }
-
-  & + .page__meta {
-    margin-top: -0.5em;
-  }
+  margin: 20px 0 60px;
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  font-weight: 600;
   font-size: $type-size-4;
+}
+
+.page__lead2 {
+  margin-top: 70px;
+  color: #fff;
+  font-weight: 400;
+  font-size: $type-size-5;
+  width: 75%;
 }
 
 .page__hero--overlay {

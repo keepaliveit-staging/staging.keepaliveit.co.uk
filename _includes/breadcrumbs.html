@@ -13,6 +13,12 @@
 {% endif %}
 
 <nav class="breadcrumbs">
+  {% if page.title_short_name %}
+  <small>
+    <i class="fas fa-history"></i>
+    You are currently viewing the page: <strong>{{ page.title_short_name }}</strong>
+  </small>
+  {% endif %}
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
     {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
     {% assign i = 1 %}

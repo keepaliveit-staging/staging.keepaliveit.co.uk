@@ -121,27 +121,20 @@
                                     <div class="droopmenu-col droopmenu-col4">
                                         <div class="droopmenu-content dm-border-right">
                                             <h4>Latest Company News</h4>
-                                            <p>
-                                                <span class="dm-small">23rd June 2018</span><br/>
-                                                Sed at veniam antiopam neglegentur, cu libris labores quaestio
-                                                ius. Sed ad consul disputando. Et perfecto urbanitas intellegam nam
-                                                obcaecati eveniet voluptatem optio soluta corporis quas.
-                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
-                                            </p>
-                                            <p>
-                                                <span class="dm-small">12th July 2018</span><br/>
-                                                Suspendisse ut vulputate erat. Vestibulum quis auctor odio.
-                                                Etiam porta nec lectus non sollicitudin. Nunc id tortor nisi.
-                                                Vivamus sed tortor in ante dignissim
-                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
-                                            </p>
-                                            <p>
-                                                <span class="dm-small dm-bold">28th July 2018</span><br/>
-                                                Pro an animalmaiestatis eat omittam fastidii wisi iudico
-                                                numquam eos at, excorpora contentiones sed, dicant constituam
-                                                eu est. Ex eruditi facilis mei, id vero omittantur eum.
-                                                <a href="#">Read More <i class="ion-android-arrow-forward"></i></a>
-                                            </p>
+
+                                            {% assign items = site.posts %}
+
+                                            {% for item in items limit: 3 %}
+                                                <p>
+                                                    <span class="dm-small dm-bold"><time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %d, %Y" }}</time></span><br/>
+                                                    Pro an animalmaiestatis eat omittam fastidii wisi iudico
+                                                    numquam eos at, excorpora contentiones sed, dicant constituam
+                                                    eu est. Ex eruditi facilis mei, id vero omittantur eum.
+                                                    <a href="{{ item.url }}">Read More <i class="ion-android-arrow-forward"></i></a>
+                                                </p>
+                                            {% endfor %}
+
+
                                         </div><!-- droopmenu-content -->
                                     </div><!-- col5 -->
                                     <div class="droopmenu-col droopmenu-col4">

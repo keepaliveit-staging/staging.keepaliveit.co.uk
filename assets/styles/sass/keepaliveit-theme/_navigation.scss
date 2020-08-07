@@ -17,12 +17,25 @@
   -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
 
-  border: 0.15em solid #6f777d;
+  background: #f8f8f8;
+  border: 0.15em solid #e0e0e0;
   padding: 0 1em;
   margin: 0 auto 1em auto;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
+  }
+
+  small {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity: 0.4;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 
   ol {

@@ -3,18 +3,21 @@ layout: splash
 title: "Linode Cloud Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/linode
 
-excerpt: "Efficient I.T improves productivity"
+excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Linode Cloud infrastructure."
+excerpt2: "<a href='/request-a-callback'>Enquire about hiring our Linode Cloud expertise today</a>, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
+
 header:
   overlay_image: /assets/images/cloud-providers/linode.png
-  overlay_filter: 0.5 
+  overlay_filter: 0.7 
   page_lead_text_colour: "#5e212e"
-  min_height: 750px
+  min_height: 900px
   image_overlay_url: /assets/images/cloud/linode-logo.png 
   more_text: "Discover our AWS consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/linode-logo.png
 cloud_name: Linode
+title_short_name: "Linode Cloud Services for SME's"
 
 ---
 

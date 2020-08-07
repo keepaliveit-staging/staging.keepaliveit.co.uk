@@ -55,13 +55,11 @@
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline" data-aos="fade-down" data-aos-once="true">
-        <span style="background:#000000;">
         {% if paginator and site.paginate_show_page_num %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}
         {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
-        </span>
       </h1>
       {% if page.header.show_overlay_excerpt != false and page.excerpt %}
       <p class="page__lead" data-aos="fade-up" data-aos-once="true">
@@ -71,10 +69,8 @@
       </p>
       {% endif %}
       {% if page.header.show_overlay_excerpt2 != false and page.excerpt2 %}
-      <p class="page__lead" data-aos="fade-up" data-aos-once="true">
-        <span style="background: {{ page.header.page_lead_text_colour | default: 'transparent' }};">
+      <p class="page__lead2" data-aos="fade-up" data-aos-once="true">
           {{ page.excerpt2 | markdownify | remove: "<p>" | remove: "</p>" }}
-      </span>
       </p>
       {% endif %}
       {% if page.read_time %}

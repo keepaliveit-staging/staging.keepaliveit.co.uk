@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: What are the Benefits of Effective I.T?
-permalink: /benefits-of-effective-it
+permalink: /benefits-of-effective-it/
 
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:

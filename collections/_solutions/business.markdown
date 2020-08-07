@@ -12,14 +12,14 @@ header:
   min_height: 600px
   page_lead_text_colour: "#aa0000"
   more_text: "Read the case study on effective Business I.T"
-
+  min_height: 700px
 ---
 
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-exclamation-circle page-title-icon" aria-hidden="true"></i> Case Study: The Importance of Effective I.T Systems for Businesses
 ### Did you know?
-<section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true">
+<section id="metrics" data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="metrics">
     <div class="row">
         <div class="col-xs-6 col-md-3 stat-container">
             <div class="stat-item">

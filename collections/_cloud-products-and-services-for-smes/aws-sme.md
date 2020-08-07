@@ -3,167 +3,25 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/amazon-web-services-aws
 
-excerpt: "Our Team of Cloud Consultants have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on AWS Cloud infrastructure."
-excerpt2: "Enquire about our Cloud expertise today, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
+excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on AWS Cloud infrastructure."
+excerpt2: "<a href='/request-a-callback'>Enquire about hiring our AWS Cloud expertise today</a>, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
 
 header:
   overlay_image: /assets/images/cloud-providers/aws-data-centre.jpg
-  overlay_filter: 0.5 
+  overlay_filter: 0.7 
   page_lead_text_colour: "#5e212e"
-  min_height: 900px
+  min_height: 880px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
+title_short_name: "AWS Cloud Services for SME's"
 
 ---
 
 {% include breadcrumbs.html %}
-
-<div class="row">
-    <div class="col-lg-4 mtn-40 order-2 order-lg-1">
-        <div class="service-details-widget">
-            <div class="service-single-widget gray-bg mt-40">
-                <h3 class="service-widget-title">Supported Systems</h3>
-                <ul class="service-list">
-                    <li><a href="#">Database</a></li>
-                    <li><a href="#">Caching Systems</a></li>
-                    <li><a href="#">Technology</a></li>
-                    <li><a href="#">Financial</a></li>
-                    <li><a href="#">Marketing</a></li>
-                    <li><a href="#">Construction</a></li>
-                </ul>
-            </div>
-            <div class="service-single-widget gray-bg mt-40">
-                <h3 class="service-widget-title">Download Brochure</h3>
-                <ul class="service-list">
-                    <li><a href="#">Brochures.PDF</a></li>
-                    <li><a href="#">Brochures.DOC</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-8 pl-lg-45 order-1 order-lg-2">
-        <div class="service-details">
-            <div class="service-details-thumb">
-                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="">
-            </div>
-            <h2 class="h1 title">Technology</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="service-details-content mt-30">
-                        <h3>Project Analysis</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content mt-30">
-                        <h3>Project Costing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content mt-30">
-                        <h3>Project Planning</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content mt-30">
-                        <h3>Project Strategy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<section class="pricing-area section-padding pt-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <!-- section title start -->
-                <div class="section-title text-center">
-                    <h2 class="h1 title">Our Pricing</h2>
-                    <p>labore dolore magnam aliquam quaerat voluptatem ad minima veniam, quis nostrum exercitationem</p>
-                </div>
-                <!-- section title end -->
-            </div>
-        </div>
-        <div class="row mtn-30">
-            <!-- pricing item start -->
-            <div class="col-lg-4 col-md-6">
-                <div class="pricing-item mt-30">
-                    <div class="price-head">
-                        <h2><span class="dolar">$</span>40</h2>
-                        <h4> /Day</h4>
-                    </div>
-                    <h2 class="pricing-title">Basic</h2>
-                    <ul class="pricing-list">
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Lorem ipsul dolor sit amet.</li>
-                        <li>Nam feugiat risus sitamet.</li>
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Praesent finibus.</li>
-                    </ul>
-                    <div class="pricing-button">
-                        <a href="#" class="btn btn-all">Order Now</a>
-                    </div>
-                </div>
-            </div>
-            <!-- pricing item end -->
-
-            <!-- pricing item start -->
-            <div class="col-lg-4 col-md-6">
-                <div class="pricing-item active mt-30">
-                    <div class="price-head">
-                        <h2><span class="dolar">$</span>80</h2>
-                        <h4> /Week</h4>
-                    </div>
-                    <h2 class="pricing-title">Basic</h2>
-                    <ul class="pricing-list">
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Lorem ipsul dolor sit amet.</li>
-                        <li>Nam feugiat risus sitamet.</li>
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Praesent finibus.</li>
-                    </ul>
-                    <div class="pricing-button">
-                        <a href="#" class="btn btn-all">Order Now</a>
-                    </div>
-                </div>
-            </div>
-            <!-- pricing item end -->
-
-            <!-- pricing item start -->
-            <div class="col-lg-4 col-md-6">
-                <div class="pricing-item mt-30">
-                    <div class="price-head">
-                        <h2><span class="dolar">$</span>120</h2>
-                        <h4> /Month</h4>
-                    </div>
-                    <h2 class="pricing-title">Basic</h2>
-                    <ul class="pricing-list">
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Lorem ipsul dolor sit amet.</li>
-                        <li>Nam feugiat risus sitamet.</li>
-                        <li>Feugiat risus sitamet rutrum </li>
-                        <li>Praesent finibus.</li>
-                    </ul>
-                    <div class="pricing-button">
-                        <a href="#" class="btn btn-all">Order Now</a>
-                    </div>
-                </div>
-            </div>
-            <!-- pricing item end -->
-        </div>
-    </div>
-</section>
                   
 <section id="hero">
     <div class="container">
@@ -172,7 +30,7 @@ cloud_name: Amazon Web Services (AWS)
                  data-aos="fade-up">
                 <div>
                     <h3>We help SME Businesses Plan, Build, and Scale Cloud managed I.T Workloads on Amazon owned I.T Infrastructure.</h3>
-                    <h4>Reduce I.T costs, Become a more Agile Business, and future-proof I.T usage at your SME thanks to Cloud Technologies.</h4>
+                    <h4>Reduce I.T costs, Become a more Agile Business, and future-proof I.T usage at your SME by utilising Cloud Technologies.</h4>
                     <p>If your SME is thinking of utilising AWS Cloud Services, or is already using AWS Cloud Services and needs some expert advice - we're here to help.</p>
                     <a href="#about" class="btn-get-started">Help for SME's new to AWS</a>
                     <br>
@@ -187,29 +45,84 @@ cloud_name: Amazon Web Services (AWS)
     </div>
 </section>
 
-<section class="emergency">
-   <div class="content">
-      <div class="col info btm">
-         <div class="row icon"> 
-            <img class="img-block" alt="Having an IT emergency?" src="https://sados.com/wp-content/themes/theme/images/icon-alert.svg"></div>
-         <div class="row heading">Facing a critical issue with {{ page.cloud_name }}?</div>
-         <div class="row subheading">Our tech support specialists are ready to help solve your I.T issues 24/7/365.</div>
-      </div>
-      <div class="col click btm">
-         <div class="row click"> <a class="button solid special next" href="https://sados.com/contact/">Emergencies Happen. Get Support Right Now.</a></div>
-      </div>
-   </div>
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's new to AWS
+
+Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving to the Cloud is a difficult task which requires a lot of thought and a deep amount of technical understanding to be successful - especially for production environments. However, don't let this put you off as our Cloud consultants are here to help simplify the process of creating new cloud workloads, or migrating .
+
+### AWS introduction: a brief introduction to Amazon's Cloud Platform
+As an Enterprise Business owner or representative, chances are that you've more than likely heard of Amazon Web Services (AWS) before. This is because AWS is now one of the leading Cloud Providers in existence and it's huge growth of popularity in recent years is showing little signs of slowing down.
+
+If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. To keep things simple, here are 10 reasons why we think AWS is a suitable Cloud platform for SMEs:
+
+1. 
+2. 
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Migrating existing infrastructure, or I.T services onto AWS is done by moving 
+
+AWS offers Iaas, PaaS, and SaaS cloud functionality for its clients.
+
+### AWS Global Statistics - Some numbers
+<section data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate metrics">
+    <div class="row">
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    > <span class="animatedNumber">1</span> Million
+                </div>
+                <div class="metric">
+                    active users in over 190 countries worldwide.</div>
+            </div>
+        </div>
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat"><span class="animatedNumber">52</span>%</div>
+                <div class="metric">of I.T system breaches in 2019 were as a result of hacking, according to Verizon.</div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    <span class="animatedNumber">4</span>.<span class="animatedNumber">1</span> bn
+                </div>
+                <div class="metric">database records were stolen in the first half of 2019, according to Norton Security.</div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-md-3 stat-container">
+            <div class="stat-item">
+                <div class="stat">£<span class="animatedNumber">1</span>.<span class="animatedNumber">73</span> bn</div>
+                <div class="metric"> the cost of slow-loading websites to retailers each year.</div>
+            </div>
+        </div>
+    </div>
 </section>
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's thinking of migrating or implementing I.T services onto AWS infrastructure
+<img src="https://kinsta.com/wp-content/uploads/2017/10/companies-using-aws-ec2.png" />
+
+What Amazon says about their Cloud Infrastructure:
+>AWS pioneered cloud computing in 2006, creating cloud infrastructure that allows you to securely build and innovate faster. We are continuously innovating the design and systems of our data centers to protect them from man-made and natural risks. Then we implement controls, build automated systems, and undergo third-party audits to confirm security and compliance. As a result, the most highly-regulated organizations in the world trust AWS every day.
+
+Amazon's global infrastructure setup makes AWS the go-to Cloud platform for many Enterprises.
 Having a foundational understanding of AWS Cloud topics is vital to understand the benefits AWS can bring to a business. If you've never heard of AWS before, then you may wish to read our <a href="/aws-introduction">AWS introduction writeup</a> to learn more information about the platform.
+
+If you're looking for a more comprehensive 
 
 If you're new to AWS but have foundational knowledge of Storage, Network, and Compute Services the platform can still seem quite overwhelming as there are literally hundreds of services offered by AWS. This article aims to demystify some of the core Cloud services offered by AWS and and give an explanation of the Cloud consultancy services that we offer to assist with improving Cloud based I.T workloads at your SME.
 
-### What's the big hype about AWS Cloud Computing?
-As an enterprise business owner or representative, chances are you've more than likely heard of AWS before. This is because AWS is now one of the leading Cloud Providers in existence and it's growth is showing little signs of slowing down. Even if you think you understand what AWS is, do you completely understand the benefits that the AWS Cloud platform could bring to your business? 
-
 ### What could an AWS migration do for my SME?
+Gone are the days of struggling with complicated on-premise server rooms and complicated networking.
+
+ Even if you think you understand what AWS is, do you completely understand the benefits that the AWS Cloud platform could bring to your business? 
+ 
 ., and serve as a cost effective way of boosting revenue within SME's by reducing I.T operation costs and improving customer reach
 
 Our AWS Cloud consultancy services
@@ -218,10 +131,87 @@ By hiring Keep-Alive I.T to implement, or manage AWS Cloud Services on behalf of
 
 Depending on the size of your Enterprise, you may or may not have an on-site datacenter or services running locally on site. Maybe in the corner of an office of a single department? To put things simply, the aim of AWS was to get rid of on-premise servers at the location of your enterprise, and create a globally distributed network of servers and associated I.T infrastructure that is ready to rent on demand. 
 
-What Amazon says about their Cloud Infrastructure:
->AWS pioneered cloud computing in 2006, creating cloud infrastructure that allows you to securely build and innovate faster. We are continuously innovating the design and systems of our data centers to protect them from man-made and natural risks. Then we implement controls, build automated systems, and undergo third-party audits to confirm security and compliance. As a result, the most highly-regulated organizations in the world trust AWS every day.
+
 
 So, to summarise; Just as if your company was to build a fleet of servers and place them in a 
+
+<div class="row">
+    <div class="col-lg-4 order-2 order-lg-1">
+        <div class="service-details-widget">
+            <div class="service-single-widget">
+                <h3 class="service-widget-title">Supported Systems</h3>
+                <ul class="service-list">
+                    <li><a href="#">Analytics</a></li>
+                    <li><a href="#">Application Integration</a></li>
+                    <li><a href="#">AR & VR</a></li>
+                    <li><a href="#">AWS Cost Management</a></li>
+                    <li><a href="#">Blockchain</a></li>
+                    <li><a href="#">Business Applications</a></li>
+                    <li><a href="#">Compute</a></li>
+                    <li><a href="#">Containers</a></li>
+                    <li><a href="#">Customer Engagement</a></li>
+                    <li><a href="#">Database</a></li>
+                    <li><a href="#">Developer Tools</a></li>
+                    <li><a href="#">End User Computing</a></li>
+                    <li><a href="#">Game Tech</a></li>
+                    <li><a href="#">Internet of Things</a></li>
+                    <li><a href="#">Machine Learning</a></li>
+                    <li><a href="#">Management & Governance</a></li>
+                    <li><a href="#">Media Services</a></li>
+                    <li><a href="#">Migration & Transfer</a></li>
+                    <li><a href="#">Mobile</a></li>
+                    <li><a href="#">Networking & Content Delivery</a></li>
+                    <li><a href="#">Quantum Technologies</a></li>
+                    <li><a href="#">Security, Identity, & Compliance</a></li>
+                    <li><a href="#">Storage</a></li>
+                </ul>
+            </div>
+            <div class="service-single-widget">
+                <h3 class="service-widget-title">Download Brochure</h3>
+                <ul class="service-list">
+                    <li><a href="#">Brochures.PDF</a></li>
+                    <li><a href="#">Brochures.DOC</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8 order-1 order-lg-2">
+        <div class="service-details">
+            <div class="service-details-thumb">
+                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="">
+            </div>
+            <h2 class="h1 title">Technology</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Analysis</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Costing</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Planning</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Strategy</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 ### Current AWS regions
 
@@ -409,6 +399,20 @@ So, to summarise; Just as if your company was to build a fleet of servers and pl
 
 As an established SME, you know your line of business and understand your revenue streams well. One thing that separates your business from others is your selling capabilities and the amount of cashflow that runs through your business. 
 
+<section class="emergency">
+   <div class="content">
+      <div class="col info btm">
+         <div class="row icon"> 
+            <img class="img-block" alt="Having an IT emergency?" src="https://sados.com/wp-content/themes/theme/images/icon-alert.svg"></div>
+         <div class="row heading">Facing a critical issue with {{ page.cloud_name }}?</div>
+         <div class="row subheading">Our tech support specialists are ready to help solve your I.T issues 24/7/365.</div>
+      </div>
+      <div class="col click btm">
+         <div class="row click"> <a class="button solid special next" href="https://sados.com/contact/">Emergencies Happen. Get Support Right Now.</a></div>
+      </div>
+   </div>
+</section>
+
 
 ### Why lock your business into AWS?
 Amazon Web Services (AWS) offers a substantial amount of Cloud services that can be used to perform simple computation operations for hobbyist software developers, or running highly complex application workloads with an enterprise grade Service Level Agreement (SLA).
@@ -419,6 +423,88 @@ There is no definitive answer to what is the cost of AWS services as the needs a
 Part of our consultancy service is giving an estimated cost as to how much it will cost to operate your application workload(s) on AWS.
 Some AWS services are free but some are charged at a rate defined by AWS.
 
+
+<section class="pricing-area section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <!-- section title start -->
+                <div class="section-title text-center">
+                    <h2 class="h1 title">Our Pricing</h2>
+                    <p>labore dolore magnam aliquam quaerat voluptatem ad minima veniam, quis nostrum exercitationem</p>
+                </div>
+                <!-- section title end -->
+            </div>
+        </div>
+        <div class="row mtn-30">
+            <!-- pricing item start -->
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-item">
+                    <div class="price-head">
+                        <h2><span class="dolar">$</span>40</h2>
+                        <h4> /Day</h4>
+                    </div>
+                    <h2 class="pricing-title">Basic</h2>
+                    <ul class="pricing-list">
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Lorem ipsul dolor sit amet.</li>
+                        <li>Nam feugiat risus sitamet.</li>
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Praesent finibus.</li>
+                    </ul>
+                    <div class="pricing-button">
+                        <a href="#" class="btn btn-all">Order Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- pricing item end -->
+
+            <!-- pricing item start -->
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-item active mt-30">
+                    <div class="price-head">
+                        <h2><span class="dolar">$</span>80</h2>
+                        <h4> /Week</h4>
+                    </div>
+                    <h2 class="pricing-title">Basic</h2>
+                    <ul class="pricing-list">
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Lorem ipsul dolor sit amet.</li>
+                        <li>Nam feugiat risus sitamet.</li>
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Praesent finibus.</li>
+                    </ul>
+                    <div class="pricing-button">
+                        <a href="#" class="btn btn-all">Order Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- pricing item end -->
+
+            <!-- pricing item start -->
+            <div class="col-lg-4 col-md-6">
+                <div class="pricing-item mt-30">
+                    <div class="price-head">
+                        <h2><span class="dolar">$</span>120</h2>
+                        <h4> /Month</h4>
+                    </div>
+                    <h2 class="pricing-title">Basic</h2>
+                    <ul class="pricing-list">
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Lorem ipsul dolor sit amet.</li>
+                        <li>Nam feugiat risus sitamet.</li>
+                        <li>Feugiat risus sitamet rutrum </li>
+                        <li>Praesent finibus.</li>
+                    </ul>
+                    <div class="pricing-button">
+                        <a href="#" class="btn btn-all">Order Now</a>
+                    </div>
+                </div>
+            </div>
+            <!-- pricing item end -->
+        </div>
+    </div>
+</section>
 
 IT solutions
 
