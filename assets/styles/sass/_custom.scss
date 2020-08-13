@@ -620,15 +620,12 @@ $color-primary-border: #e5ebc3;
   }
 }
 
-.footer-nav-links-container {
-
-  .wrapper-lines {
-    border-left: 1px solid lightgrey;
-    border-right: 1px solid lightgrey;
-  }
+#footer {
+  background: white;
 
   .row {
-    background: white;
+    border-left: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
   }
 
   h3 {

@@ -17,7 +17,7 @@ header:
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
-title_short_name: "AWS Cloud Services for SME's"
+title_short_name: "AWS Cloud Consultancy Services for SME's"
 
 ---
 
@@ -31,7 +31,7 @@ title_short_name: "AWS Cloud Services for SME's"
                 <div>
                     <h3>We help SME Businesses Plan, Build, and Scale Cloud managed I.T Workloads on Amazon owned I.T Infrastructure.</h3>
                     <h4>Reduce I.T costs, Become a more Agile Business, and future-proof I.T usage at your SME by utilising Cloud Technologies.</h4>
-                    <p>If your SME is thinking of utilising AWS Cloud Services, or is already using AWS Cloud Services and needs some expert advice - we're here to help.</p>
+                    <p>Is your SME thinking of utilising AWS Cloud Services? Or is your SME already using AWS Cloud Services but in need of expert advice? We're here to help.</p>
                     <a href="#about" class="btn-get-started">Help for SME's new to AWS</a>
                     <br>
                     <br>
@@ -45,34 +45,41 @@ title_short_name: "AWS Cloud Services for SME's"
     </div>
 </section>
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's new to AWS
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> AWS Cloud Consultancy Services for SME's new to AWS
 
-Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires a lot of thought and a deep amount of technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/S9TMbeO1-hU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
+Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires sophisticated planning and a deep technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
 
 ### AWS introduction: a brief introduction to Amazon's Cloud Platform
 As an Enterprise Business owner or representative, chances are that you've more than likely heard of Amazon Web Services (AWS) before. This is because AWS is now one of the leading Cloud Providers in existence and it's huge growth of popularity in recent years is showing little signs of slowing down.
 
-If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. To keep things simple, here are 10 reasons why we think AWS is a suitable Cloud platform for SMEs:
+If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. Here are just some advantages moving to the Cloud can bring to an organisation:
 
-1. Security: 
+{% assign items = site.benefit %}
 
-2. Cost:
-
-3. Environmental: Lower CO2 impact on the environment 
-
-4. Agile: Make 
-
-5. Remote work: enable remote working for your SME, so there's no need for your staff to be working from the office if they need to quickly get something done in the evenings.
-
-6. 
-
-7.
-
-8.
-
-9.
-
-10.
+<div class="container">
+    <div class="row">    
+        {% for item in items %}            
+            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                <div class="reason-item">
+                    <img class="lazy" data-src="{{ item.icon }}"/>
+                    <div class="item-title">
+                        <a href="{{ item.url }}">{{ item.title }}</a>
+                    </div>
+                    <div class="item-description">
+                        <p>An overview of benefits:</p>
+                        <ul>
+                             {% for benefit in item.benefits %}
+                                <li>{{ benefit }}</li>
+                             {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
 
 Migrating existing infrastructure, or I.T services onto AWS is done by moving 
 

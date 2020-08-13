@@ -25,6 +25,9 @@ title_short_name: "Google Cloud Platform Cloud Services for SME's"
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Google Cloud Computing (GCP) Cloud Consultancy Services
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/d7DULYxUN9o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
 Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective Cloud workloads on Google Cloud Platform. By hiring Keep-Alive I.T to implement or manage Google Cloud Platform Services on behalf of your enterprise, a significant improvement of I.T Operations can be achieved across individual departments, or even an entire organisation.
 ...
 

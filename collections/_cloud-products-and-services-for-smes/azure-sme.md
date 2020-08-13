@@ -25,6 +25,8 @@ title_short_name: "Microsoft Azure Cloud Services for SME's"
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Microsoft Azure Cloud Consultancy Services for SME's
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/fPzGHma9gME?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
 
 A new way of working 
 

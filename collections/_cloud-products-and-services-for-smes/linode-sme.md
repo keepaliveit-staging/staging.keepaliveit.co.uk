@@ -25,6 +25,9 @@ title_short_name: "Linode Cloud Services for SME's"
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Linode Cloud Consultancy Services
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/WYGTtiJFbtc?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
 Compute
 Block Storage
 Object Storage

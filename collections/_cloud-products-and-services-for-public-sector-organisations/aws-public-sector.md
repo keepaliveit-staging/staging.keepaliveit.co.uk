@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: 780px
+  min_height: 820px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services for Public Sector"
   more_text_colour: "#00416a"

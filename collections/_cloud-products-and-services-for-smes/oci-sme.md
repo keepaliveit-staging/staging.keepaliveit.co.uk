@@ -25,6 +25,9 @@ title_short_name: "Oracle Cloud Infrastructure Cloud Services for SME's"
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/JTYv5a2AFBQ?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
 Compute
 Block Storage
 Object Storage
