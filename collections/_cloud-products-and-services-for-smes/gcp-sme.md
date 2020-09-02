@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Google Cloud Platform (GCP) Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
+title: "Google Cloud Platform (GCP) Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
 
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Google Cloud Platform (GCP) Cloud infrastructure."
@@ -22,6 +22,29 @@ title_short_name: "Google Cloud Platform Cloud Services for SME's"
 ---
 
 {% include breadcrumbs.html %}
+
+<section>
+    <ul class="quicklinks-menu" id="quicklinks-navigation">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section1" class="is-one-page">Overview</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section2" class="is-one-page">Key Benefits</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section3" class="is-one-page">How It Works</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section4" class="is-one-page">Customers’ Stories</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section5" class="is-one-page">Pricing &amp; Plans</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section6" class="is-one-page">Request A Quote</a>
+        </li>
+    </ul>
+</section> 
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Google Cloud Computing (GCP) Cloud Consultancy Services
 

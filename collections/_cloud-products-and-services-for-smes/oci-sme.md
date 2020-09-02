@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
+title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
 
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Oracle Cloud infrastructure."
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.7
   page_lead_text_colour: "#5e212e"
-  min_height: 900px
+  min_height: 950px
   image_overlay_url: /assets/images/cloud/oci-logo-square.png 
   more_text: "Discover our OCI consultancy services for SME Businesses"
   more_text_colour: "#215e51"
@@ -22,6 +22,29 @@ title_short_name: "Oracle Cloud Infrastructure Cloud Services for SME's"
 ---
 
 {% include breadcrumbs.html %}
+
+<section>
+    <ul class="quicklinks-menu" id="quicklinks-navigation">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section1" class="is-one-page">Overview</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section2" class="is-one-page">Key Benefits</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section3" class="is-one-page">How It Works</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section4" class="is-one-page">Customers’ Stories</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section5" class="is-one-page">Pricing &amp; Plans</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#section6" class="is-one-page">Request A Quote</a>
+        </li>
+    </ul>
+</section> 
 
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Oracle Cloud Infrastructure (OCI) Cloud Consultancy Services
 

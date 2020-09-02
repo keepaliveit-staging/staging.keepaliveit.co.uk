@@ -1,16 +1,16 @@
 ---
 layout: splash 
-title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
+title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/amazon-web-services-aws
 
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on AWS Cloud infrastructure."
-excerpt2: "<a href='/request-a-callback'>Enquire about hiring our AWS Cloud expertise today</a>, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
+excerpt2: "<a href='/request-a-callback'>Enquire about hiring our AWS Cloud expertise today</a>, and your SME business could soon be on its way to utilising benefits associated with Cloud hosted I.T workloads."
 
 header:
   overlay_image: /assets/images/cloud-providers/aws-data-centre.jpg
   overlay_filter: 0.7 
   page_lead_text_colour: "#5e212e"
-  min_height: 880px
+  min_height: 920px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services for SME Businesses"
   more_text_colour: "#215e51"
@@ -22,6 +22,47 @@ title_short_name: "AWS Cloud Consultancy Services for SME's"
 ---
 
 {% include breadcrumbs.html %}
+
+<section id="quicklinks-navigation">
+    <small>
+        <i class="fas fa-list" aria-hidden="true"></i> {{ page.title_short_name }} - page quick links:
+    </small>
+    <ul class="quicklinks-menu">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-overview" class="is-one-page">AWS Overview</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-statistics" class="is-one-page">AWS Statistics</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-benefits" class="is-one-page">Benefits of AWS</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-regions" class="is-one-page">AWS Regions</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-customers" class="is-one-page">AWS Customers</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-managed" class="is-one-page">Managed AWS Services</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-iaas" class="is-one-page">IaaS</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-saas" class="is-one-page">SaaS</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-paas" class="is-one-page">PaaS</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#aws-faas" class="is-one-page">FaaS</a>
+        </li>
+        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+            <a href="#request-quote" class="is-one-page">Request A Quote</a>
+        </li>
+    </ul>
+</section>   
                   
 <section id="hero">
     <div class="container">
@@ -30,12 +71,12 @@ title_short_name: "AWS Cloud Consultancy Services for SME's"
                  data-aos="fade-up">
                 <div>
                     <h3>We help SME Businesses Plan, Build, and Scale Cloud managed I.T Workloads on Amazon owned I.T Infrastructure.</h3>
-                    <h4>Reduce I.T costs, Become a more Agile Business, and future-proof I.T usage at your SME by utilising Cloud Technologies.</h4>
+                    <h4>Reduce I.T costs, Become a more Agile Business, and future-proof I.T usage at your SME by utilising AWS Cloud Technologies.</h4>
                     <p>Is your SME thinking of utilising AWS Cloud Services? Or is your SME already using AWS Cloud Services but in need of expert advice? We're here to help.</p>
-                    <a href="#about" class="btn-get-started">Help for SME's new to AWS</a>
+                    <a href="#aws-cloud-consultancy-services-for-smes-new-to-aws" class="btn-get-started">Get help as an SME new to AWS</a>
                     <br>
                     <br>
-                    <a href="#about" class="btn-get-started">Help for SME's already using AWS</a>
+                    <a href="#amazon-web-services-aws-cloud-consultancy-services-for-smes-already-hosting-infrastructure-on-aws" class="btn-get-started">Get help as an SME already using AWS</a>
                 </div>
             </div>
             <div class="col-md-6 order-1 order-lg-2 hero-img aos-init aos-animate" data-aos="fade-left">
@@ -45,47 +86,15 @@ title_short_name: "AWS Cloud Consultancy Services for SME's"
     </div>
 </section>
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> AWS Cloud Consultancy Services for SME's new to AWS
+<h2 id="aws-overview"><i class="fas fa-cloud page-title-icon" aria-hidden="true"></i>AWS Cloud Overview</h2>
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/S9TMbeO1-hU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-<br>
-Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires sophisticated planning and a deep technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
+### AWS Overview: an overview of Amazon's Cloud Platform
+As an Enterprise Business owner or representative, there's a high chance that you've heard of Amazon Web Services (AWS) before. This is because AWS is now one of the leading Cloud Providers in existence, and its huge growth of popularity in recent years is showing little signs of slowing down.
 
-### AWS introduction: a brief introduction to Amazon's Cloud Platform
-As an Enterprise Business owner or representative, chances are that you've more than likely heard of Amazon Web Services (AWS) before. This is because AWS is now one of the leading Cloud Providers in existence and it's huge growth of popularity in recent years is showing little signs of slowing down.
+The information contained on this page will outline the main uses of AWS, the benefits it brings to SME's, and give details of the managed AWS services we offer.
 
-If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. Here are just some advantages moving to the Cloud can bring to an organisation:
-
-{% assign items = site.benefit %}
-
-<div class="container">
-    <div class="row">    
-        {% for item in items %}            
-            <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
-                <div class="reason-item">
-                    <img class="lazy" data-src="{{ item.icon }}"/>
-                    <div class="item-title">
-                        <a href="{{ item.url }}">{{ item.title }}</a>
-                    </div>
-                    <div class="item-description">
-                        <p>An overview of benefits:</p>
-                        <ul>
-                             {% for benefit in item.benefits %}
-                                <li>{{ benefit }}</li>
-                             {% endfor %}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-</div>
-
-Migrating existing infrastructure, or I.T services onto AWS is done by moving 
-
-AWS offers Iaas, PaaS, and SaaS cloud functionality for its clients.
-
-### AWS Global Statistics - Some numbers
+<h3 id="aws-statistics"> AWS Global Statistics - Some numbers</h3>
+Since its launch in 2006, AWS has gained phenomenal 
 <section data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate metrics">
     <div class="row">
         <div class="col-xs-6 col-md-3 stat-container">
@@ -122,6 +131,9 @@ AWS offers Iaas, PaaS, and SaaS cloud functionality for its clients.
     </div>
 </section>
 
+<h3 id="aws-customers">Top AWS customers</h3>
+Amazon has some of the largest companies in the world onboard with its cloud subscription model. These companies often hire dedicated cloud specialists to setup and maintain their I.T infrastructure, but some choose to hire an I.T agency like ours to get the job done without the cost and effort overhead of having to hire in-house.
+
 <img src="https://kinsta.com/wp-content/uploads/2017/10/companies-using-aws-ec2.png" />
 
 What Amazon says about their Cloud Infrastructure:
@@ -134,102 +146,35 @@ If you're looking for a more comprehensive
 
 If you're new to AWS but have foundational knowledge of Storage, Network, and Compute Services the platform can still seem quite overwhelming as there are literally hundreds of services offered by AWS. This article aims to demystify some of the core Cloud services offered by AWS and and give an explanation of the Cloud consultancy services that we offer to assist with improving Cloud based I.T workloads at your SME.
 
-### What could an AWS migration do for my SME?
-Gone are the days of struggling with complicated on-premise server rooms and complicated networking.
+<h3 id="aws-benefits">Benefits of AWS</h3>
+If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. Here are just some advantages moving to the Cloud can bring to an organisation:
 
- Even if you think you understand what AWS is, do you completely understand the benefits that the AWS Cloud platform could bring to your business? 
- 
-., and serve as a cost effective way of boosting revenue within SME's by reducing I.T operation costs and improving customer reach
-
-Our AWS Cloud consultancy services
-
-By hiring Keep-Alive I.T to implement, or manage AWS Cloud Services on behalf of your enterprise, a significant improvement to I.T Operations can be achieved across individual departments, or even an entire organisation.
-
-Depending on the size of your Enterprise, you may or may not have an on-site datacenter or services running locally on site. Maybe in the corner of an office of a single department? To put things simply, the aim of AWS was to get rid of on-premise servers at the location of your enterprise, and create a globally distributed network of servers and associated I.T infrastructure that is ready to rent on demand. 
+{% assign items = site.benefit %}
 
 
-
-So, to summarise; Just as if your company was to build a fleet of servers and place them in a 
-
-<div class="row">
-    <div class="col-lg-4 order-2 order-lg-1">
-        <div class="service-details-widget">
-            <div class="service-single-widget">
-                <h3 class="service-widget-title">Supported Systems</h3>
-                <ul class="service-list">
-                    <li><a href="#">Analytics</a></li>
-                    <li><a href="#">Application Integration</a></li>
-                    <li><a href="#">AR & VR</a></li>
-                    <li><a href="#">AWS Cost Management</a></li>
-                    <li><a href="#">Blockchain</a></li>
-                    <li><a href="#">Business Applications</a></li>
-                    <li><a href="#">Compute</a></li>
-                    <li><a href="#">Containers</a></li>
-                    <li><a href="#">Customer Engagement</a></li>
-                    <li><a href="#">Database</a></li>
-                    <li><a href="#">Developer Tools</a></li>
-                    <li><a href="#">End User Computing</a></li>
-                    <li><a href="#">Game Tech</a></li>
-                    <li><a href="#">Internet of Things</a></li>
-                    <li><a href="#">Machine Learning</a></li>
-                    <li><a href="#">Management & Governance</a></li>
-                    <li><a href="#">Media Services</a></li>
-                    <li><a href="#">Migration & Transfer</a></li>
-                    <li><a href="#">Mobile</a></li>
-                    <li><a href="#">Networking & Content Delivery</a></li>
-                    <li><a href="#">Quantum Technologies</a></li>
-                    <li><a href="#">Security, Identity, & Compliance</a></li>
-                    <li><a href="#">Storage</a></li>
-                </ul>
-            </div>
-            <div class="service-single-widget">
-                <h3 class="service-widget-title">Download Brochure</h3>
-                <ul class="service-list">
-                    <li><a href="#">Brochures.PDF</a></li>
-                    <li><a href="#">Brochures.DOC</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-8 order-1 order-lg-2">
-        <div class="service-details">
-            <div class="service-details-thumb">
-                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="">
-            </div>
-            <h2 class="h1 title">Technology</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
-            <div class="row">
-                <div class="col-sm-6">
-                    <div class="service-details-content">
-                        <h3>Project Analysis</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
+<div class="row">    
+    {% for item in items %}            
+        <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+            <div class="reason-item">
+                <img class="lazy" data-src="{{ item.icon }}"/>
+                <div class="item-title">
+                    <a href="{{ item.url }}">{{ item.title }}</a>
                 </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content">
-                        <h3>Project Costing</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content">
-                        <h3>Project Planning</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="service-details-content">
-                        <h3>Project Strategy</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
-                    </div>
+                <div class="item-description">
+                    <p>An overview of benefits:</p>
+                    <ul class="benefits">
+                         {% for benefit in item.benefits %}
+                            <li>{{ benefit }}</li>
+                         {% endfor %}
+                    </ul>
                 </div>
             </div>
         </div>
-    </div>
+    {% endfor %}
 </div>
 
-### Current AWS regions
+<h3 id="aws-regions">AWS Regions</h3>
+AWS are always trying to expand their global network of data centres. There are currently 5 AWS Regions globally and 237823789789239 Availability Domains associated with those regions.
 
 #### North America
 <div class="table-responsive">
@@ -409,9 +354,122 @@ So, to summarise; Just as if your company was to build a fleet of servers and pl
     </table>
 </div>
 
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i>AWS Cloud Consultancy Services for SME's new to AWS
+
+Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires sophisticated planning and a deep technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
+
+<iframe src="https://www.youtube-nocookie.com/embed/S9TMbeO1-hU?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
+<h3 id="aws-managed">Managed AWS Services</h3>
+<h3 id="aws-iaas">IaaS</h3>
+<h3 id="aws-saas">SaaS</h3>
+<h3 id="aws-paas">PaaS</h3>
+<h3 id="aws-faas">FaaS</h3>
+
+
+Migrating existing infrastructure, or I.T services onto AWS is done by moving 
+
+AWS offers Iaas, PaaS, and SaaS cloud functionality for its clients.
+
+### What could an AWS migration do for my SME?
+Gone are the days of struggling with complicated on-premise server rooms and complicated networking.
+
+ Even if you think you understand what AWS is, do you completely understand the benefits that the AWS Cloud platform could bring to your business? 
+ 
+., and serve as a cost effective way of boosting revenue within SME's by reducing I.T operation costs and improving customer reach
+
+Our AWS Cloud consultancy services
+
+By hiring Keep-Alive I.T to implement, or manage AWS Cloud Services on behalf of your enterprise, a significant improvement to I.T Operations can be achieved across individual departments, or even an entire organisation.
+
+Depending on the size of your Enterprise, you may or may not have an on-site datacenter or services running locally on site. Maybe in the corner of an office of a single department? To put things simply, the aim of AWS was to get rid of on-premise servers at the location of your enterprise, and create a globally distributed network of servers and associated I.T infrastructure that is ready to rent on demand. 
+
+
+
+So, to summarise; Just as if your company was to build a fleet of servers and place them in a 
+
+<div class="row">
+    <div class="col-lg-4 order-2 order-lg-1">
+        <div class="service-details-widget">
+            <div class="service-single-widget">
+                <h3 class="service-widget-title">Supported Systems</h3>
+                <ul class="service-list">
+                    <li><a href="#">Analytics</a></li>
+                    <li><a href="#">Application Integration</a></li>
+                    <li><a href="#">AR & VR</a></li>
+                    <li><a href="#">AWS Cost Management</a></li>
+                    <li><a href="#">Blockchain</a></li>
+                    <li><a href="#">Business Applications</a></li>
+                    <li><a href="#">Compute</a></li>
+                    <li><a href="#">Containers</a></li>
+                    <li><a href="#">Customer Engagement</a></li>
+                    <li><a href="#">Database</a></li>
+                    <li><a href="#">Developer Tools</a></li>
+                    <li><a href="#">End User Computing</a></li>
+                    <li><a href="#">Game Tech</a></li>
+                    <li><a href="#">Internet of Things</a></li>
+                    <li><a href="#">Machine Learning</a></li>
+                    <li><a href="#">Management & Governance</a></li>
+                    <li><a href="#">Media Services</a></li>
+                    <li><a href="#">Migration & Transfer</a></li>
+                    <li><a href="#">Mobile</a></li>
+                    <li><a href="#">Networking & Content Delivery</a></li>
+                    <li><a href="#">Quantum Technologies</a></li>
+                    <li><a href="#">Security, Identity, & Compliance</a></li>
+                    <li><a href="#">Storage</a></li>
+                </ul>
+            </div>
+            <div class="service-single-widget">
+                <h3 class="service-widget-title">Download Brochure</h3>
+                <ul class="service-list">
+                    <li><a href="#">Brochures.PDF</a></li>
+                    <li><a href="#">Brochures.DOC</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8 order-1 order-lg-2">
+        <div class="service-details">
+            <div class="service-details-thumb">
+                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="">
+            </div>
+            <h2 class="h1 title">Technology</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquid quod, officiis unde nostrum itaque! Adipisci dolorum, ab dolor, exercitationem praesentium dolorem quo voluptatum itaque dignissimos, sit esse cupiditate. Doloremque rerum similique a nobis placeat in illum, quo quaerat, ut repellat, fuga itaque? Nihil mollitia nisi, nam, accusantium nemo consequuntur reiciendis autem dicta consequatur earum beatae dolor distinctio, debitis repudiandae?</p>
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Analysis</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Costing</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Planning</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="service-details-content">
+                        <h3>Project Strategy</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, animi? Vel quas in minima qui totam, aliquid dolores quaerat voluptatum?</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 ### Managed vs. unmanaged instances
 
-## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i> Amazon Web Services (AWS) Cloud Consultancy Services for SME's already hosting infrastructure on AWS
+## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i>Amazon Web Services (AWS) Cloud Consultancy Services for SME's already hosting infrastructure on AWS
 
 As an established SME, you know your line of business and understand your revenue streams well. One thing that separates your business from others is your selling capabilities and the amount of cashflow that runs through your business. 
 
@@ -622,17 +680,9 @@ Never wait until you’re back in the office. Hosted environments allow all serv
 
 {% include industry-consultation.md %}
 
-
-Other benefits of I.T
-{% assign items = site.benefit %}
-<ul class="">
-    {% for item in items %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-</ul>
-
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
 
-## Other cloud providers that we offer consultancy services for:
+## Not convinced AWS is the Cloud platform for your SME? 
+No problem. There are other cloud providers that we offer consultancy services for which may better suit the needs of your SME:
 {% include related-cloud-providers.html %}

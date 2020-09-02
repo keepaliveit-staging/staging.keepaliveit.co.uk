@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "I.T Infrastructure Management Services for UK Based Small to Medium-sized Enterprise Businesses (SMEs)"
+title: "I.T Infrastructure Management Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /it-consultancy-services-for-smes/it-infrastructure-management-services
 
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."

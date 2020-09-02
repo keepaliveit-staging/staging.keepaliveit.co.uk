@@ -13,7 +13,7 @@ header:
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
-        header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> a technology agnostic I.T Agency comprising of highly skilled <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
+        header_text: "👋 We're Keep-Alive I.T <span style='color:#27f55b;font-weight:bold;'>:</span> a universal, technology agnostic I.T Agency consisting of highly skilled <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> that are ready to take on I.T related work."
         header_body: "<a href='/about/our-approach-to-it-consultancy/'>Demonstrating what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-infrastructure-management/'>running I.T infrastructure effectively</a> for <a href='/solutions/it-for-consumers'>Consumers</a>, <a href='solutions/it-for-startups'>Startup Businesses</a>, <a href='/olutions/it-for-business'>SME's</a>, <a href='/solutions/it-for-public-sector'>Public Sector Organisations</a>, and <a href='/solutions/it-for-non-profit-organisations'>Non-profit Organisations</a> is what we do."
 ---
                                             
@@ -259,24 +259,31 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 <div class="divider div-transparent div-arrow-down"></div>
 
+<h2 class="text-center animated-heading">
+    Keep-Alive I.T vs. other competing I.T agencies:
+</h2>
 <h3>Why Choose Keep-Alive I.T to get the job done?</h3>
-<p>These are just some of the reasons we're confident you can trust in our I.T Services:</p>
+<p>Making the choice of which I.T consultancy agency to get work completed by is a tough choice. Here are just some reasons we're confident you can trust in our I.T Services:</p>
 
 {% include why-us-section.html %}
 
 
 <div class="row">
     <div class="col-xs-12">
+        <h2 class="text-center animated-heading">
+            Our promise:
+        </h2>
+        <p>Delivering I.T services to our customers with great satisfaction is our ultimate goal. </p>
         <img src="/assets/images/homepage/reviews-banner.png" class="img-fluid service-reviews-banner">
     </div>
 </div>
 
 <section id="testimonials" class="testimonials">
     <div class="section-title">
-        <h2>Testimonials</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
-            sit in iste officiis commodi quidem hic quas.</p>
+        <h2 class="text-center animated-heading">
+            Client Testimonials:
+        </h2>
+        <p>Don't just take our word for it. We work with a wide variety of audiences and want you to see what they've got to say about our company:</p>
     </div>
 
     <div class="row">
