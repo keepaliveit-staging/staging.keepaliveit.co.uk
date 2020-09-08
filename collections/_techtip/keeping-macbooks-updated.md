@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update a Macbook"
+title: "How to update the operating system of a Macbook?"
 permalink: /tech-tips/how-to-update-macbook-software
 
 excerpt: "Do you need to know how to update the Software on a Macbook? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Mac OS Software upgrades on a Macbook by yourself."

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update an iMac"
+title: "How to update the operating system of an iMac?"
 permalink: /tech-tips/how-to-update-imac-software
 
 excerpt: "Wondering how to update the software on your iMac? This guide will show you how."

@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update an iPhone"
+title: "How to update the operating system of an iPhone?"
 permalink: /tech-tips/how-to-update-iphone-software
 
 excerpt: "Wondering how to update the software on your iPhone? This guide will show you how."

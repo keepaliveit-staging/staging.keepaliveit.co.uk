@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update an iPad"
+title: "How to update the operating system of an iPad?"
 permalink: /tech-tips/how-to-update-ipad-software
 
 excerpt: "Wondering how to update the software on your iPad? This guide will show you how."

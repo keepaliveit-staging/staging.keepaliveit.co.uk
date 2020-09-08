@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update an Android Tablet"
+title: "How to update the operating system of an Android Tablet?"
 permalink: /tech-tips/how-to-update-android-tablet-software
 
 excerpt: "Wondering how to update the software on your Android Tablet? This guide will show you how."

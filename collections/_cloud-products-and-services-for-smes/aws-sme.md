@@ -24,44 +24,46 @@ title_short_name: "AWS Cloud Consultancy Services for SME's"
 {% include breadcrumbs.html %}
 
 <section id="quicklinks-navigation">
-    <small>
-        <i class="fas fa-list" aria-hidden="true"></i> {{ page.title_short_name }} - page quick links:
-    </small>
-    <ul class="quicklinks-menu">
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-overview" class="is-one-page">AWS Overview</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-statistics" class="is-one-page">AWS Statistics</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-benefits" class="is-one-page">Benefits of AWS</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-regions" class="is-one-page">AWS Regions</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-customers" class="is-one-page">AWS Customers</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-managed" class="is-one-page">Managed AWS Services</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-iaas" class="is-one-page">IaaS</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-saas" class="is-one-page">SaaS</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-paas" class="is-one-page">PaaS</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#aws-faas" class="is-one-page">FaaS</a>
-        </li>
-        <li class="menu-item menu-item-type-custom menu-item-object-custom">
-            <a href="#request-quote" class="is-one-page">Request A Quote</a>
-        </li>
-    </ul>
+    <div class="container">
+        <small>
+            <i class="fas fa-list" aria-hidden="true"></i> {{ page.title_short_name }} - page quick links:
+        </small>
+        <ul class="quicklinks-menu">
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-overview" class="is-one-page">AWS Overview</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-statistics" class="is-one-page">AWS Statistics</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-benefits" class="is-one-page">Benefits of AWS</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-regions" class="is-one-page">AWS Regions</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-customers" class="is-one-page">AWS Customers</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-managed" class="is-one-page">Managed AWS Services</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-iaas" class="is-one-page">IaaS</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-saas" class="is-one-page">SaaS</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-paas" class="is-one-page">PaaS</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#aws-faas" class="is-one-page">FaaS</a>
+            </li>
+            <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                <a href="#request-quote" class="is-one-page">Request A Quote</a>
+            </li>
+        </ul>
+    </div>
 </section>   
                   
 <section id="hero">

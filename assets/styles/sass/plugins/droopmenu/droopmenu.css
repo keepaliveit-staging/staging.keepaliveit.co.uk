@@ -127,7 +127,7 @@
 
 .droopmenu > li > a,
 .droopmenu > li > span {
-    color: #71818C;
+    color: white;
     display: block;
     text-transform: uppercase;
     -webkit-transition: all 1s ease;
@@ -984,12 +984,12 @@
     position: absolute;
     line-height: 32px;
     text-align: center;
-    background: #898989;
+    background: #aa0000;
     transition: all 500ms ease-in-out;
     border-radius: 50%;
     color: #ffffff;
-    left: 0px;
-    top: 6px;
+    left: 0;
+    top: 2px;
 }
 
 .droopmenu .droopmenu-icon-links li .dm-icon-holder i {
@@ -1120,12 +1120,6 @@
     border-color: #3B5998;
 }
 
-.droopmenu-social-icons .dm-googleplus,
-.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-googleplus {
-    background: #DC4E41;
-    border-color: #DC4E41;
-}
-
 .droopmenu-social-icons .dm-linkedin,
 .droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-linkedin {
     background: #0073B2;
@@ -1172,12 +1166,6 @@
 .droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-facebook:hover {
     background: #627AAC;
     border-color: #627AAC;
-}
-
-.droopmenu-social-icons .dm-googleplus:hover,
-.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-googleplus:hover {
-    background: #E56348;
-    border-color: #E56348;
 }
 
 .droopmenu-social-icons .dm-linkedin:hover,

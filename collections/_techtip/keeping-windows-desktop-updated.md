@@ -1,6 +1,6 @@
 ---
 layout: splash 
-title: "How to update a Windows Desktop"
+title: "How to update the operating system of a Windows Desktop?"
 permalink: /tech-tips/how-to-update-windows-desktop-software
 
 excerpt: "Do you need to know how to update the Software on your Windows Desktop? This guide will walk you through the upgrade process so that you can take the 'DIY approach' and perform any future Windows OS Software upgrades on your Windows Desktop by yourself."
