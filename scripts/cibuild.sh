@@ -36,7 +36,7 @@ fi
 # push
 cd _site
 
-if [ $TRAVIS_REPO_SLUG == "jjmpsp-staging/jjmpsp-staging.github.io" ]; then
+if [ $TRAVIS_REPO_SLUG == "keepaliveit-staging/staging.keepaliveit.co.uk" ]; then
   echo "staging.joel-murphy.co.uk" > CNAME
   echo -e "User-agent: *\nDisallow: /" > robots.txt
   echo "This repository acts as a staging repository for joel-murphy.co.uk. Please see https://github.com/KeepAliveIT/keepaliveit.github.io for full source code." > README.md
