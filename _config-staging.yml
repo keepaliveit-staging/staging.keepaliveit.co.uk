@@ -31,7 +31,7 @@ title_separator          : "-"
 subtitle                 : "I.T Development & Operations Consultancy Solutions for Businesses and Consumers"
 name                     : "Keep-Alive I.T Ltd." # &name is a YAML anchor which can be *referenced later
 description              : &description "We're a Modern, UK based, Hardware & Software I.T Consultancy Company who provides Agile I.T Development & Operations (DevOps) Solutions for Businesses, Consumers, and Non-Profit Organisations."
-url                      : https://keepaliveit.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://staging.keepaliveit.co.uk # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
