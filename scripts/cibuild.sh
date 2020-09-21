@@ -33,13 +33,13 @@ else
   exit 0
 fi
 
-# push
+# Add files to _site and push to master
 cd _site
 
 if [ $TRAVIS_REPO_SLUG == "keepaliveit-staging/staging.keepaliveit.co.uk" ]; then
-  echo "staging.joel-murphy.co.uk" > CNAME
+  echo "staging.keepaliveit.co.uk" > CNAME
   echo -e "User-agent: *\nDisallow: /" > robots.txt
-  echo "This repository acts as a staging repository for joel-murphy.co.uk. Please see https://github.com/KeepAliveIT/keepaliveit.github.io for full source code." > README.md
+  echo "This repository acts as a staging repository for keepaliveit.co.uk. Please see https://github.com/KeepAliveIT/keepaliveit.github.io for full source code." > README.md
 fi
 
 git config user.email "joel@keepaliveit.co.uk"
