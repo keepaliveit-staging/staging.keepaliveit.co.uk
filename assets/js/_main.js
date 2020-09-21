@@ -13,32 +13,34 @@ $(document).ready(function () {
     });
     //$("div.droopmenu-nav > div > div > ul > li:nth-child(1)").addClass("dmopener");
 
-    var waypoint = new Waypoint({
-        element: document.getElementById('quicklinks-navigation'),
-        handler: function (direction) {
-            if (direction === 'down') {
-                $(this.element).addClass('is-sticky');
-            } else if(direction === 'up') {
-                $(this.element).removeClass('is-sticky');
+    if ($("#quicklinks-navigation").length) {
+        var waypoint = new Waypoint({
+            element: document.getElementById('quicklinks-navigation'),
+            handler: function (direction) {
+                if (direction === 'down') {
+                    $(this.element).addClass('is-sticky');
+                } else if (direction === 'up') {
+                    $(this.element).removeClass('is-sticky');
+                }
+            },
+            offset: function () {
+                var headerHeight = $(".droopmenu-navbar").height();
+                return headerHeight;
             }
-        },
-        offset: function(){
-            var headerHeight =  $(".droopmenu-navbar").height();
-            return headerHeight;
-        }
-    });
+        });
 
-    // Browser reload viewpoint position beyond element trigger, so show it.
-    var waypoint2 = new Waypoint({
-        element: document.getElementById('quicklinks-navigation'),
-        offset: '100%',
-        handler: function(direction) {
-            console.log('fired number 2');
-            if(direction === 'down') {
-                $(this.element).addClass('is-sticky');
+        // Browser reload viewpoint position beyond element trigger, so show it.
+        var waypoint2 = new Waypoint({
+            element: document.getElementById('quicklinks-navigation'),
+            offset: '100%',
+            handler: function (direction) {
+                console.log('fired number 2');
+                if (direction === 'down') {
+                    $(this.element).addClass('is-sticky');
+                }
             }
-        }
-    });
+        });
+    }
 
     // FitVids init
     $("#main").fitVids();
@@ -93,16 +95,16 @@ $(document).ready(function () {
     // Smooth scrolling
     var scroll = new SmoothScroll('a[href*="#"]', {
         offset: function (anchor, toggle) {
-            var headerHeight =  $(".droopmenu-navbar").height();
+            var headerHeight = $(".droopmenu-navbar").height();
             var quicklinksHeight = $("#quicklinks-navigation").height();
             var additionalOffset = 50;
 
             window.anchor = anchor;
             window.toggle = toggle;
 
-            if($("#quicklinks-navigation").hasClass('is-sticky')){
+            if ($("#quicklinks-navigation").hasClass('is-sticky')) {
                 return (headerHeight + quicklinksHeight) + additionalOffset;
-            }else {
+            } else {
                 return headerHeight;
             }
         },

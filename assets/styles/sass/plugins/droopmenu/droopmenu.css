@@ -1150,10 +1150,16 @@
     border-color: #3F729B;
 }
 
-.droopmenu-social-icons .dm-whatsapp,
-.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-whatsapp {
-    background: #3BB931;
-    border-color: #3BB931;
+.droopmenu-social-icons .dm-messenger,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-messenger {
+    background: #0078FF;
+    border-color: #0078FF;
+}
+
+.droopmenu-social-icons .dm-github,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-github {
+    background: #24292e;
+    border-color: #24292e;
 }
 
 .droopmenu-social-icons .dm-twitter:hover,

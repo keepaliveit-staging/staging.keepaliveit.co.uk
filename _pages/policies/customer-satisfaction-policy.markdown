@@ -9,9 +9,8 @@ header:
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
   more_text: "Learn about our Company Environmental Policy"
-  min_height: "650px"
+  min_height: "700px"
 ---
-
 
 {% include breadcrumbs.html %}
 
@@ -25,11 +24,11 @@ The main objective of Keep-Alive I.T's environmental policy is to reduce the amo
 
 Keep-Alive I.T has introduced numerous initiatives to restrict its negative impact on the environment wherever possible.  The company’s commitments include:-
 - Complying with the relevant requirements of the Environmental Protection Act 1990 and all other domestic legislation concerned with the protection of human and natural 
-- Optimally utilising  resources and re-using materials wherever possible
-- Implementing recycling initiatives  for items that cannot be reduced or re-used
+- Optimally utilising resources and re-using materials wherever possible
+- Implementing recycling initiatives for items that cannot be reduced or re-used
 - Encouraging more sustainable purchasing practices by purchasing environmentally responsible items wherever practicable 
 - Influencing our suppliers and contractors to encourage them to be environmentally responsible 
-- Communicating the environmental  policy to all employees  and encouraging their involvement
+- Communicating the environmental policy to all employees and encouraging their involvement
 - Using Information and Communication Technology (ICT) to carry out our work and communicate with clients and suppliers – thus avoiding the generation of excessive volumes of paper waste 
 - Encouraging our staff to minimise car journeys and use environmentally sustainable transport methods in respect of commuting and business journeys wherever practical 
 

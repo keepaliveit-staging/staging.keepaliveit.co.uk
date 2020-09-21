@@ -669,8 +669,12 @@ $color-primary-border: #e5ebc3;
       }
 
       a.active {
-        background: #009FE1;
-        color: #ffffff;
+        -webkit-text-decoration-line: underline;
+        text-decoration-line: underline;
+        -webkit-text-decoration-style: wavy;
+        text-decoration-style: wavy;
+        -webkit-text-decoration-color: #009fe1;
+        text-decoration-color: #009fe1;
       }
     }
   }
@@ -700,6 +704,7 @@ $color-primary-border: #e5ebc3;
   padding: 0.5em;
   box-shadow: rgba(0, 0, 0, 0.086) 0px 1px 8px 0px, rgba(0, 0, 0, 0.1) 0px 8px 24px 0px;
   border-radius: .42em;
+  border: 3px dotted #ff0;
 
   a {
     margin-right: 10px;
@@ -937,22 +942,29 @@ Cookie notice
 -------------------------------- */
 .cookie-notice {
   position: fixed;
-  bottom: 0;
-  left: 15px;
+  bottom: 5px;
+  right: 5px;
   height: auto;
   z-index: 2;
-  background: white;
-  width: 300px;
-  box-shadow: rgba(0, 0, 0, 0.086) 0px 1px 8px 0px, rgba(0, 0, 0, 0.1) 0px 8px 24px 0px;
+  background: #292929;
+  width: 500px;
+  box-shadow: 0 1px 8px 0 rgba(0,0,0,.086), 0 8px 24px 0 rgba(0,0,0,.1);
   border-radius: .42em;
   padding: 1em;
+  border: 3px dotted yellow;
 
   h4 {
     margin: 0;
+    color: white;
   }
 
   p {
     font-size: 0.77em;
+    color: whitesmoke;
+
+    a {
+      color: #a00;
+    }
   }
 }
 
