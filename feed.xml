@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://keepaliveit.co.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://keepaliveit.co.uk/" rel="alternate" type="text/html" /><updated>2020-09-21T18:04:20+01:00</updated><id>https://keepaliveit.co.uk/feed.xml</id><title type="html">Keep-Alive I.T</title><subtitle>We're a Modern, UK based, Hardware &amp; Software I.T Consultancy Company who provides Agile I.T Development &amp; Operations (DevOps) Solutions for Businesses, Consumers, and Non-Profit Organisations.</subtitle><author><name>Joel Murphy</name></author><entry><title type="html">Covid-19 Statement for Keep-Alive I.T Ltd.</title><link href="https://keepaliveit.co.uk/news/covid-19-statement/" rel="alternate" type="text/html" title="Covid-19 Statement for Keep-Alive I.T Ltd." /><published>2020-03-21T17:29:11+00:00</published><updated>2020-03-21T17:29:11+00:00</updated><id>https://keepaliveit.co.uk/news/covid-19-statement</id><content type="html" xml:base="https://keepaliveit.co.uk/news/covid-19-statement/">&lt;h2 id=&quot;covid-19-statement-and-company-changes&quot;&gt;Covid-19 Statement and company changes&lt;/h2&gt;
+&lt;p&gt;At these very difficult times, we have had to temporarily close down our business.&lt;/p&gt;
+
+&lt;p&gt;To stay up to date with official Government Coronavirus guidance, please visit &lt;a href=&quot;https://www.gov.uk/coronavirus&quot; target=&quot;_blank&quot;&gt;the following Gov.uk webpage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;lazy&quot; src=&quot;/assets/images/welsh-ice.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Staff working from home&lt;/li&gt;
+  &lt;li&gt;Closure of Caerphilly based office, meaning no public meetings permitted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We understand our clients may be facing many issues as a result of this pandemic.
+We will be introducing more flexible payment plans&lt;/p&gt;</content><author><name>Joel Murphy</name></author><category term="news" /><summary type="html">An update regarding the operation of Keep-Alive I.T during the Coronavirus pandemic.</summary></entry><entry><title type="html">Keep-Alive I.T has launched and is ready to begin trading. Here’s a brief introduction to the company.</title><link href="https://keepaliveit.co.uk/news/keep-alive-it-introduction/" rel="alternate" type="text/html" title="Keep-Alive I.T has launched and is ready to begin trading. Here’s a brief introduction to the company." /><published>2019-11-26T22:20:28+00:00</published><updated>2019-11-26T22:20:28+00:00</updated><id>https://keepaliveit.co.uk/news/keep-alive-it-introduction</id><content type="html" xml:base="https://keepaliveit.co.uk/news/keep-alive-it-introduction/">&lt;h2 id=&quot;hello-were-keep-alive-it-services-thank-you-for-stopping-by-and-welcome-to-our-new-company-website&quot;&gt;Hello, we’re Keep-Alive I.T Services. Thank you for stopping by and welcome to our new company website.&lt;/h2&gt;
+&lt;p&gt;It’s a great honour for me to be able to write the very first blog post for the Keep-Alive I.T website. This is the result of months of detailed planning, writing, and testing; Alongside working a full-time day job to be able to fund establishing Keep-Alive I.T (or K.A.I.T as I like to refer to the company informally in conversations).&lt;/p&gt;
+
+&lt;p&gt;I’d like to take the time to write a brief introduction to Keep-Alive I.T explaining this new venture, our mission statement, and what the company hopes to bring myself and future clients in the medium-to-long term.&lt;/p&gt;
+
+&lt;p&gt;Who is ‘me’? Good question. My name is &lt;a href=&quot;https://joel-murphy.co.uk/&quot; target=&quot;_blank&quot;&gt;Joel Murphy&lt;/a&gt; and I am the founder of Keep-Alive I.T Services. I’ll be taking on the role of ‘Lead Consultant’ here within the company, whereby I’ll be working with clients to deliver I.T strategies, technical roadmaps, and functional I.T implementations with my expertise I.T &amp;amp; business planning skills. In addition to taking on this role, I will also be working towards leading the company in a positive direction for the future. I forecast this to become somewhat of a hectic role that keeps me extremely occupied for the near year until our team hopefully grows bigger, but I honestly can’t wait to see what interesting work opportunities we can take on as a company.&lt;/p&gt;
+
+&lt;h2 id=&quot;reasons-for-founding-keep-alive-it&quot;&gt;Reasons for founding Keep-Alive I.T&lt;/h2&gt;
+&lt;p&gt;I founded Keep-Alive I.T because I’ve worked in a range of different office environments in the Public and Private sector and seen some of the good and bad sides to different technology implementations at different organisations in both, Windows and Linux Operating System environments. Sure, not everyone gets things right first time but when you’re constantly seeing newbies (or people who think they’re experienced with something - when in reality they have absolutely no clue about) implementing old, dying technologies at a company just because they have a senior status without any redundancy or intention of scale, it makes you wonder if there’s any hope at all for running reliable systems in production. When you’re an employee at an organisation, you sort of learn to shut your mouth and go with whatever solution you’re told to work towards. Consulting on the other hand is a great opportunity to make use of the expert skills you’ve acquired after so many years working with different technologies and seeing them grow over time. With this in mind, it has motivated me to start a company consulting clients on Development and operations 
+As someone who keeps up to date with the latest and greatest technolgies, focuses on best practises, and practises development and operational I.T procedures; I see myself as a strong candidate for ‘bridging the gap’ between business and I.T workers and help break down complex technical problems into a language that others can easily understand.
+We take analysing your existing I.T infrastructure and software processes.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-i-came-up-with-the-company-name&quot;&gt;How I came up with the company name&lt;/h2&gt;
+&lt;p&gt;If you’re a techie at heart, you may be aware of the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive&quot; target=&quot;_blank&quot;&gt;HTTP Keep-Alive Header&lt;/a&gt; which is present in most modern web-browsers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Keep alive is a method to allow the same tcp connection for HTTP conversation instead of opening a new one with each new request. More simply put, it is a communication between the web server and the web browser that says “you can grab more than just one file at a time”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Development and Operations support, I.T Procurement&lt;/p&gt;
+
+&lt;h2 id=&quot;our-base&quot;&gt;Our base&lt;/h2&gt;
+&lt;p&gt;Our registered office is based in the heart of Caerphilly, just a stones throw away from Cardiff.
+&lt;img class=&quot;lazy&quot; src=&quot;/assets/images/welsh-ice.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Joel Murphy</name></author><category term="news" /><summary type="html">This is an excerpt for launch post.</summary></entry><entry><title type="html">Keep-Alive I.T is now an Approved Sell2Wales Partner.</title><link href="https://keepaliveit.co.uk/news/keep-alive-it-sell-to-wales-partnership/" rel="alternate" type="text/html" title="Keep-Alive I.T is now an Approved Sell2Wales Partner." /><published>2019-11-26T22:20:28+00:00</published><updated>2019-11-26T22:20:28+00:00</updated><id>https://keepaliveit.co.uk/news/keep-alive-it-sell-to-wales-partnership</id><content type="html" xml:base="https://keepaliveit.co.uk/news/keep-alive-it-sell-to-wales-partnership/">&lt;h2 id=&quot;were-now-an-approved-sell2wales-partner&quot;&gt;We’re now an approved Sell2Wales partner&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&quot;lazy&quot; src=&quot;/assets/images/welsh-ice.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have now become an approved Sell2Wales partner for working in contracted positions in Wales.&lt;/p&gt;</content><author><name>Joel Murphy</name></author><category term="news" /><summary type="html">This is an excerpt for Sell2wales post.</summary></entry><entry><title type="html">Keep-Alive I.T has been approved for NatWest’s Accelerator Scheme in Cardiff.</title><link href="https://keepaliveit.co.uk/news/natwest-business-accelerator-scheme-cardiff/" rel="alternate" type="text/html" title="Keep-Alive I.T has been approved for NatWest’s Accelerator Scheme in Cardiff." /><published>2019-11-26T22:20:28+00:00</published><updated>2019-11-26T22:20:28+00:00</updated><id>https://keepaliveit.co.uk/news/natwest-business-accelerator-scheme-cardiff</id><content type="html" xml:base="https://keepaliveit.co.uk/news/natwest-business-accelerator-scheme-cardiff/">&lt;h2 id=&quot;were-excited-to-announce-that-weve-been-selected-for-natwests-accelerator-scheme-in-cardiff&quot;&gt;We’re excited to announce that we’ve been selected for NatWest’s Accelerator Scheme in Cardiff.&lt;/h2&gt;
+
+&lt;p&gt;Today we came into the office with an email which congratulated us on securing a place in NatWest’s Accelerator Entrepreneur Accelerator.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Taking your business further, faster&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The scheme&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our Accelerator, Pre-Accelerator and Fintech Accelerator programmes have been tailored to empower entrepreneurs at any stage. It’s an amazing journey that is fully funded, and you don’t even have to be a NatWest customer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;s&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Accelerator is a six-month programme for entrepreneurs with high growth businesses who are looking to scale up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;s&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;lazy&quot; src=&quot;/assets/images/welsh-ice.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.business.natwest.com/business/business-services/entrepreneur-accelerator.html&quot;&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Joel Murphy</name></author><category term="news" /><summary type="html">This is an excerpt for natwest post.</summary></entry><entry><title type="html">Our new office location.</title><link href="https://keepaliveit.co.uk/news/our-new-office/" rel="alternate" type="text/html" title="Our new office location." /><published>2019-11-26T22:20:28+00:00</published><updated>2019-11-26T22:20:28+00:00</updated><id>https://keepaliveit.co.uk/news/our-new-office</id><content type="html" xml:base="https://keepaliveit.co.uk/news/our-new-office/">&lt;h2 id=&quot;hello-were-keep-alive-it-services-thank-you-for-stopping-by-and-welcome-to-our-new-company-website&quot;&gt;Hello, we’re Keep-Alive I.T Services. Thank you for stopping by and welcome to our new company website.&lt;/h2&gt;
+&lt;p&gt;It’s a great honour for me to be able to write the very first blog post for the Keep-Alive I.T website. This is the result of months of detailed planning, writing, and testing; Alongside working a full-time day job to be able to fund establishing Keep-Alive I.T (or K.A.I.T as I like to refer to the company informally in conversations).&lt;/p&gt;
+
+&lt;p&gt;I’d like to take the time to write a brief introduction to Keep-Alive I.T explaining this new venture, our mission statement, and what the company hopes to bring myself and future clients in the medium-to-long term.&lt;/p&gt;
+
+&lt;p&gt;Who is ‘me’? Good question. My name is &lt;a href=&quot;https://joel-murphy.co.uk/&quot; target=&quot;_blank&quot;&gt;Joel Murphy&lt;/a&gt; and I am the founder of Keep-Alive I.T Services. I’ll be taking on the role of ‘Lead Consultant’ here within the company, whereby I’ll be working with clients to deliver I.T strategies, technical roadmaps, and functional I.T implementations with my expertise I.T &amp;amp; business planning skills. In addition to taking on this role, I will also be working towards leading the company in a positive direction for the future. I forecast this to become somewhat of a hectic role that keeps me extremely occupied for the near year until our team hopefully grows bigger, but I honestly can’t wait to see what interesting work opportunities we can take on as a company.&lt;/p&gt;
+
+&lt;h2 id=&quot;reasons-for-founding-keep-alive-it&quot;&gt;Reasons for founding Keep-Alive I.T&lt;/h2&gt;
+&lt;p&gt;I founded Keep-Alive I.T because I’ve worked in a range of different office environments in the Public and Private sector and seen some of the good and bad sides to different technology implementations at different organisations in both, Windows and Linux Operating System environments. Sure, not everyone gets things right first time but when you’re constantly seeing newbies (or people who think they’re experienced with something - when in reality they have absolutely no clue about) implementing old, dying technologies at a company just because they have a senior status without any redundancy or intention of scale, it makes you wonder if there’s any hope at all for running reliable systems in production. When you’re an employee at an organisation, you sort of learn to shut your mouth and go with whatever solution you’re told to work towards. Consulting on the other hand is a great opportunity to make use of the expert skills you’ve acquired after so many years working with different technologies and seeing them grow over time. With this in mind, it has motivated me to start a company consulting clients on Development and operations 
+As someone who keeps up to date with the latest and greatest technolgies, focuses on best practises, and practises development and operational I.T procedures; I see myself as a strong candidate for ‘bridging the gap’ between business and I.T workers and help break down complex technical problems into a language that others can easily understand.
+We take analysing your existing I.T infrastructure and software processes.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-i-came-up-with-the-company-name&quot;&gt;How I came up with the company name&lt;/h2&gt;
+&lt;p&gt;If you’re a techie at heart, you may be aware of the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Keep-Alive&quot; target=&quot;_blank&quot;&gt;HTTP Keep-Alive Header&lt;/a&gt; which is present in most modern web-browsers.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Keep alive is a method to allow the same tcp connection for HTTP conversation instead of opening a new one with each new request. More simply put, it is a communication between the web server and the web browser that says “you can grab more than just one file at a time”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Development and Operations support, I.T Procurement&lt;/p&gt;
+
+&lt;h2 id=&quot;our-base&quot;&gt;Our base&lt;/h2&gt;
+&lt;p&gt;Our registered office is based in the heart of Caerphilly, just a stones throw away from Cardiff.
+&lt;img class=&quot;lazy&quot; src=&quot;/assets/images/welsh-ice.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Joel Murphy</name></author><category term="news" /><summary type="html">We've just moved into our new office in Caerphilly, South Wales. Here's what it looks like.</summary></entry></feed>
