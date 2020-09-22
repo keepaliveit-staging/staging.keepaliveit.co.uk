@@ -11,7 +11,8 @@ rvm:
 # set execution permission on our build script
 before_script:
   - npm i -g npm@6.13.7
-  - npm install --global gulp-cli
+  - npm install gulp
+  - npm install gulp-cli
   - chmod +x ./scripts/cibuild.sh
 
 # path to our build script.
