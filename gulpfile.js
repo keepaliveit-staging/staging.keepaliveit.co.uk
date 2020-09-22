@@ -54,7 +54,6 @@ buildStyles = () => {
         .pipe(sourcemaps ? sourcemaps.write() : noop())
         .pipe(browserSync.stream())
         .pipe(gulp.dest(paths.siteCssFiles));
-
 };
 
 
@@ -208,7 +207,32 @@ serverInit = (done) => {
     //watcher.close();
 };
 
+publishSite = (done) => {
+    const jekyll = child.spawn('bundle', [
+        'exec',
+        'jekyll',
+        'build'
+    ]);
+
+    const jekyllLogger = (buffer) => {
+        buffer.toString()
+            .split(/\n\n/)
+            .forEach((message) => gutil.log('Jekyll: ' + message));
+    };
+
+    jekyll.stdout.on('data', jekyllLogger);
+    jekyll.stderr.on('data', jekyllLogger);
+
+    var watcher = gulp.watch('_site/assets/css/jekyll.css');
+
+    watcher.on('change', function (path, stats) {
+        buildStyles();
+        watcher.close();
+        done();
+    });
+};
 
 exports.buildStyles = buildStyles;
 exports.jekyllBuild = jekyllBuild;
 exports.serve = serverInit;
+exports.publish  = publishSite;
