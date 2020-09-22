@@ -228,7 +228,7 @@ publishSite = (done) => {
     watcher.on('change', function (path, stats) {
         buildStyles();
         watcher.close();
-        done();
+        done(); // run once
     });
 };
 
