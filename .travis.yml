@@ -8,12 +8,10 @@ branches:
 rvm:
   - 2.6.3
 
-before_install:
-  - npm install
-  - npm install gulp -g
-
 # set execution permission on our build script
 before_script:
+  - npm install
+  - npm install gulp -g
   - chmod +x ./scripts/cibuild.sh
 
 # path to our build script.
