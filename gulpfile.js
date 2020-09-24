@@ -1,181 +1,107 @@
-// Gulpfile.js
+const paths = require('./_assets/gulp_config/paths');
+const utils = require('./_tasks/utils');
 
-// https://gulpjs.com/docs/en/getting-started/creating-tasks
-// series() and parallel() can be nested to any arbitrary depth.
-
-const devBuild = (process.env.NODE_ENV !== 'production');
-
-const gulp = require('gulp');
-const child = require('child_process');
-const autoprefixer = require('autoprefixer');
 const browserSync = require('browser-sync').create();
-const concat = require('gulp-concat');
-const cssnano = require('cssnano');
-const del = require('del');
-const gutil = require('gulp-util');
-const imagemin = require('gulp-imagemin');
-const pngquant = require('imagemin-pngquant');
-const postcss = require('gulp-postcss');
-const rename = require('gulp-rename');
-const run = require('gulp-run');
-const sass = require('gulp-sass');
-const uglify = require('gulp-uglify-es').default;
-const assets = require('postcss-assets');
-const mqpacker = require('css-mqpacker');
-const sourcemaps = devBuild ? require('gulp-sourcemaps') : null;
+const gulp = require('gulp');
 
-//sass.compiler = require('node-sass');
+const HubRegistry = require('gulp-hub');
+const hub = new HubRegistry(['_tasks/!*.js']);
+gulp.registry(hub);
 
-// Include paths file
-const paths = require('./assets/gulp-config/paths');
+/**
+ * Task: build
+ *
+ * Build the site anew. Assumes images are cached by Travis.
+ */
+gulp.task('build', gulp.series(
+    //'clean',
+    gulp.parallel(
+        //'build:scripts',
+        'build:images',
+        'build:videos',
+        'build:styles',
+        'build:fonts'
+    ),
+    //'styleguide',
+    'build:jekyll'
+));
 
+/**
+ * Task: build:test
+ *
+ * Builds the site anew using test config.
+ */
+gulp.task('build:test', gulp.series(
+    //'clean',
+    gulp.parallel(
+        //'build:scripts',
+        'build:images',
+        'build:videos',
+        'build:styles',
+        'build:fonts'
+    ),
+    //'styleguide',
+    'build:jekyll:test'
+));
 
-// ************************* //
-// *** Stylesheets Tasks *** //
-// ************************* //
+/**
+ * Task: build:local
+ *
+ * Builds the site anew using test and local config.
+ */
+gulp.task('build:local', gulp.series(
+    //'clean',
+    gulp.parallel(
+        //'build:scripts',
+        'build:images',
+        'build:videos',
+        'build:styles',
+        'build:fonts'
+    ),
+    //'styleguide',
+    'build:jekyll:local'
+));
 
-// Process styles, add vendor-prefixes, minify, then
-// output the file to the appropriate location
-buildStyles = () => {
-    return gulp.src('./assets/styles/sass/main.scss')
-        .pipe(sourcemaps ? sourcemaps.init() : noop())
-        .pipe(sass({
-            outputStyle: 'nested',
-            imagePath: '/images/',
-            precision: 3,
-            errLogToConsole: true
-        }).on('error', sass.logError))
-        .pipe(postcss([
-            assets({loadPaths: ['images/']}),
-            autoprefixer(),
-            mqpacker,
-            cssnano
-        ]))
-        .pipe(sourcemaps ? sourcemaps.write() : noop())
-        .pipe(browserSync.stream())
-        .pipe(gulp.dest(paths.siteCssFiles));
-};
+/**
+ * Task: default
+ *
+ * Builds the site anew.
+ */
+gulp.task('default', gulp.parallel('build'));
 
+/**
+ * Task: build:scripts:watch
+ *
+ * Special task for building scripts then reloading via BrowserSync.
+ */
+gulp.task('build:scripts:watch', gulp.series(
+    'build:scripts:dev',
+    'build:jekyll:local',
+    utils.reload
+));
 
-// ************************* //
-// **** Javascript Tasks *** //
-// ************************* //
+/**
+ * Task: build:jekyll:watch
+ *
+ * Special task for building the site then reloading via BrowserSync.
+ */
+gulp.task('build:jekyll:watch', gulp.series('build:jekyll:local', utils.reload));
 
-// Concatenate and uglify global JS files and output the result to the
-// appropriate location
-buildScriptsGlobal = () => {
-    return gulp.src([
-        paths.jsFiles + '/lib' + paths.jsPattern,
-        paths.jsFiles + '/*.js'
-    ]).pipe(concat('main.js'))
-        .pipe(uglify())
-        .pipe(gulp.dest(paths.jekyllJsFiles))
-        .pipe(gulp.dest(paths.siteJsFiles))
-        .on('error', gutil.log)
-};
+/**
+ * Static server + watching files.
+ *
+ * Note: passing anything besides hard-coded literal paths with globs doesn't
+ * seem to work with gulp.watch().
+ */
+const serveTemp = () => {
 
-// Uglify local JS files and output the result to the appropriate location
-buildScriptsLocal = () => {
-    return gulp.src(paths.jsFiles + '/local' + paths.jsPattern)
-        .pipe(uglify())
-        .pipe(gulp.dest(paths.jekyllJsFiles))
-        .pipe(gulp.dest(paths.siteJsFiles))
-        .on('error', gutil.log);
-};
+    var webpack = require('webpack');
+    var webpackDevMiddleware = require('webpack-dev-middleware');
+    var webpackHotMiddleware = require('webpack-hot-middleware');
 
-// Build all scripts
-buildScripts = (done) => {
-    return gulp.series(
-        buildScriptsGlobal,
-        buildScriptsLocal
-    )(done);
-};
+    var webpackConfig = require('./webpack.config');
+    var bundler = webpack(webpackConfig);
 
-
-// ************************* //
-// ****** Image Tasks ****** //
-// ************************* //
-
-// Optimize and copy image files
-gulp.task('build:images', (callback) => {
-    return callback(
-        gulp.src(paths.imageFilesGlob)
-            .pipe(
-                imagemin({
-                    optimizationLevel: 3,
-                    progressive: true,
-                    interlaced: true,
-                    use: [pngquant()]
-                })
-            )
-            .pipe(gulp.dest(paths.jekyllImageFiles))
-            .pipe(gulp.dest(paths.siteImageFiles))
-            .pipe(browserSync.stream())
-    );
-});
-
-
-// ************************* //
-// ******** Fonts ********** //
-// ************************* //
-
-// Place fonts in proper location
-gulp.task('build:fonts', (callback) => {
-    return callback(gulp.src(paths.fontFiles + '/**/**.*')
-        .pipe(rename(function (path) {
-            path.dirname = '';
-        }))
-        .pipe(gulp.dest(paths.jekyllFontFiles))
-        .pipe(gulp.dest(paths.siteFontFiles))
-        .pipe(browserSync.stream())
-        .on('error', gutil.log)
-    );
-});
-
-
-// ************************* //
-// ******* Jekyll ********** //
-// ************************* //
-
-build = (done) => {
-    gulp.series(
-        jekyllBuild,
-        buildScripts,
-        //'build:images',
-        //'build:fonts',
-    )(done);
-};
-
-// Run jekyll build command.
-jekyllBuild = () => {
-    const jekyll = child.spawn('bundle', [
-        'exec',
-        'jekyll',
-        'build',
-        '--watch',
-        //'--incremental',
-        '--drafts'
-    ]);
-
-    const jekyllLogger = (buffer) => {
-        buffer.toString()
-            .split(/\n\n/)
-            .forEach((message) => gutil.log('Jekyll: ' + message));
-    };
-
-    jekyll.stdout.on('data', jekyllLogger);
-    jekyll.stderr.on('data', jekyllLogger);
-
-    var watcher = gulp.watch('_site/assets/css/jekyll.css');
-
-    watcher.on('change', function (path, stats) {
-        buildStyles();
-    });
-};
-
-// Serve site and watch files
-serverInit = (done) => {
-    // Initialise browsersync
     browserSync.init({
         server: paths.siteDir,
         serveStatic: ['./_site'],
@@ -185,54 +111,139 @@ serverInit = (done) => {
         watch: true,
         startPath: 'index.html',
         index: 'index.html',
-        ghostMode: false, // Toggle to mirror clicks, reloads etc (performance)
+        ghostMode: false, // Toggle to mirror clicks, reloads etc. (performance)
         logFileChanges: true,
         logLevel: 'debug',
-        open: false       // Toggle to auto-open page when starting
+        open: false, // Toggle to automatically open page when starting.
+        middleware: [
+            webpackDevMiddleware(bundler, {
+                publicPath: webpackConfig.output.publicPath,
+                stats: {
+                    colors: true
+                }
+            }),
+            webpackHotMiddleware(bundler)
+        ]
+    });
+}
+const serve = () => {
+    var webpackConfig = require('./webpack.config');
+    var bundler = webpack(webpackConfig);
+
+    browserSync.init({
+        server: paths.siteDir,
+        serveStatic: ['./_site'],
+        serveStaticOptions: {
+            extensions: ['html']
+        },
+        watch: true,
+        startPath: 'index.html',
+        index: 'index.html',
+        ghostMode: false, // Toggle to mirror clicks, reloads etc. (performance)
+        logFileChanges: true,
+        logLevel: 'debug',
+        open: false, // Toggle to automatically open page when starting.
+        middleware: [
+            webpackDevMiddleware(bundler, {
+                publicPath: webpackConfig.output.publicPath,
+                stats: {
+                    colors: true
+                }
+            }),
+            webpackHotMiddleware(bundler)
+        ]
     });
 
-    jekyllBuild();
+    // Watch site settings.
+    gulp.watch(['_config*.yml'], gulp.parallel('build:jekyll:watch'));
 
-    //gulp.watch(['_config.yml'], gulp.series('build:jekyll:watch'));
+    // Watch .scss files; changes are piped to browserSync.
+    // Ignore style guide SCSS.
+    // Rebuild the style guide to catch updates to component markup.
+    gulp.watch(
+        [
+            '_assets/styles/**/*.scss',
+            '!_assets/styles/scss/07-styleguide/**/*',
+            '!_assets/styles/styleguide.scss'
+        ],
+        gulp.parallel('build:styles')
+    );
 
-    // Watch .scss files and pipe changes to browserSync
-    gulp.watch('assets/styles/**/*.scss', gulp.series(buildStyles));
+    // Watch .js files.
+    gulp.watch(
+        [
+            '_assets/js/**/*.js',
+            '_comments-app/app/**/*'
+        ],
+        gulp.parallel('build:scripts:watch')
+    );
 
-    // Watch .js files
-    //gulp.watch('assets/js/**/*.js', gulp.series('build:scripts:watch'));
+    // Watch comment app files.
+    //gulp.watch('_comments-app/**/*', gulp.parallel('build:scripts:watch'));
 
-    // Watch image files and pipe changes to browserSync
-    //gulp.watch('assets/img/**/*', gulp.series('build:images'));
+    // Watch image files; changes are piped to browserSync.
+    gulp.watch(
+        '_assets/img/**/*',
+        gulp.parallel('build:images')
+    );
 
-    //watcher.close();
+    // Watch video files
+    gulp.watch(
+        '_assets/videos/**/*',
+        gulp.parallel('build:videos')
+    );
+
+    // Watch posts.
+    gulp.watch(
+        '_posts/**/*.+(md|markdown|MD)',
+        gulp.parallel('build:jekyll:watch')
+    );
+
+    // Watch HTML and markdown files.
+    gulp.watch([
+            '**/*.+(html|md|markdown|MD)',
+            '!_site/**/*.*',
+            '!_styleguide_assets/**/*.*',
+            '!_assets/styles/*.md'],
+        gulp.parallel('build:jekyll:watch')
+    );
+
+    // Watch RSS feed XML files.
+    gulp.watch(
+        '**.xml',
+        gulp.parallel('build:jekyll:watch')
+    );
+
+    // Watch data files.
+    gulp.watch(
+        '_data/**.*+(yml|yaml|csv|json)',
+        gulp.parallel('build:jekyll:watch')
+    );
+
+    // Watch favicon.png.
+    gulp.watch(
+        'favicon.png',
+        gulp.parallel('build:jekyll:watch')
+    );
+
+    // Watch style guide SCSS.
+    //gulp.watch(['_assets/styles/styleguide.scss', '_assets/styles/scss/07-styleguide/**/*.scss'], gulp.parallel('build:styles:styleguide'));
+
+    // Watch style guide HTML.
+    //gulp.watch(['_styleguide_assets/*.html', '_assets/styles/*.md'], gulp.parallel('build:styleguide', 'build:jekyll:watch'));
 };
 
-publishSite = (done) => {
-    const jekyll = child.spawn('bundle', [
-        'exec',
-        'jekyll',
-        'build'
-    ]);
+/**
+ * Task: serve
+ *
+ * Runs the watch task without rebuilding the site.
+ */
+gulp.task('serve', gulp.parallel(serve));
+gulp.task('serveTemp', gulp.parallel(serveTemp));
 
-    const jekyllLogger = (buffer) => {
-        buffer.toString()
-            .split(/\n\n/)
-            .forEach((message) => gutil.log('Jekyll: ' + message));
-    };
-
-    jekyll.stdout.on('data', jekyllLogger);
-    jekyll.stderr.on('data', jekyllLogger);
-
-    var watcher = gulp.watch('_site/assets/css/jekyll.css');
-
-    watcher.on('change', function (path, stats) {
-        buildStyles();
-        watcher.close();
-        done(); // run once
-    });
-};
-
-exports.buildStyles = buildStyles;
-exports.jekyllBuild = jekyllBuild;
-exports.serve = serverInit;
-exports.publish  = publishSite;
+/**
+ * Task: serve:rebuild
+ *
+ * Runs the watch task and rebuilds the site.
+ */
+gulp.task('serve:rebuild', gulp.series('build:local', serve));

@@ -1,0 +1,3 @@
+[submodule "jekyll-gulp-docker"]
+	path = jekyll-gulp-docker
+	url = https://github.com/KeepAliveIT/jekyll-gulp-docker.git

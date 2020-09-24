@@ -22,7 +22,7 @@ whitelist:
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-debugMode                : false
+debugMode                : true
 host                     : 0.0.0.0
 collections_dir          : "collections"
 locale                   : "en-GB"

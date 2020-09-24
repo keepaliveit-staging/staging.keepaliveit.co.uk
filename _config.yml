@@ -181,7 +181,6 @@ exclude:
   - CHANGELOG
   - config
   - Gemfile
-  - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - log
@@ -196,6 +195,7 @@ exclude:
 keep_files:
   - .git
   - .svn
+  - assets
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -390,12 +390,6 @@ defaults:
       share: true
 
 
-# Sass options
-sass:
-  sass_dir: assets/css
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
@@ -476,6 +470,7 @@ autopages:
     title: 'Posts in collection :coll' # :coll is replaced by the collection name
     permalink: '/collections/:coll'
 
+  # Tag pages, omit to disable
   # Tag pages, omit to disable
   tags:
     layouts:
