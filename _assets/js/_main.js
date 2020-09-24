@@ -261,7 +261,7 @@ $(document).ready(function () {
     });
 
     $(".pricing__action").click(function () {
-        var package = $(this).data("package");
+        var packageElem = $(this).data("package");
 
         console.log(
             validate(
@@ -282,7 +282,7 @@ $(document).ready(function () {
             html:
                 'You chose: </br>' +
                 '<span style="color:#9a7f5f;font-style: italic;">' +
-                package.toString() +
+                packageElem.toString() +
                 '</span>.' +
                 '</br></br>' +
                 'Please fill in your contact details so we can get back to you to complete your purchase:' +

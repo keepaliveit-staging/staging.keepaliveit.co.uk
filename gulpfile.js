@@ -5,7 +5,7 @@ const browserSync = require('browser-sync').create();
 const gulp = require('gulp');
 
 const HubRegistry = require('gulp-hub');
-const hub = new HubRegistry(['_tasks/!*.js']);
+const hub = new HubRegistry(['_tasks/*.js']);
 gulp.registry(hub);
 
 /**
@@ -93,40 +93,12 @@ gulp.task('build:jekyll:watch', gulp.series('build:jekyll:local', utils.reload))
  * Note: passing anything besides hard-coded literal paths with globs doesn't
  * seem to work with gulp.watch().
  */
-const serveTemp = () => {
+const serve = () => {
 
     var webpack = require('webpack');
     var webpackDevMiddleware = require('webpack-dev-middleware');
     var webpackHotMiddleware = require('webpack-hot-middleware');
 
-    var webpackConfig = require('./webpack.config');
-    var bundler = webpack(webpackConfig);
-
-    browserSync.init({
-        server: paths.siteDir,
-        serveStatic: ['./_site'],
-        serveStaticOptions: {
-            extensions: ['html']
-        },
-        watch: true,
-        startPath: 'index.html',
-        index: 'index.html',
-        ghostMode: false, // Toggle to mirror clicks, reloads etc. (performance)
-        logFileChanges: true,
-        logLevel: 'debug',
-        open: false, // Toggle to automatically open page when starting.
-        middleware: [
-            webpackDevMiddleware(bundler, {
-                publicPath: webpackConfig.output.publicPath,
-                stats: {
-                    colors: true
-                }
-            }),
-            webpackHotMiddleware(bundler)
-        ]
-    });
-}
-const serve = () => {
     var webpackConfig = require('./webpack.config');
     var bundler = webpack(webpackConfig);
 
@@ -170,13 +142,13 @@ const serve = () => {
     );
 
     // Watch .js files.
-    gulp.watch(
-        [
-            '_assets/js/**/*.js',
-            '_comments-app/app/**/*'
-        ],
-        gulp.parallel('build:scripts:watch')
-    );
+    // gulp.watch(
+    //     [
+    //         '_assets/js/**/*.js',
+    //         '_comments-app/app/**/*'
+    //     ],
+    //     gulp.parallel('build:scripts:watch')
+    // );
 
     // Watch comment app files.
     //gulp.watch('_comments-app/**/*', gulp.parallel('build:scripts:watch'));
@@ -239,7 +211,6 @@ const serve = () => {
  * Runs the watch task without rebuilding the site.
  */
 gulp.task('serve', gulp.parallel(serve));
-gulp.task('serveTemp', gulp.parallel(serveTemp));
 
 /**
  * Task: serve:rebuild

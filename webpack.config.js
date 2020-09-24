@@ -17,7 +17,7 @@ module.exports = {
     ],
     output: {
         filename: '[name].bundle.js',
-        path: __dirname + "/_site/dist",
+        path: __dirname + "/_site/assets/js/",
         publicPath: "/"
     },
     plugins: [
@@ -29,7 +29,14 @@ module.exports = {
                 test: /\.js?$/,
                 exclude: /node_modules/,
                 loader: ['babel-loader']
-            }
+            },
+            {
+                test: require.resolve('jquery'),
+                loader: 'expose-loader',
+                options: {
+                    exposes: ['$', 'jQuery'],
+                },
+            },
         ]
     }
 };
