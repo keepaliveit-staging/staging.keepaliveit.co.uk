@@ -21,7 +21,12 @@ module.exports = {
         publicPath: "/"
     },
     plugins: [
-        new webpack.HotModuleReplacementPlugin()
+        new webpack.HotModuleReplacementPlugin(),
+        new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery',
+            'window.jQuery': 'jquery'
+        })
     ],
     module: {
         rules: [
@@ -29,14 +34,7 @@ module.exports = {
                 test: /\.js?$/,
                 exclude: /node_modules/,
                 loader: ['babel-loader']
-            },
-            {
-                test: require.resolve('jquery'),
-                loader: 'expose-loader',
-                options: {
-                    exposes: ['$', 'jQuery'],
-                },
-            },
+            }
         ]
     }
 };

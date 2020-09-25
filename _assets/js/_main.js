@@ -2,6 +2,12 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
+let fitvid = require( './plugins/jquery.fitvids');
+import './plugins/droopmenu'
+import './plugins/jquery.magnific-popup'
+import './plugins/waypoints/jquery.waypoints.min'
+let SmoothScroll = require('./plugins/smooth-scroll');
+
 $(document).ready(function () {
 
     $('.droopmenu-navbar').droopmenu({
@@ -13,6 +19,7 @@ $(document).ready(function () {
     });
     //$("div.droopmenu-nav > div > div > ul > li:nth-child(1)").addClass("dmopener");
 
+    // Only add a waypoint to pages that contain a quick links navigation element.
     if ($("#quicklinks-navigation").length) {
         var waypoint = new Waypoint({
             element: document.getElementById('quicklinks-navigation'),
@@ -236,7 +243,7 @@ $(document).ready(function () {
 
     // Setup menu hover
     function updateHelpText(elem) {
-        $ht = $("#helptext");
+        let $ht = $("#helptext");
 
         if ($ht.css('display') == 'none') {
             $ht.show();

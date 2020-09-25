@@ -15,6 +15,15 @@ const buildImages = () => {
 };
 gulp.task('build:images', gulp.parallel(buildImages));
 
+const copyFavicons = () => {
+    console.log(paths.faviconFilesGlob);
+    console.log(paths.siteFaviconFiles);
+    return gulp.src(paths.faviconFilesGlob)
+        .pipe(gulp.dest(paths.siteFaviconFiles))
+        .pipe(browserSync.stream());
+};
+gulp.task('build:favicons', gulp.parallel(copyFavicons));
+
 // Optimizes image files. Note that this task does not run automatically.
 const optimizeImages = () => {
   // We're including imagemin options because we're overriding the default JPEG

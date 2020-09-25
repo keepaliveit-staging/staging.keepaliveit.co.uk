@@ -1,11 +1,6 @@
-import $ from 'jquery';
-window.jQuery = $;
-window.$ = $;
+window.$ = window.jQuery = require('jquery');
 
-console.log('hot reload demo working well - yay!!! woo');
-
-module.hot.accept();
-
-import './plugins/jquery.fitvids'
 import './_main'
 import './site'
+
+module.hot.accept();

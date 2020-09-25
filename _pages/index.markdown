@@ -23,7 +23,7 @@ header:
   <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
 </blockquote>
 
-<h2 class="text-center animated-heading">
+<h2 class="text-center animated-headingno">
     Common use cases for hiring Keep-Alive I.T:
 </h2>
 
@@ -118,7 +118,7 @@ header:
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h2 class="text-center animated-heading">
+<h2 class="text-center animated-headingno">
     A bigger picture of our services
 </h2>
 Our I.T services are split into two main categories; Development & Operations. Our Development and Operations services are complimented by an I.T support model and all of our solutions are built with Cyber Security resilience practises in mind. 
@@ -259,7 +259,7 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h2 class="text-center animated-heading">
+<h2 class="text-center animated-headingno">
     Keep-Alive I.T vs. other competing I.T agencies:
 </h2>
 <h3>Why Choose Keep-Alive I.T to get the job done?</h3>
@@ -270,7 +270,7 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 <div class="row">
     <div class="col-xs-12">
-        <h2 class="text-center animated-heading">
+        <h2 class="text-center animated-headingno">
             Our promise:
         </h2>
         <p>Delivering I.T services to our customers with great satisfaction is our ultimate goal. </p>
@@ -280,7 +280,7 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 <section id="testimonials" class="testimonials">
     <div class="section-title">
-        <h2 class="text-center animated-heading">
+        <h2 class="text-center animated-headingno">
             Client Testimonials:
         </h2>
         <p>Don't just take our word for it. We work with a wide variety of audiences and want you to see what they've got to say about our company:</p>
