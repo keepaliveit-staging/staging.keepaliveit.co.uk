@@ -18,5 +18,3 @@ const buildJekyllLocal = () => {
   return utils.runCommand('bundle exec jekyll build --future --config _config.yml,_config-test.yml,_config-dev.yml');
 };
 gulp.task('build:jekyll:local', gulp.parallel(buildJekyllLocal));
-
-gulp.task('hello',function(){});

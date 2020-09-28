@@ -16,7 +16,7 @@ gulp.registry(hub);
 gulp.task('build', gulp.series(
     //'clean',
     gulp.parallel(
-        //'build:scripts',
+        'build:scripts',
         'build:images',
         'build:videos',
         'build:styles',
@@ -34,7 +34,7 @@ gulp.task('build', gulp.series(
 gulp.task('build:test', gulp.series(
     //'clean',
     gulp.parallel(
-        //'build:scripts',
+        'build:scripts',
         'build:images',
         'build:videos',
         'build:styles',
@@ -52,8 +52,9 @@ gulp.task('build:test', gulp.series(
 gulp.task('build:local', gulp.series(
     //'clean',
     gulp.parallel(
-        //'build:scripts',
+        'build:scripts',
         'build:images',
+        'build:favicons',
         'build:videos',
         'build:styles',
         'build:fonts'
@@ -193,10 +194,10 @@ const serve = () => {
     );
 
     // Watch favicon.png.
-    gulp.watch(
-        'favicon.png',
-        gulp.parallel('build:jekyll:watch')
-    );
+    // gulp.watch(
+    //     'favicon.png',
+    //     gulp.parallel('build:jekyll:watch')
+    // );
 
     // Watch style guide SCSS.
     //gulp.watch(['_assets/styles/styleguide.scss', '_assets/styles/scss/07-styleguide/**/*.scss'], gulp.parallel('build:styles:styleguide'));

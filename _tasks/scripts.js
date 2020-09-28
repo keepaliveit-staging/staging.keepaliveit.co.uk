@@ -11,19 +11,22 @@ const uglify = require('gulp-uglify');
 // Concatenates and uglifies global JS files and outputs result to the
 // appropriate location.
 const buildScriptsGlobal = () => {
-  return gulp.src([
-    paths.jsFiles + '/global/lib' + paths.jsPattern,
-    paths.jsFiles + '/global/*.js'
-  ])
-    .pipe(concat('main.js'))
-    .pipe(babel({
-      presets: ['es2015']
-    }))
-    .pipe(uglify())
+    // return gulp.src([
+    //   paths.jsFiles + '/global/lib' + paths.jsPattern,
+    //   paths.jsFiles + '/global/*.js'
+    // ])
+    // .pipe(concat('main.js'))
+    // .pipe(babel({
+    //   presets: ['es2015']
+    // }))
+    // .pipe(uglify())
+    //
+    // // Only place in `assets` because Jekyll needs to process the file.
+    // .pipe(gulp.dest(paths.jekyllJsFiles))
+    // .on('error', gutil.log);
 
-    // Only place in `assets` because Jekyll needs to process the file.
-    .pipe(gulp.dest(paths.jekyllJsFiles))
-    .on('error', gutil.log);
+  return gulp.src('.')
+      .pipe(run('npm run build-js'));
 };
 gulp.task('build:scripts:global', gulp.parallel(buildScriptsGlobal));
 

@@ -2,22 +2,14 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
-let fitvid = require( './plugins/jquery.fitvids');
-import './plugins/droopmenu'
+
+
 import './plugins/jquery.magnific-popup'
 import './plugins/waypoints/jquery.waypoints.min'
-let SmoothScroll = require('./plugins/smooth-scroll');
 
 $(document).ready(function () {
 
-    $('.droopmenu-navbar').droopmenu({
-        dmArrow: false,
-        dmAnimDelay: 0,
-        dmShowDelay: 0,
-        dmHideDelay: 0,
-        dmAnimation: false
-    });
-    //$("div.droopmenu-nav > div > div > ul > li:nth-child(1)").addClass("dmopener");
+
 
     // Only add a waypoint to pages that contain a quick links navigation element.
     if ($("#quicklinks-navigation").length) {
@@ -49,10 +41,9 @@ $(document).ready(function () {
         });
     }
 
-    // FitVids init
-    $("#main").fitVids();
 
-    // Sticky sidebar
+
+    // Sticky sidebar - show on tech tips pages
     var stickySideBar = function () {
         var show =
             $(".author__urls-wrapper button").length === 0
@@ -97,28 +88,6 @@ $(document).ready(function () {
         setTimeout(function () {
             $(".search-content input").focus();
         }, 400);
-    });
-
-    // Smooth scrolling
-    var scroll = new SmoothScroll('a[href*="#"]', {
-        offset: function (anchor, toggle) {
-            var headerHeight = $(".droopmenu-navbar").height();
-            var quicklinksHeight = $("#quicklinks-navigation").height();
-            var additionalOffset = 50;
-
-            window.anchor = anchor;
-            window.toggle = toggle;
-
-            if ($("#quicklinks-navigation").hasClass('is-sticky')) {
-                return (headerHeight + quicklinksHeight) + additionalOffset;
-            } else {
-                return headerHeight;
-            }
-        },
-        speed: 400,
-        speedAsDuration: true,
-        durationMax: 500,
-        updateURL: false
     });
 
     // Gumshoe scroll spy init
@@ -181,18 +150,7 @@ $(document).ready(function () {
         midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
     });
 
-    // Add anchors for headings
-    $('.page__content').find('h1, h2, h3, h4, h5, h6').each(function () {
-        var id = $(this).attr('id');
-        if (id) {
-            var anchor = document.createElement("a");
-            anchor.className = 'header-link';
-            anchor.href = '#' + id;
-            anchor.innerHTML = '<span class=\"sr-only\">Permalink</span><i class=\"fa fa-link\"></i>';
-            anchor.title = "Permalink";
-            $(this).append(anchor);
-        }
-    });
+
 
     $("#industry-pagination > li > a").click(function (e) {
         e.preventDefault();
@@ -210,57 +168,6 @@ $(document).ready(function () {
 
         return false;
     });
-
-
-    if (window.location.pathname === '/tools-and-utilities/ip-address-finder') {
-        // Request user IP from apps service
-        $.ajax({
-            url: "https://apps.keepaliveit.co.uk/ip/index.php",
-            cache: false
-        })
-            .done(function (result) {
-                $("#ip-address-result").html(result.ip);
-            });
-    }
-
-    if (window.location.pathname === '/') {
-        if ($('.ux-vertical-tabs').length > 0) {
-            $('.ux-vertical-tabs .tabs button').on("click", function () {
-                var temp_tab = $(this).data('tab');
-                var temp_tab_js = this.getAttribute('data-tab');
-                var temp_content = $('.ux-vertical-tabs .maincontent .tabcontent[data-tab="' + temp_tab + '"]');
-                var temp_content_js = document.querySelector('.ux-vertical-tabs .maincontent .tabcontent[data-tab="' + temp_tab_js + '"]');
-                var temp_content_active_js = document.querySelector('.ux-vertical-tabs .maincontent .tabcontent.active');
-
-                $('.ux-vertical-tabs .tabs button').removeClass('active');
-                $('.ux-vertical-tabs .tabs button[data-tab="' + temp_tab + '"]').addClass('active');
-
-                $('.ux-vertical-tabs .maincontent .tabcontent').removeClass('active');
-                temp_content.addClass('active');
-            });
-        }
-    }
-
-    // Setup menu hover
-    function updateHelpText(elem) {
-        let $ht = $("#helptext");
-
-        if ($ht.css('display') == 'none') {
-            $ht.show();
-        }
-
-        $ht.children(".text-content").text(elem.data('helptext'));
-    }
-
-    $('.droopmenu-helptext').hover(
-        function () {
-            $(this).parent().parent().children('a').addClass('active');
-            updateHelpText($(this));
-        },
-        function () {
-            $(this).parent().parent().children('a').removeClass('active');
-        }
-    );
 
     $('.toggle-menu').click(function () {
         $('.exo-menu').toggleClass('display');

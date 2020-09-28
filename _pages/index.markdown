@@ -6,6 +6,8 @@ classes:
   - landing
 customStyleSheets:
     - something.css
+jsEntryPoints:
+    - homepage 
 header:
     video:
         provider: hosted
