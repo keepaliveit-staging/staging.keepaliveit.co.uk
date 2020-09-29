@@ -61,7 +61,7 @@
     "build-js": "webpack -p",
     "build-comments": "webpack -p",
     "build-comments-dev": "webpack",
-    "build": "gulp",
+    "build": "gulp build",
     "images": "gulp optimize:images",
     "serve": "gulp serve",
     "serve:rebuild": "gulp serve:rebuild"
