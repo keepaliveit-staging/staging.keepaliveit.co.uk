@@ -22,7 +22,7 @@
     "eslint": "^4.19.1",
     "eslint-plugin-react": "^7.7.0",
     "expose-loader": "^1.0.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-accessibility": "^3.1.1",
     "gulp-append-prepend": "^1.0.3",
     "gulp-babel": "^7.0.1",
@@ -61,10 +61,10 @@
     "build-js": "webpack -p",
     "build-comments": "webpack -p",
     "build-comments-dev": "webpack",
-    "build": "./node_modules/.bin/gulp",
-    "images": "./node_modules/.bin/gulp optimize:images",
-    "serve": "./node_modules/.bin/gulp serve",
-    "serve:rebuild": "./node_modules/.bin/gulp serve:rebuild"
+    "build": "gulp",
+    "images": "gulp optimize:images",
+    "serve": "gulp serve",
+    "serve:rebuild": "gulp serve:rebuild"
   },
   "dependencies": {
     "jquery": "^3.5.1",

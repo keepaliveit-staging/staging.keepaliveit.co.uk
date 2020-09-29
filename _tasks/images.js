@@ -16,8 +16,6 @@ const buildImages = () => {
 gulp.task('build:images', gulp.parallel(buildImages));
 
 const copyFavicons = () => {
-    console.log(paths.faviconFilesGlob);
-    console.log(paths.siteFaviconFiles);
     return gulp.src(paths.faviconFilesGlob)
         .pipe(gulp.dest(paths.siteFaviconFiles))
         .pipe(browserSync.stream());

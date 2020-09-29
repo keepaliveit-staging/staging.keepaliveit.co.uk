@@ -21,7 +21,6 @@ module.exports = {
      *   An array of destinations where the resulting CSS file should be placed.
      */
     buildStyles: function buildStyles(scssRoot, destinations) {
-        console.log('dir is: ' + paths.sassFiles + scssRoot);
         let stream = gulp.src(paths.sassFiles + scssRoot)
             .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
             .pipe(gulp.dest('./lol'));
@@ -32,7 +31,6 @@ module.exports = {
 
         // Pipe file to all destinations.
         for (let i = 0; i < destinations.length; i++) {
-            console.log(destinations[i]);
             stream = stream.pipe(gulp.dest(destinations[i]));
         }
 

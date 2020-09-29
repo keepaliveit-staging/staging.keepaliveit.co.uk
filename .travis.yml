@@ -8,11 +8,15 @@ branches:
 rvm:
   - 2.6.3
 
+services:
+  - docker
+
+before_install:
+  - docker build -t keepaliveit/jekyll-gulp-docker ./jekyll-gulp-docker -f jekyll-gulp-docker/Dockerfile
+  - docker run -it --rm -v $(pwd):/srv -w="/srv/src/resource" -p 3000:3000 keepaliveit/jekyll-gulp-docker npm run serve:rebuild
+
 # setup npm and set execution permission on our build script
 before_script:
-  - npm i -g npm@6.13.7
-  - npm install
-  - npm install --global gulp-cli
   - chmod +x ./scripts/cibuild.sh
 
 # path to our build script.
@@ -20,7 +24,9 @@ before_script:
 script: ./scripts/cibuild.sh
 exclude: [vendor]
 
-cache: bundler # caching bundler gem packages will speed up build
+cache:
+  - bundler # cache bundler gem packages to speed up build
+  - npm # cache npm modules to speed up JS build
 
 addons:
   apt:

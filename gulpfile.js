@@ -177,6 +177,7 @@ const serve = () => {
             '**/*.+(html|md|markdown|MD)',
             '!_site/**/*.*',
             '!_styleguide_assets/**/*.*',
+            '!jekyll-gulp-docker/*.*',
             '!_assets/styles/*.md'],
         gulp.parallel('build:jekyll:watch')
     );
