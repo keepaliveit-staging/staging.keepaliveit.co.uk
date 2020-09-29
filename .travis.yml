@@ -1,3 +1,7 @@
+os: linux
+dist: xenial
+language: ruby
+
 # only run CI-builds on gh-pages branch
 branches:
   only:
@@ -17,7 +21,6 @@ before_script:
 # path to our build script.
 # Travis will run `bundle install` by default before running our script
 script: ./scripts/cibuild.sh
-exclude: [vendor]
 
 addons:
   apt:

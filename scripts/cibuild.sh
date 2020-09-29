@@ -9,32 +9,6 @@ fi
 # enable error reporting to the console
 set -e
 
-# cleanup "_site"
-rm -rf _site
-mkdir _site
-
-# clone a remote repo to "_site" and build it
-if [ $TRAVIS_REPO_SLUG == "KeepAliveIT/keepaliveit.github.io" ]; then
-  git clone https://${GH_TOKEN}@github.com/KeepAliveIT/keepaliveit.github.io.git --branch master _site
-
-  # Push content changes to algolia
-  #bundle exec jekyll algolia
-
-  # build with Jekyll into "_site" with production config
-  #JEKYLL_ENV=production gulp publish
-  npm run build
-
-elif [ $TRAVIS_REPO_SLUG == "keepaliveit-staging/staging.keepaliveit.co.uk" ]; then
-  git clone https://${GH_TOKEN}@github.com/keepaliveit-staging/staging.keepaliveit.co.uk.git --branch master _site
-
-  # build with Jekyll into "_site" with staging config
-  #JEKYLL_ENV=production gulp publish --config _config-staging.yml
-  npm run build
-else
-  echo "Invalid repository - see cibuild.sh source code for more info..."
-  exit 0
-fi
-
 # Add files to _site and push to master
 cd _site
 
