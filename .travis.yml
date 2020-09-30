@@ -44,5 +44,6 @@ deploy:
   committer_from_gh: true
   target_branch: master
   local_dir: ./_site
+  fqdn: staging.keepaliveit.co.uk
   on:
     branch: gh-pages
