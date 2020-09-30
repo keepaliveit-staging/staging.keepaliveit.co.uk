@@ -1,7 +1,7 @@
 {
   "name": "keepalive-website",
   "version": "1.0.0",
-  "description": "Keep-Alive I.T company website",
+  "description": "Keep-Alive I.T company Website source code.",
   "babel": {
     "presets": [
       "env",
@@ -62,6 +62,8 @@
     "build-comments": "webpack -p",
     "build-comments-dev": "webpack",
     "build": "gulp build",
+    "build:test": "gulp build:test",
+    "build:local": "gulp build:local",
     "images": "gulp optimize:images",
     "serve": "gulp serve",
     "serve:rebuild": "gulp serve:rebuild"
