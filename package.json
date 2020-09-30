@@ -1,0 +1,73 @@
+{
+  "name": "keepalive-website",
+  "version": "1.0.0",
+  "description": "Keep-Alive I.T company website",
+  "babel": {
+    "presets": [
+      "env",
+      "react",
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.4.0",
+    "axios": "^0.19.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "browser-sync": "^2.26.7",
+    "del": "^2.2.2",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.7.0",
+    "expose-loader": "^1.0.0",
+    "gulp": "^4.0.2",
+    "gulp-accessibility": "^3.1.1",
+    "gulp-append-prepend": "^1.0.3",
+    "gulp-babel": "^7.0.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-hub": "^4.2.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-jshint": "^2.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "is-retina": "^1.0.3",
+    "jshint": "^2.9.7",
+    "node-sass": "^4.14.1",
+    "prop-types": "^15.6.1",
+    "qs": "^6.5.1",
+    "query-string": "^5.1.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-gravatar": "^2.6.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-middleware": "^3.7.2",
+    "webpack-hot-middleware": "^2.25.0"
+  },
+  "scripts": {
+    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-3.4.1.js assets/js/plugins/validate.min.js assets/js/plugins/sweetalert2.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.ba-throttle-debounce.js assets/js/plugins/smooth-scroll.js assets/js/plugins/gumshoe.js assets/js/_main.js assets/js/plugins/aos.js assets/js/plugins/accordion.min.js assets/js/plugins/jquery.lazy.min.js assets/js/site.js assets/js/pushy.js assets/js/slick.min.js assets/js/jquery.background-video.js assets/js/plugins/droopmenu.js assets/js/plugins/waypoints/jquery.waypoints.min.js -c -m -o assets/js/main.min.js",
+    "build-js": "webpack -p",
+    "build-comments": "webpack -p",
+    "build-comments-dev": "webpack",
+    "build": "gulp build",
+    "images": "gulp optimize:images",
+    "serve": "gulp serve",
+    "serve:rebuild": "gulp serve:rebuild"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "glob": "latest"
+  }
+}

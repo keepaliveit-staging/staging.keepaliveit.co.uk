@@ -1,0 +1,46 @@
+os: linux
+dist: xenial
+language: ruby
+
+# only run CI-builds on gh-pages branch
+branches:
+  only:
+    - gh-pages
+
+rvm:
+  - 2.7.1
+
+services:
+  - docker
+
+cache:
+  - bundler # cache bundler gem packages to speed up build
+  - npm # cache npm to speed up node_modules build
+
+before_install:
+  - docker build -t keepaliveit/jekyll-gulp-docker ./jekyll-gulp-docker -f jekyll-gulp-docker/Dockerfile
+  - docker run -it --rm -v $(pwd):/srv -w="/srv/src/resource" -p 3000:3000 keepaliveit/jekyll-gulp-docker npm run build
+
+# setup npm and set execution permission on our build script
+before_script:
+  - chmod +xrw ./scripts/cibuild.sh
+
+# path to our build script.
+# Travis will run `bundle install` by default before running our script
+script: ./scripts/cibuild.sh
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
+deploy:
+  strategy: git
+  provider: pages
+  cleanup: true
+  token: $GH_TOKEN
+  keep_history: true
+  committer_from_gh: true
+  target_branch: master
+  on:
+    branch: gh-pages
