@@ -12,7 +12,7 @@ services:
 
 before_install:
   - docker build -t keepaliveit/jekyll-gulp-docker ./jekyll-gulp-docker -f jekyll-gulp-docker/Dockerfile
-  - docker run -it --rm -v $(pwd):/srv -w="/srv/" keepaliveit/jekyll-gulp-docker chown -R /srv/.jekyll-cache/ && chown -R /srv/_site/ && npm run build:test
+  - docker run -it --rm -v $(pwd):/srv -w="/srv/" keepaliveit/jekyll-gulp-docker chown -R jekyll /srv/.jekyll-cache/ && chown -R jekyll /srv/_site/ && npm run build:test
 
 # setup npm and set execution permission on our build script
 before_script:
