@@ -63,6 +63,7 @@
     "build-comments-dev": "webpack",
     "build": "gulp build",
     "build:test": "gulp build:test",
+    "build:jekyll:test": "gulp build:jekyll:test",
     "build:local": "gulp build:local",
     "images": "gulp optimize:images",
     "serve": "gulp serve",
