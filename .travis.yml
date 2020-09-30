@@ -1,21 +1,14 @@
 os: linux
 dist: xenial
-language: ruby
+language: minimal
 
 # only run CI-builds on gh-pages branch
 branches:
   only:
     - gh-pages
 
-rvm:
-  - 2.7.1
-
 services:
   - docker
-
-cache:
-  - bundler # cache bundler gem packages to speed up build
-  - npm # cache npm to speed up node_modules build
 
 before_install:
   - docker build -t keepaliveit/jekyll-gulp-docker ./jekyll-gulp-docker -f jekyll-gulp-docker/Dockerfile
