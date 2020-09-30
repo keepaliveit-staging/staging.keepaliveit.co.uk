@@ -19,6 +19,7 @@ cache:
 
 before_install:
   - docker build -t keepaliveit/jekyll-gulp-docker ./jekyll-gulp-docker -f jekyll-gulp-docker/Dockerfile
+  - mkdir .jekyll-cache _site
   - docker run -it --rm -v $(pwd):/srv -w="/srv/src/resource" -p 3000:3000 keepaliveit/jekyll-gulp-docker npm run build
 
 # setup npm and set execution permission on our build script
