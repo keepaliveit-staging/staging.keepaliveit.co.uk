@@ -9,9 +9,6 @@ fi
 # enable error reporting to the console
 set -e
 
-# Add files to _site and push to master
-cd _site
-
 if [ $TRAVIS_REPO_SLUG == "keepaliveit-staging/staging.keepaliveit.co.uk" ]; then
   echo "staging.keepaliveit.co.uk" > CNAME
   echo -e "User-agent: *\nDisallow: /" > robots.txt
