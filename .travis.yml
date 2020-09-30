@@ -35,9 +35,12 @@ addons:
     - libcurl4-openssl-dev
 
 deploy:
+  strategy: git
   provider: pages
-  skip_cleanup: true
-  github_token: $GH_TOKEN
+  cleanup: true
+  token: $GH_TOKEN
   keep_history: true
+  committer_from_gh: true
+  target_branch: master
   on:
-    branch: master
+    branch: gh-pages
