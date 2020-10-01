@@ -20,7 +20,7 @@ module.exports = {
     }, {}),
     output: {
         filename: '[name].bundle.js',
-        path: __dirname + "/_site/assets/js/",
+        path: path.join(__dirname, "/_site/assets/dist/"),
         publicPath: "/"
     },
     plugins: [
