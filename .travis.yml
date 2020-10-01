@@ -2,6 +2,9 @@ os: linux
 dist: xenial
 language: minimal
 
+# Lie to Travis, as we don't need to use our Gemfile outside of Docker.
+gemfile: gemfiles/Gemfile.ci
+
 # only run CI-builds on gh-pages branch
 branches:
   only:
