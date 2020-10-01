@@ -174,9 +174,6 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - scripts
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
   - Capfile
   - CHANGELOG
   - config
@@ -193,6 +190,10 @@ exclude:
   - assets/gulp-config
   - assets/styles
   - _industry
+  - csv_to_md.py
+  - data.csv
+  - hologram_config.yml
+  - webpack.config.js
 keep_files:
   - .git
   - .svn

@@ -30,7 +30,7 @@ addons:
 deploy:
   strategy: git
   provider: pages
-  cleanup: true
+  skip_cleanup: true
   token: $GH_TOKEN
   keep_history: true
   committer_from_gh: true
