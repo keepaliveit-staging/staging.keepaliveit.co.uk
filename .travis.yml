@@ -2,7 +2,7 @@ os: linux
 dist: xenial
 language: minimal
 
-rvm: 2.6.3
+rvm: 2.7.1
 
 # only run CI-builds on gh-pages branch
 branches:
