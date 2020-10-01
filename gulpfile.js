@@ -18,6 +18,7 @@ gulp.task('build', gulp.series(
     gulp.parallel(
         'build:scripts',
         'build:images',
+        'build:favicons',
         'build:videos',
         'build:styles',
         'build:fonts'
@@ -36,6 +37,7 @@ gulp.task('build:test', gulp.series(
     gulp.parallel(
         'build:scripts',
         'build:images',
+        'build:favicons',
         'build:videos',
         'build:styles',
         'build:fonts'
