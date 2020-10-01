@@ -9,7 +9,7 @@ gulp.task('build:jekyll', gulp.parallel(buildJekyll));
 
 // Runs the jekyll build command using the test config file.
 const buildJekyllTest = () => {
-  return utils.runCommand('chown -R jekyll:jekyll /srv && bundle exec jekyll build --config _config-test.yml');
+  return utils.runCommand('chmod a+wx . && bundle exec jekyll build --config _config-test.yml');
 };
 gulp.task('build:jekyll:test', gulp.parallel(buildJekyllTest));
 
