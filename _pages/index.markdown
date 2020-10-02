@@ -15,11 +15,13 @@ header:
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
-        header_text: "👋 We're Keep-Alive I.T<span style='color:#27f55b;font-weight:bold;'>:</span> a universal, technology-agnostic I.T Agency consisting of highly skilled <span style='color:#f5c227;'>I.T Consultants</span>, <span style='color:#2288ab;'>I.T Engineers</span>, and <span style='color:#f5275a;'>I.T Experts</span> who are ready to take on I.T related work."
-        header_body: "<a href='/about/our-approach-to-it-consultancy/'>Demonstrating what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-infrastructure-management/'>running I.T infrastructure effectively</a> is what we do."
+        header_text: "👋 We're Keep-Alive I.T<span style='color:#27f55b;font-weight:bold;'>:</span> An eco-friendly 🌱,  technology-agnostic 👩‍💻 I.T Agency 🏢 who bridges the gap between I.T solutions 🖥️ and people 🕺"
 ---
                                             
 <h2 class="text-center static-heading">👋 Hello! This is what we do at Keep-Alive I.T:</h2>
+
+
+<a href='/about/our-approach-to-it-consultancy/'>Demonstrating what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-infrastructure-management/'>running I.T infrastructure effectively</a> is what we do.
 
 <blockquote data-aos="zoom-in" data-aos-once="true">
   <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>

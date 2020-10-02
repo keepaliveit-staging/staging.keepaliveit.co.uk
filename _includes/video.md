@@ -34,8 +34,26 @@
             {{ header_text }}
         </div>
 
-        <div data-aos="fade-down" data-aos-once="true" data-aos-delay="500" class="bubble2">
-            {{ header_body }}
+        <div id="timeline-wrap">
+          <div id="timeline"></div>
+
+          <!-- This is the individual marker-->
+          <div class="marker mfirst timeline-icon one">
+              <i class="fa fa-pencil"></i>
+          </div>
+          <!-- / marker -->
+
+          <!-- This is the individual marker-->
+          <div class="marker m2 timeline-icon two">
+              <i class="fa fa-usd"></i>
+          </div>
+          <!-- / marker -->
+
+          <!-- This is the individual marker-->
+          <div class="marker m3 timeline-icon three">
+            <i class="fa fa-list"></i>
+          </div>
+          <!-- / marker -->
         </div>
 
         <div class="bubble3">
