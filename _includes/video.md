@@ -33,27 +33,18 @@
         <div data-aos="fade-down" data-aos-once="true" class="bubble1">
             {{ header_text }}
         </div>
-
-        <div id="timeline-wrap">
-          <div id="timeline"></div>
-
-          <!-- This is the individual marker-->
-          <div class="marker mfirst timeline-icon one">
-              <i class="fa fa-pencil"></i>
-          </div>
-          <!-- / marker -->
-
-          <!-- This is the individual marker-->
-          <div class="marker m2 timeline-icon two">
-              <i class="fa fa-usd"></i>
-          </div>
-          <!-- / marker -->
-
-          <!-- This is the individual marker-->
-          <div class="marker m3 timeline-icon three">
-            <i class="fa fa-list"></i>
-          </div>
-          <!-- / marker -->
+                
+        <div class="bubble2"> 
+            <div style="text-decoration:underline;">We help people // organisations:</div>
+            <div class="rotateText"> 
+                <div>• Understand the capibilities of technology.</div> 
+                <div>• Build Websites.</div> 
+                <div>• Build Mobile Applications.</div> 
+                <div>• Build Platform Specific Applications.</div> 
+                <div>• Manage I.T infrastructure.</div> 
+                <div>• Diagnose and repair Software issues.</div> 
+                <div>• Diagnose and repair Hardware issues.</div> 
+            </div>              
         </div>
 
         <div class="bubble3">

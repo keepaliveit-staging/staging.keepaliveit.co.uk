@@ -1218,10 +1218,9 @@ Cookie notice
 
   }
 
-  /* TODO: Delete this */
   .bubble2 {
     position: absolute;
-    max-width: 70%;
+    width: 80%;
     background: rgba(13, 73, 112, 0.93);
     color: #e7e7e7;
     font-size: 0.8em;
@@ -1231,7 +1230,7 @@ Cookie notice
 
     // Mobile first
     top: 270px;
-    left: 15%;
+    left: 10%;
 
     a {
       color: white;
@@ -1241,6 +1240,10 @@ Cookie notice
         background: lightgrey;
         color: black;
       }
+    }
+
+    .rotateText {
+      font-size: 30px;
     }
   }
 
@@ -2335,7 +2338,6 @@ section.emergency {
 }
 
 .marker {
-  z-index: 1000;
   color: #fff;
   width: 50px;
   height: 50px;
