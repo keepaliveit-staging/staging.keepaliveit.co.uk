@@ -41,8 +41,6 @@ $(document).ready(function () {
         });
     }
 
-
-
     // Sticky sidebar - show on tech tips pages
     var stickySideBar = function () {
         var show =
@@ -149,8 +147,6 @@ $(document).ready(function () {
         closeOnContentClick: true,
         midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
     });
-
-
 
     $("#industry-pagination > li > a").click(function (e) {
         e.preventDefault();

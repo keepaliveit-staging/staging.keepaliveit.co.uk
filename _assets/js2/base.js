@@ -2,11 +2,13 @@ window.$ = window.jQuery = require('jquery');
 
 import '../js/plugins/droopmenu'
 import '../js/plugins/jquery.lazy.min'
+import '../js/pushydrawer'
 let AOS = require('../js/plugins/aos');
 let SmoothScroll = require('../js/plugins/smooth-scroll');
 
 
 $(document).ready(function () {
+    $("#mobile-menu").mobileMenu();
 
     $("#email-link").attr("href", atob("bWFpbHRvOnRlYW1Aa2VlcGFsaXZlaXQuY28udWs="));
     $("#phone-link").attr("href", atob("dGVsOjAyMDc1NTA5MzIx"));

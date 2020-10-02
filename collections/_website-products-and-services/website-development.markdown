@@ -18,6 +18,14 @@ header:
 
 ## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development
 
+Progressive web apps
+Offline capabilities
+Notifications
+Full screen / no browser
+Icon on Homescreen
+
+
+
 Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 
 
