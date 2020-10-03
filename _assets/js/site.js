@@ -4,10 +4,6 @@ import './pushy'
 
 $(document).ready(function () {
 
-
-    $(".accordionjs").accordionjs();
-
-
     var $el, $p, $ps, $up, totalHeight;
 
     $(".sidebar-box .button").click(function () {

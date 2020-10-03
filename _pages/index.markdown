@@ -15,7 +15,7 @@ header:
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
-        header_text: "We're Keep-Alive I.T<span style='color:#27f55b;font-weight:bold;'>:</span> A technology-agnostic 👩 I.T Agency ‍💻  We help people 🕺 & organisations 🏢 explore, adopt, and utilise efficient I.T."
+        header_text: "👋 Hello! We're Keep-Alive I.T<span style='color:#FFDE59;font-weight:bold;'>:</span> <br><br> A technology-agnostic I.T Agency ‍💻  We help people 🕺 & organisations 🏢 explore, adopt, and utilise efficient I.T."
 ---
                                             
 <h2 class="text-center static-heading">👋 Hello! This is what we do at Keep-Alive I.T:</h2>
@@ -80,7 +80,7 @@ header:
             <h3>I.T support as a Service</h3>
             <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
             <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
-            <a class="btn button btn--primary">Discover project management as a service</a>
+            <a class="btn button btn--primary">Discover I.T Support as a service</a>
         </div>
     </div>
 </section>
