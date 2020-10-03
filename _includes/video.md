@@ -48,15 +48,23 @@
         </div>
 
         <div class="bubble3">
-            <div class="bubble-block-bottom"></div>
-            <div style="width:300px;position:absolute;top:40px;left:calc(50% - 150px);color:white;text-align:center;font-weight:300;font-size: 0.77em;">
-                <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);">Learn more about Keep-Alive I.T</a>
-            </div>
-            <div class="bounce-7" style="height:50px;width:50px;background:rgba(0,0,0,0.4);position:absolute;top:85px;left:calc(50% - 26px);border-radius:40px;text-align:center;animation-duration: 2s;animation-iteration-count: infinite;border: 1px solid rgba(255,255,255,.29);">
-                <a href="#main">
-                    <i class="fas fa-chevron-down" aria-hidden="true" style="color:white;font-size:40px;line-height:50px;"></i>
-                </a>
-            </div>
+          <div style="flex-basis: 80px;">
+              <div class="bounce-7 scroll-down1">
+                  <a href="#main">
+                      <i class="fas fa-chevron-down" aria-hidden="true"></i>
+                  </a>
+              </div>
+          </div>
+          <div style="flex-grow: 1;align-self: center;">
+            <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);color:white;text-align:center;font-weight:300;font-size: 0.77em;">Learn more about Keep-Alive I.T</a>
+          </div>
+          <div style="flex-basis: 80px;">
+              <div class="bounce-7 scroll-down2">
+                  <a href="#main">
+                      <i class="fas fa-chevron-down" aria-hidden="true"></i>
+                  </a>
+              </div>
+          </div>
         </div>
     </div>
 </div>
