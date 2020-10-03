@@ -19,6 +19,11 @@ header:
 
 ## <i class="fas fa-globe page-title-icon" aria-hidden="true"></i> Website Development
 
+Creating the perfect design with code can be a challenge for even the most experienced of web designers.
+
+We make use of CSS3 media queries to create pixel perfect designs that work across a range of computing devices. Including; mobile phones, tablet devices, and desktop PCs.
+
+
 Establishing your presence online via a professionally developed website is key to making your business's brand known to the world. We can develop websites on top of popular CMS systems, or develop custom in-house web development solutions to suit your exact needs, so that you can dominate the web with the presence of your business services.
 
 
