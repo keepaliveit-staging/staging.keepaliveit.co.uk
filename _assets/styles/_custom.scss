@@ -246,6 +246,12 @@ $color-primary-border: #e5ebc3;
   .feature__item {
     padding: 2em;
   }
+
+  .rounded-button {
+    display: block;
+    padding: 15px;
+    border-radius: 30px;
+  }
 }
 
 .metrics {
@@ -2440,3 +2446,69 @@ section.emergency {
   border-bottom: 15px solid #cbd0df;
 }
 
+
+
+
+
+
+
+
+
+
+.js-accordion__panel[aria-hidden=true] {
+  display: none;
+}
+
+.js-accordion__panel[role="tabpanel"] .js-accordion__header {
+  display: none;
+}
+
+.js-accordion__panel {
+  padding-left: 2em;
+  background: #4a4545;
+}
+
+button.js-accordion__header {
+  display: block !important;
+  width: 100%;
+  color: #333333;
+  border: 0;
+  height: 50px;
+}
+
+.js-accordion__header[aria-expanded="true"]:before {
+  content: "- ";
+}
+.js-accordion__header[aria-expanded="false"]:before {
+  content: "+ ";
+}
+
+
+.animated-accordion__panel {
+  display: block;
+  overflow: hidden;
+  opacity: 1;
+  transition: visibility 0s ease, max-height 1s ease, opacity 1s ease ;
+  max-height: 100em;
+  /* magic number for max-height = enough height */
+  visibility: visible;
+  transition-delay: 0s;
+  margin: 0;
+  padding: 0;
+}
+/* This is the hidden state */
+[aria-hidden=true].animated-accordion__panel {
+  display: block;
+  max-height: 0;
+  opacity: 0;
+  visibility: hidden;
+  transition-delay: 1s, 0s, 0s;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+js-accordion__nav-links {
+
+}

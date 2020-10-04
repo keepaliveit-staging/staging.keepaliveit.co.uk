@@ -4,6 +4,7 @@ import '../js/plugins/jquery.fitvids'
 import '../js/plugins/droopmenu'
 import '../js/plugins/jquery.lazy.min'
 import '../js/pushydrawer'
+import '../js/jquery-accordion-accessible'
 
 let AOS = require('../js/plugins/aos');
 let SmoothScroll = require('../js/plugins/smooth-scroll');
@@ -89,4 +90,6 @@ $(document).ready(function () {
         durationMax: 500,
         updateURL: false
     });
+
+    $('.js-accordion').accordion({ buttonsGeneratedContent: 'html' });
 });

@@ -1,6 +1,8 @@
 import '../../base';
 import '../../../js/rotaterator'
 
-$(document).ready(function(){
+$(document).ready(function () {
     $('.rotateText').rotaterator({fadeSpeed: 2000, pauseSpeed: 1000});
+
+
 });
