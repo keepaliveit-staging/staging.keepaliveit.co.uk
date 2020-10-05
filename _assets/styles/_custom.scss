@@ -664,7 +664,7 @@ $color-primary-border: #e5ebc3;
       color: #ffffff;
 
       i {
-        color: #aa0000;
+        color: #6d6d6d;
       }
 
       a {
@@ -675,6 +675,10 @@ $color-primary-border: #e5ebc3;
 
       a.active,a:hover {
         color: #ffde59;
+
+        i {
+          color: #aa0000;
+        }
       }
     }
   }

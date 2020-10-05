@@ -49,9 +49,9 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  background: #aa0000;
+  background: #273f58;
   width: 100%;
-  border-bottom: 5px solid #292929;
+  border-bottom: 5px solid #e0e0e0;
 
   .container-center-page {
     @include breakpoint($x-large) {
