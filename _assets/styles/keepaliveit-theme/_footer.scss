@@ -49,9 +49,9 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  background: #171717;
+  background: #aa0000;
   width: 100%;
-  border-bottom: 5px solid #aa0000;
+  border-bottom: 5px solid #292929;
 
   .container-center-page {
     @include breakpoint($x-large) {
@@ -79,6 +79,11 @@
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     text-transform: uppercase;
+
+    /* Back to top link */
+    &:last-child {
+      float: right;
+    }
   }
 
   li + li:before {

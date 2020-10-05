@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Our new office location."
-date:   2019-11-26 22:20:28 +0000
+title: "Our new office location."
+date: 2019-11-26 22:20:28 +0000
 categories: news
 author_profile: true
 thumbnail: /assets/images/posts/thumbnail/welsh-ice.jpg

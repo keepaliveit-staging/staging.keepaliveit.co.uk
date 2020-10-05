@@ -15,7 +15,7 @@ header:
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
-        header_text: "👋 Hello! We're Keep-Alive I.T<span style='color:#FFDE59;font-weight:bold;'>:</span> <br><br> A technology-agnostic I.T Agency ‍💻  We help people 🕺 & organisations 🏢 explore, adopt, and utilise efficient I.T."
+        header_text: "👋 Hello! We're Keep-Alive I.T<span style='color:#FFDE59;font-weight:bold;'>:</span> <br><br> A technology-agnostic I.T Agency ‍💻  We help people 👥 & organisations 🏢 explore, adopt, and utilise efficient I.T."
 ---
                                             
 <h2 class="text-center static-heading">👋 Hello! This is what we do at Keep-Alive I.T:</h2>

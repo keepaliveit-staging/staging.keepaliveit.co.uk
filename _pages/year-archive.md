@@ -1,6 +1,6 @@
 ---
 title: "Company news by Year"
-permalink: /news/
+permalink: /company-news/
 layout: posts
 author_profile: false
 ---

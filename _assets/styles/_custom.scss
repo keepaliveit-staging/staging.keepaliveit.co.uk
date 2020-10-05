@@ -641,19 +641,17 @@ $color-primary-border: #e5ebc3;
 }
 
 #footer {
-  background: white;
+  background: #292929;
 
   h3 {
     text-transform: uppercase;
     font-size: 0.84em;
     margin-bottom: 20px;
-    color: #000000;
+    color: #ffffff;
     margin-top: 2em;
 
     span {
-      text-decoration-line: underline;
-      text-decoration-style: wavy;
-      text-decoration-color: $color-primary;
+      text-decoration: underline;
     }
   }
 
@@ -669,13 +667,14 @@ $color-primary-border: #e5ebc3;
         color: #aa0000;
       }
 
-      a.active {
-        -webkit-text-decoration-line: underline;
-        text-decoration-line: underline;
-        -webkit-text-decoration-style: wavy;
-        text-decoration-style: wavy;
-        -webkit-text-decoration-color: #009fe1;
-        text-decoration-color: #009fe1;
+      a {
+        color: #bbbbbb;
+        font-family: Montserrat,Helvetica,Arial,sans-serif;
+        font-size: 14px;
+      }
+
+      a.active,a:hover {
+        color: #ffde59;
       }
     }
   }
@@ -1641,7 +1640,7 @@ Cookie notice
 }
 
 .droopmenu-navbar {
-  background: #171717;
+  background: #292929;
   height: $header-height;
 }
 
@@ -2447,14 +2446,6 @@ section.emergency {
 }
 
 
-
-
-
-
-
-
-
-
 .js-accordion__panel[aria-hidden=true] {
   display: none;
 }
@@ -2469,16 +2460,20 @@ section.emergency {
 }
 
 button.js-accordion__header {
-  display: block !important;
   width: 100%;
-  color: #333333;
   border: 0;
   height: 50px;
+  display: block;
+  background: rgba(0, 0, 0, 0.78);
+  color: #fefefe;
+  padding: 0.75em;
+  transition: background 0.2s ease;
 }
 
 .js-accordion__header[aria-expanded="true"]:before {
   content: "- ";
 }
+
 .js-accordion__header[aria-expanded="false"]:before {
   content: "+ ";
 }
@@ -2488,7 +2483,7 @@ button.js-accordion__header {
   display: block;
   overflow: hidden;
   opacity: 1;
-  transition: visibility 0s ease, max-height 1s ease, opacity 1s ease ;
+  transition: visibility 0s ease, max-height 1s ease, opacity 1s ease;
   max-height: 100em;
   /* magic number for max-height = enough height */
   visibility: visible;
@@ -2496,19 +2491,20 @@ button.js-accordion__header {
   margin: 0;
   padding: 0;
 }
+
 /* This is the hidden state */
 [aria-hidden=true].animated-accordion__panel {
   display: block;
   max-height: 0;
   opacity: 0;
   visibility: hidden;
-  transition-delay: 1s, 0s, 0s;
+  transition-delay: 0.5s, 0s, 0s;
   margin: 0;
   padding: 0;
 }
 
 
-
-js-accordion__nav-links {
-
+.js-accordion__nav-footer {
+  border: 1px solid grey;
+  margin: 20px 0;
 }
