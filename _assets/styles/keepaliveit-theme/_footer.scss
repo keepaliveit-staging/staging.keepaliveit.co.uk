@@ -92,7 +92,7 @@
   }
 
   a {
-    padding-right: 10px;
+    padding-right: 0px;
     font-weight: bold;
   }
 
@@ -103,6 +103,7 @@
 
       @include breakpoint($small) {
         font-size: 2em;
+        padding-right: 10px;
       }
     }
   }

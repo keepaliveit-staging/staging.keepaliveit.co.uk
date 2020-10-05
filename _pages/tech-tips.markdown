@@ -26,7 +26,7 @@ pagination:
 <p>We understand not everyone is a 'tech wizzard' when it comes to dealing with I.T, so this is why we've written guides on how to perform common computing tasks. We hope our guides are a valuable learning resource and can help you take the 'DIY approach' to maintaining your I.T.</p>
 <p>If you have a request for a tech tip article, please get in touch and we will see what we can do for you.</p>
 
-<div class="container">
+<div class="wrapper">
     <div class="row">
         {% for item in paginator.posts %}            
             <div class="col-xs-12 col-sm-6 techtip-container">
