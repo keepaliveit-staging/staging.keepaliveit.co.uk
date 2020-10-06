@@ -1,4 +1,5 @@
 import '../../../js/jquery.background-video'
+import '../../../js/glider.min'
 let fitvid = require( '../../../js/plugins/jquery.fitvids');
 
 $(document).ready(function(){
@@ -22,4 +23,14 @@ $(document).ready(function(){
         });
     }
 
+
+    new Glider(document.querySelector('.glider'), {
+        slidesToShow: 1,
+        dots: '.dots',
+        draggable: true,
+        arrows: {
+            prev: '.glider-prev',
+            next: '.glider-next'
+        }
+    });
 });

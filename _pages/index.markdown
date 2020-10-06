@@ -289,23 +289,28 @@ Help improve citizen services, increase operational effectiveness, and deliver p
         </h2>
         <p>Don't just take our word for it. We work with a wide variety of audiences and want you to see what they've got to say about our company:</p>
     </div>
-
-    <div class="row">
+    
+    <div class="glider-contain">
+      <div class="glider testimonials-glider">
         {% assign items = site.testimonial %}
-        
-        {% for item in items %}            
-            <div class="col-md-6">
-                <div class="testimonial-item">
-                    <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                    <h3> {{ item.author }}</h3>
-                    <h4>{{ item.role }}</h4>
-                    <p>
-                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                        {{ item.content | markdownify  }}
-                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                    </p>
+            {% for item in items %}            
+                <div>
+                    <div class="testimonial-item">
+                        <img src="https://bootstrapmade.com/demo/themes/Eterna/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                        <h3> {{ item.author }}</h3>
+                        <h4>{{ item.role }}</h4>
+                        <p>
+                            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                            {{ item.content | markdownify  }}
+                            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                        </p>
+                    </div>
                 </div>
-            </div>
-        {% endfor %}
+            {% endfor %}
+      </div>
+    
+      <button aria-label="Previous" class="glider-prev">«</button>
+      <button aria-label="Next" class="glider-next">»</button>
+      <div role="tablist" class="dots"></div>
     </div>
 </section>
