@@ -1,7 +1,7 @@
 ---
 layout: splash 
-title: "Experienced PHP Developers for Hire"
-permalink: /recruitment/experienced-php-developers-for-hire.html
+title: "Experienced Python Software Engineers for Hire"
+permalink: /recruitment/experienced-python-software-engineers-for-hire
 
 excerpt: "Efficient I.T reduces costs"
 header:

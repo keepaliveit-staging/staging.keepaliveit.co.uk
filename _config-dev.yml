@@ -349,7 +349,9 @@ collections:
   it-tools-and-utilities:
     output: true
     permalink: /:collection/:path/
-
+  recruitment:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
