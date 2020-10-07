@@ -1,4 +1,4 @@
-import '../../../js/plugins/jquery.steps.min.js'
+import '../../../js/jquery.steps-custom'
 import '../../../js/plugins/jquery-ui-custom.min.js'
 import '../../../js/plugins/jquery.validate.min.js'
 import '../../../js/plugins/additional-methods.min.js'
