@@ -14,7 +14,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Company Environmental Policy for Keep-Alive I.T Ltd.
+## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Customer Satisfaction Policy for Keep-Alive I.T Ltd.
 Keep-Alive I.T places great importance on its environment and its vision is to ensure it plays a part in the protection and long-term sustainability of the natural world. 
 Our aim is to minimize the environmental impact of our product and services, and to achieve continual improvement in environmental performance.  
 

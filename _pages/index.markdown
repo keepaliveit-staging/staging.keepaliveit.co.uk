@@ -70,7 +70,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need help with general technical issues? Keep-Alive I.T can probably help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need help with general technical issues? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -105,7 +105,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need some help with a technical issue? Keep-Alive I.T can probably help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center">Need some help with a technical issue? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
