@@ -59,7 +59,7 @@
 
             $(droopmenu_inst).find('li:has(ul.droopmenu-megamenu)').addClass('droopmenu-mega');
             $(droopmenu_inst).find(".droopmenu > li > a").append("<em class='droopmenu-topanim'></em>");
-            $(droopmenu_inst).find(".droopmenu-nav .droopmenu").wrapAll("<div class='droopmenu-nav-wrap'><div class='droopmenu-navi'></div></div>");
+            $(droopmenu_inst).find(".droopmenu-nav .droopmenu").wrapAll("<div class='droopmenu-nav-wrap'></div>");
             $(droopmenu_inst).find(droopmenu_main_toggler).append("<i class='dm-burg'></i><i class='dm-burg'></i><i class='dm-burg'></i>");
             if (settings.dmFixed == true) {
                 $(droopmenu_inst).addClass(settings.dmFixedClass);
@@ -193,6 +193,7 @@
                         var dmHoverLnk = $(this);
                         clearTimeout(dmHoverTimer);
                         dmHoverTimer = setTimeout(function () {
+                            $('body').css('overflow','hidden'); // prevent scroll
                             dmHoverLnk.stop(true, true).addClass(settings.dmOpenClass);
                             dmHoverLnk.find('> a').attr('aria-expanded', 'true');
                         }, settings.dmShowDelay);
@@ -200,8 +201,9 @@
                     mouseleave: function () {
                         var dmHoverLnk = $(this);
                         setTimeout(function () {
-                            dmHoverLnk.stop(true, true).removeClass(settings.dmOpenClass);
-                            dmHoverLnk.find('> a').attr('aria-expanded', 'false');
+                            //$('body').css('overflow','auto'); // enable scroll again
+                            //dmHoverLnk.stop(true, true).removeClass(settings.dmOpenClass);
+                            //dmHoverLnk.find('> a').attr('aria-expanded', 'false');
                         }, settings.dmHideDelay);
                     }
                 });
@@ -259,12 +261,11 @@
         var droopmenu_tabs = function () {
             $(droopmenu_inst).find('.droopmenu-tabs').each(function (i) {
                 var droopmenu_tab = $(this);
-                droopmenu_tab.wrapInner('<div class="droopmenu-tabpanel droopmenutabcol"></div>')
                 droopmenu_tab.prepend('<div class="droopmenu-tabnav droopmenutabcol"></div>');
                 droopmenu_tab.find('.droopmenu-tabsection').each(function (j) {
                     $(this).attr('id', 'droopmenutab' + i + j);
                     $(this).children('.droopmenu-tabheader').attr('href', '#droopmenutab' + i + j);
-                    droopmenu_tab.children('.droopmenu-tabnav').append('<a href="#droopmenutab' + i + j + '">' + $(this).children('.droopmenu-tabheader').html() + '</a>');
+                    droopmenu_tab.children('.droopmenu-tabnav').append('<a data-ignore-scroll="true" href="#droopmenutab' + i + j + '">' + $(this).children('.droopmenu-tabheader').html() + '</a>');
                 });
                 droopmenu_tab.find('.droopmenu-tabsection:first').addClass('droopmenu-tab-active');
                 droopmenu_tab.find('.droopmenu-tabnav a:first').addClass('droopmenu-tab-active');
@@ -291,6 +292,7 @@
                         });
                     } else {
                         $(this).on('click', function (e) {
+                            alert('ok')
                             e.preventDefault();
                             var index = $(this).index();
                             droopmenu_tab.find('.droopmenu-tabsection, .droopmenu-tabnav a').removeClass('droopmenu-tab-active');
@@ -303,6 +305,16 @@
 
         var droopmenu_dmtoggler = function () {
             $(droopmenu_inst).find(droopmenu_main_toggler).on("click", function (e) {
+
+                /*
+                $(".droopmenu li a").click(function(e){
+                    window.something = $(e.target);
+                    if ($(this).is('[href*="#"')) {
+                        e.preventDefault();
+                    }
+                });
+                 */
+
                 e.preventDefault();
                 // $(this).toggleClass("dmt-active");
                 // if ($(this).hasClass("dmt-active")) {
@@ -313,11 +325,19 @@
             });
         }
 
+        var droopmenu_toptoggle = function () {
+            // $(droopmenu_inst).find(".droopmenu-tabnav a").on("click", function (e) {
+            //     e.preventDefault();
+            //     alert('clicked a tab')
+            // });
+        }
+
         return this.each(function () {
             droopmenu_tabs();
             droopmenu_config();
             droopmenu_adjust();
             droopmenu_dmtoggler();
+            droopmenu_toptoggle();
             var dmResizeTimer;
             $(window).on('resize.droopMenu orientationchange.droopMenu', function () {
                 clearTimeout(dmResizeTimer);

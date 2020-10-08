@@ -1,17 +1,15 @@
 ---
 layout: splash 
-title: "Social Media Manager"
-permalink: /jobs/social-media-manager
+title: "Junior PHP Developer"
+permalink: /jobs/junior-php-developer
 
-excerpt: "Social Media Manager Job at Keep-Alive I.T."
+excerpt: "Graduate PHP Developer Job at Keep-Alive I.T."
 header:
   overlay_image: /assets/images/jobs/php-developer.jpg
   overlay_filter: 0.5 
 ---
 
-{% include breadcrumbs.html %}
-
-## Social Media Manager (Full Time)
+## Junior PHP Developer (Full Time)
 
 ## Job Description:
 We have newly available position for a graduate PHP Developer here at Keep-Alive I.T. Duties of the job will include developing and maintaining client websites written in the PHP programming language within a LAMP, or WAMP environment.

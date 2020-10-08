@@ -1,7 +1,7 @@
 window.$ = window.jQuery = require('jquery');
 
 import '../js/plugins/jquery.fitvids'
-import '../js/plugins/droopmenu'
+import '../js/droopmenu-custom'
 import '../js/plugins/jquery.lazy.min'
 import '../js/pushydrawer'
 import '../js/jquery-accordion-accessible'

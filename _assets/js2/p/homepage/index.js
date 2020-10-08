@@ -33,4 +33,6 @@ $(document).ready(function(){
             next: '.glider-next'
         }
     });
+
+
 });

@@ -1,7 +1,7 @@
 ---
 layout: splash 
-title: "Graduate PHP Developer"
-permalink: /jobs/graduate-php-developer
+title: "Senior PHP Developer"
+permalink: /jobs/senior-php-developer
 
 excerpt: "Graduate PHP Developer Job at Keep-Alive I.T."
 header:
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 
 ---
 
-## Graduate PHP Developer (Full Time)
+## Junior PHP Developer (Full Time)
 
 ## Job Description:
 We have newly available position for a graduate PHP Developer here at Keep-Alive I.T. Duties of the job will include developing and maintaining client websites written in the PHP programming language within a LAMP, or WAMP environment.

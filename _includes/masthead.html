@@ -8,12 +8,12 @@
     <div class="droopmenu-navbar dmfixed">
         <div class="droopmenu-inner">
             <div class="droopmenu-header">
-                <a href="/" class="droopmenu-brand">
+                <a href="/" class="droopmenu-brand" data-scroll-ignore="true">
                     <img src="/assets/images/logo-tagline.png"
                          class="lazy"
                          alt="Keep-Alive I.T Logo">
                 </a>
-                <a href="#" class="droopmenu-toggle"></a>
+                <a href="#" class="droopmenu-toggle" data-scroll-ignore="true"></a>
             </div><!-- droopmenu-header -->
             <div class="droopmenu-nav">
                 <ul class="droopmenu">
@@ -26,7 +26,7 @@
                     {%- endif -%}
 
                     <li class="droopmenu-parent droopmenu-mega" aria-haspopup="true">
-                        <a href="{{ link.url }}" aria-expanded="false">
+                        <a href="{{ link.url }}" aria-expanded="false" data-scroll-ignore="true">
                             {{ link.title }}
                         </a>
                         <ul class="droopmenu-megamenu droopmenu-grid">
@@ -34,9 +34,8 @@
                                 <div class="droopmenu-tabpanel droopmenutabcol">
                                     <!-- TAB -->
                                     {%- for submenu1 in link.subitems -%}
-                                    <div class="droopmenu-tabsection" class="droopmenu-helptext"
-                                         data-helptext="{{ submenu1.helptext }}">
-                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader" style="color: {{ submenu1.color }};">
+                                    <div class="droopmenu-tabsection" class="droopmenu-helptext" data-helptext="{{ submenu1.helptext }}">
+                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader" data-scroll-ignore="true">
                                             {{ submenu1.icon }}
                                             {{ submenu1.short_title }}
                                         </a>
@@ -70,6 +69,7 @@
                                     </div>
                                     {%- endfor -%}
                                 </div>
+                                <div>this is some more content</div>
                             </li>
                         </ul>
                     </li>

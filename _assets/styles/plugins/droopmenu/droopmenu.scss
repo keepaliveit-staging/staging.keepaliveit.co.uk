@@ -416,6 +416,10 @@
 
 .droopmenu > li.droopmenu-mega > ul {
     width: 100%;
+    height: calc(100vh - 100px);
+    position: fixed;
+    top: 100px;
+    left: 0;
 }
 
 .droopmenu .droopmenu-grid-container {
@@ -1559,6 +1563,7 @@
 
 .droopmenu .droopmenu-tabs {
     display: block;
+    height: calc(100vh - 100px);
 }
 
 .droopmenu .droopmenu-tabsection {
@@ -2567,16 +2572,6 @@
         overflow: hidden;
         height: 100%;
         width: 100%;
-    }
-
-    .droopmenu-offcanvas .droopmenu-nav-wrap > .droopmenu-navi {
-        position: absolute;
-        overflow: auto;
-        overflow-x: hidden;
-        bottom: 0;
-        right: 0;
-        left: 0;
-        top: 0;
     }
 
     .droopmenu-dmopen {
