@@ -1,0 +1,1921 @@
+/*	-------------------------------------------------------
+	:: Description: Droopmenu Menu
+	:: Author: Elflaire
+	:: Version: 1.1
+	-------------------------------------------------------
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i|Quicksand:300,400,500,700');
+
+/*	-------------------------------------------------------
+	:: Droopmenu Wrapper Containers
+	-------------------------------------------------------
+*/
+
+.droopmenu-navbar {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+  * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  color: #898989;
+  font-size: 15px;
+  background: #fff;
+  font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+  -webkit-box-shadow: 0 1px 60px rgba(33, 33, 33, 0.2);
+  -moz-box-shadow: 0 1px 60px rgba(33, 33, 33, 0.2);
+  box-shadow: 0 1px 60px rgba(33, 33, 33, 0.2);
+  position: relative;
+  line-height: 1.6;
+  z-index: 9999;
+
+  /* Override with custom colours */
+
+  #droopmenutab00 .droopmenu-tabcontent {
+    background: #215e51;
+  }
+
+  #droopmenutab01 .droopmenu-tabcontent {
+    background: #36454f;
+  }
+
+  #droopmenutab02 .droopmenu-tabcontent {
+    background: #00416a;
+  }
+
+  #droopmenutab03 .droopmenu-tabcontent {
+    background: #35344b;
+  }
+
+  #droopmenutab04 .droopmenu-tabcontent {
+    background: #563a29;
+  }
+
+  a {
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu Maximum Width
+	-------------------------------------------------------
+*/
+.droopmenu-inner, .droopmenu-boxed {
+  max-width: 1140px;
+  position: relative;
+  margin: 0 auto;
+  z-index: 10;
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | LOGO | TOGGLE MOBILE |
+	-------------------------------------------------------
+*/
+.droopmenu-brand, .droopmenu-header {
+  float: left;
+}
+
+.droopmenu-brand {
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+.dm-nav-brand a img, .droopmenu-brand img {
+  height: 35px;
+  position: relative;
+  top: 5px;
+}
+
+.dm-nav-brand a, .droopmenu-brand {
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #71818C;
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu Extra Menu
+	-------------------------------------------------------
+*/
+.droopmenu-extra {
+  float: right;
+
+  > ul > li {
+    display: inline-block;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | Menu Styles
+	-------------------------------------------------------
+*/
+.droopmenu {
+  float: left;
+  margin: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    list-style: none;
+
+    i {
+      font-size: 14px;
+      line-height: normal;
+    }
+  }
+
+  > li {
+    font-size: 13px;
+    position: relative;
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    float: left;
+
+    > {
+      a, span {
+        color: white;
+        display: block;
+        text-transform: uppercase;
+        -webkit-transition: all 1s ease;
+        -moz-transition: all 1s ease;
+        transition: all 1s ease;
+        letter-spacing: 1px;
+        padding: 0 15px;
+      }
+    }
+
+    a.droopmenu-button {
+      span {
+        text-align: center;
+        border: 2px solid #71818C;
+        -webkit-transition: border-color .5s ease, color 0s ease;
+        -moz-transition: border-color .5s ease, color 0s ease;
+        -o-transition: border-color .5s ease, color 0s ease;
+        transition: border-color .5s ease, color 0s ease;
+        display: inline-block;
+        border-radius: 24px;
+        line-height: 44px;
+        padding: 0 20px;
+        height: 44px;
+      }
+
+      &:hover span {
+        -webkit-transition-delay: 0s;
+        -moz-transition-delay: 0s;
+        transition-delay: 0s;
+      }
+    }
+  }
+}
+
+.dmcentered .droopmenu {
+  text-align: center;
+  float: none;
+
+  > li {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu Height | LOGO HEADER | TOP LINKS
+	-------------------------------------------------------
+*/
+.droopmenu-header {
+  height: 70px;
+}
+
+.dm-nav-brand a, .droopmenu-brand {
+  line-height: 70px;
+  height: 70px;
+}
+
+.droopmenu {
+  > li {
+    > {
+      a, span {
+        line-height: 70px;
+        height: 70px;
+      }
+    }
+
+    i {
+      vertical-align: middle;
+    }
+  }
+
+  li {
+    > ul {
+      display: block;
+      background: #273f58;
+      position: absolute;
+      -webkit-box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+      -moz-box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+      box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+      -webkit-transform-origin: 0% 0%;
+      -moz-transform-origin: 0% 0%;
+      -ms-transform-origin: 0% 0%;
+      -o-transform-origin: 0% 0%;
+      transform-origin: 0% 0%;
+      visibility: hidden;
+      left: -9999em;
+      width: 180px;
+      z-index: 99;
+      opacity: 0;
+      top: 100%;
+    }
+
+    &.dmopener > ul {
+      visibility: visible;
+      opacity: 1;
+      left: 0;
+    }
+
+    ul {
+      padding: 10px 0;
+    }
+
+    li {
+      position: relative;
+
+      > ul {
+        margin-top: -13px;
+        margin: 0;
+        top: 0;
+      }
+
+      &.dmopener > ul {
+        left: 100%;
+      }
+    }
+
+    &:hover > a, li:hover > a {
+      color: #CCCCCC;
+    }
+
+    ul li a {
+      display: block;
+      margin-left: -25px;
+      padding: 6px 25px;
+      text-decoration: none;
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      font-weight: 300;
+      font-size: 15px;
+
+      i {
+        vertical-align: middle;
+        margin-right: 5px;
+      }
+    }
+  }
+
+  .dm-arrow {
+    width: 0;
+    height: 0;
+    position: relative;
+    border-bottom: 0 solid transparent;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    margin-left: -20px;
+    margin-bottom: 0;
+    z-index: 9999;
+    bottom: 9px;
+    left: 50%;
+  }
+
+  li.dmopener .dm-arrow {
+    border-bottom: 10px solid #fff;
+    margin-bottom: -10px;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | DECORATIVE ARROW
+	-------------------------------------------------------
+*/
+.dmarrow-down .droopmenu {
+  .dm-arrow {
+    border-bottom: 0;
+    border-top: 0 solid transparent;
+    bottom: 1px;
+  }
+
+  li.dmopener .dm-arrow {
+    border-bottom: 0;
+    border-top: 10px solid #fff;
+    margin-bottom: -10px;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | EXTENDED HOVER AREA
+	-------------------------------------------------------
+*/
+.droopmenu {
+  li {
+    > ul:after {
+      content: '';
+      position: absolute;
+      background: transparent;
+      height: 8px;
+      width: 100%;
+      bottom: 100%;
+      left: 0;
+    }
+
+    li {
+      > ul:after {
+        top: 0;
+        left: auto;
+        right: 100%;
+        bottom: auto;
+        height: 100%;
+        width: 8px;
+      }
+
+      &.droopmenu-parent > a {
+        padding-right: 40px;
+      }
+    }
+
+    a .droopmenu-indicator {
+      display: inline-block;
+      line-height: normal;
+
+      em {
+        font-style: normal;
+      }
+    }
+
+    li a .droopmenu-indicator {
+    }
+
+    a .droopmenu-indicator em:after {
+      content: "\f3d0";
+      font-family: "Ionicons";
+      display: inline-block;
+      position: relative;
+      font-size: 16px;
+      margin-left: 4px;
+      top: 1px;
+    }
+
+    li a .droopmenu-indicator em:after {
+      content: "\f3d0";
+      font-family: "Ionicons";
+      display: inline-block;
+      position: relative;
+      font-size: 16px;
+      margin-left: 4px;
+      top: 1px;
+      content: "\f3d1";
+      position: absolute;
+      right: 18px;
+      top: 25%;
+    }
+
+    &.droop-left > ul {
+      right: 0;
+      top: 100%;
+      left: auto;
+    }
+
+    li.droop-left > ul {
+      top: 0;
+      right: 100%;
+      left: auto;
+
+      &:after {
+        top: 0;
+        left: 100%;
+        right: auto;
+        bottom: auto;
+        height: 100%;
+        width: 8px;
+      }
+    }
+  }
+
+  .droopmenu, .droopmenu-mega ul {
+    padding: 0;
+  }
+
+  > li.droopmenu-mega {
+    position: static;
+
+    > {
+      a {
+        position: relative;
+      }
+
+      ul {
+        width: 100%;
+        height: calc(100vh - 100px);
+        position: fixed;
+        top: 100px;
+        left: 0;
+      }
+    }
+  }
+
+  &:after, &:before {
+    content: "";
+    display: table;
+  }
+}
+
+
+.droopmenu-row {
+  &:after, &:before {
+    content: "";
+    display: table;
+  }
+}
+
+.droopmenu-inner {
+  &:after, &:before {
+    content: "";
+    display: table;
+  }
+}
+
+.droopmenu:after, .droopmenu-row:after, .droopmenu-inner:after {
+  clear: both;
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | STICKY FOR HORIZONTAL MENU
+	-------------------------------------------------------
+*/
+.dmfixed {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.dmpos-bottom {
+  &.dmfixed {
+    width: 100%;
+    bottom: 0;
+    top: auto;
+  }
+
+  .droopmenu {
+    li {
+      > ul {
+        bottom: 100%;
+        top: auto;
+        margin: 0;
+
+        &:after {
+          top: 100%;
+          bottom: auto;
+        }
+      }
+
+      li {
+        > ul:after {
+          top: 0;
+          left: auto;
+          right: 100%;
+          bottom: auto;
+        }
+
+        &.drop-left > ul:after {
+          top: 0;
+          left: 100%;
+          right: auto;
+          bottom: auto;
+          height: 100%;
+          width: 8px;
+        }
+
+        > ul {
+          top: auto;
+          bottom: 0;
+          margin: 0;
+          margin-bottom: -13px;
+        }
+      }
+
+      > ul {
+        border: 0;
+        -webkit-box-shadow: 0px -12px 22px 0px rgba(0, 0, 0, 0.12);
+        -moz-box-shadow: 0px -12px 22px 0px rgba(0, 0, 0, 0.12);
+        box-shadow: 0px -22px 46px 0px rgba(0, 0, 0, 0.12);
+      }
+    }
+
+    .dm-arrow {
+      bottom: 59px;
+      border-bottom: 0;
+      border-top: 10px solid transparent;
+      margin-top: -11px;
+    }
+
+    li.dmopener .dm-arrow {
+      border-bottom: 0;
+      border-top: 10px solid #fff;
+    }
+  }
+
+  &.dmarrow-down .droopmenu {
+    .dm-arrow {
+      bottom: 69px;
+      border-top: 0;
+      border-bottom: 0 solid transparent;
+    }
+
+    li.dmopener .dm-arrow {
+      border-top: 0;
+      border-bottom: 10px solid #fff;
+    }
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | VERTICAL MENU | ADJUST MIN-HEIGHT
+	-------------------------------------------------------
+*/
+.droopmenu-vertical {
+  width: 100%;
+  min-height: 100vh;
+  position: static;
+  margin: 0;
+
+  .droopmenu .dm-arrow, &.dmarrow-down .droopmenu .dm-arrow {
+    display: none;
+  }
+
+  .droopmenu-header {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .droopmenu, .droopmenu-header {
+    float: none;
+  }
+
+  .droopmenu {
+    > li {
+      float: none;
+      display: block;
+
+      > {
+        a {
+          > i {
+            line-height: normal;
+            vertical-align: middle;
+            display: inline-block;
+            margin-right: 8px;
+            width: 24px;
+            padding: 0;
+          }
+
+          height: auto;
+          line-height: 42px;
+          padding: 0 20px;
+          display: block;
+        }
+
+        span {
+          height: auto;
+          line-height: 42px;
+          padding: 0 20px;
+          display: block;
+        }
+      }
+    }
+
+    li {
+      a .droopmenu-indicator em:after {
+        content: "\f3d1";
+        position: absolute;
+        right: 18px;
+        top: 28%;
+      }
+
+      > ul {
+        margin: 0;
+        left: 100%;
+        top: 0;
+
+        &:after {
+          width: 8px;
+          height: 100%;
+          bottom: auto;
+          right: 100%;
+          left: auto;
+          top: 0;
+        }
+      }
+
+      &.droop-bottom > ul {
+        top: auto;
+        bottom: 0;
+
+        &:before {
+          top: auto;
+          bottom: 22px;
+        }
+      }
+    }
+  }
+
+  &.dmpos-right .droopmenu li > ul {
+    &:after {
+      right: auto;
+      left: 100%;
+    }
+
+    right: 100%;
+    left: auto;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | VERUICAL | RIGHT POSITION
+	-------------------------------------------------------
+*/
+.droopmenu-vertical-wrapper {
+  width: 240px;
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | CONTENT STYLING
+	-------------------------------------------------------
+*/
+.droopmenu-left {
+  float: left;
+}
+
+.droopmenu-right {
+  float: right;
+}
+
+.droopmenu {
+  .dm-bottom-separator {
+    border-bottom: 1px solid #E3E9ED;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }
+
+  .dm-block-title {
+    font-weight: 400;
+    overflow: hidden;
+    padding: 6px 25px;
+    font-size: 18px;
+  }
+
+  .droopmenu-content {
+    padding-bottom: 20px;
+
+    p a {
+      color: #A9B4BA;
+      display: inline;
+      padding: 0;
+      font-size: inherit;
+    }
+
+    .dm-small {
+      color: #A9B4BA;
+      letter-spacing: 1px;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    .dm-italic {
+      font-style: italic;
+    }
+
+    p {
+      line-height: 1.8em;
+      margin: 0 0 1.2em 0;
+    }
+
+    .droopmenu-icon-link p {
+      margin: 0;
+    }
+
+    p {
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      a {
+        &:hover i {
+          margin-left: 5px;
+        }
+
+        i {
+          font-size: 14px;
+          margin-left: 0;
+          -webkit-transition: all .5s ease;
+          -moz-transition: all .5s ease;
+          transition: all .5s ease;
+        }
+
+        -webkit-transition: all .5s ease;
+        -moz-transition: all .5s ease;
+        transition: all .5s ease;
+      }
+    }
+  }
+
+  .droopmenu-content .droopmenu-social-icons {
+    padding-bottom: 15px;
+
+    a {
+      display: inline-block;
+      padding: 0;
+      margin: 0;
+
+      i {
+        position: relative;
+        top: -1px;
+      }
+    }
+  }
+
+  .droopmenu-icon-links li {
+    display: block;
+    position: relative;
+    margin: 15px 0;
+
+    a {
+      width: 100%;
+      height: 100%;
+      font-size: 0;
+      display: block;
+      text-indent: -9999px;
+      position: absolute;
+      z-index: 3;
+      left: 0;
+      top: 0;
+    }
+
+    .dm-details {
+      display: block;
+      padding: 0px 0px 0px 50px;
+
+      span {
+        font-size: 20px;
+        font-weight: 300;
+        transition: all 500ms ease-in-out;
+      }
+
+      p {
+      }
+    }
+
+    .dm-icon-holder {
+      width: 32px;
+      height: 32px;
+      position: absolute;
+      line-height: 32px;
+      text-align: center;
+      background: #aa0000;
+      transition: all 500ms ease-in-out;
+      border-radius: 50%;
+      color: #ffffff;
+      left: 0;
+      top: 2px;
+
+      i {
+        font-size: 18px;
+        vertical-align: middle;
+        position: relative;
+        top: -1px;
+      }
+    }
+
+    a:hover ~ {
+      .dm-details span {
+        color: #A9B4BA;
+      }
+
+      .dm-icon-holder {
+        background: #A9B4BA;
+      }
+    }
+  }
+}
+
+/*	-------------------------------------------------------
+	:: SOCIAL ICONS
+	-------------------------------------------------------
+*/
+.droopmenu-social-icons {
+  display: block;
+}
+
+.droopmenu-social-icons a {
+  width: 32px;
+  height: 32px;
+  line-height: 28px;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  border: 2px solid;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-transition: color 1s, background 1s;
+  -moz-transition: color 1s, background 1s;
+  -o-transition: color 1s, background 1s;
+  transition: color 1s, background 1s;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  cursor: pointer;
+  color: #71818C;
+
+  &:after {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+
+  &:hover:after {
+    animation: sonarEffect 450ms ease-out;
+  }
+}
+
+@keyframes sonarEffect {
+  0% {
+    opacity: 0.3;
+  }
+
+  40% {
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2), 0 0 10px 10px #fff, 0 0 0 10px rgba(0, 0, 0, 0.2);
+    opacity: .5;
+  }
+
+  100% {
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.2), 0 0 10px 10px #fff, 0 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.droopmenu li .droopmenu-social-icons a i {
+  font-size: 14px;
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  top: 0;
+}
+
+.droopmenu-extra .droopmenu .droopmenu-social-icons a {
+  border-color: #71818C;
+
+  i {
+    color: #71818C;
+  }
+
+  &:hover {
+    border-color: #CCCCCC;
+
+    i {
+      color: #CCCCCC;
+    }
+  }
+}
+
+.droopmenu-social-icons .dm-twitter,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-twitter {
+  background: #28AAE1;
+  border-color: #28AAE1;
+}
+
+.droopmenu-social-icons .dm-facebook,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-facebook {
+  background: #3B5998;
+  border-color: #3B5998;
+}
+
+.droopmenu-social-icons .dm-linkedin,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-linkedin {
+  background: #0073B2;
+  border-color: #0073B2;
+}
+
+.droopmenu-social-icons .dm-youtube,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-youtube {
+  background: #E52D27;
+  border-color: #E52D27;
+}
+
+.droopmenu-social-icons .dm-pinterest,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-pinterest {
+  background: #BD081C;
+  border-color: #BD081C;
+}
+
+.droopmenu-social-icons .dm-rss,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-rss {
+  background: #FF8B00;
+  border-color: #FF8B00;
+}
+
+.droopmenu-social-icons .dm-instagram,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-instagram {
+  background: #3F729B;
+  border-color: #3F729B;
+}
+
+.droopmenu-social-icons .dm-messenger,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-messenger {
+  background: #0078FF;
+  border-color: #0078FF;
+}
+
+.droopmenu-social-icons .dm-github,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-github {
+  background: #24292e;
+  border-color: #24292e;
+}
+
+.droopmenu-social-icons .dm-twitter:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-twitter:hover {
+  background: #53BBE7;
+  border-color: #53BBE7;
+}
+
+.droopmenu-social-icons .dm-facebook:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-facebook:hover {
+  background: #627AAC;
+  border-color: #627AAC;
+}
+
+.droopmenu-social-icons .dm-linkedin:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-linkedin:hover {
+  background: #338FC1;
+  border-color: #338FC1;
+}
+
+.droopmenu-social-icons .dm-youtube:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-youtube:hover {
+  background: #E52D27;
+  border-color: #E52D27;
+}
+
+.droopmenu-social-icons .dm-pinterest:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-pinterest:hover {
+  background: #BD081C;
+  border-color: #BD081C;
+}
+
+.droopmenu-social-icons .dm-rss:hover,
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dm-rss:hover {
+  background: #FFA233;
+  border-color: #FFA233;
+}
+
+.droopmenu-social-icons .dms-icon {
+  i, &:hover i {
+    color: #fff;
+  }
+}
+
+.droopmenu-extra .droopmenu .droopmenu-social-icons a.dms-icon {
+  i, &:hover i {
+    color: #fff;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | TABS | MOBILE FIRST
+	-------------------------------------------------------
+*/
+.droopmenu {
+  .droopmenu-tabs {
+    display: block;
+    height: calc(100vh - 100px);
+  }
+
+  .droopmenu-tabcontent {
+    border-bottom: 1px solid #E3E9ED;
+    padding: 20px 30px;
+    background: #fff;
+    display: none;
+
+    &.droopmenu-tab-active {
+      display: block;
+    }
+  }
+
+  .droopmenu-tabnav {
+    display: none;
+
+    a {
+      text-transform: uppercase;
+    }
+  }
+
+  .droopmenu-tabheader {
+    padding: 1em;
+    color: #71818C;
+    display: block;
+    cursor: pointer;
+    text-decoration: none;
+    overflow: hidden;
+  }
+
+  .droopmenu-tabnav {
+    &:after, &:before {
+      display: table;
+      content: "";
+    }
+  }
+
+  .droopmenu-tabheader {
+    &:after, &:before {
+      display: table;
+      content: "";
+    }
+  }
+}
+
+.droopmenu-tabs.droopmenu-tabs-vertical {
+  &:after, &:before {
+    display: table;
+    content: "";
+  }
+}
+
+.droopmenu {
+  .droopmenu-tabnav:after, .droopmenu-tabheader:after {
+    clear: both;
+  }
+}
+
+.droopmenu-tabs.droopmenu-tabs-vertical:after {
+  clear: both;
+}
+
+.droopmenu .droopmenu-tabheader {
+  &:hover, &:focus {
+    text-decoration: none;
+  }
+
+  &:before {
+    float: right;
+    content: '\2b\a0';
+  }
+
+  &.droopmenu-tab-active {
+    &:before {
+      content: '\2013\a0';
+    }
+
+    background: #F1F4F8;
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | MOBILE TOGGLE BUTTON
+	-------------------------------------------------------
+*/
+.droopmenu-toggle {
+  width: 50px;
+  height: 50px;
+  line-height: 40px;
+  -webkit-transition: background-color .3s;
+  -moz-transition: background-color .3s;
+  transition: background-color .3s;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  position: relative;
+  text-align: center;
+  padding-top: 18px;
+  cursor: pointer;
+  display: none;
+  float: right;
+  right: 0;
+  top: 25px;
+  background: rgba(0, 0, 0, 0.3) !important;
+
+  i {
+    width: 28px;
+    height: 1px;
+    display: block;
+    position: relative;
+    -webkit-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -moz-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    -o-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    margin-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .dm-burg {
+    &:nth-child(2) {
+      opacity: 1;
+
+      &:after, &:before {
+        -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.1s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.08s;
+        -moz-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.1s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.08s;
+        -o-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.1s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.08s;
+        transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.1s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.08s;
+      }
+    }
+
+    &:nth-child(1) {
+      -webkit-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -moz-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -ms-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -o-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+
+      &:after, &:before {
+        -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4), opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4);
+        -moz-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4), opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4);
+        -o-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4), opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4);
+        transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4), opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4);
+      }
+    }
+
+    &:nth-child(3) {
+      -webkit-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -moz-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -ms-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      -o-transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+      transform: translate3d(0, 0, 0) rotate3d(0, 0, 1, 0deg);
+
+      &:after, &:before {
+        -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.2s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.18s;
+        -moz-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.2s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.18s;
+        -o-transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.2s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.18s;
+        transition: transform 0.4s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.2s, opacity 0.3s cubic-bezier(0.18, 0.65, 0.65, 1.4) 0.18s;
+      }
+    }
+  }
+
+  i {
+    &:after {
+      content: "";
+      width: 100%;
+      height: 100%;
+      display: block;
+      position: absolute;
+      pointer-events: none;
+      background: white;
+    }
+
+    &:before {
+      content: "";
+      width: 100%;
+      height: 100%;
+      display: block;
+      position: absolute;
+      pointer-events: none;
+      background: white;
+      opacity: 1;
+      -webkit-transform: translate3d(0%, 0, 0);
+      -moz-transform: translate3d(0%, 0, 0);
+      -ms-transform: translate3d(0%, 0, 0);
+      -o-transform: translate3d(0%, 0, 0);
+      transform: translate3d(0%, 0, 0);
+    }
+
+    &:after {
+      opacity: 0;
+      -webkit-transform: translate3d(50%, 0, 0);
+      -moz-transform: translate3d(50%, 0, 0);
+      -ms-transform: translate3d(50%, 0, 0);
+      -o-transform: translate3d(50%, 0, 0);
+      transform: translate3d(50%, 0, 0);
+    }
+  }
+
+  &:hover i {
+    &:before {
+      opacity: 0;
+      -webkit-transform: translate3d(-50%, 0, 0);
+      -moz-transform: translate3d(-50%, 0, 0);
+      -ms-transform: translate3d(-50%, 0, 0);
+      -o-transform: translate3d(-50%, 0, 0);
+      transform: translate3d(-50%, 0, 0);
+    }
+
+    &:after {
+      opacity: 1;
+      -webkit-transform: translate3d(0%, 0, 0);
+      -moz-transform: translate3d(0%, 0, 0);
+      -ms-transform: translate3d(0%, 0, 0);
+      -o-transform: translate3d(0%, 0, 0);
+      transform: translate3d(0%, 0, 0);
+    }
+  }
+
+  &.dmt-active {
+    i {
+      -webkit-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+      -moz-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+      -o-transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+      transition: all 700ms cubic-bezier(0.755, 0.05, 0.855, 0.06);
+    }
+
+    .dm-burg {
+      &:nth-child(1) {
+        -webkit-transform: translate3d(0, 6px, 0) rotate3d(0, 0, 1, -45deg);
+        -moz-transform: translate3d(0, 6px, 0) rotate3d(0, 0, 1, -45deg);
+        -ms-transform: translate3d(0, 6px, 0) rotate3d(0, 0, 1, -45deg);
+        -o-transform: translate3d(0, 6px, 0) rotate3d(0, 0, 1, -45deg);
+        transform: translate3d(0, 6px, 0) rotate3d(0, 0, 1, -45deg);
+      }
+
+      &:nth-child(2) {
+        opacity: 0;
+      }
+
+      &:nth-child(3) {
+        margin-bottom: 0;
+        -webkit-transform: translate3d(0, -6px, 0) rotate3d(0, 0, 1, 45deg);
+        -moz-transform: translate3d(0, -6px, 0) rotate3d(0, 0, 1, 45deg);
+        -ms-transform: translate3d(0, -6px, 0) rotate3d(0, 0, 1, 45deg);
+        -o-transform: translate3d(0, -6px, 0) rotate3d(0, 0, 1, 45deg);
+        transform: translate3d(0, -6px, 0) rotate3d(0, 0, 1, 45deg);
+      }
+    }
+  }
+}
+
+/*	-------------------------------------------------------
+	:: Droopmenu | RESPONSIVE STYLES > = 768
+	-------------------------------------------------------
+*/
+@media only screen and (min-width: 768px) {
+  .droopmenu-nav, .droopmenu li > ul {
+    display: block !important;
+  }
+
+  .droopmenu-vertical .droopmenu-extra {
+    float: none;
+  }
+
+  .dmcentered {
+    .dm-nav-brand {
+      display: block;
+    }
+
+    .droopmenu-brand {
+      display: none;
+    }
+  }
+
+  .dmsticky {
+    position: -webkit-sticky;
+    position: sticky;
+    width: 100%;
+    top: 0;
+
+    &:after, &:before {
+      content: '';
+      display: table;
+    }
+  }
+
+  /*	--------------------------------------------------
+      :: TABS
+      -------------------------------------------------- */
+
+  .droopmenu {
+    .droopmenu-tabnav {
+      display: block;
+      background: #fff;
+      position: relative;
+      z-index: 10;
+
+      a {
+        float: left;
+        height: 56px;
+        display: block;
+        padding: 0 20px;
+        line-height: 56px;
+        text-decoration: none;
+        position: relative;
+        color: #71818C;
+        border: 0;
+      }
+    }
+
+    .droopmenu-tabs.tabs-justify .droopmenu-tabnav a {
+      display: table-cell;
+      text-align: center;
+      float: none;
+      width: 1%;
+    }
+
+    .droopmenu-tabnav a {
+      &:last-child, &:hover, &:focus {
+      }
+
+      &.droopmenu-tab-active {
+        font-weight: 400;
+      }
+
+      &:after {
+        content: '';
+        width: 13px;
+        height: 13px;
+        position: absolute;
+        -webkit-transform: rotate(135deg) scale(0);
+        -moz-transform: rotate(135deg) scale(0);
+        -ms-transform: rotate(135deg) scale(0);
+        -o-transform: rotate(135deg) scale(0);
+        transform: rotate(135deg) scale(0);
+        transition: -webkit-transform .3s ease-in;
+        transition: transform .3s ease-in;
+        border-bottom: 1px solid #D9E2EC;
+        border-right: 1px solid #D9E2EC;
+        background-color: #ffffff;
+        bottom: -7px;
+        right: 47%;
+        z-index: 11;
+      }
+    }
+
+    .droopmenu-tabs.droopmenu-tabs-vertical .droopmenu-tabnav a:after {
+      -webkit-transform: rotate(225deg) scale(0);
+      -moz-transform: rotate(225deg) scale(0);
+      -ms-transform: rotate(225deg) scale(0);
+      -o-transform: rotate(225deg) scale(0);
+      transform: rotate(225deg) scale(0);
+      bottom: 36%;
+      right: -7px;
+    }
+
+    .droopmenu-tabnav a.droopmenu-tab-active:after {
+      -webkit-transform: rotate(225deg) scale(1);
+      -moz-transform: rotate(225deg) scale(1);
+      -ms-transform: rotate(225deg) scale(1);
+      -o-transform: rotate(225deg) scale(1);
+      transform: rotate(225deg) scale(1);
+    }
+
+    .droopmenu-tabs.droopmenu-tabs-vertical {
+      .droopmenu-tabnav a.droopmenu-tab-active:after {
+        -webkit-transform: rotate(135deg) scale(1);
+        -moz-transform: rotate(135deg) scale(1);
+        -ms-transform: rotate(135deg) scale(1);
+        -o-transform: rotate(135deg) scale(1);
+        transform: rotate(135deg) scale(1);
+      }
+
+      display: table;
+      width: 100%;
+
+      .droopmenutabcol {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .droopmenu-tabnav {
+        height: auto;
+        background: #fff;
+        width: 200px;
+        position: relative;
+        z-index: 10;
+
+        a {
+          float: none;
+          margin: 0;
+
+          &.droopmenu-tab-active, &:last-child {
+          }
+        }
+      }
+
+      .droopmenu-tabpanel {
+        position: relative;
+        border-left: 1px solid #E3E9ED;
+        border-top: 0;
+        z-index: 5;
+      }
+
+      .droopmenu-tabsection {
+        border: 0;
+      }
+    }
+
+    .droopmenu-tabheader {
+      display: none;
+    }
+
+    .droopmenu-tabpanel {
+      border-top: 1px solid #E3E9ED;
+      z-index: 5;
+    }
+
+    .droopmenu-tabcontent {
+      padding: 30px 40px;
+      border-bottom: 0;
+    }
+
+    .droopmenu-tabsection {
+      display: none;
+      border-top: 0;
+
+      + .droopmenu .droopmenu-tabsection {
+      }
+
+      &.droopmenu-tab-active {
+        display: block;
+
+        .droopmenu-tabcontent {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .droopmenu {
+    position: static;
+    width: 100%;
+    float: none;
+  }
+
+  .droopmenu-left, .droopmenu-right {
+    float: none;
+  }
+
+  .droopmenu-boxed, .droopmenu-vertical, .droopmenu, .droopmenu-vertical-wrapper {
+    width: 100%;
+  }
+
+  .droopmenu-vertical {
+    min-height: 0;
+  }
+
+  .droopmenu-toggle {
+    display: inline-block;
+  }
+
+  .droopmenu {
+    ul {
+      display: block;
+      width: 100%;
+    }
+
+    li > ul {
+      width: 100%;
+    }
+  }
+
+  .droopmenu-nav, .droopmenu li > ul {
+    display: none;
+  }
+
+  .droopmenu-nav {
+    border-top: 1px solid #E3E9ED;
+  }
+
+  .droopmenu li {
+    > ul, &.drop-left > ul {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      border: 0;
+    }
+  }
+
+  .dmpos-bottom .droopmenu li > ul, .droopmenu-vertical .droopmenu li > ul {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border: 0;
+  }
+
+  .droopmenu {
+    > li {
+      float: none;
+      width: 100%;
+      margin-top: 0;
+      margin-left: 0;
+      display: block;
+
+      &.right {
+        float: none;
+        width: 100%;
+        margin-top: 0;
+        margin-left: 0;
+        display: block;
+      }
+    }
+
+    li {
+      &.dmopener > ul {
+        position: static;
+      }
+
+      li.dmopener {
+        ul, > ul {
+          position: static;
+        }
+      }
+
+      &.droop-left > ul, li.droop-left > ul {
+        position: static;
+      }
+    }
+  }
+
+  .droopmenu-vertical .droopmenu li > ul {
+    position: static;
+  }
+
+  .droopmenu > li > a {
+    padding: 0;
+    border-right: 0;
+    font-size: 15px;
+    padding-left: 25px;
+    position: relative;
+    line-height: 56px;
+    height: auto;
+  }
+
+  .droopmenu-vertical .droopmenu > li > {
+    a, span {
+      padding: 0;
+      border-right: 0;
+      font-size: 15px;
+      padding-left: 25px;
+      position: relative;
+      line-height: 56px;
+      height: auto;
+    }
+  }
+
+  .droopmenu {
+    li {
+      ul {
+        padding: 0;
+
+        li a {
+          padding: 15px 25px;
+        }
+      }
+
+      li {
+        > a {
+          position: relative;
+        }
+
+        > ul:after {
+          display: none;
+        }
+      }
+
+      > ul:after {
+        display: none;
+      }
+    }
+
+    > li {
+      ul, > ul li ul {
+        box-shadow: none;
+        position: relative;
+        border: 0;
+        left: 0;
+        top: 0;
+      }
+    }
+  }
+
+  .droopmenu-inner {
+    padding: 0;
+    margin: 0;
+  }
+
+  .droopmenu-header {
+    float: none;
+    padding: 0 10px;
+  }
+
+  .droopmenu-nav {
+    &:after, &:before {
+      display: table;
+      content: " ";
+    }
+  }
+
+  .droopmenu-header {
+    &:after, &:before {
+      display: table;
+      content: " ";
+    }
+  }
+
+  .droopmenu-nav:after, .droopmenu-header:after {
+    clear: both;
+  }
+
+  .droopmenu {
+    > li.dm-nav-brand {
+      display: none;
+    }
+
+    li {
+      > ul, li > ul, &.dmopener > ul, li.dmopener > ul {
+        position: static;
+        visibility: visible;
+        opacity: 1;
+        margin: 0;
+        left: 0;
+        top: 0;
+      }
+
+      ul li a {
+        border-bottom: 1px solid #E3E9ED;
+      }
+    }
+
+    > li > a {
+      border-bottom: 1px solid #E3E9ED;
+    }
+
+    .dm-arrow {
+      display: none;
+    }
+  }
+
+  .dmarrow-down .droopmenu .dm-arrow {
+    display: none;
+  }
+
+  /*	--------------------------------------------------
+      :: Indicators
+      -------------------------------------------------- */
+
+  .droopmenu li a .droopmenu-indicator, .droopmenu-vertical .droopmenu li a .droopmenu-indicator {
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    width: 50px;
+    line-height: 60px;
+    z-index: 10;
+    right: 0;
+    top: 0;
+  }
+
+  .droopmenu li {
+    li a .droopmenu-indicator {
+    }
+
+    a .droopmenu-indicator em:after, li a .droopmenu-indicator em:after {
+      content: '\002B';
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      position: relative;
+      text-align: center;
+      right: auto;
+      left: auto;
+      top: -2px;
+    }
+  }
+
+  .droopmenu-vertical .droopmenu li a .droopmenu-indicator em:after {
+    content: '\002B';
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    right: auto;
+    left: auto;
+    top: -2px;
+  }
+
+  .droopmenu li {
+    &.dmtoggle-open > a .droopmenu-indicator em:after {
+      content: "\2013";
+      top: -5px;
+    }
+
+    li {
+      &.dmtoggle-open > a .droopmenu-indicator em:after {
+        content: "\2013";
+        top: -5px;
+      }
+
+      a .droopmenu-indicator em:after, &.dmtoggle-open > a .droopmenu-indicator em:after {
+        left: -1px;
+      }
+    }
+  }
+
+  /*	--------------------------------------------------
+      :: Offcanvas Overlay + Close Button
+      -------------------------------------------------- */
+
+  .droopmenu-overlay {
+    width: 0%;
+    height: 100%;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.5);
+    -webkit-transition: all 1200ms cubic-bezier(1, 0, 0.07, 1);
+    -moz-transition: all 1200ms cubic-bezier(1, 0, 0.07, 1);
+    -o-transition: all 1200ms cubic-bezier(1, 0, 0.07, 1);
+    transition: all 1200ms cubic-bezier(1, 0, 0.07, 1);
+    -webkit-transition-delay: 0.5s;
+    -moz-transition-delay: 0.5s;
+    -o-transition-delay: 0.5s;
+    transition-delay: 0.5s;
+    cursor: pointer;
+    z-index: 120;
+    bottom: 0;
+    top: 0;
+  }
+
+  .droopmenu-mclose {
+    outline: none;
+    cursor: pointer;
+    background: #fff;
+    border-bottom: 1px solid #E3E9ED;
+    position: relative;
+    overflow: hidden;
+    line-height: 70px;
+    height: 70px;
+
+    span {
+      width: 29px;
+      height: 29px;
+      position: absolute;
+      -webkit-transform: rotate(45deg);
+      -moz-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      transform: rotate(45deg);
+      cursor: pointer;
+      opacity: 1;
+      left: 17px;
+      top: 22px;
+
+      &:before, &:after {
+        content: "";
+        position: absolute;
+        background-color: #71818C;
+        -webkit-transition: all 500ms cubic-bezier(0.895, -0.6, 0.07, 1.65);
+        -moz-transition: all 500ms cubic-bezier(0.895, -0.6, 0.07, 1.65);
+        -o-transition: all 500ms cubic-bezier(0.895, -0.6, 0.07, 1.65);
+        transition: all 500ms cubic-bezier(0.895, -0.6, 0.07, 1.65);
+      }
+
+      &:before {
+        height: 0;
+        width: 1px;
+        position: absolute;
+        -webkit-transition-delay: 300ms;
+        -moz-transition-delay: 300ms;
+        -o-transition-delay: 300ms;
+        transition-delay: 300ms;
+        left: 13px;
+      }
+
+      &:after {
+        width: 0%;
+        height: 1px;
+        position: absolute;
+        -webkit-transition-delay: 100ms;
+        -moz-transition-delay: 300ms;
+        -o-transition-delay: 300ms;
+        transition-delay: 100ms;
+        top: 13px;
+      }
+    }
+  }
+
+  .droopmenu-dmopen {
+    overflow: hidden;
+  }
+
+  /*	--------------------------------------------------
+      :: Utility Menu | Extras
+      -------------------------------------------------- */
+
+  .droopmenu-extra {
+    display: none;
+
+    .droopmenu {
+      > li {
+        float: left;
+        width: auto;
+      }
+
+      ul li:last-child a {
+        border-bottom: 0;
+      }
+
+      > li > a {
+        height: 70px;
+        line-height: 70px;
+        border-bottom: 0;
+        padding: 0 10px;
+      }
+
+      li {
+        a .droopmenu-indicator {
+          width: auto;
+          position: static;
+          text-align: left;
+          background: none;
+          height: auto;
+          border: 0;
+
+          em:after {
+            content: "\f3d0";
+            font-family: "Ionicons";
+            display: inline-block;
+            -o-transition: all .32s ease 0s;
+            -moz-transition: all .32s ease 0s;
+            -webkit-transition: all .32s ease 0s;
+            transition: all .32s ease 0s;
+            font-weight: 300;
+            font-size: 14px;
+          }
+        }
+
+        > ul {
+          position: absolute;
+          -webkit-box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+          -moz-box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+          box-shadow: 0px 22px 46px 0px rgba(0, 0, 0, 0.12);
+          width: 150px;
+          top: 100%;
+          border: 0;
+        }
+
+        li a .droopmenu-indicator em:after {
+          content: "\f3d0";
+          font-family: "Ionicons";
+          display: inline-block;
+          -o-transition: all .32s ease 0s;
+          -ms-transition: all .32s ease 0s;
+          -moz-transition: all .32s ease 0s;
+          -webkit-transition: all .32s ease 0s;
+          transition: all .32s ease 0s;
+          font-weight: 300;
+          font-size: 14px;
+        }
+
+        &.dmtoggle-open {
+          a .droopmenu-indicator em:after, li.dmtoggle-open a .droopmenu-indicator em:after {
+            -webkit-transform: rotate(180deg);
+            -moz-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+            -o-transform: rotate(180deg);
+            transform: rotate(180deg);
+          }
+        }
+
+        li a .droopmenu-indicator em:after {
+          content: "\f105";
+          position: absolute;
+          right: 18px;
+          top: 20%;
+        }
+      }
+    }
+  }
+
+  .dmpos-bottom .droopmenu-extra .droopmenu li > ul {
+    -webkit-box-shadow: 0px -12px 22px 0px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: 0px -12px 22px 0px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px -12px 22px 0px rgba(0, 0, 0, 0.12);
+    bottom: 100%;
+    top: auto;
+    margin: 0;
+  }
+}

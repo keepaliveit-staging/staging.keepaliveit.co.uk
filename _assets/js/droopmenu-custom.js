@@ -193,7 +193,7 @@
                         var dmHoverLnk = $(this);
                         clearTimeout(dmHoverTimer);
                         dmHoverTimer = setTimeout(function () {
-                            $('body').css('overflow','hidden'); // prevent scroll
+                            $('body').css('overflow', 'hidden'); // prevent scroll
                             dmHoverLnk.stop(true, true).addClass(settings.dmOpenClass);
                             dmHoverLnk.find('> a').attr('aria-expanded', 'true');
                         }, settings.dmShowDelay);
@@ -201,9 +201,9 @@
                     mouseleave: function () {
                         var dmHoverLnk = $(this);
                         setTimeout(function () {
-                            //$('body').css('overflow','auto'); // enable scroll again
-                            //dmHoverLnk.stop(true, true).removeClass(settings.dmOpenClass);
-                            //dmHoverLnk.find('> a').attr('aria-expanded', 'false');
+                            $('body').css('overflow','auto'); // enable scroll again
+                            dmHoverLnk.stop(true, true).removeClass(settings.dmOpenClass);
+                            dmHoverLnk.find('> a').attr('aria-expanded', 'false');
                         }, settings.dmHideDelay);
                     }
                 });
@@ -280,7 +280,6 @@
                         } else {
                             droopmenu_tab.find('.droopmenu-tabsection > .droopmenu-tab-active').removeClass('droopmenu-tab-active');
                         }
-                        ;
                     });
                 });
                 droopmenu_tab.find('.droopmenu-tabnav a').each(function (j) {

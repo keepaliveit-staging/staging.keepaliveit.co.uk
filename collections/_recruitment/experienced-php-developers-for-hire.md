@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/php-dev/php-code.png
   overlay_filter: 0.8 
   page_lead_text_colour: "#aa0000"
-  more_text: "Learn about I.T cost reductions"
+  more_text: "Learn about hiring PHP Developers"
 
   
 icon: /assets/images/icons/wallet.png

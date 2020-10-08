@@ -29,20 +29,22 @@
                         <a href="{{ link.url }}" aria-expanded="false" data-scroll-ignore="true">
                             {{ link.title }}
                         </a>
-                        <ul class="droopmenu-megamenu droopmenu-grid">
+                        <ul class="droopmenu-megamenu">
                             <li class="droopmenu-tabs tabs-justify droopmenu-tab-hover">
                                 <div class="droopmenu-tabpanel droopmenutabcol">
                                     <!-- TAB -->
                                     {%- for submenu1 in link.subitems -%}
-                                    <div class="droopmenu-tabsection" class="droopmenu-helptext" data-helptext="{{ submenu1.helptext }}">
-                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader" data-scroll-ignore="true">
+                                    <div class="droopmenu-tabsection" class="droopmenu-helptext"
+                                         data-helptext="{{ submenu1.helptext }}">
+                                        <a href="{{ submenu1.url }}" class="droopmenu-tabheader"
+                                           data-scroll-ignore="true">
                                             {{ submenu1.icon }}
                                             {{ submenu1.short_title }}
                                         </a>
                                         <div class="droopmenu-tabcontent">
-                                            <div class="droopmenu-row">
+                                            <div style="display: flex;flex-wrap: wrap;height:100%;overflow-y:scroll;">
                                                 {%- for submenu2 in submenu1.subitems -%}
-                                                <ul class="droopmenu-col">
+                                                <ul class="droopmenu-collol">
                                                     <li class="droopmenu-helptext"
                                                         data-helptext="{{ submenu2.helptext }}">
                                                         <h4>
@@ -59,17 +61,22 @@
                                                 </ul>
                                                 {%- endfor -%}
                                             </div>
-                                            <div>
-                                                <a href="{{ submenu1.url }}">
-                                                    {{ submenu1.icon }}
-                                                    Explore all I.T Solutions for {{ submenu1.short_title }}
-                                                </a>
-                                            </div>
                                         </div>
                                     </div>
                                     {%- endfor -%}
                                 </div>
-                                <div>this is some more content</div>
+                                <div style="height: 200px; background: black; padding: 20px;">
+                                    <a class="close-button-cool" href="#">
+                                        <span class="left">
+                                            <span class="circle-left"></span>
+                                            <span class="circle-right"></span>
+                                        </span>
+                                        <span class="right">
+                                            <span class="circle-left"></span>
+                                            <span class="circle-right"></span>
+                                        </span>
+                                    </a>
+                                </div>
                             </li>
                         </ul>
                     </li>
@@ -99,13 +106,15 @@
                                     <div class="droopmenu-col droopmenu-col6">
                                         <div class="droopmenu-content">
                                             <h4>I.T Consultation Articles</h4>
-                                            <p>Free, independent advice on a range of professional I.T considerations written by qualified I.T experts for more advanced I.T users. </p>
-                                            {% assign groups = site.consultation | group_by: "category" | sort: "date" %}
+                                            <p>Free, independent advice on a range of professional I.T considerations
+                                                written by qualified I.T experts for more advanced I.T users. </p>
+                                            {% assign groups = site.consultation | group_by: "category" | sort: "date"
+                                            %}
                                             <ul class="post-list">
                                                 {% for group in groups %}
-                                                    {% for item in group.items %}
-                                                        <li><a href="{{ item.url }}">{{item.title}}</a></li>
-                                                    {%endfor%}
+                                                {% for item in group.items %}
+                                                <li><a href="{{ item.url }}">{{item.title}}</a></li>
+                                                {%endfor%}
                                                 {%endfor%}
                                             </ul>
                                             <p>Browse more I.T consultation articles.</p>
@@ -127,13 +136,15 @@
                                             {% assign items = site.posts %}
 
                                             {% for item in items limit: 3 %}
-                                                <p>
-                                                    <span class="dm-small dm-bold"><time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %d, %Y" }}</time></span><br/>
-                                                    Pro an animalmaiestatis eat omittam fastidii wisi iudico
-                                                    numquam eos at, excorpora contentiones sed, dicant constituam
-                                                    eu est. Ex eruditi facilis mei, id vero omittantur eum.
-                                                </p>
-                                                <p><a href="{{ item.url }}">Read full article <i class="ion-android-arrow-forward"></i></a></p>
+                                            <p>
+                                                <span class="dm-small dm-bold"><time
+                                                        datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %d, %Y" }}</time></span><br/>
+                                                Pro an animalmaiestatis eat omittam fastidii wisi iudico
+                                                numquam eos at, excorpora contentiones sed, dicant constituam
+                                                eu est. Ex eruditi facilis mei, id vero omittantur eum.
+                                            </p>
+                                            <p><a href="{{ item.url }}">Read full article <i
+                                                    class="ion-android-arrow-forward"></i></a></p>
                                             {% endfor %}
 
 
@@ -148,20 +159,25 @@
                                                 volutpat. Suspendisse potenti mollis sit amet sagittis.</p>
                                             <hr class="dm-border-bottom">
                                             <h4>Our Mission</h4>
-                                            <p>We want to educate people about the everyday life benefits associated with effective I.T.
-                                                We do this by demonstrating the capabilities of I.T technologies through a business model
-                                                focused on delivering I.T consultations, development of software, and maintenance of the different
+                                            <p>We want to educate people about the everyday life benefits associated
+                                                with effective I.T.
+                                                We do this by demonstrating the capabilities of I.T technologies through
+                                                a business model
+                                                focused on delivering I.T consultations, development of software, and
+                                                maintenance of the different
                                                 aspects involved with running and operating successful I.T systems.</p>
                                             <hr class="dm-border-bottom">
                                             <h4>Social Media & News Feeds</h4>
                                             <div class="droopmenu-social-icons">
-                                                <a href="https://www.facebook.com/keepaliveitservices/" class="dms-icon dm-facebook">
+                                                <a href="https://www.facebook.com/keepaliveitservices/"
+                                                   class="dms-icon dm-facebook">
                                                     <i class="fab fa-facebook"></i>
                                                 </a>
                                                 <a href="https://twitter.com/keepaliveit" class="dms-icon dm-twitter">
                                                     <i class="fab fa-twitter"></i>
                                                 </a>
-                                                <a href="http://linkedin.com/company/keepaliveit" class="dms-icon dm-linkedin">
+                                                <a href="http://linkedin.com/company/keepaliveit"
+                                                   class="dms-icon dm-linkedin">
                                                     <i class="fab fa-linkedin"></i>
                                                 </a>
                                                 <a href="#" class="dms-icon dm-instagram">
@@ -170,7 +186,8 @@
                                                 <a href="#" class="dms-icon dm-youtube">
                                                     <i class="fab fa-youtube"></i>
                                                 </a>
-                                                <a href="https://m.me/keepaliveitservices" class="dms-icon dm-messenger">
+                                                <a href="https://m.me/keepaliveitservices"
+                                                   class="dms-icon dm-messenger">
                                                     <i class="fab fa-facebook-messenger"></i>
                                                 </a>
                                                 <a href="https://github.com/KeepAliveIT/" class="dms-icon dm-github">
@@ -190,14 +207,17 @@
                                                     <a href="/environmental-policy.html">Environmentally Friendly</a>
                                                     <div class="dm-details">
                                                         <span>Environmentally Friendly</span>
-                                                        <p>We try our best to run our business on Green Technology, reduce waste, and reduce our Co2 footprint where possible.</p>
+                                                        <p>We try our best to run our business on Green Technology,
+                                                            reduce waste, and reduce our Co2 footprint where
+                                                            possible.</p>
                                                     </div>
                                                     <div class="dm-icon-holder">
                                                         <i class="fas fa-tree"></i>
                                                     </div>
                                                 </li>
                                                 <li>
-                                                    <a href="/equal-opportunities-employer.html">Equal Opportunities Employer</a>
+                                                    <a href="/equal-opportunities-employer.html">Equal Opportunities
+                                                        Employer</a>
                                                     <div class="dm-details">
                                                         <span>Equal Opportunities Employer</span>
                                                         <p>Potencialize os resultados com
@@ -211,7 +231,9 @@
                                                     <a href="/community-contributions.html">Community Contributor</a>
                                                     <div class="dm-details">
                                                         <span>Community Contributor</span>
-                                                        <p>Giving back to the community is a company value which we strive to achieve over time. Visit our policy to discover more.</p>
+                                                        <p>Giving back to the community is a company value which we
+                                                            strive to achieve over time. Visit our policy to discover
+                                                            more.</p>
                                                     </div>
                                                     <div class="dm-icon-holder">
                                                         <i class="fas fa-user-friends"></i>
@@ -221,7 +243,9 @@
                                                     <a href="/customer-satisfaction-policy.html">Customer focused</a>
                                                     <div class="dm-details">
                                                         <span>Customer focused</span>
-                                                        <p>We care about the I.T solutions that we develop and implement. We also care about the customer and providing an excellent after-sale customer service.</p>
+                                                        <p>We care about the I.T solutions that we develop and
+                                                            implement. We also care about the customer and providing an
+                                                            excellent after-sale customer service.</p>
                                                     </div>
                                                     <div class="dm-icon-holder">
                                                         <i class="fas fa-bullseye"></i>
@@ -313,10 +337,10 @@
                 </button>
                 <ul>
                     <li class="pushy-link">
-                        <a href="/tech-tips">Freelancer Zone</a>
+                        <a href="/jobs">Freelancer Zone</a>
                     </li>
                     <li class="pushy-link">
-                        <a href="/tech-tips">Permanent Roles</a>
+                        <a href="/jobs">Permanent Roles</a>
                     </li>
                 </ul>
             </li>
