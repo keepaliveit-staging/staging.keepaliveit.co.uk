@@ -30,5 +30,3 @@ Physical and Viirtual infrastructure management for companies and corporations.
 
 [Managed WiFi Access Points](/)
 [Managed Domain Names](/)
-
-{% include industry-consultation.md %}

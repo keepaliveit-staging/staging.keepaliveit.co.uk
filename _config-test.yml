@@ -27,7 +27,7 @@ host                     : 0.0.0.0
 collections_dir          : "collections"
 locale                   : "en-GB"
 title                    : "Keep-Alive I.T"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "I.T Development & Operations Consultancy Solutions for Businesses and Consumers"
 name                     : "Keep-Alive I.T Ltd." # &name is a YAML anchor which can be *referenced later
 description              : &description "We're a Modern, UK based, Hardware & Software I.T Consultancy Company who provides Agile I.T Development & Operations (DevOps) Solutions for Businesses, Consumers, and Non-Profit Organisations."

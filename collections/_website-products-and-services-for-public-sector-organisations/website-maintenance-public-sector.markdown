@@ -39,9 +39,6 @@ We understand object composition by implementing common design patterns
 
 ### Cost of our Website Development services
 
-
-{% include industry-consultation.md %}
-
 <div class="pricing pricing--palden">
                 <div class="pricing__item">
                     <div class="pricing__deco">

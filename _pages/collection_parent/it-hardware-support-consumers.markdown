@@ -62,5 +62,3 @@ When these personnel appear you know you’ve got a problem These are usually mo
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
-
-{% include industry-consultation.md %}

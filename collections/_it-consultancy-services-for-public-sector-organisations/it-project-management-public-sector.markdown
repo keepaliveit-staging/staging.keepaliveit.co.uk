@@ -68,5 +68,3 @@ Many enterprises have on-premise equipment that they host on-site to keep data c
 
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

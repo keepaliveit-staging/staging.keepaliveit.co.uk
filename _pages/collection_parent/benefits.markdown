@@ -19,7 +19,7 @@ Being ahead of the game with I.T can inherit many benefits for Homes and Workpla
 
 {% assign items = site.benefit %}
 
-<div class="container">
+<div class="wrapper">
     <div class="row">    
         {% for item in items %}            
             <div class="col-xs-12 col-sm-6 col-md-4 reason-container">

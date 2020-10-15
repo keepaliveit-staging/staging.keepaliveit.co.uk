@@ -41,7 +41,7 @@ $(document).ready(function () {
          $(".body-overlay").show();
     }, function(){
          $(".body-overlay").hide();
-         $("#helptext").hide();
+         $(".helptext").hide();
 
     });
 

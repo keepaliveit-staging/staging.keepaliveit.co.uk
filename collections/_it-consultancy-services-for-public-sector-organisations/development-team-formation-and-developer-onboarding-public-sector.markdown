@@ -198,5 +198,3 @@ We'll give you a time estimate for the work that needs completing. If the task t
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
-
-{% include industry-consultation.md %}

@@ -45,7 +45,7 @@ $(document).ready(function () {
 
     // Setup menu hover
     function updateHelpText(elem) {
-        let $ht = $("#helptext");
+        let $ht = $(".helptext");
 
         if ($ht.css('display') === 'none') {
             $ht.show();

@@ -1,21 +1,15 @@
 ---
 layout: splash 
-title: "Experienced Python Software Engineers for Hire"
+title: "Experienced UK based Python Software Engineers for Hire"
 permalink: /recruitment/experienced-python-software-engineers-for-hire
 
 excerpt: "Efficient I.T reduces costs"
 header:
-  overlay_image: /assets/images/benefit/cost.jpg
+  overlay_image: /assets/images/python-dev/python-code.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
   more_text: "Learn about I.T cost reductions"
 
-  
-icon: /assets/images/icons/wallet.png
-benefits:
-    - "Improved Business cash flow."
-    - "More money to invest in other areas of the business."
-    - "Increased Staff wages and Director bonuses."
 ---
 
 {% include breadcrumbs.html %}

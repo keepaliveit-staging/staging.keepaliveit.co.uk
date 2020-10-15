@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Keep-Alive I.T - An equal opportunities employer"
+title: "Keep-Alive I.T - An equal opportunities employer because we believe everyone deserves a chance"
 permalink: /equal-opportunities-employer.html
 excerpt: "Keep-Alive I.T cares about the impact our business has on the environment. Discover the eco-friendly measures we're taking to reduce our CO<sub>2</sub> emissions, and how we're helping our local community."
 
@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/environment.jpg
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
-  more_text: "Learn about our Company Environmental Policy"
+  more_text: "Learn about our Equal Opportunities Policy"
   min_height: "700px"
 ---
 

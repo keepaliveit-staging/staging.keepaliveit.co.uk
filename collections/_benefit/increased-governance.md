@@ -75,8 +75,6 @@ As with any significant project, you should always keep communication lines open
 
 > IT governance is a formal framework that provides a structure for organizations to ensure that IT investments support business objectives.
 
-{% include industry-consultation.md %}
-
 ## Solutions we offer which compliment improved I.T governance
 
 Other benefits of I.T

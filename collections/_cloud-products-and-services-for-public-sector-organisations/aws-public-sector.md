@@ -528,8 +528,6 @@ On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
 
-{% include industry-consultation.md %}
-
 <section id="clients" class="section-bg">
     <div class="container aos-init aos-animate" data-aos="fade-up">
         <div class="section-header">

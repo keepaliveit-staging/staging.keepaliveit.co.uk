@@ -3,18 +3,20 @@ layout: splash
 title: "I.T Hardware Procurement for UK Based Public Sector Organisations"
 permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-procurement
 
-excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
+excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your public sector organisation with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
   min_height: 700px
+  more_text: "Learn more about I.T Hardware procurement for Public Sector Organisations"
+
 ---
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Small Businesses and Enterprises
+## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> Hardware procurement for Public Sector Organisations
 
 CapEx vs. Opex
 Capital Expenditure, Operational Expenditure
@@ -68,4 +70,25 @@ Many enterprises have on-premise equipment that they host on-site to keep data c
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
 
-{% include industry-consultation.md %}
+
+
+Other I.T Hardware Products and Services for Public Sector Organisations
+{% assign items = site.it-hardware-products-and-services-for-public-sector-organisations %}
+
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">
+                        
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>
+                        
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

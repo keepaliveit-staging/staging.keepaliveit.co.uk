@@ -61,4 +61,20 @@ Managing information effectively is crucial to maintaining quality standards on 
 
 ### Cost of our Software Procurement services
 
-{% include industry-consultation.md %}
+Other I.T Software Products and Services for Public Sector Organisations
+{% assign items = site.software-products-and-services-for-public-sector-organisations %}
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">  
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>              
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Keep-Alive I.T's brand guidelines"
-permalink: /brand-guidelines
+title: "About Keep-Alive I.T"
+permalink: /press-kit
 classes:
   - about
 excerpt: "We're a universal I.T Consultancy Company who takes pride in our work. Learn more about our Company values, our vision, and how to join the 'Keep-Alive I.T family' as an employee."
@@ -13,12 +13,6 @@ header:
 
 
 {% include breadcrumbs.html %}
-
-
-
-If you're lucky enough to find yourself in the situation of being able to work on Keep-Alive I.T's company branding materials, then the guidelines set out in this document should be followed at all times.
-
-Download as a PDF
 
 ## Introduction
 This page has been created to provide the public with materials to feature DigiAgency in publications or public talks.

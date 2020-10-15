@@ -261,10 +261,26 @@
         };
 
         var droopmenu_toptoggle = function () {
-            // $(droopmenu_inst).find(".droopmenu-tabnav a").on("click", function (e) {
-            //     e.preventDefault();
-            //     alert('clicked a tab')
-            // });
+            $(droopmenu_inst).find(".droopmenu-tabnav a").on("click", function (e) {
+                e.preventDefault();
+            });
+
+            $(droopmenu_inst).find(".droopmenu-parent > a").on("click", function (e) {
+                var dmHoverLnk = $(this);
+                console.log(dmHoverLnk.parent().hasClass('dmopener'))
+                if (dmHoverLnk.parent().hasClass('dmopener')) {
+                    $('body').css('overflow', 'auto'); // enable scroll again
+                    $(".body-overlay").hide();
+                    dmHoverLnk.parent().stop(true, true).removeClass(settings.dmOpenClass);
+                    dmHoverLnk.parent().attr('aria-expanded', 'false');
+                } else {
+                    $('body').css('overflow', 'hidden'); // prevent scroll
+                    $(".body-overlay").show();
+                    dmHoverLnk.parent().stop(true, true).addClass(settings.dmOpenClass);
+                    dmHoverLnk.parent().attr('aria-expanded', 'true');
+                }
+                e.preventDefault();
+            });
         };
 
         return this.each(function () {
@@ -281,7 +297,5 @@
                 }, 100);
             });
         });
-
     };
-
 })(jQuery);

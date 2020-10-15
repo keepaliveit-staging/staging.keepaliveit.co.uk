@@ -53,4 +53,24 @@ Including drivers setup
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
 
-{% include industry-consultation.md %}
+
+Other I.T Hardware Products and Services for Public Sector Organisations
+{% assign items = site.it-hardware-products-and-services-for-public-sector-organisations %}
+
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">
+                        
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>
+                        
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

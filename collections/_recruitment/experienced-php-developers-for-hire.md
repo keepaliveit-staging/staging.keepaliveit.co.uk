@@ -13,13 +13,8 @@ header:
   page_lead_text_colour: "#aa0000"
   more_text: "Learn about hiring PHP Developers"
 
-  
-icon: /assets/images/icons/wallet.png
-benefits:
-    - "Improved Business cash flow."
-    - "More money to invest in other areas of the business."
-    - "Increased Staff wages and Director bonuses."
 ---
+
 
 {% include breadcrumbs.html %}
 
@@ -554,4 +549,4 @@ Things you'll have to do to hire internally:
             </form>                                                                                   
         </div><!-- end .form-body section -->
     
-</div><!-- end .smart-forms section -->
+</div>
