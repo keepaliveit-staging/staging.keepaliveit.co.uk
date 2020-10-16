@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Infrastructure Management Services for Startups"
 permalink: /it-consultancy-services-for-startups/it-infrastructure-management-services
 
+jsEntryPoints:
+    - it-infrastructure-management-services-startups
+    
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."
 header:
   overlay_image: /assets/images/infrastructure-management.jpg

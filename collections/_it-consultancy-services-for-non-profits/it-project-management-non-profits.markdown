@@ -1,13 +1,17 @@
 ---
 layout: splash
-title: "I.T Project Management Services for Small Businesses and Enterprises"
-permalink: /it-consultancy-services-for-non-profits/it-project-management
+title: "I.T Project Management Services for Non-Profit Organisations"
+permalink: /it-consultancy-services-for-non-profit-organisations/it-project-management
 
+jsEntryPoints:
+    - it-project-management-nonprofit
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  more_text_colour: "#563a29"
 ---
 
 {% include breadcrumbs.html %}
@@ -62,8 +66,3 @@ Many enterprises have on-premise equipment that they host on-site to keep data c
 
 
 ## Cost of our Hardware procurement service
-
-
-We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

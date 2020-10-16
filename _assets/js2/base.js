@@ -70,7 +70,7 @@ $(document).ready(function () {
     });
 
     // Smooth scrolling
-    var scroll = new SmoothScroll('a[href*="#"]', {
+    var scroll = new SmoothScroll('a[href*="#"].take-me-there', {
         offset: function (anchor, toggle) {
             var headerHeight = $(".droopmenu-navbar").height();
             var quicklinksHeight = $("#quicklinks-navigation").height();

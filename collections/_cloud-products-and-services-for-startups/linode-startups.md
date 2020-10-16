@@ -3,6 +3,9 @@ layout: splash
 title: "Linode Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/linode
 
+jsEntryPoints:
+    - linode-startups
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud-providers/linode.png

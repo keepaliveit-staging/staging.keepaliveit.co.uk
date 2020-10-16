@@ -1,8 +1,11 @@
 ---
 layout: splash 
 title: "Google Cloud Platform (GCP) Services for Non-Profit Organisations"
-permalink: /cloud-services-for-non-profits/google-cloud-computing-gcp
+permalink: /cloud-products-and-services-for-non-profit-organisations/google-cloud-computing-gcp
 
+jsEntryPoints:
+    - gcp-nonprofit
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
@@ -11,7 +14,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/google-cloud-logo-flat.png 
   more_text: "Discover our GCP consultancy services"
-
+  more_text_colour: "#563a29"
   
 icon: /assets/images/cloud/google-cloud-logo.png
 cloud_name: Google Cloud Platform
@@ -35,9 +38,6 @@ No need to enter multiple passcodes to access different layers of work and data.
 On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
-
-{% include industry-consultation.md %}
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

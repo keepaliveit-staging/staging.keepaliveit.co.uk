@@ -3,6 +3,9 @@ layout: splash
 title: "Cloud Products and Services for Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/
 
+jsEntryPoints:
+    - cloud-products-and-services-for-public-sector-organisations
+    
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
     overlay_image: /assets/images/cloud-computing.jpg
@@ -11,7 +14,6 @@ header:
     page_lead_text_colour: "#ea5114"
     more_text: "Discover Business & Enterprise Cloud offerings"
     more_text_colour: "#00416a"
-
 
 ---
 
@@ -84,9 +86,6 @@ Expecting a surge of website traffic during a busy period? Let us take control o
 
 <p>“We have been able to make scaling the technical infrastructure of our business cost effective and&nbsp;efficient.”</p>
 
-{% include industry-consultation.md %}
-
-
 {% include breadcrumbs.html %}
 
 ## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Cloud Services offered by keep-Alive I.T
@@ -133,5 +132,3 @@ Expecting a surge of website traffic during a busy period? Let us take control o
 <p>“Our hosting costs have decreased by over 90% and we’re running at about 25% of our capacity allowing us to quickly&nbsp;scale.”</p>
 
 <p>“We have been able to make scaling the technical infrastructure of our business cost effective and&nbsp;efficient.”</p>
-
-{% include industry-consultation.md %}

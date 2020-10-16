@@ -271,7 +271,6 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 {% include why-us-section.html %}
 
-
 <div class="row">
     <div class="col-xs-12">
         <h2 class="text-center animated-headingno">

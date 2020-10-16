@@ -1,8 +1,11 @@
 ---
 layout: splash 
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for Non-Profit Organisations"
-permalink: /cloud-services-for-non-profits/amazon-web-services-aws
+permalink: /cloud-products-and-services-for-non-profit-organisations/amazon-web-services-aws
 
+jsEntryPoints:
+    - aws-nonprofit
+    
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."
 header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
@@ -11,7 +14,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services"
-  more_text_colour: "#ff9900"
+  more_text_colour: "#563a29"
   
 icon: /assets/images/cloud/aws-logo.png
 cloud_name: Amazon Web Services (AWS)
@@ -179,9 +182,6 @@ No need to enter multiple passcodes to access different layers of work and data.
 On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
-
-{% include industry-consultation.md %}
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

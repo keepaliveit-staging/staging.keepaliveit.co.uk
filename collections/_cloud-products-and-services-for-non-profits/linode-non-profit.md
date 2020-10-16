@@ -1,8 +1,11 @@
 ---
 layout: splash 
 title: "Linode Cloud Consultancy Services for Non-Profit Organisations"
-permalink: /cloud-services-for-non-profits/linode
+permalink: /cloud-products-and-services-for-non-profit-organisations/linode
 
+jsEntryPoints:
+    - linode-nonprofit
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud-providers/linode.png
@@ -11,6 +14,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
   more_text: "Discover our Linode Cloud consultancy services"
+  more_text_colour: "#563a29"
 
   
 icon: /assets/images/cloud/linode-logo.png
@@ -41,9 +45,6 @@ No need to enter multiple passcodes to access different layers of work and data.
 On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
-
-{% include industry-consultation.md %}
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

@@ -3,6 +3,9 @@ layout: splash
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/oracle-cloud-infrastructure-oci
 
+jsEntryPoints:
+    - oci-public-sector
+    
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Oracle Cloud Infrastructure workloads for Public Sector Organisations. Our Oracle Cloud Infrastructure Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."
 header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png

@@ -288,6 +288,12 @@
             droopmenu_config();
             droopmenu_adjust();
             droopmenu_toptoggle();
+
+            // Prevent hash from making the page jump
+            droopmenu_main_toggler.on('click', function(e){
+                e.preventDefault();
+            });
+
             var dmResizeTimer;
             $(window).on('resize.droopMenu orientationchange.droopMenu', function () {
                 clearTimeout(dmResizeTimer);

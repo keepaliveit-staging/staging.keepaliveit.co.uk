@@ -4,6 +4,9 @@ author_profile: false
 title: "I.T related Tools and Utilities"
 permalink: /it-tools-and-utilities/
 
+jsEntryPoints:
+    - it-tools-and-utilities
+    
 excerpt: "Tools and Utilities which help us diagnose common issues with your I.T operations."
 header:
   overlay_image: /assets/images/help.jpg

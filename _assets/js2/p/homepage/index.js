@@ -1,8 +1,16 @@
 import '../../../js/jquery.background-video'
+import '../../../js/rotaterator'
 import '../../../js/glider.min'
-let fitvid = require( '../../../js/plugins/jquery.fitvids');
+import '../../../js/slick.min'
 
-$(document).ready(function(){
+let fitvid = require('../../../js/plugins/jquery.fitvids');
+
+$(document).ready(function () {
+
+    $('.rotateText').rotaterator({
+        fadeSpeed: 2000,
+        pauseSpeed: 1000
+    });
 
     // FitVids init
     $("#main").fitVids();
@@ -32,6 +40,44 @@ $(document).ready(function(){
             prev: '.glider-prev',
             next: '.glider-next'
         }
+    });
+
+    $(".regular").slick({
+        lazyLoad: 'ondemand',
+        dots: true,
+        infinite: true,
+        slidesToShow: 4,
+        slidesToScroll: 3,
+        autoplay: false,
+        autoplaySpeed: 5000,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 3,
+                    infinite: true,
+                    dots: true
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1
+                }
+            }
+            // You can unslick at a given breakpoint now by adding:
+            // settings: "unslick"
+            // instead of a settings object
+        ]
     });
 
 

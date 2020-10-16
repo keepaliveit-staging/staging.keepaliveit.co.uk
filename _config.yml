@@ -113,7 +113,7 @@ social:
   name                   : Keep-Alive I.T Ltd. # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/keepaliveit"
-    - "https://www.facebook.com/keepaliveitservices/"
+    - "https://www.facebook.com/keepaliveitltd/"
 
 # Analytics
 analytics:
@@ -151,10 +151,10 @@ footer:
       url: "https://github.com/KeepAliveIT/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/keep.alive.it"
+      url: "https://instagram.com/keepaliveitltd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/keepaliveitservices/"
+      url: "https://www.facebook.com/keepaliveitltd/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "http://linkedin.com/company/keepaliveit"
@@ -224,7 +224,6 @@ kramdown:
 collections:
   testimonial:
     output: false
-    permalink: /testimonial/:path/
   industry:
     output: true
     permalink: /it-consultations-for/:path/
@@ -264,7 +263,7 @@ collections:
   cloud-products-and-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  cloud-products-and-services-for-non-profits:
+  cloud-products-and-services-for-non-profit-organisations:
     output: true
     permalink: /:collection/:path/
   cloud-products-and-services-for-public-sector-organisations:
@@ -294,7 +293,7 @@ collections:
   it-consultancy-services-for-startups:
     output: true
     permalink: /:collection/:path/
-  it-consultancy-services-for-non-profits:
+  it-consultancy-services-for-non-profit-organisations:
     output: true
     permalink: /:collection/:path/
   it-consultancy-services-for-public-sector-organisations:

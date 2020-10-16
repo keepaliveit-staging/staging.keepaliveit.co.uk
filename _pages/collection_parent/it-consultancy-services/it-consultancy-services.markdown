@@ -3,11 +3,16 @@ layout: splash
 title: "I.T Consultancy Services"
 permalink: /it-consultancy-services/
 
+jsEntryPoints:
+    - it-consultancy-services
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  more_text: "Discover our I.T Consultancy Services"
+
 ---
 
 {% include breadcrumbs.html %}
@@ -20,7 +25,7 @@ For consumers
 {% endfor %}
 
 For Non-Profit Organisations
-{% for item in site.it-consultancy-services-for-non-profits %}
+{% for item in site.it-consultancy-services-for-non-profit-organisations %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
 
@@ -90,5 +95,3 @@ Many enterprises have on-premise equipment that they host on-site to keep data c
 
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

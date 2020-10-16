@@ -24,7 +24,7 @@ For consumers
 {% endfor %}
 
 For Non-Profit Organisations
-{% for item in site.software-products-and-services-for-non-profits %}
+{% for item in site.software-products-and-services-for-non-profit-organisations %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
 

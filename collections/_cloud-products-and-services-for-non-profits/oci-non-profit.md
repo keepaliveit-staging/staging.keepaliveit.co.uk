@@ -1,8 +1,11 @@
 ---
 layout: splash 
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Non-Profit Organisations"
-permalink: /cloud-services-for-non-profits/oracle-cloud-infrastructure-oci
+permalink: /cloud-products-and-services-for-non-profit-organisations/oracle-cloud-infrastructure-oci
 
+jsEntryPoints:
+    - oci-nonprofit
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
@@ -11,7 +14,7 @@ header:
   min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-flat.png 
   more_text: "Discover our OCI consultancy services"
-
+  more_text_colour: "#563a29"
   
 icon: /assets/images/cloud/oci-logo.png
 cloud_name: Oracle Cloud Infrastructure
@@ -91,9 +94,6 @@ No need to enter multiple passcodes to access different layers of work and data.
 On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
-
-{% include industry-consultation.md %}
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

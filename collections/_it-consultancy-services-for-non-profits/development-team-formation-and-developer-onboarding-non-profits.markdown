@@ -1,8 +1,11 @@
 ---
 layout: splash
-title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Small Businesses and Enterprises"
-permalink: /it-consultancy-services-for-non-profits/software-development-team-formation-and-developer-onboarding-services
+title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Non-Profit Organisations"
+permalink: /it-consultancy-services-for-non-profit-organisations/software-development-team-formation-and-developer-onboarding-services
 
+jsEntryPoints:
+    - software-development-team-formation-and-developer-onboarding-services-nonprofit
+    
 excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."
 header:
   overlay_image: /assets/images/development-team.jpg
@@ -10,6 +13,8 @@ header:
   page_lead_text_colour: "#ea5114"
   min_height: "700px"
   more_text: "Discover how we can improve your team"
+  more_text_colour: "#563a29"
+
 ---
 
 {% include breadcrumbs.html %}
@@ -196,5 +201,3 @@ We'll give you a time estimate for the work that needs completing. If the task t
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
-
-{% include industry-consultation.md %}

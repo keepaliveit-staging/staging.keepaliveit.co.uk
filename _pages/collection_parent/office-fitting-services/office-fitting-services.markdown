@@ -3,6 +3,9 @@ layout: splash
 title: "Office Fitting Services"
 permalink: /office-fitting-services/
 
+jsEntryPoints:
+    - office-fitting-services
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
@@ -24,7 +27,7 @@ For consumers
 {% endfor %}
 
 For Non-Profit Organisations
-{% for item in site.office-fitting-services-for-non-profits %}
+{% for item in site.office-fitting-services-for-non-profit-organisations %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
 
@@ -68,5 +71,3 @@ Including drivers setup
 
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

@@ -3,6 +3,9 @@ layout: splash
 title: "Google Cloud Platform (GCP) Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/google-cloud-computing-gcp
 
+jsEntryPoints:
+    - gcp-startups
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg

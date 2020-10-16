@@ -50,17 +50,17 @@
         <div class="bubble3">
           <div style="flex-basis: 80px;">
               <div class="bounce-7 scroll-down1">
-                  <a href="#main">
+                  <a href="#main" class="take-me-there">
                       <i class="fas fa-chevron-down" aria-hidden="true"></i>
                   </a>
               </div>
           </div>
           <div style="flex-grow: 1;align-self: center;">
-            <a href="#main" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);color:white;text-align:center;font-weight:300;font-size: 0.77em;">Discover how we could help enhance your home or organisation with effective I.T</a>
+            <a href="#main" class="take-me-there" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);color:white;text-align:center;font-weight:300;font-size: 0.77em;">Discover how we could help enhance your home or organisation with effective I.T</a>
           </div>
           <div style="flex-basis: 80px;">
               <div class="bounce-7 scroll-down2">
-                  <a href="#main">
+                  <a href="#main" class="take-me-there">
                       <i class="fas fa-chevron-down" aria-hidden="true"></i>
                   </a>
               </div>

@@ -462,13 +462,13 @@ main:
         - item:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services-for-consumers
+          url: /cloud-products-and-services-for-consumers
           helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
               title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-consumers/amazon-web-services-aws
+              url: /cloud-products-and-services-for-consumers/amazon-web-services-aws
               helptext: "This is a test item and should be changed in future"
         - item:
           title: "Hardware related Products & Services"
@@ -528,11 +528,11 @@ main:
         - item:
           title: "Cloud Products & Services"
           icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-          url: /cloud-services-for-consumers
+          url: /cloud-products-and-services-for-consumers
           helptext: "Explore our range of Cloud Products & Services for Consumers."
           subitems:
             - item:
               title: "Test item"
               icon: "<i class=\"fas fa-cloud\" aria-hidden=\"true\"></i>"
-              url: /cloud-services-for-consumers/amazon-web-services-aws
+              url: /cloud-products-and-services-for-consumers/amazon-web-services-aws
               helptext: "This is a test item and should be changed in future"

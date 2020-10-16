@@ -3,6 +3,9 @@ layout: splash
 title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Startups"
 permalink: /it-consultancy-services-for-startups/software-development-team-formation-and-developer-onboarding-services
 
+jsEntryPoints:
+    - software-development-team-formation-and-developer-onboarding-services-startups
+
 excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."
 header:
   overlay_image: /assets/images/development-team.jpg

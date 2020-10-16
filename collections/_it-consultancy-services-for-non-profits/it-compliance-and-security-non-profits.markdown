@@ -1,14 +1,18 @@
 ---
 layout: splash
-title: "I.T Compliance & Security Services for Small Businesses and Enterprises"
-permalink: /it-consultancy-services-for-non-profits/it-compliance-and-security-services
+title: "I.T Compliance & Security Services for Non-Profit Organisations"
+permalink: /it-consultancy-services-for-non-profit-organisations/it-compliance-and-security-services
 
+jsEntryPoints:
+    - it-compliance-and-security-services-nonprofit
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/compliance-and-security.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
   more_text: "Browse our I.T Security Services"
+  more_text_colour: "#563a29"
 ---
 
 {% include breadcrumbs.html %}
@@ -36,5 +40,3 @@ Firewalls Management
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
-
-{% include industry-consultation.md %}

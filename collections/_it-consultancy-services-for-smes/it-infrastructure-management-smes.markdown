@@ -32,3 +32,22 @@ Physical and Viirtual infrastructure management for companies and corporations.
 [Managed Domain Names](/)
 
 {% include industry-consultation.md %}
+
+Other I.T Consultancy Services for Businesses:
+{% assign items = site.it-consultancy-services-for-smes %}
+
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

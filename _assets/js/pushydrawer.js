@@ -67,11 +67,10 @@
             }
             var container = $(containerSelector);
 
-
             //close menu w/ esc key
             $(document).keyup(function (e) {
                 //check if esc key is pressed
-                if (e.keyCode == 27) {
+                if (e.keyCode === 27) {
 
                     //check if menu is open
                     if (body.hasClass(pushyOpenLeft) || body.hasClass(pushyOpenRight)) {
@@ -106,7 +105,6 @@
                         menuLinkFocus.focus();
                     });
                 }
-
             }
 
             function closePushy() {

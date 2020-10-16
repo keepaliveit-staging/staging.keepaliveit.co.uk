@@ -1,8 +1,11 @@
 ---
 layout: splash 
 title: "DigitalOcean Cloud Consultancy Services"
-permalink: /cloud-services/digitalocean
+permalink: /cloud-products-and-services/digitalocean
 
+jsEntryPoints:
+    - digitalocean-cloud-services
+    
 excerpt: "Efficient I.T improves productivity"
 header:
   overlay_image: /assets/images/benefit/flexible.jpg
@@ -38,9 +41,6 @@ No need to enter multiple passcodes to access different layers of work and data.
 On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
-
-{% include industry-consultation.md %}
-
 
 Other benefits of I.T
 {% assign items = site.benefit %}

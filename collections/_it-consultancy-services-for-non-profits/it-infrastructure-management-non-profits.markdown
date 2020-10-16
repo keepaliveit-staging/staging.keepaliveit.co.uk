@@ -1,13 +1,17 @@
 ---
 layout: splash
-title: "I.T Infrastructure Management Services for Small Businesses and Enterprises"
-permalink: /it-consultancy-services-for-non-profits/it-infrastructure-management-services
+title: "I.T Infrastructure Management Services for Non-Profit Organisations"
+permalink: /it-consultancy-services-for-non-profit-organisations/it-infrastructure-management-services
 
+jsEntryPoints:
+    - it-infrastructure-management-services-nonprofit
+    
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."
 header:
   overlay_image: /assets/images/infrastructure-management.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
+  more_text_colour: "#563a29"
 ---
 
 {% include breadcrumbs.html %}
@@ -27,5 +31,3 @@ Physical and Viirtual infrastructure management for companies and corporations.
 
 [Managed WiFi Access Points](/)
 [Managed Domain Names](/)
-
-{% include industry-consultation.md %}

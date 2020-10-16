@@ -1025,7 +1025,7 @@
                 index: index + 1,
                 title: header.html()
             }),
-            stepItem = $("<li role=\"tab\"><a id=\"" + uniqueStepId + "\" data-scroll-ignore=\"true\" href=\"#" + uniqueHeaderId +
+            stepItem = $("<li role=\"tab\"><a id=\"" + uniqueStepId + "\" href=\"#" + uniqueHeaderId +
                 "\" aria-controls=\"" + uniqueBodyId + "\">" + title + "</a></li>");
 
         stepItem._enableAria(options.enableAllSteps || state.currentIndex > index);

@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Hardware Products and Services for Small Businesses and Enterprises"
 permalink: /it-hardware-products-and-services/
 
+jsEntryPoints:
+    - it-hardware-products-and-services
+
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
@@ -18,13 +21,16 @@ header:
 
 ## <i class="fas fa-microchip page-title-icon" aria-hidden="true"></i> I.T Hardware Products and Services
 
+### Cost of our Hardware procurement service
+The cost of hiring us to complete I.T Hardware related services depends on the type of individual, or organisation that you are. To see pricing for individual services, please see the following pages:
+
 For consumers
 {% for item in site.it-hardware-products-and-services-for-consumers %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
 
 For Non-Profit Organisations
-{% for item in site.it-hardware-products-and-services-for-non-profits %}
+{% for item in site.it-hardware-products-and-services-for-non-profit-organisations %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
 
@@ -42,31 +48,3 @@ For Startups
 {% for item in site.it-hardware-products-and-services-for-startups %}
 [{{ item.name }} {{item.title}}]({{ item.url }})
 {% endfor %}
-
-> "I need my team equipped with the right technology to get their job done"
-
-IT Strategy
-IT Projects
-IT Audits
-
-- IT Supplier Management
-
-
-- Keyboards
-- Mice
-- Monitors
-
-Including drivers setup
-
-- Devices
-    - Android Devices
-    - iOS Devices
-
-- Servers
-
-### Cost of our Hardware procurement service
-
-
-We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

@@ -47,5 +47,3 @@ Including drivers setup
 
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

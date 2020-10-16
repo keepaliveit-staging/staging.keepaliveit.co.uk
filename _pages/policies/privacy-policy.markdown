@@ -6,6 +6,9 @@ classes:
   - privacy-policy
 excerpt: "Learn how we collect, handle, use, and look after your data."
 
+jsEntryPoints:
+    - privacy-policy
+    
 header:
   overlay_image: /assets/images/privacy.jpg
   overlay_filter: 0.54
