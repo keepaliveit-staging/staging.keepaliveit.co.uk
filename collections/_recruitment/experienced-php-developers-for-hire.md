@@ -4,7 +4,7 @@ title: "Experienced UK based PHP Developers for Hire"
 permalink: /recruitment/experienced-php-developers-for-hire
 
 jsEntryPoints:
-    - php-recruitment
+    - recruitment-experienced-php-developers-for-hire
     
 excerpt: "Take the pain out of hiring PHP developers, and let us do the legwork for you."
 header:

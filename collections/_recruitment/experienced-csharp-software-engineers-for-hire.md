@@ -3,13 +3,15 @@ layout: splash
 title: "Experienced UK based C# Software Engineers for Hire"
 permalink: /recruitment/experienced-csharp-software-engineers-for-hire
 
+jsEntryPoints:
+    - recruitment-experienced-csharp-software-engineers-for-hire
+    
 excerpt: "Efficient I.T reduces costs"
 header:
   overlay_image: /assets/images/benefit/cost.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#aa0000"
   more_text: "Learn about I.T cost reductions"
-
 
 ---
 

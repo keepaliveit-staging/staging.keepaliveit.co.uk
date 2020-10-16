@@ -3,6 +3,9 @@ layout: splash
 title: "Experienced UK based Python Software Engineers for Hire"
 permalink: /recruitment/experienced-python-software-engineers-for-hire
 
+jsEntryPoints:
+    - recruitment-experienced-python-software-engineers-for-hire
+
 excerpt: "Efficient I.T reduces costs"
 header:
   overlay_image: /assets/images/python-dev/python-code.png

@@ -3,6 +3,9 @@ layout: splash
 title: Keep-Alive I.T's approach to I.T Infrastructure Management
 permalink: /about/our-approach-to-it-infrastructure-management/
 
+jsEntryPoints:
+    - our-approach-to-it-infrastructure-management
+
 excerpt: "Keep-Alive I.T's approach to I.T Infrastructure Management explained."
 
 header:

@@ -3,6 +3,9 @@ layout: splash
 title: "Experienced UK based JavaScript Developers for Hire"
 permalink: /recruitment/experienced-javascript-developers-for-hire
 
+jsEntryPoints:
+    - recruitment-experienced-javascript-developers-for-hire
+
 excerpt: "Efficient I.T reduces costs"
 header:
   overlay_image: /assets/images/js-dev/javascript-developer.png
