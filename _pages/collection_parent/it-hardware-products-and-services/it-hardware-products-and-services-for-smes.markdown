@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Hardware Products and Services for SME's"
 permalink: /it-hardware-products-and-services-for-smes/
 
+jsEntryPoints:
+    - it-hardware-products-and-services-for-smes
+
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
@@ -49,5 +52,3 @@ Including drivers setup
 
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
-
-{% include industry-consultation.md %}

@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Consultancy Services for Small Businesses and Enterprises"
 permalink: /it-consultancy-services-for-smes/
 
+jsEntryPoints:
+    - it-consultancy-services-for-smes
+
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg

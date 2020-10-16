@@ -4,6 +4,9 @@ layout: home
 author_profile: false
 classes:
   - newsletter
+  
+jsEntryPoints:
+    - newsletter
 ---
 
 <!-- Begin Sendinblue Form -->

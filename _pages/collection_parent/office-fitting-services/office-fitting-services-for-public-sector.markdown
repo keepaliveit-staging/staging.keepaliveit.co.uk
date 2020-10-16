@@ -3,6 +3,9 @@ layout: splash
 title: "Office Fitting Services for Public Sector Organisations"
 permalink: /office-fitting-services-for-public-sector-organisations/
 
+jsEntryPoints:
+    - office-fitting-services-for-public-sector-organisations
+
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg
