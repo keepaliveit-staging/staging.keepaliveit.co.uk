@@ -2,7 +2,13 @@
 layout: splash
 title: Cloud Migration Planning Checklist
 permalink: /resources/cloud-migration-checklist
+
+jsEntryPoints:
+    - resource-cloud-migration-checklist
+    
 ---
+
+{% include breadcrumbs.html %}
 
 ## Cloud Migration Checklist
 Creating a new website may seem like an extremely stressful task for some people but proper planning will ensure that the process goes as smoothly as possible for all parties involved. That's why we've created this Website Development Process to help describe the different stages of the development process and to understand how our working relationship is effective. 

@@ -2,7 +2,7 @@
 layout: splash 
 author_profile: false 
 title: "Free I.T Resources"
-permalink: /resources
+permalink: /resources/
 
 toc: true
 toc_sticky: true
@@ -52,6 +52,25 @@ As a way of saying thank you to our customers for supporting us as a business, w
     {% include feature_row %}
 </div>
 {% endcomment %}
+
+
+Other I.T Software Products and Services for Consumers
+{% assign items = site.resources %}
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">  
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>              
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
 
 Unfortunately, there are currently no Free I.T Resources to display. Please check back soon!
 

@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Project Management Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /it-consultancy-services-for-smes/it-project-management
 
+jsEntryPoints:
+    - it-project-management-sme
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg

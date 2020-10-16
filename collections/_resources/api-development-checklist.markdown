@@ -1,10 +1,16 @@
 ---
 layout: splash
-title: Keep Alive I.T’s 5 Phase Website Development Process
-permalink: /resources/website-development-checklist
+title: Keep Alive I.T’s 5 Phase API Development Process
+permalink: /resources/api-development-checklist
+
+jsEntryPoints:
+    - resource-api-development-checklist
+    
 ---
 
-## Website Development Checklist
+{% include breadcrumbs.html %}
+
+## API Development Checklist
 Creating a new website may seem like an extremely stressful task for some people but proper planning will ensure that the process goes as smoothly as possible for all parties involved. That's why we've created this Website Development Process to help describe the different stages of the development process and to understand how our working relationship is effective. 
 
 ### Phase 1: Knowledge & Requirements Gathering

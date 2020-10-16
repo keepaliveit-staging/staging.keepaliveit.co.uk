@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Public Cloud Provider Status Pages"
-permalink: /public-cloud-status-pages
+permalink: /public-cloud-status-pages.html
 classes:
   - about
 excerpt: "Links to Status Pages of Popular Public Cloud Providers for your convenience."

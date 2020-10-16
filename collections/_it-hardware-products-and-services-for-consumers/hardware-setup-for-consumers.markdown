@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Hardware Setup for Consumers"
-permalink: /it-hardware-products-and-services-consumer/it-hardware-setup
+permalink: /it-hardware-products-and-services-for-consumers/it-hardware-setup
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:

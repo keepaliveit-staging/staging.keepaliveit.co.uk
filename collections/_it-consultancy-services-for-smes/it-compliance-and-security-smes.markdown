@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Compliance & Security Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /it-consultancy-services-for-smes/it-compliance-and-security-services
 
+jsEntryPoints:
+    - it-compliance-and-security-services-sme
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/compliance-and-security.jpg
