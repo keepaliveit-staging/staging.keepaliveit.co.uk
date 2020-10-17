@@ -19,8 +19,6 @@ header:
 
 ## Efficient I.T reduces Costs for Businesses and Individuals
 
-{% include industry-consultation.md %}
-
 Other benefits of I.T
 {% assign items = site.benefit %}
 <ul class="">

@@ -4,7 +4,7 @@ author_profile: false
 title: "Public IP Address Finder"
 permalink: /it-tools-and-utilities/ip-address-finder
 jsEntryPoints : 
-    - ipaddress
+    - tools-ipaddress
 
 excerpt: "Need to know your Public IP Address? This tool will display your Public IP Address that is visible to other websites that you visit on the Internet."
 header:
