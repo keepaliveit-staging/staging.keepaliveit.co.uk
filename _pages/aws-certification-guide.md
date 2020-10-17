@@ -2,8 +2,6 @@
 layout: splash
 title: "AWS certification guide"
 permalink: /aws-certification-guide
-classes:
-  - about
 excerpt: "An overview of AWS certifications and a guide to becoming certified."
 header:
   overlay_image: /assets/images/call.jpg

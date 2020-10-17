@@ -2,8 +2,6 @@
 layout: splash
 title: "How to find us"
 permalink: /about/how-to-find-us
-classes:
-  - about
 excerpt: "How to find us"
 
 header:

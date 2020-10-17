@@ -2,8 +2,6 @@
 layout: splash
 title: "Jobs at Keep-Alive I.T"
 permalink: /jobs/
-classes:
-  - about
 excerpt: "Are you looking for a Career in I.T? Learn what it's like to work for Keep-Alive I.T and have a look to see if there's 
 any job positions that you (or a friend) may be interested in applying for."
 

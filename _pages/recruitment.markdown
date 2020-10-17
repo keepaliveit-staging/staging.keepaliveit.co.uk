@@ -2,8 +2,6 @@
 layout: splash
 title: Recruitment"
 permalink: /recruitment/
-classes:
-  - solutions
 excerpt: "I.T Solutions"
 
 jsEntryPoints:

@@ -7,6 +7,7 @@ classes:
   
 jsEntryPoints:
     - newsletter
+    
 ---
 
 <!-- Begin Sendinblue Form -->

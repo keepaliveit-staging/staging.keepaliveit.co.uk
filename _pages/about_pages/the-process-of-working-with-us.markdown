@@ -2,8 +2,6 @@
 layout: splash
 title: "The Process of Working with Us"
 permalink: /about/the-process-of-working-with-us
-classes:
-  - about
 excerpt: "The process of working with us"
 
 header:

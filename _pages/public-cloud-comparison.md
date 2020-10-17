@@ -2,8 +2,6 @@
 layout: splash
 title: "An introduction to Amazon Web Services (AWS) Cloud offerings"
 permalink: /public-clouds-comparison-aws-vs-azure-vs-gcp-vs-oci
-classes:
-  - about
 excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation from one of our I.T consultants to discuss your next I.T related project."
 header:
   overlay_image: /assets/images/call.jpg
