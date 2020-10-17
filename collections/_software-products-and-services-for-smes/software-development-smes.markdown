@@ -3,6 +3,9 @@ layout: splash
 title: "Software Development Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /software-products-and-services-for-smes/software-development-services
 
+jsEntryPoints:
+    - software-development-services-smes
+
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/software-engineering.jpg

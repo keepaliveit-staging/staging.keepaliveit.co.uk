@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Software Support for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /software-products-and-services-for-smes/it-software-support
 
+jsEntryPoints:
+    - it-software-support-smes
+    
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
   overlay_image: /assets/images/it-support.jpg

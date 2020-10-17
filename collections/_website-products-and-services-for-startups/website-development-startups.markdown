@@ -3,6 +3,9 @@ layout: splash
 title: "Website Development for Startups"
 permalink: /website-products-and-services-for-startups/website-development
 
+jsEntryPoints:
+    - website-development-startups
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg

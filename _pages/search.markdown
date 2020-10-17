@@ -3,6 +3,9 @@ layout: splash
 title: "Search keepaliveit.co.uk"
 permalink: /search
 
+jsEntryPoints:
+    - search
+    
 excerpt: "Search website content on keepaliveit.co.uk"
 header:
   overlay_image: /assets/images/cloud-computing.jpg

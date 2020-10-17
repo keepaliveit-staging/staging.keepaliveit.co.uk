@@ -4,6 +4,10 @@ title: "GDPR Compliance for I.T Systems"
 permalink: /solutions/gdpr-it-compliance
 classes:
   - gdpr_compliance
+  
+jsEntryPoints:
+    - solution-gdpr-it-compliance
+
 excerpt: "Are your I.T systems GDPR Compliant? GDPR came into practise on May 25th, 2018. Continue reading to learn more about GDPR I.T Compliance and how it could affect your business."
 
 header:

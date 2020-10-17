@@ -3,6 +3,9 @@ layout: splash
 title: "Website Products and Services for Consumers"
 permalink: /website-products-and-services-for-consumers/website-development
 
+jsEntryPoints:
+    - website-development-consumers
+    
 excerpt: "Learn how Keep-Alive I.T can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg

@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Software Setup Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
-permalink: /software-products-and-services-for-smes/software-setup
+title: "I.T Software Support Services for Consumers"
+permalink: /software-products-and-services-for-consumers/it-software-support
 
 jsEntryPoints:
-    - software-setup-smes
+    - software-support-consumers
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
-  page_lead_text_colour: "#5e212e"
-  more_text_colour: "#215e51"
+  page_lead_text_colour: "#897ad1"
+  more_text_colour: "#35344b"
   min_height: "700px"
 
 ---
@@ -60,4 +60,21 @@ Managing information effectively is crucial to maintaining quality standards on 
 
 ### Cost of our Software Procurement services
 
-{% include industry-consultation.md %}
+
+Other I.T Software Products and Services for Consumers
+{% assign items = site.software-products-and-services-for-consumers %}
+<section>
+    <div class="row">
+        {% for item in items %}
+            {% if page.url != item.url %}
+                <div class="col-xs-12 col-sm-6 col-md-4 reason-container">
+                    <div class="reason-item">  
+                            <div class="item-title">
+                                <a href="{{ item.url }}">{{ item.title }}</a>
+                            </div>              
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>

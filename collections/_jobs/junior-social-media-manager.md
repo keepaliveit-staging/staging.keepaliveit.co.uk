@@ -3,6 +3,9 @@ layout: splash
 title: "Junior Social Media Manager"
 permalink: /jobs/social-media-manager
 
+jsEntryPoints:
+    - job-social-media-manager
+    
 excerpt: "Social Media Manager Job at Keep-Alive I.T."
 header:
   overlay_image: /assets/images/jobs/social-media-manager.jpg

@@ -3,6 +3,9 @@ layout: splash
 title: "Website Maintenance Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /website-products-and-services-for-smes/website-maintenance
 
+jsEntryPoints:
+    - website-maintenance-smes
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg

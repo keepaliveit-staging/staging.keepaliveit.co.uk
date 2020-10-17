@@ -2,10 +2,11 @@
 layout: splash
 title: "Public Cloud Provider Status Pages"
 permalink: /public-cloud-status-pages.html
-classes:
-  - about
 excerpt: "Links to Status Pages of Popular Public Cloud Providers for your convenience."
 
+jsEntryPoints:
+    - public-cloud-status-pages
+    
 header:
   overlay_image: /assets/images/cloud.jpg
   overlay_filter: 0.54

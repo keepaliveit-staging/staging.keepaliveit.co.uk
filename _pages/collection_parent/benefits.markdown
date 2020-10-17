@@ -3,6 +3,9 @@ layout: splash
 title: What are the Benefits of Effective I.T?
 permalink: /benefits-of-effective-it/
 
+jsEntryPoints:
+    - benefits-of-effective-it
+    
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."
 header:
   overlay_image: /assets/images/benefit/overview.jpg

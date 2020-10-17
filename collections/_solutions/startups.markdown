@@ -6,6 +6,9 @@ classes:
   - solutions
 excerpt: "Whether you're thinking of running a Startup Business, or you already run a successful Startup Business and your aim is to grow your Company's I.T, we can help. We offer a range of outsourced I.T Solutions for Startups and can help you develop or maintain scalable I.T, making your life as a founder less stressful."
 
+jsEntryPoints:
+    - solution-it-for-startups
+    
 header:
   overlay_image: /assets/images/startups.jpg
   overlay_filter: 0.74

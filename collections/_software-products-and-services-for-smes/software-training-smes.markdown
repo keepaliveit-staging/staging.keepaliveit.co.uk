@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Software Training Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /software-products-and-services-for-smes/software-training
 
+jsEntryPoints:
+    - software-training-smes
+    
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."
 header:
   overlay_image: /assets/images/software-training.jpg

@@ -3,6 +3,9 @@ layout: splash
 title: "Google Cloud Platform (GCP) Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/google-cloud-computing-gcp
 
+jsEntryPoints:
+    - gcp-smes
+    
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Google Cloud Platform (GCP) Cloud infrastructure."
 excerpt2: "<a href='/request-a-callback'>Enquire about hiring our Google Cloud Platform (GCP) Cloud expertise today</a>, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
 

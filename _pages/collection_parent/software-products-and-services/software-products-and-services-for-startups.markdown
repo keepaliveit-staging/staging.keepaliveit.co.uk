@@ -3,6 +3,9 @@ layout: splash
 title: "Software Products and Services for Startups"
 permalink: /software-products-and-services-for-startups/
 
+jsEntryPoints:
+    - software-products-and-services-for-startups
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg

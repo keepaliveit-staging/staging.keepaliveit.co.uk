@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Hardware Procurement for UK Based Public Sector Organisations"
 permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-procurement
 
+jsEntryPoints:
+    - it-hardware-procurement-public-sector
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your public sector organisation with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg

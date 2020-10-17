@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Hardware Support for Consumers"
 permalink: /it-hardware-products-and-services-for-consumers/it-hardware-support
 
+jsEntryPoints:
+    - it-hardware-support-consumers
+    
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."
 header:
   overlay_image: /assets/images/it-support.jpg

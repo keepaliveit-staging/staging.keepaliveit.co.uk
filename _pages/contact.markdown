@@ -5,6 +5,10 @@ permalink: /contact.html
 classes:
   - contact
 excerpt: "Discover the different ways to get in touch with us."
+
+jsEntryPoints:
+    - contact
+    
 header:
   overlay_image: /assets/images/call.jpg
   overlay_filter: 0.74

@@ -6,6 +6,9 @@ classes:
   - solutions
 excerpt: "Public Sector I.T Solutions"
 
+jsEntryPoints:
+    - solution-it-for-public-sector-organisations
+    
 header:
   overlay_image: /assets/images/government.jpg
   overlay_filter: 0.74

@@ -6,6 +6,9 @@ classes:
   - cookie_policy
 excerpt: "Learn how Web Browser Cookies are used at keepaliveit.co.uk"
 
+jsEntryPoints:
+    - cookie-policy
+    
 header:
   overlay_image: /assets/images/cookies.jpg
   overlay_filter: 0.74

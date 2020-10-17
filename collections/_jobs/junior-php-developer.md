@@ -3,6 +3,9 @@ layout: splash
 title: "Junior PHP Developer"
 permalink: /jobs/junior-php-developer
 
+jsEntryPoints:
+    - job-junior-php-developer
+    
 excerpt: "Graduate PHP Developer Job at Keep-Alive I.T."
 header:
   overlay_image: /assets/images/jobs/php-developer.jpg

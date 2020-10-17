@@ -3,6 +3,9 @@ layout: splash
 title: "Software Development Services for Consumers"
 permalink: /software-products-and-services-for-consumers/software-development-services
 
+jsEntryPoints:
+    - software-development-services-consumers
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/software-development-consultancy.jpg

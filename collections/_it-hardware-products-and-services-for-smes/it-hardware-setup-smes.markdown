@@ -3,6 +3,9 @@ layout: splash
 title: "On-Site Hardware Setup for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /it-hardware-products-and-services-for-smes/it-hardware-setup
 
+jsEntryPoints:
+    - it-hardware-setup-smes
+    
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."
 header:
   overlay_image: /assets/images/hardware-procurement.jpg

@@ -3,6 +3,9 @@ layout: splash
 title: "Software Procurement Services for Startups"
 permalink: /software-products-and-services-for-startups/software-procurement
 
+jsEntryPoints:
+    - software-procurement-startups
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cad-software.jpg

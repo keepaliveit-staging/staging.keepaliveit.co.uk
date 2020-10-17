@@ -2,10 +2,12 @@
 layout: splash
 title: "Environmental Policy for Keep-Alive I.T"
 permalink: /environmental-policy.html
-classes:
-  - about
+
 excerpt: "Keep-Alive I.T cares about the impact our business has on the environment. Discover the eco-friendly measures we're taking to reduce our CO<sub>2</sub> emissions, and how we're helping our local community."
 
+jsEntryPoints:
+    - environmental-policy
+    
 header:
   overlay_image: /assets/images/environment.jpg
   overlay_filter: 0.74

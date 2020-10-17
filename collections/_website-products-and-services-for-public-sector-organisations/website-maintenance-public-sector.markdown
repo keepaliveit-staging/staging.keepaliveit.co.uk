@@ -3,6 +3,9 @@ layout: splash
 title: "Website Maintenance Services for UK based Public Sector Organisations"
 permalink: /website-products-and-services-for-public-sector-organisations/website-maintenance
 
+jsEntryPoints:
+    - website-maintenance-public-sector
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg

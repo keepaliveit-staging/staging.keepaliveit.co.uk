@@ -3,6 +3,9 @@ layout: splash
 title: "Software Setup Services for Public Sector Organisations"
 permalink: /software-products-and-services-for-public-sector-organisations/software-setup
 
+jsEntryPoints:
+    - software-setup-public-sector
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/cad-software.jpg

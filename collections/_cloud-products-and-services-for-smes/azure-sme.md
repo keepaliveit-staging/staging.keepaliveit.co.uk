@@ -3,6 +3,9 @@ layout: splash
 title: "Microsoft Azure Cloud Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/azure
 
+jsEntryPoints:
+    - azure-smes
+    
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Microsoft Azure Cloud infrastructure."
 excerpt2: "<a href='/request-a-callback'>Enquire about hiring our Microsoft Azure Cloud expertise today</a>, and your SME business could soon be on its way to utilising the benefits associated with Cloud hosted workloads."
 

@@ -4,6 +4,10 @@ title: "I.T Solutions for Small Businesses and Enterprises"
 permalink: /solutions/it-for-business
 classes:
   - business_solutions
+  
+jsEntryPoints:
+    - solution-it-for-business
+      
 excerpt: "A case study looking into the current state of private Sector I.T setups and how our I.T solutions could save your business money."
 
 header:

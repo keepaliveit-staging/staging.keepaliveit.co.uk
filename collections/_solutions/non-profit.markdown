@@ -4,6 +4,10 @@ title: "I.T Solutions for Non-Profit Organisations"
 permalink: /solutions/it-for-non-profit-organisations
 classes:
   - non_profit
+
+jsEntryPoints:
+    - solution-it-for-non-profit-organisations
+    
 excerpt: "I.T Solutions for Non-Profit Organisations"
 
 header:

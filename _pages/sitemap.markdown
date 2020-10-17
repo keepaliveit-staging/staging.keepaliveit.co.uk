@@ -6,6 +6,9 @@ classes:
   - about
 excerpt: "Website Sitemap for keepaliveit.co.uk"
 
+jsEntryPoints:
+    - sitemap
+    
 header:
   overlay_image: /assets/images/sitemap.jpg
   overlay_filter: 0.74

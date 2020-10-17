@@ -4,6 +4,10 @@ title: "About Keep-Alive I.T"
 permalink: /about.html
 classes:
   - about
+  
+jsEntryPoints:
+    - about
+      
 excerpt: "We're a universal I.T Consultancy Company who takes pride in our work. Learn more about our Company values, our vision, and how to join the 'Keep-Alive I.T family' as an employee."
 
 header:

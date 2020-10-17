@@ -3,6 +3,9 @@ layout: splash
 title: "Live Chat"
 permalink: /live-chat
 
+jsEntryPoints:
+    - live-chat
+    
 excerpt: "Chat with an agent for instant I.T support."
 header:
   overlay_image: /assets/images/cloud-computing.jpg

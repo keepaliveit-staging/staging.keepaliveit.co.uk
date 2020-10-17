@@ -3,6 +3,9 @@ layout: splash
 title: "Office Fitting Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /office-fitting-services-for-smes/office-fitting-south-wales
 
+jsEntryPoints:
+    - office-fitting-south-wales-sme
+    
 excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet up and we'll sort everything from procurement, fitting, cable management, and device patching."
 header:
   overlay_image: /assets/images/office-fitting/modern-office.jpg

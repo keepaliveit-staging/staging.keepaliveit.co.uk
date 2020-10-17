@@ -3,6 +3,9 @@ layout: splash
 title: "I.T Compliance & Security Services for Public Sector Organisations"
 permalink: /it-consultancy-services-for-public-sector-organisations/it-compliance-and-security-services
 
+jsEntryPoints:
+    - it-compliance-and-security-services-public-sector
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/compliance-and-security.jpg

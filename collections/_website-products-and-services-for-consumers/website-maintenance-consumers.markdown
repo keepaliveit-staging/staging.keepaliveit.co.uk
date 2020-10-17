@@ -3,6 +3,9 @@ layout: splash
 title: "Website Maintenance Services for Consumers"
 permalink: /website-products-and-services-for-consumers/website-maintenance
 
+jsEntryPoints:
+    - website-maintenance-consumers
+    
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."
 header:
   overlay_image: /assets/images/web-development.jpg
