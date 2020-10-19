@@ -3,7 +3,7 @@ layout: splash
 title: "Website Products and Services for Public Sector Organisations"
 permalink: /website-products-and-services-for-public-sector-organisations/
 
-jsEntryPoints:
+assetEntryPoints:
     - website-products-and-services-for-public-sector-organisations
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

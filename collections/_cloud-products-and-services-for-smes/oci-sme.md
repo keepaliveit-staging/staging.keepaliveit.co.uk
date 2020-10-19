@@ -3,7 +3,7 @@ layout: splash
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/oracle-cloud-infrastructure-oci
 
-jsEntryPoints:
+assetEntryPoints:
     - oci-smes
     
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on Oracle Cloud infrastructure."

@@ -3,7 +3,7 @@ layout: splash
 title: "Microsoft Azure Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/azure
 
-jsEntryPoints:
+assetEntryPoints:
     - azure-startups
     
 excerpt: "Microsoft Azure Cloud Consultancy Services"

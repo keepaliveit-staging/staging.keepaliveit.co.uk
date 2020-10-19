@@ -5,7 +5,7 @@ permalink: /environmental-policy.html
 
 excerpt: "Keep-Alive I.T cares about the impact our business has on the environment. Discover the eco-friendly measures we're taking to reduce our CO<sub>2</sub> emissions, and how we're helping our local community."
 
-jsEntryPoints:
+assetEntryPoints:
     - environmental-policy
     
 header:

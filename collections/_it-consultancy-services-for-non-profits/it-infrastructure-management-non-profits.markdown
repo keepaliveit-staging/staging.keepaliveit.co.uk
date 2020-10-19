@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Infrastructure Management Services for Non-Profit Organisations"
 permalink: /it-consultancy-services-for-non-profit-organisations/it-infrastructure-management-services
 
-jsEntryPoints:
+assetEntryPoints:
     - it-infrastructure-management-services-nonprofit
     
 excerpt: "Does your organisation use a piece of infrastructure but you're unsure how to manage it? We may be able to help..."

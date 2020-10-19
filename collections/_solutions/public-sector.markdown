@@ -4,7 +4,7 @@ title: "Public Sector I.T Solutions"
 permalink: /solutions/it-for-public-sector-organisations
 excerpt: "Public Sector I.T Solutions"
 
-jsEntryPoints:
+assetEntryPoints:
     - solution-it-for-public-sector-organisations
     
 header:

@@ -12,6 +12,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/styles/main.css' | relative_url }}">
+{% for scriptPath in page.assetEntryPoints %}
+<link rel="stylesheet" href="/assets/css/{{ scriptPath }}/main.css">
+{% endfor %}
 
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
@@ -26,8 +29,8 @@
 
 
 <script src="/assets/dist/_assets/js2/p/base.bundle.js"></script>
-{% for scriptName in page.jsEntryPoints %}
-  <script src="/assets/dist/_assets/js2/p/{{ scriptName }}.bundle.js"></script>
+{% for scriptPath in page.assetEntryPoints %}
+  <script src="/assets/dist/_assets/js2/p/{{ scriptPath }}.bundle.js"></script>
 {% endfor %}
 
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>

@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Hardware Products and Services for Small Businesses and Enterprises"
 permalink: /it-hardware-products-and-services/
 
-jsEntryPoints:
+assetEntryPoints:
     - it-hardware-products-and-services
 
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

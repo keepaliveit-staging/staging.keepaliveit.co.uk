@@ -3,7 +3,7 @@ layout: splash
 title: "On-Site Hardware Setup for Public Sector Organisations"
 permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-setup
 
-jsEntryPoints:
+assetEntryPoints:
     - it-hardware-setup-public-sector
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

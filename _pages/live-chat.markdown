@@ -3,7 +3,7 @@ layout: splash
 title: "Live Chat"
 permalink: /live-chat
 
-jsEntryPoints:
+assetEntryPoints:
     - live-chat
     
 excerpt: "Chat with an agent for instant I.T support."

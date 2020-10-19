@@ -3,7 +3,7 @@ layout: splash
 title: "Digital Ocean Cloud Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/digitalocean
 
-jsEntryPoints:
+assetEntryPoints:
     - digitalocean-startups
     
 excerpt: "Efficient I.T improves productivity"

@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Consultancy Services for Non-Profit Organisations"
 permalink: /it-consultancy-services-for-non-profit-organisations/
 
-jsEntryPoints:
+assetEntryPoints:
     - it-compliance-and-security-services-nonprofit
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

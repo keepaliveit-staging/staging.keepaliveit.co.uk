@@ -3,7 +3,7 @@ layout: splash
 title: "Experienced UK based C# Software Engineers for Hire"
 permalink: /recruitment/experienced-csharp-software-engineers-for-hire
 
-jsEntryPoints:
+assetEntryPoints:
     - recruitment-experienced-csharp-software-engineers-for-hire
     
 excerpt: "Efficient I.T reduces costs"

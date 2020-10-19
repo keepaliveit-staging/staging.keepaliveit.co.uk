@@ -3,7 +3,7 @@ layout: splash
 title: "Software Development Services for Public Sector Organisations"
 permalink: /software-products-and-services-for-public-sector-organisations/software-development-services
 
-jsEntryPoints:
+assetEntryPoints:
     - 
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

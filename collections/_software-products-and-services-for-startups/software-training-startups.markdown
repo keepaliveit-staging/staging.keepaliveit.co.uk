@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Software Training Services for Startups"
 permalink: /software-products-and-services-for-startups/software-training
 
-jsEntryPoints:
+assetEntryPoints:
     - software-training-startups
     
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."

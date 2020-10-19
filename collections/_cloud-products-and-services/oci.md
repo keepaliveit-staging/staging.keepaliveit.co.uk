@@ -3,7 +3,7 @@ layout: splash
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services "
 permalink: /cloud-products-and-services/oracle-cloud-infrastructure-oci
 
-jsEntryPoints:
+assetEntryPoints:
     - oci-cloud-services
     
 excerpt: "Efficient I.T improves productivity"

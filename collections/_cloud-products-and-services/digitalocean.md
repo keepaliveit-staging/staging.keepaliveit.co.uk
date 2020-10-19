@@ -3,7 +3,7 @@ layout: splash
 title: "DigitalOcean Cloud Consultancy Services"
 permalink: /cloud-products-and-services/digitalocean
 
-jsEntryPoints:
+assetEntryPoints:
     - digitalocean-cloud-services
     
 excerpt: "Efficient I.T improves productivity"

@@ -4,7 +4,7 @@ title: "Website Sitemap for keepaliveit.co.uk"
 permalink: /sitemap.html
 excerpt: "Website Sitemap for keepaliveit.co.uk"
 
-jsEntryPoints:
+assetEntryPoints:
     - sitemap
     
 header:

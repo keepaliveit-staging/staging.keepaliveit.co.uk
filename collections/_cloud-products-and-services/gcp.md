@@ -3,7 +3,7 @@ layout: splash
 title: "Google Cloud Platform (GCP) Services"
 permalink: /cloud-products-and-services/google-cloud-computing-gcp
 
-jsEntryPoints:
+assetEntryPoints:
     - gcp-cloud-services
     
 excerpt: "Efficient I.T improves productivity"

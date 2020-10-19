@@ -6,7 +6,7 @@ classes:
   - contact
 excerpt: "Discover the different ways to get in touch with us."
 
-jsEntryPoints:
+assetEntryPoints:
     - contact
     
 header:

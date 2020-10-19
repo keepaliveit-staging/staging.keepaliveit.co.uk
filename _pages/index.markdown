@@ -6,7 +6,7 @@ classes:
   - landing
 customStyleSheets:
     - something.css
-jsEntryPoints:
+assetEntryPoints:
     - homepage 
 header:
     video:

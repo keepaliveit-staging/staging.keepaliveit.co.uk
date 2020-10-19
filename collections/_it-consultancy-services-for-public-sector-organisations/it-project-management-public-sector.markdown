@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Project Management Services for Public Sector Organisations"
 permalink: /it-consultancy-services-for-public-sector-organisations/it-project-management
 
-jsEntryPoints:
+assetEntryPoints:
     - it-project-management-public-sector
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

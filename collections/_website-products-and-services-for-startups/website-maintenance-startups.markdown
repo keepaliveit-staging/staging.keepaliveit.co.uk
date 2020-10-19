@@ -3,7 +3,7 @@ layout: splash
 title: "Website Maintenance Services for Startups"
 permalink: /website-products-and-services-for-startups/website-maintenance
 
-jsEntryPoints:
+assetEntryPoints:
     - website-maintenance-startups
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

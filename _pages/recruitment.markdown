@@ -4,7 +4,7 @@ title: Recruitment"
 permalink: /recruitment/
 excerpt: "I.T Solutions"
 
-jsEntryPoints:
+assetEntryPoints:
     - recruitment
     
 header:

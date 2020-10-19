@@ -3,7 +3,7 @@ layout: splash
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/oracle-cloud-infrastructure-oci
 
-jsEntryPoints:
+assetEntryPoints:
     - oci-nonprofit
     
 excerpt: "Efficient I.T improves productivity"

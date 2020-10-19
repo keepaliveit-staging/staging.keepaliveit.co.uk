@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Software Support Services for Consumers"
 permalink: /software-products-and-services-for-consumers/it-software-support
 
-jsEntryPoints:
+assetEntryPoints:
     - software-support-consumers
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

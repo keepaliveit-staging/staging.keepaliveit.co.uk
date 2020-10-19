@@ -3,7 +3,7 @@ layout: splash
 title: "Google Cloud Platform (GCP) Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/google-cloud-computing-gcp
 
-jsEntryPoints:
+assetEntryPoints:
     - gcp-nonprofit
     
 excerpt: "Efficient I.T improves productivity"

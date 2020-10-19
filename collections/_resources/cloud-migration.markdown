@@ -3,7 +3,7 @@ layout: splash
 title: Cloud Migration Planning Checklist
 permalink: /resources/cloud-migration-checklist
 
-jsEntryPoints:
+assetEntryPoints:
     - resource-cloud-migration-checklist
     
 ---

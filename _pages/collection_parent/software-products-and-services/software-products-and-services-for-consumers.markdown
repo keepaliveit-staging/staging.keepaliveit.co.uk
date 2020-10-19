@@ -3,7 +3,7 @@ layout: splash
 title: "Software Products and Services for Consumers"
 permalink: /software-products-and-services-for-consumers/
 
-jsEntryPoints:
+assetEntryPoints:
     - software-products-and-services-for-consumers
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

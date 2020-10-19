@@ -222,3 +222,35 @@ gulp.task('serve', gulp.parallel(serve));
  * Runs the watch task and rebuilds the site.
  */
 gulp.task('serve:rebuild', gulp.series('build:local', serve));
+
+
+var fs = require('fs');
+var path = require('path');
+function getFolders(dir) {
+    return fs.readdirSync(dir)
+        .filter(function(file) {
+            return fs.statSync(path.join(dir, file)).isDirectory();
+        });
+}
+const sass = require('gulp-sass');
+
+gulp.task('tryingsomething', function(done){
+    var folders = getFolders('_assets/css/p/');
+    if (folders.length === 0) return done(); // nothing to do!
+
+    folders.map(function(folder) {
+        console.log(folder);
+
+        let stream = gulp.src('_assets/css/p/' + folder + '/main.scss')
+            .pipe(sass({
+                outputStyle: 'compressed'
+            }).on('error', sass.logError))
+            .pipe(gulp.dest('_assets/css/p/' + folder));
+
+        stream.pipe(
+            browserSync.stream()
+        ).on('error', sass.logError);
+
+        return stream;
+    });
+});

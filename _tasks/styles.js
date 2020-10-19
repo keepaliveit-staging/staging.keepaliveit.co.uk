@@ -10,7 +10,7 @@ const postcss = require('gulp-postcss');
 // Uses Sass compiler to process styles, adds vendor prefixes, minifies, then
 // outputs file to the appropriate location.
 const mainStyleDests = [
-  paths.jekyllCssFiles,
+  //paths.jekyllCssFiles,
   paths.siteCssFiles,
   //paths.siteStyleGuide
 ];

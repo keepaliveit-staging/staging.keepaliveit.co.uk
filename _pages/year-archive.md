@@ -4,7 +4,7 @@ permalink: /company-news/
 layout: posts
 author_profile: false
 
-jsEntryPoints:
+assetEntryPoints:
     - company-news
 
 ---

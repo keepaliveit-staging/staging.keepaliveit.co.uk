@@ -3,7 +3,7 @@ layout: splash
 title: "Oracle Cloud Infrastructure (OCI) Consultancy Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/oracle-cloud-infrastructure-oci
 
-jsEntryPoints:
+assetEntryPoints:
     - oci-startups
     
 excerpt: "Efficient I.T improves productivity"

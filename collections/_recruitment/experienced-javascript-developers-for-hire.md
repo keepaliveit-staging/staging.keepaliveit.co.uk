@@ -3,7 +3,7 @@ layout: splash
 title: "Experienced UK based JavaScript Developers for Hire"
 permalink: /recruitment/experienced-javascript-developers-for-hire
 
-jsEntryPoints:
+assetEntryPoints:
     - recruitment-experienced-javascript-developers-for-hire
 
 excerpt: "Efficient I.T reduces costs"

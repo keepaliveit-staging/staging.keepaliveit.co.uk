@@ -3,7 +3,7 @@ layout: splash
 title: "Linode Cloud Consultancy Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/linode
 
-jsEntryPoints:
+assetEntryPoints:
     - linode-nonprofit
     
 excerpt: "Efficient I.T improves productivity"

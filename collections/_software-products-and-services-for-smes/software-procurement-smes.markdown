@@ -3,7 +3,7 @@ layout: splash
 title: "Software Procurement Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /software-products-and-services-for-smes/software-procurement
 
-jsEntryPoints:
+assetEntryPoints:
     - software-procurement-smes
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

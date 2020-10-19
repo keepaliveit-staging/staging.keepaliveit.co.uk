@@ -3,7 +3,7 @@ layout: splash
 title: I.T Consultation Documents
 permalink: /it-consultation-documents
 
-jsEntryPoints:
+assetEntryPoints:
     - it-consultation-documents
     
 excerpt: "I.T Consultation Documents for Companies & Individuals."

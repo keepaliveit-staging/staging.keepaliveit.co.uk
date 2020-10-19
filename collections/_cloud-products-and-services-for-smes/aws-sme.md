@@ -3,7 +3,7 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/amazon-web-services-aws
 
-jsEntryPoints:
+assetEntryPoints:
     - aws-smes
     
 excerpt: "Our Team of Cloud Consultants and Project Managers have the specialist skills required to Architect, Develop, Deploy, and Manage complex I.T workloads on AWS Cloud infrastructure."

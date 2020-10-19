@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Software Training Services for Public Sector Organisations"
 permalink: /software-products-and-services-for-public-sector-organisations/software-training-services
 
-jsEntryPoints:
+assetEntryPoints:
     - software-training-services-public-sector
     
 excerpt: "Learn how Keep-Alive I.T Services can help your business with staff training to enable training employee's."

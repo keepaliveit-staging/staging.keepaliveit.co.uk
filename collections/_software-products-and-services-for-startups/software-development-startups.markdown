@@ -3,7 +3,7 @@ layout: splash
 title: "Software Development Services for Startups"
 permalink: /software-products-and-services-for-startups/software-development-services
 
-jsEntryPoints:
+assetEntryPoints:
     - software-development-services-startups
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

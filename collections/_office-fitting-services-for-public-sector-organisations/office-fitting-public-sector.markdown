@@ -3,7 +3,7 @@ layout: splash
 title: "Office Fitting Services for Public Sector Organisations"
 permalink: /office-fitting-services-for-public-sector-organisations/office-fitting-south-wales
 
-jsEntryPoints:
+assetEntryPoints:
     - office-fitting-south-wales-public-sector
     
 excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet up and we'll sort everything from procurement, fitting, cable management, and device patching."

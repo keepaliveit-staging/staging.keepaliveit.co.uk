@@ -3,7 +3,7 @@ layout: splash
 title: "Cloud Products and Services offered by Keep-Alive I.T"
 permalink: /cloud-products-and-services/
 
-jsEntryPoints:
+assetEntryPoints:
     - cloud-products-and-services
     
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."

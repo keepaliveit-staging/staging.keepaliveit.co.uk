@@ -3,7 +3,7 @@ layout: splash
 title: "Search keepaliveit.co.uk"
 permalink: /search
 
-jsEntryPoints:
+assetEntryPoints:
     - search
     
 excerpt: "Search website content on keepaliveit.co.uk"

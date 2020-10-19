@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Compliance & Security Services for Startups"
 permalink: /it-consultancy-services-for-startups/it-compliance-and-security-services
 
-jsEntryPoints:
+assetEntryPoints:
     - it-compliance-and-security-services-startups
     
 excerpt: "Learn how Keep-Alive I.T Services can help make critical I.T Software decisions and develop bespoke Software solutions for your business."

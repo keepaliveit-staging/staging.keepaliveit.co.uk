@@ -3,7 +3,7 @@ layout: splash
 title: "Linode Cloud Consultancy Services"
 permalink: /cloud-products-and-services/linode
 
-jsEntryPoints:
+assetEntryPoints:
     - linode-cloud-services
     
 excerpt: "Efficient I.T improves productivity"

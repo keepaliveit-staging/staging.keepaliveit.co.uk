@@ -3,7 +3,7 @@ layout: splash
 title: "Office Fitting Services for Startups"
 permalink: /office-fitting-services-for-startups/office-fitting-south-wales
 
-jsEntryPoints:
+assetEntryPoints:
     - office-fitting-south-wales-startups
     
 excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet up and we'll sort everything from procurement, fitting, cable management, and device patching."

@@ -3,7 +3,7 @@ layout: splash
 title: "Cloud Products and Services for SME's"
 permalink: /cloud-products-and-services-for-smes/
 
-jsEntryPoints:
+assetEntryPoints:
     - cloud-products-and-services-for-smes
     
 excerpt: "Effective I.T brings a range of benefits to the table for Homes and Workplaces. Explore the benefits that our services encourage."

@@ -3,7 +3,7 @@ layout: splash
 title: "Microsoft Azure Cloud Consultancy Services for UK based Public Sector Organisations"
 permalink: /cloud-products-and-services-for-public-sector-organisations/azure
 
-jsEntryPoints:
+assetEntryPoints:
     - azure-public-sector
     
 excerpt: "Keep-Alive I.T has the knowledge and skills to Architect, Operate, and Maintain high volume Microsoft Azure Cloud workloads for Public Sector Organisations. Our Microsoft Azure Cloud services have been developed to support Public Sector Governments, Educational Institutions, and Healthcare organisations in the United Kingdom."

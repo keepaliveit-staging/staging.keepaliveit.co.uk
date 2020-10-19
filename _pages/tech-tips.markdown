@@ -5,7 +5,7 @@ permalink: /tech-tips/
 
 excerpt: "Tech Tips for 'Non-Tech Warriors' who want to learn how to complete common computing tasks."
 
-jsEntryPoints:
+assetEntryPoints:
     - tech-tips
     
 header:

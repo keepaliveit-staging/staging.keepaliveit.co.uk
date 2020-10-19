@@ -21,9 +21,11 @@ module.exports = {
      *   An array of destinations where the resulting CSS file should be placed.
      */
     buildStyles: function buildStyles(scssRoot, destinations) {
+        console.log(paths.sassFiles + scssRoot);
         let stream = gulp.src(paths.sassFiles + scssRoot)
-            .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
-            .pipe(gulp.dest('./lol'));
+            .pipe(sass({
+                outputStyle: 'compressed'
+            }).on('error', sass.logError));
 
         stream.pipe(
             postcss([autoprefixer({browsers: ['last 2 versions']})])

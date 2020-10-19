@@ -5,7 +5,7 @@ permalink: /solutions/it-for-consumers
 classes:
   - consumer_it
 
-jsEntryPoints:
+assetEntryPoints:
     - solution-it-for-consumers
 
 excerpt: "Are you having issues with I.T at home? Explore our Consumer I.T Solutions to see how Keep-Alive I.T is able to help."

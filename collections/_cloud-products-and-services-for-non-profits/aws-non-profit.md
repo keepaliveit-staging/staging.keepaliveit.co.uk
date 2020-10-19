@@ -3,7 +3,7 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/amazon-web-services-aws
 
-jsEntryPoints:
+assetEntryPoints:
     - aws-nonprofit
     
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."

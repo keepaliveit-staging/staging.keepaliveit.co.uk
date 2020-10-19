@@ -3,7 +3,7 @@ layout: splash
 title: "Office Fitting Services"
 permalink: /office-fitting-services/
 
-jsEntryPoints:
+assetEntryPoints:
     - office-fitting-services
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

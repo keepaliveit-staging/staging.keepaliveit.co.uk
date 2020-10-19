@@ -3,7 +3,7 @@ layout: splash
 title: "Hardware Procurement for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /it-hardware-products-and-services-for-smes/it-hardware-procurement
 
-jsEntryPoints:
+assetEntryPoints:
     - it-hardware-procurement-smes
     
 excerpt: "Keep-Alive I.T can help purchase I.T equipment that's appropriate for your UK based business with our I.T hardware procurement service."

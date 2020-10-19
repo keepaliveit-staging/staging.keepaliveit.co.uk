@@ -3,7 +3,7 @@ layout: splash
 title: "Experienced UK based DevOps Engineers for Hire"
 permalink: /recruitment/experienced-devops-engineers-for-hire
 
-jsEntryPoints:
+assetEntryPoints:
     - recruitment-experienced-devops-engineers-for-hire
 
 excerpt: "Efficient I.T reduces costs"

@@ -5,7 +5,7 @@ permalink: /solutions/it-for-non-profit-organisations
 classes:
   - non_profit
 
-jsEntryPoints:
+assetEntryPoints:
     - solution-it-for-non-profit-organisations
     
 excerpt: "I.T Solutions for Non-Profit Organisations"

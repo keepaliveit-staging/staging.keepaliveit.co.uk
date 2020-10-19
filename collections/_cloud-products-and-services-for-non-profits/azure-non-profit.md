@@ -3,7 +3,7 @@ layout: splash
 title: "Microsoft Azure Cloud Consultancy Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/azure
 
-jsEntryPoints:
+assetEntryPoints:
     - azure-nonprofit
     
 excerpt: "Microsoft Azure Cloud Consultancy Services"

@@ -3,7 +3,7 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Consultancy Services"
 permalink: /cloud-products-and-services/amazon-web-services-aws
 
-jsEntryPoints:
+assetEntryPoints:
     - aws-cloud-services
     
 excerpt: "Keep-Alive I.T has the specialist skills to Architect, Maintain, and Manage complex, performant, and cost effective high volume Cloud workloads on Amazon Web Services (AWS). By hiring Keep-Alive I.T to implement or manage AWS Cloud Services, Enterprises could benefit from improved I.T Operations across individual departments, or even an entire organisation."

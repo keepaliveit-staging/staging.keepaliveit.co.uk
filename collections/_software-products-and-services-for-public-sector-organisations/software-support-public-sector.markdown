@@ -3,7 +3,7 @@ layout: splash
 title: "I.T Software Support for Public Sector Organisations"
 permalink: /software-products-and-services-for-public-sector-organisations/it-software-support
 
-jsEntryPoints:
+assetEntryPoints:
     - it-software-support-public-sector
     
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."

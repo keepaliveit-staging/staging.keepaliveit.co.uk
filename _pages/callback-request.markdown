@@ -3,7 +3,7 @@ layout: splash
 title: "Request a Call from an I.T Consultant"
 permalink: /request-a-callback
   
-jsEntryPoints:
+assetEntryPoints:
     - request-a-callback
       
 excerpt: "Request a FREE 15-Minute Video / Phone I.T Consultation from one of our I.T consultants to discuss your next I.T related project."

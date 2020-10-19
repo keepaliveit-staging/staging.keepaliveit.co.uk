@@ -3,7 +3,7 @@ layout: splash
 title: "Hardware Procurement for UK based Startup Businesses"
 permalink: /it-hardware-products-and-services-for-startups/it-hardware-procurement
 
-jsEntryPoints:
+assetEntryPoints:
     - it-hardware-procurement-startups
     
 excerpt: "Learn how Keep-Alive I.T Services can help purchase I.T equipment that's appropriate for your business with our I.T hardware procurement service."

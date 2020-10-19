@@ -3,7 +3,7 @@ layout: splash
 title: "Microsoft Azure Cloud Consultancy Services"
 permalink: /cloud-products-and-services/azure
 
-jsEntryPoints:
+assetEntryPoints:
     - azure-cloud-services
     
 excerpt: "Microsoft Azure Cloud Consultancy Services"

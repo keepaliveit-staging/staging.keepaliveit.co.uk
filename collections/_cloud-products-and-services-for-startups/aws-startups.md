@@ -3,7 +3,7 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Products and Services for UK Based Startup Businesses"
 permalink: /cloud-products-and-services-for-startups/amazon-web-services-aws
 
-jsEntryPoints:
+assetEntryPoints:
     - aws-startups
     
 excerpt: "Keep-Alive I.T has the knowledge and skills to architect, maintain, and manage high volume Cloud workloads on AWS."

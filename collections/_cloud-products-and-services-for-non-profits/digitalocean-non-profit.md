@@ -3,7 +3,7 @@ layout: splash
 title: "DigitalOcean Cloud Consultancy Services for Non-Profit Organisations"
 permalink: /cloud-products-and-services-for-non-profit-organisations/digitalocean
 
-jsEntryPoints:
+assetEntryPoints:
     - digitalocean-nonprofit
     
 excerpt: "Efficient I.T improves productivity"

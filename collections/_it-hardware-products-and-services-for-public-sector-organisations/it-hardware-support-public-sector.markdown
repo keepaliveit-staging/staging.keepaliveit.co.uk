@@ -3,7 +3,7 @@ layout: splash
 title: "On-Site I.T Hardware Support for Public Sector Organisations"
 permalink: /it-hardware-products-and-services-for-public-sector-organisations/it-hardware-support
 
-jsEntryPoints:
+assetEntryPoints:
     - it-hardware-support-public-sector
     
 excerpt: "Slow I.T bringing you down? Keep-Alive I.T can help your business with a range of 1st, 2nd, and 3rd line technical support services."

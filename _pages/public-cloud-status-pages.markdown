@@ -4,7 +4,7 @@ title: "Public Cloud Provider Status Pages"
 permalink: /public-cloud-status-pages.html
 excerpt: "Links to Status Pages of Popular Public Cloud Providers for your convenience."
 
-jsEntryPoints:
+assetEntryPoints:
     - public-cloud-status-pages
     
 header:

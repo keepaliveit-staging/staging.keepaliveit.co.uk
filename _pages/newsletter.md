@@ -5,7 +5,7 @@ author_profile: false
 classes:
   - newsletter
   
-jsEntryPoints:
+assetEntryPoints:
     - newsletter
     
 ---

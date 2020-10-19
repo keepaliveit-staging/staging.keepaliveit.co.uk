@@ -6,7 +6,7 @@ classes:
   - cookie_policy
 excerpt: "Learn how Web Browser Cookies are used at keepaliveit.co.uk"
 
-jsEntryPoints:
+assetEntryPoints:
     - cookie-policy
     
 header:

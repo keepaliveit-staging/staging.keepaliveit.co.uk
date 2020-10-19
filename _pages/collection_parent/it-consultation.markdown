@@ -3,7 +3,7 @@ layout: splash
 title: I.T Consultation Topics
 permalink: /it-consultation/
 
-jsEntryPoints:
+assetEntryPoints:
     - it-consultation
 
 excerpt: "Short Articles giving free I.T Consultation Advice for Businesses I.T."

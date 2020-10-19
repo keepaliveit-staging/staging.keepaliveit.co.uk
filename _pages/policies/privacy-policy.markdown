@@ -6,7 +6,7 @@ classes:
   - privacy-policy
 excerpt: "Learn how we collect, handle, use, and look after your data."
 
-jsEntryPoints:
+assetEntryPoints:
     - privacy-policy
     
 header:

@@ -5,7 +5,7 @@ permalink: /solutions/cyber-essentials-it-compliance
 classes:
   - cyber_essentials
   
-jsEntryPoints:
+assetEntryPoints:
     - solution-cyber-essentials-it-compliance
       
 excerpt: "Are you looking to achieve Cyber Essentials I.T Compliance for your Business or Organisation? We've got the knowledge to guide you along the way from Zero, to Compliant."

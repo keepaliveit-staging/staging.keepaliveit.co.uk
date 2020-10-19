@@ -3,7 +3,7 @@ layout: splash
 title: "Senior PHP Developer"
 permalink: /jobs/senior-php-developer
 
-jsEntryPoints:
+assetEntryPoints:
     - job-senior-php-developer
     
 excerpt: "Graduate PHP Developer Job at Keep-Alive I.T."

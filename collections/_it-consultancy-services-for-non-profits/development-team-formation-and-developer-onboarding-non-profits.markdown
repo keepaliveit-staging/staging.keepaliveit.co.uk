@@ -3,7 +3,7 @@ layout: splash
 title: "Software Development Team Formation & Developer Onboarding Consultancy Services for Non-Profit Organisations"
 permalink: /it-consultancy-services-for-non-profit-organisations/software-development-team-formation-and-developer-onboarding-services
 
-jsEntryPoints:
+assetEntryPoints:
     - software-development-team-formation-and-developer-onboarding-services-nonprofit
     
 excerpt: "Got an existing Development Team? Get a dose of our own expertise by hiring us to develop business strategies to make your in-house development teams more effective."
