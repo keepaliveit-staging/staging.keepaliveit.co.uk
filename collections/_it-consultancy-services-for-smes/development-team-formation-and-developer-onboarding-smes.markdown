@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
   min_height: "700px"
-  more_text: "Discover how we can improve your team"
+  more_text: "Learn more about our Software Development Team Formation & Software Developer Onboarding Services for SMEs"
   more_text_colour: "#215e51"
   
 ---

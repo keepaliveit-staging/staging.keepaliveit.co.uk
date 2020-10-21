@@ -93,6 +93,41 @@ Technology should be an investment into the operation of an organisation, not a 
 {% endfor %}
 {% endcomment %}
 
-
 - Retail
 - Food & Drink
+
+
+
+[must edit]
+Business continuity
+Protect your business from disasterous situations
+
+Although Business Continuity seems on the surface to be very similar to Disaster Recovery, their key objectives are quite different. Disaster Recovery focusses on protecting a set of key systems, probably in a specific location, from localised disasters such as fire, power loss and natural disaster. Business Continuity looks across the whole business, identifying key data, systems and processes that, if lost, would stop you functioning. This means Business Continuity is a combination of education, planning and technology.
+
+No single technology can deliver a Business Continuity solution. It will inevitably require a combination of solutions to be effective.
+
+Firstly, the key data has to be identified and secured appropriately. This could be archive storage in the case of contracts or documents, or it could be transaction journals in the case of eCommerce servers. Once identified, this data is copied to a location where, in the event of a total loss of business systems, you can be sure it is secure, has not been compromised, and can be restored safely.
+
+The types of incidents our Business Continuity solution protects you include Ransomware attacks. Typically, the attacker will gain access to key systems, delete backups and snapshots and then encrypt all the drives. Your business is now paralysed.
+
+Our Business Continuity and Cyber Recovery solution ensures that if you are attacked you have a ‘golden’ copy of your data and systems that can be verified and brought back up to ensure your business survives.
+
+Key Features:
+Ensures you always have a clean copy of data and systems available
+
+Highly secure
+
+Highly resilient built on Tier 1 technologies
+
+Testing schedules to ensure the solution is effective and data is correct
+
+Protects any platform regardless of location
+
+Cost-effective
+
+Supported 24/7 by infrastructure experts
+
+Supports regulatory and compliance requirements
+
+Supports sovereignty requirements
+[/must edit]

@@ -15,7 +15,7 @@ header:
   page_lead_text_colour: "#5e212e"
   min_height: 940px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-square.png 
-  more_text: "Discover our DigitalOcean consultancy services for SME Businesses"
+  more_text: "Learn more about our DigitalOcean consultancy services for SME Businesses"
   more_text_colour: "#215e51"
   
 icon: /assets/images/cloud/digitalocean-logo.png

@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
-  more_text: "Discover our Azure consultancy services for Startup Businesses"
+  more_text: "Learn more about our Azure consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
 
   

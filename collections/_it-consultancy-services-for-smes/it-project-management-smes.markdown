@@ -11,6 +11,7 @@ header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
+  more_text: "Learn more about our I.T Project Management Services for SMEs"
   more_text_colour: "#215e51"
 
 ---

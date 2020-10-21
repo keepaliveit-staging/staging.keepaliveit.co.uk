@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
   image_overlay_url: /assets/images/cloud/oci-logo-square.png 
-  more_text: "Discover our OCI consultancy services for Startup Businesses"
+  more_text: "Learn more about our Oracle Cloud Infrastructure (OCI) consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
   
 icon: /assets/images/cloud/oci-logo.png

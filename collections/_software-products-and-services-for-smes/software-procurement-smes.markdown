@@ -22,14 +22,20 @@ Understanding licensing costs
 
 ## Software Procurement, Implementation, and Consultancy Services
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ### What is Software Procurement?
 Software Procurement is the process of offloading the process of buying Software assets for a company.
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Who might be interested in our Software Procurement Services?
 Enterprises and large corporate customers.
 
-## Why should businesses consider offloading their Software Procurement needs to an external company?
+<div class="divider div-transparent div-arrow-down"></div>
 
+
+## Why should businesses consider offloading their Software Procurement needs to an external company?
 
 - Authentication & Authorisation
 - Auction Software
@@ -53,14 +59,17 @@ We also offer <a href="">hardware procurement</a> services for your business har
 - Software Licensing
 - IT Supplier Management
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## CMS implementation
 Managing information effectively is crucial to maintaining quality standards on I.T systems. We can assist with Content Management systems, including Wordpress.
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
 
-### Cost of our Software Procurement services
+<div class="divider div-transparent div-arrow-down"></div>
 
+### Cost of our Software Procurement services
 {% include industry-consultation.md %}

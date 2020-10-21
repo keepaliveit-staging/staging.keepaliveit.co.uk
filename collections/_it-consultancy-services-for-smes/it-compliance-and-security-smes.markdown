@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/compliance-and-security.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  more_text: "Browse our I.T Security Services"
+  more_text: "Learn more about our I.T Compliance & I.T Security Services for SMEs"
   more_text_colour: "#215e51"
 
 ---

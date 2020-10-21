@@ -25,6 +25,7 @@ Having functional & robust software implemented in a business is essential for e
 
 Using the best development tools and following latest application development trends.
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 ### Bespoke in-house software solutions built around your business requirements
 We provide software consultancy solutions for the following programming languages:
@@ -46,6 +47,8 @@ Script creation
 Version Control Systems
 
 Package Management Systems
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Why rely on our technical expertise to complete your software development tasks?
 <div class="container">
@@ -81,13 +84,14 @@ Package Management Systems
     </div>
 </div>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ## Why choose Keep-Alive I.T to complete your Software Development Tasks?
 {% include why-us-section.html %}
 
-        
+<div class="divider div-transparent div-arrow-down"></div>      
 
 ## How much do our Software Development Services cost?
 Our Software Development Services are chargeable by the hour
-
 
 {% include industry-consultation.md %}

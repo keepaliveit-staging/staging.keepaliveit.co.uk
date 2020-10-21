@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/development-team.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
-  more_text: "Discover how we can improve your team"
+  more_text: "Learn more about our Software Development Team Formation & Software Developer Onboarding Services for Startup Businesses"
   more_text_colour: "#36454f"
 
 ---

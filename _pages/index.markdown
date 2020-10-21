@@ -20,17 +20,15 @@ header:
 
 <h1 class="text-center" style="margin-top:1rem;margin-bottom:1rem;">I.T Consultancy Services for Everyone</h1>
                                        
-<h2 style="margin-bottom: 1rem;" class="text-center static-heading">Need a small I.T related job worked on? Need a large I.T project completed? Leave it with us and we'll get the job done <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h2>
+<h2 style="margin-bottom: 1rem;" class="text-center static-heading">Need a small I.T related job completed? Need a large I.T project managed? Leave it with us, and we'll get the job done <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h2>
 
 We're a team of problem solvers, project managers, and tech enthusiasts who love what we do.
 
-Our team contains a mixture of I.T Software, I.T Hardware, and I.T Infrastructure expertise; Enabling us to help people, businesses, and organisations explore, adopt, and utilise efficient I.T solutions.
+Our team contains a mixture of I.T Software expertise, I.T Hardware expertise, and I.T Infrastructure expertise; Enabling us to help people, businesses, and organisations explore, adopt, and utilise efficient I.T solutions where and when required.
 
-Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we mostly do, but our skills aren't limited to just these areas of I.T.
-  
-We can apply our I.T knowledge to your requirements, or do things how we think they should be done to suit your personal, or organisational needs. No I.T job is too big or too small for us as we scale our team members on a per-project basis.
+We can apply our I.T knowledge to your requirements, or do things how we think they should be done to suit personal, business, or organisational needs. 
 
-We follow the same 3-step-process for working on small, medium, or large sized projects:
+No I.T job is too big or too small for us to take on. We scale our team members on a per-project basis and all staff are trained to follow our in-house I.T consultancy methodology, known as the "Analyse. Consult. Apply." I.T consultation methodology:
 
 <section data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate metrics">
     <div class="row">
@@ -40,7 +38,7 @@ We follow the same 3-step-process for working on small, medium, or large sized p
                     1) Analyse.
                 </div>
                 <div class="metric">
-                    We'll analyse your existing I.T setup (Hardware, Software, or Infrastructure) and gather information about it.
+                    We analyse and research existing Hardware, Software, or Infrastructure I.T setup(s) (if available) and gather information in preperation for an I.T consultation.
                 </div>
             </div>
         </div>
@@ -68,23 +66,21 @@ We follow the same 3-step-process for working on small, medium, or large sized p
     </div>
 </section>
 
-From branch office backups, to hyper cloud migration, and everything in between, whatever transformation issues your business is facing we can provide the solution.
-
-Customers worldwide trust us to manage their critical infrastructure and work with them to overcome their biggest technology challenges.
-
-If you'd like to know more about working with us, please check out <a href="/about/the-process-of-working-with-us">how to work with us</a> to get further insight of the above process.
+Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is our niche, but our skills aren't limited to just these areas of I.T, so please browse have a browse of our website, or contact us to help you overcome your biggest technology challenges.
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center static-heading">Need an I.T project managed from start to finish? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+   <h2 class="text-center static-heading">Popular I.T Consultancy services</h2>
+   
+<section class="popular-consultancy-item" data-aos="fade-right" data-aos-once="true">
+    <h3 class="text-center static-heading">Project Management as a Service</h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/task.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
-            <h3>Project Management as a Service</h3>
+            <h4>Need an I.T project managed from start to finish? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h4>
             <p>We can help with managing your technical projects. Offload your project requirements to us and our I.T consultants will do all the hard work of making your digital project a reality - and with minimal effort on your behalf.</p>
             <p>Whether you're planning a full Datacentre migration, or need an e-commerce website built that can handle major traffic spikes without going down, you can count on use to manage your project efficiently.</p>
             
@@ -96,14 +92,14 @@ If you'd like to know more about working with us, please check out <a href="/abo
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center static-heading">Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+<section class="popular-consultancy-item" data-aos="zoom-in" data-aos-once="true">
+    <h3 class="text-center static-heading">Process Automation as a Service</h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
         </div>
         <div class="col-sm-6 col-xs-12">
-            <h3>Process Automation as a Service</h3>
+            <h4>Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h4>
             <p>Let's be honest, nobody likes repeating the same task over and over again.</p>
             <p>Luckily for us humans, computers have become very good at automating tasks for us and have even become more efficient at performing tasks for us too. This is thanks to a whole load of new tooling and advanced learning techniques by utilising Artificial Intelligence (AI) and Machine Learning (ML).</p>
             <p>However, process automation requires a </p>
@@ -114,15 +110,15 @@ If you'd like to know more about working with us, please check out <a href="/abo
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center static-heading">Need help with general technical issues? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+<section class="popular-consultancy-item" data-aos="fade-right" data-aos-once="true">
+    <h3 class="text-center static-heading">I.T support as a Service</h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/remote-team.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
-            <h3>I.T support as a Service</h3>
+            <h4>Need help with general technical issues? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h4>
             <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
             <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
             <a class="btn button btn--primary rounded-button">Discover I.T Support as a service</a>
@@ -132,34 +128,16 @@ If you'd like to know more about working with us, please check out <a href="/abo
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center static-heading">Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+<section class="popular-consultancy-item" data-aos="zoom-in" data-aos-once="true">
+    <h3 class="text-center static-heading">App Development as a Service</h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/support-team.svg" alt="Project Management">
         </div>
         <div class="col-sm-6 col-xs-12">
-            <h3>App Development as a Service</h3>
+            <h4>Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h4>
             <p>Apps for platform specific</p>
             <p>We can build apps that are functional, secure, and stable.</p>
-            <a class="btn button btn--primary rounded-button">Discover project management as a service</a>
-        </div>
-    </div>
-</section>
-
-<div class="divider div-transparent div-arrow-down"></div>
-
-<section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center static-heading">Need help with a technical issue? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
-    
-    <div class="row">
-        <div class="col-sm-6 col-xs-12">
-            <img class="lazy" src="/assets/images/homepage/remote-team.svg" alt="Project Management">
-        </div>
-        <div class="col-sm-6 col-xs-12">
-            <h3>I.T support as a Service</h3>
-            <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
-            <p>We can help all sorts of clients: from consumers facing every day problems, small business owners, or even enterprise support for C level executives. We've got a mix of technical support staff with various I.T backgrounds ready to help you at the click of a button.</p>
             <a class="btn button btn--primary rounded-button">Discover project management as a service</a>
         </div>
     </div>
@@ -294,6 +272,8 @@ Help improve citizen services, increase operational effectiveness, and deliver p
                 <a href="/solutions/it-for-business" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about our I.T services for Businesses</a>
                 <p class="or-separator">or</p>
                 <a href="/solutions/it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about our I.T services for Consumers</a>
+                <p class="or-separator">or</p>
+                <a href="/solutions/it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about our I.T services for Consumers</a>
             </div>
         </div>
     </div>
@@ -305,6 +285,135 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
 <p>Part of our ongoing service is to explain I.T terms that don't make sense to you in a language that's down to earth, versatile, and correct.</p>
 
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Service name</th>
+      <th scope="col">Consumer</th>
+      <th scope="col">Public Sector</th>
+      <th scope="col">SME</th>
+      <th scope="col">Startup</th>
+      <th scope="col">Non-Profit Organisations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">Cloud Products & Services</td>
+    </tr>
+    <tr>
+      <td>AWS Cloud Management</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr>
+      <td>Azure Cloud Management</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr>
+      <td>DigitalOcean Cloud Management</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr>
+      <td>Google Cloud Platform Cloud Management</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+     <tr>
+      <td>Linode Cloud Management</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">I.T Consultancy Services</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">I.T Consultancy Services</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+    <tr class="status-category">
+        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+    </tr>
+    <tr>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+      <td>•</td>
+    </tr>
+  </tbody>
+</table>
+
 <div class="divider div-transparent div-arrow-down"></div>
 
 <h3 class="text-center static-heading">Managed I.T services at a fraction of the cost of running I.T on-site</h3>
@@ -312,9 +421,6 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h2 class="text-center animated-headingno">
-    Keep-Alive I.T vs. other competing I.T agencies:
-</h2>
 <h3>Why Choose Keep-Alive I.T to get the job done?</h3>
 <p>Making the choice of which I.T consultancy agency to get work completed by is a tough choice. Here are just some reasons we're confident you can trust in our I.T Services:</p>
 

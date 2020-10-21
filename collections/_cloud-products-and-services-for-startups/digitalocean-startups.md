@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
-  more_text: "Discover our Digital Ocean consultancy services for Startup Businesses"
+  more_text: "Learn more about our Digital Ocean consultancy services for Startup Businesses"
   more_text_colour: "#36454f"
 
 icon: /assets/images/cloud/digitalocean-logo.png

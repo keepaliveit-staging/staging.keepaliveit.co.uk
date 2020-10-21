@@ -47,12 +47,14 @@ Including drivers setup
 
 - Servers
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
 
+<div class="divider div-transparent div-arrow-down"></div>
 
 ### Cost of our Hardware procurement service
-
 
 We also offer <a href="/">software procurement</a> services for your business software needs.
 

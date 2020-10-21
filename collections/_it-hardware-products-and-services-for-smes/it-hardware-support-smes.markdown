@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#5e212e"
-  more_text: "Discover I.T Hardware Support Services"
+  more_text: "Learn more about our I.T Hardware Support Services for SMEs"
   more_text_colour: "#215e51"
 
 ---

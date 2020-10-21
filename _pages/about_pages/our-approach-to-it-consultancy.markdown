@@ -15,6 +15,9 @@ header:
 
 {% include breadcrumbs.html %}
 
+h1
+Digital Transformation through I.T Consultancy
+
 <h2>The Keep-Alive I.T approach to I.T consultancy</h2>
 
 We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field who work with technology every single day and is familiar with I.T best practises.
@@ -30,3 +33,35 @@ We’re pretty good at all of these things and can apply our I.T knowledge to yo
 
 4. We'll support you whenever needed
 Our contract of working together will outline the process of what to do if you require support we've built for you.
+
+
+
+[must edit]
+Our highly skilled consultants work with you at a strategic and technical level to deliver solutions to the complex technology challenges you face.
+
+They understand that technology is just part of the answer. Organisational change, internal skills and processes also have a role to play.
+
+iomart has been delivering infrastructure transformation projects for over 20 years, using industry knowledge, agile methods and innovative tools to bring commercial and competitive value to organisations across the private and public sector.
+
+Thanks to our partnerships with the world’s leading hardware, software, cloud and networking suppliers, we offer a completely vendor agnostic service.
+
+We start with your business goals to find the solutions that will achieve them.
+
+Requirements
+Sets out the aims of the project.
+
+Discovery
+Detailed understanding of your current environment.
+
+Low level design
+Detailed refinement of the design.
+
+High level design
+Production of the general architecture document.
+
+Proof of concept
+End-to-end testing before go live.
+
+Deployment
+Implementation of the solution.
+[must edit]
