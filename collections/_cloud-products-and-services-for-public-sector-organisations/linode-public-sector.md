@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/cloud-providers/linode.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: 750px
   image_overlay_url: /assets/images/cloud/linode-logo-flat.png 
   more_text: "Discover our Linode Cloud consultancy services"
   more_text_colour: "#00416a"

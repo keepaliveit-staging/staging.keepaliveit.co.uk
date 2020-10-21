@@ -12,7 +12,6 @@ header:
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
   more_text_colour: "#00416a"
-  min_height: 700px
   more_text: "Learn more about I.T Hardware procurement for Public Sector Organisations"
 
 ---

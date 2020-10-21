@@ -13,10 +13,9 @@ excerpt: "A case study looking into the current state of private Sector I.T setu
 header:
   overlay_image: /assets/images/mall.jpg
   overlay_filter: 0.74
-  min_height: 600px
   page_lead_text_colour: "#aa0000"
   more_text: "Read the case study on effective Business I.T"
-  min_height: 700px
+
 ---
 
 {% include breadcrumbs.html %}

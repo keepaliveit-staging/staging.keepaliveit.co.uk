@@ -10,7 +10,7 @@
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-{% include_cached skip-links.html %}
+<!--{% include_cached skip-links.html %}-->
 {% include_cached browser-upgrade.html %}
 {% include masthead.html %}
 
@@ -39,16 +39,14 @@
 </div>
 {% endif %}
 
-
-<footer class="page__footer">
-    <div class="page__hero--overlay"
-         style="background-color: #5e616c; background-image: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.34)), url('/assets/images/meeting.jpg');">
-        <div class="wrapper" style="color: white;">
+<footer id="page-footer">
+    <div class="container" style="background-color: #5e616c; background-image: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.34)), url('/assets/images/meeting.jpg');">
+        <div class="container" style="color: white;">
             <h2>Plan a FREE I.T Consultation Session with a qualified I.T Consultant:</h2>
             <p>We'd love to get to know more about your I.T requirements. If you'd like us to arrange a completely FREE
                 15-minute video consultation with you, please visit the following link and fill in the form with your
                 contact details & a preferred call time so we can get back to you.</p>
-            <a class="btn btn--light-outline btn--large btn--grow" href="/request-a-callback">Request a FREE I.T
+            <a class="btn btn-primary btn--grow" href="/request-a-callback">Request a FREE I.T
                 Consultation Session</a>
         </div>
     </div>

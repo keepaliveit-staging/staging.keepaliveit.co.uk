@@ -17,7 +17,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## Efficient I.T reduces Costs for Businesses and Individuals
+## Experienced UK based JavaScript Developers for Hire
 
 Other benefits of I.T
 {% assign items = site.benefit %}

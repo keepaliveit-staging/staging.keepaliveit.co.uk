@@ -70,6 +70,7 @@
     "serve:rebuild": "gulp serve:rebuild"
   },
   "dependencies": {
+    "bootstrap": "4.5.3",
     "glob": "latest",
     "jquery": "^3.5.1"
   }

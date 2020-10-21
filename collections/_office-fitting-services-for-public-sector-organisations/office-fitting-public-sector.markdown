@@ -10,7 +10,6 @@ excerpt: "Looking for an office refit and an I.T hardware upgrade? Put your feet
 header:
   overlay_image: /assets/images/office-fitting/modern-office.jpg
   overlay_filter: 0.33 
-  min_height: "650px"
   more_text: "Learn more about our Office Fitting Service"
   more_text_colour: "#6a2900"
   page_lead_text_colour: "#ea5114"

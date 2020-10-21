@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
   page_lead_text_colour: "#5e212e"
-  min_height: "700px"
   more_text: "Learn why you should offload I.T procurement"
   more_text_colour: "#215e51"
   

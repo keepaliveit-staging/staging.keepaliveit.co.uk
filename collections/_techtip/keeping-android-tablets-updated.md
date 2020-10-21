@@ -7,7 +7,6 @@ excerpt: "Wondering how to update the software on your Android Tablet? This guid
 header:
   overlay_image: /assets/images/techtip/android-tablet.jpg
   overlay_filter: 0.5 
-  min_height: "600px"
   more_text: "Learn how to update an Android OS"
   
 thumbnail: /assets/images/techtip/thumbnail/android-tablet.jpg

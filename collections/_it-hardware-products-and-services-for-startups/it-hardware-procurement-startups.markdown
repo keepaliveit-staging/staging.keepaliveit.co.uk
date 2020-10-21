@@ -13,7 +13,7 @@ header:
   page_lead_text_colour: "#4f4036"
   more_text: "Discover our I.T Hardware Procurement Services for Startup Businesses"
   more_text_colour: "#36454f"
-  min_height: "650px"
+
 ---
 
 {% include breadcrumbs.html %}

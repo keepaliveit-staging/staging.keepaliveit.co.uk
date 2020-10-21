@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "About Keep-Alive I.T"
-permalink: /about.html
+permalink: /about/
 classes:
   - about
   
@@ -15,13 +15,13 @@ header:
   overlay_filter: 0.44
   page_lead_text_colour: "#aa0000"
   more_text: "Discover more information about our company"
-  min_height: "700px"
+
 ---
 
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-info-circle page-title-icon" aria-hidden="true"></i> About Keep-Alive I.T
+## <i class="fas fa-info-circle page-title-icon" aria-hidden="true"></i>About Keep-Alive I.T
 
 ### What does Keep-Alive I.T do?
 <blockquote data-aos="fade-down" data-aos-once="true">

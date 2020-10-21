@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/cloud-providers/solar-amazon.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#215e51"
-  min_height: 850px
   image_overlay_url: /assets/images/cloud/aws-logo-flat.png 
   more_text: "Discover our AWS consultancy services for SME Businesses"
   more_text_colour: "#215e51"

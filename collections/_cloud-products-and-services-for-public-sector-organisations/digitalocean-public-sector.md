@@ -12,7 +12,6 @@ header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: 780px
   image_overlay_url: /assets/images/cloud/digitalocean-logo-flat.png 
   more_text: "Discover our DigitalOcean consultancy services"
   more_text_colour: "#00416a"

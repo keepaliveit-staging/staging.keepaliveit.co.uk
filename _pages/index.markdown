@@ -1,9 +1,9 @@
 ---
 layout: splash
-title: "Tailored I.T Development & Operations Solutions + I.T Support Services for Everyone."
+title: "I.T Consultancy Services for Everyone. UK based I.T experts ready to help."
 permalink: /
 classes:
-  - landing
+  - page__homepage
 customStyleSheets:
     - something.css
 assetEntryPoints:
@@ -15,24 +15,69 @@ header:
         url_mp4: assets/videos/homepage.mp4
         url_webm: assets/videos/homepage.webm
         url_ogg: assets/videos/homepage.ogg
-        header_text: "👋 Hello! We're Keep-Alive I.T<span style='color:#FFDE59;font-weight:bold;'>:</span> <br><br> A technology-agnostic I.T Agency ‍💻  We help people 👥 & organisations 🏢 explore, adopt, and utilise efficient I.T."
+        header_text: "We're an <span>I.T Agency</span> who provides <span>affordable I.T Consultancy</span> services and <span>practical I.T support</span> services to People, Businesses, and Organisations."
 ---
-                                            
-<h2 class="text-center static-heading">👋 Hello! This is what we do at Keep-Alive I.T:</h2>
 
+<h1 class="text-center" style="margin-top:1rem;margin-bottom:1rem;">I.T Consultancy Services for Everyone</h1>
+                                       
+<h2 style="margin-bottom: 1rem;" class="text-center static-heading">Need a small I.T related job worked on? Need a large I.T project completed? Leave it with us and we'll get the job done <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h2>
 
-<a href='/about/our-approach-to-it-consultancy/'>Demonstrating what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-infrastructure-management/'>running I.T infrastructure effectively</a> is what we do.
+We're a team of problem solvers, project managers, and tech enthusiasts who love what we do.
 
-<blockquote data-aos="zoom-in" data-aos-once="true">
-  <p>Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we do. We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field.</p>
-</blockquote>
+Our team contains a mixture of I.T Software, I.T Hardware, and I.T Infrastructure expertise; Enabling us to help people, businesses, and organisations explore, adopt, and utilise efficient I.T solutions.
 
-<h2 class="text-center animated-headingno">
-    Common use cases for hiring Keep-Alive I.T:
-</h2>
+Showing people what I.T systems are capable of, developing high quality software, and running I.T effectively is what we mostly do, but our skills aren't limited to just these areas of I.T.
+  
+We can apply our I.T knowledge to your requirements, or do things how we think they should be done to suit your personal, or organisational needs. No I.T job is too big or too small for us as we scale our team members on a per-project basis.
+
+We follow the same 3-step-process for working on small, medium, or large sized projects:
+
+<section data-aos="fade-zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600" data-aos-once="true" class="aos-init aos-animate metrics">
+    <div class="row">
+        <div class="col-xs-12 col-md-4 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    1) Analyse.
+                </div>
+                <div class="metric">
+                    We'll analyse your existing I.T setup (Hardware, Software, or Infrastructure) and gather information about it.
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-4 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    2) Consult.
+                </div>
+                <div class="metric">
+                    We'll take a technology-agnostic approach to consulting you on your options and how we can move forward with working together.
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-md-4 stat-container">
+            <div class="stat-item">
+                <div class="stat">
+                    3) Apply.
+                </div>
+                <div class="metric"> 
+                    We'll apply our I.T skills to the job, or project you hired us for and get the job done.
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+From branch office backups, to hyper cloud migration, and everything in between, whatever transformation issues your business is facing we can provide the solution.
+
+Customers worldwide trust us to manage their critical infrastructure and work with them to overcome their biggest technology challenges.
+
+If you'd like to know more about working with us, please check out <a href="/about/the-process-of-working-with-us">how to work with us</a> to get further insight of the above process.
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need an I.T project managed from start to finish? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center static-heading">Need an I.T project managed from start to finish? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -52,7 +97,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center">Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center static-heading">Need an I.T Process automated? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/organizational-agility.svg" alt="Process Automation">
@@ -70,7 +115,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need help with general technical issues? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center static-heading">Need help with general technical issues? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -88,7 +133,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="zoom-in" data-aos-once="true">
-    <h3 class="text-center">Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center static-heading">Need an App built? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     <div class="row">
         <div class="col-sm-6 col-xs-12">
             <img class="lazy" src="/assets/images/homepage/support-team.svg" alt="Project Management">
@@ -105,7 +150,7 @@ header:
 <div class="divider div-transparent div-arrow-down"></div>
 
 <section data-aos="fade-right" data-aos-once="true">
-    <h3 class="text-center">Need some help with a technical issue? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
+    <h3 class="text-center static-heading">Need help with a technical issue? Keep-Alive I.T can help <i class="fas fa-check page-title-icon" aria-hidden="true"></i></h3>
     
     <div class="row">
         <div class="col-sm-6 col-xs-12">
@@ -122,7 +167,7 @@ header:
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h2 class="text-center animated-headingno">
+<h2 class="text-center static-heading">
     A bigger picture of our services
 </h2>
 Our I.T services are split into two main categories; Development & Operations. Our Development and Operations services are complimented by an I.T support model and all of our solutions are built with Cyber Security resilience practises in mind. 
@@ -190,7 +235,7 @@ Help improve citizen services, increase operational effectiveness, and deliver p
                 <h3>Software Development</h3>
                 <h4>Design, Development, Maintanence, and Management of Large-Scale Websites and Software Applications.</h4>
                 <p>We offer a full suite of Software Development services – from custom Web and Mobile App Development, to Software Quality Assurance (QA) services.</p>
-                <p>All of our work is completed by following Agile Software Development best practises and we are able to work with modern codebases, or redesign old Legacy Software Applications to be compatible with modern I.T setups.</p> 
+                <p>All of our work is completed by following Agile Software Development best practises, and we are able to work with modern codebases, or redesign old Legacy Software Applications to be compatible with modern I.T setups.</p> 
             </div>
         </div>
 
@@ -222,43 +267,47 @@ Help improve citizen services, increase operational effectiveness, and deliver p
     </div>
 </div>
 
-<section id="discover">
-    <div class="row center-xs">
-        <div class="col-xs-12 col-md-6">
-            <h2>Your local I.T agency that's ready to supply I.T solutions to the United Kingdom.</h2>
-        </div>
-    </div>
+<div class="divider div-transparent div-arrow-down"></div>
 
-    <div class="row">
-        <div class="col-xs-12 col-sm-6">
-            <div style="position: relative;margin: 5% 10% 5% 10%;">            
-                <img class="lazy" data-src="/assets/images/united-kingdom.png" style="position:relative;width:auto;" />
-                <span class="marker1 pulse"></span>
-                <span class="marker2 pulse"></span>
-                <span class="marker3 pulse"></span>
-                <span class="marker4 pulse"></span>
+<section id="discover">
+    <div class="container">
+        <div class="row center-xs">
+            <div class="col-xs-12 col-md-6">
+                <h2>Your online I.T agency that's ready to supply I.T solutions to the United Kingdom.</h2>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-6" style="padding:40px;">
-            <h3>Everybody Depends on I.T, not just Geeks 🤓</h3>
-            <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases for I.T in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
-            <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
-            <a href="/solutions/it-for-business" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about our I.T services for Businesses</a>
-            <p class="or-separator">or</p>
-            <a href="/solutions/it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about our I.T services for Consumers</a>
+    
+        <div class="row">
+            <div class="col-xs-12 col-sm-6">
+                <div class="uk-map">            
+                    <img class="lazy img-fluid" data-src="/assets/images/united-kingdom.png" style="position:relative;width:auto;" />
+                    <span class="marker1 pulse"></span>
+                    <span class="marker2 pulse"></span>
+                    <span class="marker3 pulse"></span>
+                    <span class="marker4 pulse"></span>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6" style="padding:40px;">
+                <h3>Everybody Depends on I.T, not just Geeks 🤓</h3>
+                <p>Individuals & Businesses now depend on I.T more than ever before. Common use cases for I.T in the 21st century include Personal Convenience, Leisure, Healthcare, and Commercial purposes.</p> 
+                <p style="font-size: 0.85em;">To learn more about the importance of commercial and consumer I.T, please click on one of the following links:</p>
+                <a href="/solutions/it-for-business" style="width:100%;background:#aa0000;border-color:#aa0000 !important;color:#ffffff !important;" class="btn btn--empty btn--large btn--grow">Learn more about our I.T services for Businesses</a>
+                <p class="or-separator">or</p>
+                <a href="/solutions/it-for-consumers" class="btn btn--empty btn--large btn--grow" style="width:100%;background:#007bff;border-color:#007bff !important;color:#ffffff !important;">Learn more about our I.T services for Consumers</a>
+            </div>
         </div>
     </div>
 </section>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h3>Complex I.T terms broken down into a language that makes sense to the average person</h3>
+<h3 class="text-center static-heading">Complex I.T terms broken down into a language that makes sense to the average person</h3>
 <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
 <p>Part of our ongoing service is to explain I.T terms that don't make sense to you in a language that's down to earth, versatile, and correct.</p>
 
 <div class="divider div-transparent div-arrow-down"></div>
 
-<h3>Managed I.T services at a fraction of the cost of running I.T on-site</h3>
+<h3 class="text-center static-heading">Managed I.T services at a fraction of the cost of running I.T on-site</h3>
 
 
 <div class="divider div-transparent div-arrow-down"></div>
@@ -271,9 +320,11 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 
 {% include why-us-section.html %}
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <div class="row">
     <div class="col-xs-12">
-        <h2 class="text-center animated-headingno">
+        <h2 class="text-center static-heading">
             Our promise:
         </h2>
         <p>Delivering I.T services to our customers with great satisfaction is our ultimate goal. </p>
@@ -281,9 +332,11 @@ Help improve citizen services, increase operational effectiveness, and deliver p
     </div>
 </div>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <section id="testimonials" class="testimonials">
     <div class="section-title">
-        <h2 class="text-center animated-headingno">
+        <h2 class="text-center static-heading">
             Client Testimonials:
         </h2>
         <p>Don't just take our word for it. We work with a wide variety of audiences and want you to see what they've got to say about our company:</p>

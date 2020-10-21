@@ -12,6 +12,8 @@ header:
   overlay_filter: 0.5 
 ---
 
+{% include breadcrumbs.html %}
+
 ## Junior PHP Developer (Full Time)
 
 ## Job Description:

@@ -1,32 +1,71 @@
 /* ==========================================================================
    FOOTER
-   ========================================================================== */
+   ==========================================================================
+*/
 
-.page__footer {
-  @include clearfix;
-  float: left;
+#site-navigation-footer {
+  background: #292929;
+
+  h3 {
+    text-transform: uppercase;
+    font-size: 0.84em;
+    margin-bottom: 20px;
+    color: #ffffff;
+    margin-top: 2em;
+
+    span {
+      text-decoration: underline;
+    }
+  }
+
+  .footer-nav-links {
+    margin-bottom: 20px;
+    list-style: none;
+    margin-left: -40px;
+
+    li {
+      margin-bottom: 12px;
+      font-size: 0.78em;
+      color: #ffffff;
+
+      i {
+        color: #6d6d6d;
+      }
+
+      a {
+        color: #bbbbbb;
+        font-family: Montserrat, Helvetica, Arial, sans-serif;
+        font-size: 14px;
+      }
+
+      a.active, a:hover {
+        color: #ffde59;
+
+        i {
+          color: #aa0000;
+        }
+      }
+    }
+  }
+}
+
+#page-footer {
   margin-left: 0;
   margin-right: 0;
   width: 100%;
-  clear: both;
   color: $muted-text-color;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.45s;
-  animation-delay: 0.45s;
   background-color: $footer-background-color;
 
   footer {
-    @include clearfix;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+    //@include breakpoint($x-large) {
+    //  max-width: $x-large;
+    //}
   }
 
   a {
@@ -46,18 +85,12 @@
   }
 }
 
-.page__footer-copyright {
-  font-family: $global-font-family;
-  font-size: $type-size-7;
+#page-footer-copyright {
   background: #273f58;
   width: 100%;
-  border-bottom: 5px solid #e0e0e0;
+  border-bottom: 5px solid #A70A0E;
 
   .container-center-page {
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
-
     margin-left: auto;
     margin-right: auto;
     width: $max-width;
@@ -67,9 +100,8 @@
 .page__footer-follow {
 
   ul {
-    padding: 0;
     list-style-type: none;
-    margin: 1em 0em;
+    padding: 1em 0;
   }
 
   li {
@@ -97,14 +129,16 @@
   }
 
   .social-icons {
+    margin-bottom: 0;
+
     a {
       white-space: nowrap;
       font-size: 2.5em;
 
-      @include breakpoint($small) {
-        font-size: 2em;
-        padding-right: 10px;
-      }
+      //@include breakpoint($small) {
+      //  font-size: 2em;
+      //  padding-right: 10px;
+      //}
     }
   }
 }

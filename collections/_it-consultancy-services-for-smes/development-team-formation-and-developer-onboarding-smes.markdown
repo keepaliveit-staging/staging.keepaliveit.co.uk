@@ -19,12 +19,13 @@ header:
 
 {% include breadcrumbs.html %}
 
+## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i>Development Team Formation & Developer Onboarding
+
 VirtualBox, Git, and Vagrant
 
 Forming a new Software Development Team, or on-boarding new Software Developers in an existing Software Development Team can be a challenging, frustrating, and a time consuming process. Offload your Development Team Formation tasks onto us and we'll apply our expertise with forming an in-house, or remote Software Development team for you. We'll do this by hiring new Software Developers, Onboarding new Software Developers into a Team, Managing existing staff, and implementing plans & processes to make Software Development projects easier to manage.
 
 
-## <i class="fas fa-user-tie page-title-icon" aria-hidden="true"></i> Development Team Formation & Developer Onboarding
 Keeping software developers motivated to produce high quality work is a task every modern high-profile business must face
 
 Developing in-house software has its own pro's and con's, with the primary pro being that the software that's developed for an organisation is internal

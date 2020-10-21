@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/software-training.jpg
   overlay_filter: 0.5 
   more_text_colour: "#35344b"
-  min_height: "700px"
 
 ---
 

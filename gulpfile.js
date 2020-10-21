@@ -235,22 +235,31 @@ function getFolders(dir) {
 const sass = require('gulp-sass');
 
 gulp.task('tryingsomething', function(done){
-    var folders = getFolders('_assets/css/p/');
+
+    var folder = 'homepage';
+
+    let stream = gulp.src('_assets/styles/p/' + folder + '/main.scss')
+        .pipe(sass({
+            outputStyle: 'compressed'
+        }).on('error', sass.logError))
+        .pipe(gulp.dest('_site/assets/styles/p/' + folder));
+
+        return stream;
+});
+
+gulp.task('tryingsomething2', function(done){
+    var folders = getFolders('_assets/styles/p/');
     if (folders.length === 0) return done(); // nothing to do!
 
     folders.map(function(folder) {
-        console.log(folder);
-
-        let stream = gulp.src('_assets/css/p/' + folder + '/main.scss')
+        let stream = gulp.src('_assets/styles/p/' + folder + '/main.scss')
             .pipe(sass({
                 outputStyle: 'compressed'
             }).on('error', sass.logError))
-            .pipe(gulp.dest('_assets/css/p/' + folder));
-
-        stream.pipe(
-            browserSync.stream()
-        ).on('error', sass.logError);
+            .pipe(gulp.dest('_site/assets/styles/p/' + folder));
 
         return stream;
     });
+
+    done();
 });

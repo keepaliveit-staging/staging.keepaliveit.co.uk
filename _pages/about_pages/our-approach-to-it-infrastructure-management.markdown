@@ -18,7 +18,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-<h2>The Keep-Alive I.T approach to I.T consultancy</h2>
+## The Keep-Alive I.T approach to I.T Infrastructure Management
 
 We’re pretty good at all of these things and can apply our I.T knowledge to your requirements, or do things how we think they should be done, as experts in the I.T field who work with technology every single day and is familiar with I.T best practises.
 

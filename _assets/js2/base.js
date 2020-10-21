@@ -12,6 +12,17 @@ let SmoothScroll = require('../js/plugins/smooth-scroll');
 
 $(document).ready(function () {
 
+    function resizeBubble(){
+        var containerSize = $(".page-content-overlay").width();
+        $(".bubble3").width(containerSize);
+    }
+
+    resizeBubble();
+
+    $(window).resize(function() {
+        resizeBubble();
+    });
+
     $("#main").fitVids();
 
     $("#mobile-menu").mobileMenu();

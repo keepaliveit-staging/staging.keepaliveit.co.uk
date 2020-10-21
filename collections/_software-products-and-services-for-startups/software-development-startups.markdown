@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/software-engineering.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
-  min_height: "600px"
   more_text: "Discover our Software Development Services for Startup Businesses"
   more_text_colour: "#36454f"
 

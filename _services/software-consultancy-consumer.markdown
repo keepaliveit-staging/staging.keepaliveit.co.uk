@@ -9,7 +9,6 @@ excerpt: "Learn how Keep-Alive I.T's Services can assist with consumer software 
 header:
   overlay_image: /assets/images/home.jpg
   overlay_filter: 0.54
-  min_height: "750px"
 
 ---
 

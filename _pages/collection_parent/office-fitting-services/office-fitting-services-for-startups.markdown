@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/hardware-procurement.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#ea5114"
-  min_height: "600px"
   more_text: "Discover our Hardware Products & Services"
   more_text_colour: "#36454f"
 

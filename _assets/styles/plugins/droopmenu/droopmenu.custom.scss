@@ -1113,7 +1113,7 @@
   cursor: pointer;
   display: none;
   float: right;
-  right: 0;
+  right: 10px;
   top: 25px;
   background: rgba(0, 0, 0, 0.3) !important;
 
@@ -1268,7 +1268,7 @@
 	:: Droopmenu | RESPONSIVE STYLES > = 768
 	-------------------------------------------------------
 */
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 769px) {
   .droopmenu-nav, .droopmenu li > ul {
     display: block !important;
   }
@@ -1454,7 +1454,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 769px) {
   .droopmenu {
     position: static;
     width: 100%;

@@ -1,0 +1,35 @@
+/* Custom styles for tech-tips */
+
+.page__tech-tips {
+  .techtip-container {
+    margin-top: 20px;
+
+    .techtip-item {
+      padding: 20px;
+      border: 3px solid #f2f3f3;
+      height: 100%;
+
+      &:hover {
+        cursor: pointer;
+      }
+
+      .item-title {
+        font-size: 1.2em;
+        font-weight: 700;
+        margin-bottom: 0.5em;
+        display: block;
+        text-transform: capitalize;
+      }
+
+      .item-description {
+        display: block;
+        margin-bottom: 20px;
+        font-size: 0.88em;
+
+        ul {
+          padding-left: 20px;
+        }
+      }
+    }
+  }
+}

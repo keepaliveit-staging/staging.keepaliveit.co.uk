@@ -16,7 +16,7 @@ header:
 
 {% include breadcrumbs.html %}
 
-## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i> Recent I.T Consultancy Posts from our I.T Experts
+## <i class="fas fa-leaf page-title-icon" aria-hidden="true"></i>Recent I.T Consultancy Posts from our I.T Experts
 <p>We hire I.T pros to write guides on the top industry trends for us. These guides have been written to help you with determining your I.T requirements and for learning about up and coming technologies.</p>
 
 <div id="consultancy-posts">

@@ -31,25 +31,27 @@
     </video>
     <div>
         <div data-aos="fade-down" data-aos-once="true" class="bubble1">
-            {{ header_text }}
+            <p class="text-center">{{ header_text }}</p>
         </div>
                 
         <div class="bubble2"> 
-            <div style="text-decoration:underline;font-size: 18px;font-weight: bold;">We help people <span style="color:#FFDE59;">//</span> organisations:</div>
+            <div class="lead-text">
+                We help People <span style="color:#FFDE59;">//</span> Businesses <span style="color:#FFDE59;">//</span> Organisations:
+            </div>
             <div class="rotateText"> 
-                <div>• Understand the capibilities of technology.</div> 
-                <div>• Build Websites.</div> 
-                <div>• Build Mobile Applications.</div> 
-                <div>• Build Platform Specific Applications.</div> 
-                <div>• Manage I.T infrastructure.</div> 
-                <div>• Diagnose and repair Software issues.</div> 
-                <div>• Diagnose and repair Hardware issues.</div> 
+                <div>Understand the capibilities of technology</div> 
+                <div>Build Websites</div> 
+                <div>Build Mobile Applications</div> 
+                <div>Build Platform Specific Applications</div> 
+                <div>Manage I.T infrastructure</div> 
+                <div>Diagnose and repair Software issues</div> 
+                <div>Diagnose and repair Hardware issues</div> 
             </div>              
         </div>
 
         <div class="bubble3">
           <div style="flex-basis: 80px;">
-              <div class="bounce-7 scroll-down1">
+              <div class="bounce-animation scroll-down1">
                   <a href="#main" class="take-me-there">
                       <i class="fas fa-chevron-down" aria-hidden="true"></i>
                   </a>
@@ -59,7 +61,7 @@
             <a href="#main" class="take-me-there" style="color: white; text-decoration:none; text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);color:white;text-align:center;font-weight:300;font-size: 0.77em;">Discover how we could help enhance your home or organisation with effective I.T</a>
           </div>
           <div style="flex-basis: 80px;">
-              <div class="bounce-7 scroll-down2">
+              <div class="bounce-animation scroll-down2">
                   <a href="#main" class="take-me-there">
                       <i class="fas fa-chevron-down" aria-hidden="true"></i>
                   </a>

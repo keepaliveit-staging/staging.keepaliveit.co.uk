@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/cloud/oracle-cloud-oci-regions-2020.png
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
-  min_height: 750px
   image_overlay_url: /assets/images/cloud/oci-logo-square.png 
   more_text: "Discover our OCI consultancy services for Startup Businesses"
   more_text_colour: "#36454f"

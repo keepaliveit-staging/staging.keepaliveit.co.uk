@@ -1,69 +1,47 @@
+@import "./node_modules/bootstrap/scss/variables";
+
+@function get-breakpoints($key: "md") {
+  @return map-get($container-max-widths, $key);
+}
+
+
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
 
-.wrapper {
-  padding-left: 1em;
-  padding-right: 1em;
+.current-page {
+  flex-wrap: wrap;
+  padding: .75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: #e9ecef;
+  border-radius: 4px;
+}
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
+.page-content-overlay {
+  margin-bottom: 200px;
 }
 
 #main {
   @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding: 1em;
   background: white;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
-
   border-left: 1px solid lightgrey;
   border-right: 1px solid lightgrey;
 
-  @include breakpoint($x-large) {
-    max-width: $max-width;
-  }
+  padding: 20px 0;
 }
 
 body {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  min-height: 100vh;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
   background: #e8e8e8;
 }
 
-.initial-content,
-.search-content {
-  flex: 1 0 auto;
-}
-
 .initial-content {
-  margin-top: $header-height;
+  margin-top: 100px;
 }
 
 .page {
-  @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: 20px;
-  }
-
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: 0;
-  }
-
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
@@ -115,12 +93,20 @@ body {
 }
 
 .page__content {
-  h2 {
+
+  h1 {
     font-weight: 800;
     line-height: 1.1;
     font-family: "Sarabun", sans-serif;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+  }
+
+  h2 {
+    font-weight: 800;
+    line-height: 1.1;
+    font-family: "Sarabun", sans-serif;
+    padding-bottom: 0.5em;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -196,10 +182,6 @@ body {
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.25s;
-  animation-delay: 0.25s;
 
   &--overlay {
     position: relative;
@@ -208,13 +190,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
-    max-width: $max-width;
-    margin-left: auto;
-    margin-right: auto;
 
     a {
       color: #fff;
@@ -235,30 +210,26 @@ body {
     .page__title {
       font-size: $type-size-2;
 
-      @include breakpoint($small) {
-        font-size: $type-size-1;
-      }
+      //@include breakpoint($small) {
+      //  font-size: $type-size-1;
+      //}
     }
 
     .bubble3 {
       color: white;
       position: absolute;
-      left: 0;
-      bottom: -9px;
-
-      // mobile first size
-      width: 100%;
+      bottom: 0;
 
       &:before {
         content: '';
-        z-index: -1;
         position: absolute;
         top: calc(100% - 200px);
         bottom: 0;
         right: 0;
         left: 0;
         border-radius: 50% 50% 0 0;
-        max-width: 1100px;
+        width: inherit;
+        z-index: 1;
       }
     }
   }
@@ -285,9 +256,9 @@ body {
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
 
-  @include breakpoint($large) {
-    padding: 5px 10px;
-  }
+  //@include breakpoint($large) {
+  //  padding: 5px 10px;
+  //}
 
   a {
     color: #fff;
@@ -304,18 +275,18 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
-  @include breakpoint(max-width $small) {
-    .btn span {
-      border: 0;
-      clip: rect(0 0 0 0);
-      height: 1px;
-      margin: -1px;
-      overflow: hidden;
-      padding: 0;
-      position: absolute;
-      width: 1px;
-    }
-  }
+  //@include breakpoint(max-width $small) {
+  //  .btn span {
+  //    border: 0;
+  //    clip: rect(0 0 0 0);
+  //    height: 1px;
+  //    margin: -1px;
+  //    overflow: hidden;
+  //    padding: 0;
+  //    position: absolute;
+  //    width: 1px;
+  //  }
+  //}
 }
 
 .page__share-title {
@@ -418,9 +389,9 @@ body {
   font-size: 0.75em;
   list-style: none;
 
-  @include breakpoint($large) {
-    grid-template-columns: repeat(3, 1fr);
-  }
+  //@include breakpoint($large) {
+  //  grid-template-columns: repeat(3, 1fr);
+  //}
 
   a {
     display: -webkit-box;
@@ -499,10 +470,10 @@ body {
   width: 60px;
   height: 60px;
 
-  @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
-  }
+  //@include breakpoint($large) {
+  //  width: 100px;
+  //  height: 100px;
+  //}
 }
 
 .comment__avatar {
@@ -510,21 +481,21 @@ body {
   height: 40px;
   border-radius: 50%;
 
-  @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
-    padding: 5px;
-    border: 1px solid $border-color;
-  }
+  //@include breakpoint($large) {
+  //  width: 80px;
+  //  height: 80px;
+  //  padding: 5px;
+  //  border: 1px solid $border-color;
+  //}
 }
 
 .comment__content-wrapper {
   float: right;
   width: calc(100% - 60px);
 
-  @include breakpoint($large) {
-    width: calc(100% - 100px);
-  }
+  //@include breakpoint($large) {
+  //  width: calc(100% - 100px);
+  //}
 }
 
 .comment__author {
@@ -555,14 +526,14 @@ body {
   padding-top: 1em;
   border-top: 1px solid $border-color;
 
-  @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-  }
+  //@include breakpoint($large) {
+  //  float: right;
+  //  width: calc(100% - #{$right-sidebar-width-narrow});
+  //}
 
-  @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-  }
+  //@include breakpoint($x-large) {
+  //  width: calc(100% - #{$right-sidebar-width});
+  //}
 
   a {
     color: inherit;
@@ -574,30 +545,4 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-
-/*
-   Wide Pages
-   ========================================================================== */
-
-.wide {
-  .page {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  }
-
-  .page__related {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
-    }
-  }
 }

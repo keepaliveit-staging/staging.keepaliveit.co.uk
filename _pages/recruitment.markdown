@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Recruitment"
+title: "Recruitment"
 permalink: /recruitment/
 excerpt: "I.T Solutions"
 
@@ -14,11 +14,10 @@ header:
 
 ---
 
-
 {% include breadcrumbs.html %}
 
 ## Recruitment
 
-{% for item in site.solutions %}
+{% for item in site.recruitment %}
 <a href="{{ item.url }}">{{ item.title }}</a>
 {% endfor %}

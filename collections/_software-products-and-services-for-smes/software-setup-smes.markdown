@@ -12,7 +12,6 @@ header:
   overlay_filter: 0.66 
   page_lead_text_colour: "#5e212e"
   more_text_colour: "#215e51"
-  min_height: "700px"
 
 ---
 

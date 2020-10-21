@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/development-team.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#4f4036"
-  min_height: "750px"
   more_text: "Discover how we can improve your team"
   more_text_colour: "#36454f"
 

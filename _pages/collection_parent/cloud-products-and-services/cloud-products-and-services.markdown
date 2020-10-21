@@ -10,7 +10,6 @@ excerpt: "Effective I.T brings a range of benefits to the table for Homes and Wo
 header:
     overlay_image: /assets/images/cloud-computing.jpg
     overlay_filter: 0.3
-    min_height: "600px" 
     page_lead_text_colour: "#ea5114"
     more_text: "Discover Business & Enterprise Cloud offerings"
 

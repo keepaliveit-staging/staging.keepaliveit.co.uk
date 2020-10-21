@@ -1,37 +1,28 @@
 /* Variables */
 @import "keepaliveit-theme/variables";
 
-/* Mixins and functions */
-@import "keepaliveit-theme/vendor/breakpoint/breakpoint";
-@include breakpoint-set("to ems", true);
-@import "keepaliveit-theme/vendor/magnific-popup/magnific-popup";
-@import "keepaliveit-theme/vendor/susy/susy";
-@import "keepaliveit-theme/mixins";
+/* Import all of bootstrap */
+@import "./node_modules/bootstrap/scss/bootstrap";
 
-/* Core CSS */
-@import "keepaliveit-theme/reset";
-@import "keepaliveit-theme/base";
-@import "keepaliveit-theme/forms";
-@import "keepaliveit-theme/tables";
-@import "keepaliveit-theme/animations";
+/* Mixins and functions */
+//@import "keepaliveit-theme/vendor/breakpoint/breakpoint";
+//@include breakpoint-set("to ems", true);
+//@import "keepaliveit-theme/vendor/magnific-popup/magnific-popup";
+//@import "keepaliveit-theme/vendor/susy/susy";
 
 /* Components */
-@import "keepaliveit-theme/buttons";
-@import "keepaliveit-theme/notices";
 @import "keepaliveit-theme/masthead";
 @import "keepaliveit-theme/navigation";
 @import "keepaliveit-theme/footer";
-@import "keepaliveit-theme/search";
-@import "keepaliveit-theme/syntax";
+//@import "keepaliveit-theme/syntax";
 
 /* Utility classes */
 @import "keepaliveit-theme/utilities";
 
 /* Layout specific */
 @import "keepaliveit-theme/page";
-@import "keepaliveit-theme/archive";
-@import "keepaliveit-theme/sidebar";
-@import "keepaliveit-theme/print";
+//@import "keepaliveit-theme/archive";
+//@import "keepaliveit-theme/sidebar";
 
 /* Additional plugins I've added */
 @import "plugins/aos/aos";
@@ -39,35 +30,370 @@
 @import "plugins/accordian/accordion";
 @import "plugins/swal/sweetalert2";
 @import "plugins/droopmenu/droopmenu.custom";
+@import "plugins/glider/glider.custom";
+@import "plugins/slick/slick.custom";
 
 
-// Grid breakpoints
-//
-// Define the minimum dimensions at which your layout will change,
-// adapting to different screen sizes, for use in media queries.
+/* Everything below this line needs putting into their own files */
+.metrics {
+  text-align: center;
 
-$grid-breakpoints: (
-        xs: 0,
-        sm: $small,
-        md: $medium,
-        lg: $large,
-        xl: $x-large
-);
+  .stat-container {
 
-// Grid containers
-//
-// Define the maximum width of `.container` for different screen sizes.
+    padding: 20px;
 
-$container-max-widths: (
-        sm: $small,
-        md: $medium,
-        lg: $large,
-        xl: $max-width
-);
+    .stat-item {
 
-@import 'plugins/bootstrap/scss/bootstrap-grid';
-@import 'plugins/bootstrap/scss/_mixins';
-@import 'plugins/bootstrap/scss/_tables';
+      background: #f5f5f5;
+      padding: 20px;
+      border: 0.15em solid #6f777d;
+      height: 100%;
+
+      span {
+        text-align: center;
+      }
+
+      .stat {
+        line-height: 60px;
+        font-size: 1.46em;
+        color: #aa0000 !important;
+      }
+
+      .metric {
+        font-size: 0.88em;
+        color: #666e74;
+      }
+
+      .animatedNumber {
+        display: inline;
+      }
+    }
+  }
+}
+
+.helptext {
+  z-index: 20;
+  height: auto;
+  width: 400px;
+  color: #fff;
+  position: fixed;
+  bottom: 40px;
+  left: calc(50% - 200px);
+  padding: 20px;
+  border-radius: 30px;
+  background: rgb(138, 1, 2);
+  font-size: .78em;
+  text-align: center;
+
+  .description {
+    font-size: 2em;
+    margin-bottom: 5px;
+
+    i {
+      font-size: 2em;
+    }
+  }
+
+  .text-content {
+    font-size: 1.5em;
+  }
+}
+
+.bounce-animation {
+  @keyframes bounce-animation {
+    0% {
+      transform: scale(1, 1) translateY(0);
+    }
+    10% {
+      transform: scale(1.1, .9) translateY(0);
+    }
+    30% {
+      transform: scale(.9, 1.1) translateY(-15px);
+    }
+    50% {
+      transform: scale(1.05, .95) translateY(0);
+    }
+    57% {
+      transform: scale(1, 1) translateY(-2px);
+    }
+    64% {
+      transform: scale(1, 1) translateY(0);
+    }
+    100% {
+      transform: scale(1, 1) translateY(0);
+    }
+  }
+
+  animation-name: bounce-animation;
+  animation-timing-function: cubic-bezier(0.280, 0.840, 0.420, 1);
+}
+
+.page-title-icon {
+  font-size: 0.7em;
+  width: 1.6em;
+  text-align: center;
+  background: #aa0000;
+  color: #fff;
+  border-radius: 50%;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.divider {
+  position: relative;
+  margin: 60px 0;
+  height: 1px;
+}
+
+.div-transparent:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0%;
+  right: 0%;
+  width: 100%;
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, rgb(220, 210, 210), transparent);
+}
+
+.regular .slider {
+  .reason-item {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+// Custom styles for droopmenu
+.droopmenu-inner,
+.droopmenu-boxed {
+  max-width: $max-width;
+}
+
+.droopmenu-navbar {
+  background: #292929;
+  height: $header-height;
+}
+
+.droopmenu-header {
+  background: #aa0102;
+  height: $header-height;
+}
+
+.dm-nav-brand a img,
+.droopmenu-brand img {
+  height: 60px;
+  top: -3px;
+}
+
+.droopmenu .droopmenu-tabcontent {
+  border-bottom: 1px solid #BB9D7D;
+  background: #365670;
+  height: calc(100vh - 400px); // 200px for header nav and link nav
+}
+
+.dm-nav-brand a,
+.droopmenu-brand,
+.droopmenu > li > a,
+.droopmenu > li > span {
+  line-height: $header-height;
+  height: $header-height;
+}
+
+.droopmenu .droopmenu-tabnav {
+  background: #273f58 !important;
+  height: 100px;
+}
+
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a {
+  font-weight: bold;
+  height: 100px;
+  vertical-align: middle;
+  line-height: inherit !important;
+}
+
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a.droopmenu-tab-active,
+.droopmenu .droopmenu-tabs.tabs-justify .droopmenu-tabnav a:hover {
+  color: white;
+
+  i {
+    font-size: 12px;
+    width: 1.6em;
+    text-align: center;
+    color: white;
+    line-height: 1.6em !important;
+    background: #a00;
+    border-radius: 0.8em;
+  }
+}
+
+.droopmenu-tabcontent .droopmenu-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+  &:before {
+    display: inherit !important;
+    content: inherit !important;
+  }
+
+  & > ul.droopmenu-col {
+    padding: 10px;
+    margin: 5px 5px 5px 10px;
+  }
+}
+
+.dmarrow-down .droopmenu li.dmopener .dm-arrow {
+  border-top: 10px solid #71818C;
+  bottom: 0;
+}
+
+.droopmenu-collol {
+
+  flex-grow: 1;
+  width: 25%;
+  margin: 20px 20px 20px 0;
+
+  h4 {
+    color: #e9e9e9;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #71818c;
+
+    i {
+      font-size: 12px;
+      width: 1.6em;
+      text-align: center;
+      line-height: 1.6em !important;
+      background: #a00;
+      color: #fff;
+      border-radius: .8em;
+    }
+  }
+
+  li a {
+    color: white;
+  }
+}
+
+a.droopmenu-tab-active {
+  color: white;
+}
+
+.droopmenu > li:hover {
+  background: #273f58;
+}
+
+#get-in-touch-container {
+  display: block;
+  height: auto;
+  width: auto;
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  background: #292929;
+  padding: 0.5em;
+  box-shadow: rgba(0, 0, 0, 0.086) 0 1px 8px 0, rgba(0, 0, 0, 0.1) 0 8px 24px 0;
+  border-radius: .42em;
+  border: 3px dotted #ff0;
+
+  a {
+    margin-right: 10px;
+    text-decoration: none !important;
+
+    &:hover {
+      text-decoration: none !important;
+    }
+
+    &:last-child {
+      margin-right: 0;
+    }
+
+    i {
+      color: #ffffff;
+      background: #aa0000;
+      font-size: 2em;
+      padding: 4px;
+      border-radius: 5px;
+    }
+  }
+
+}
+
+#get-in-touch-container.minimised {
+  color: red;
+}
+
+#industry-consultation {
+  padding: 50px;
+  background: $lighter-gray;
+
+  h3 {
+    margin-top: 0 !important;
+  }
+
+  .industry-list {
+    list-style-type: none;
+    padding-left: 0 !important;
+  }
+}
+
+.reason-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: #ffffff;
+}
+
+.reason-item {
+  padding: 20px;
+  border: 3px solid #f2f3f3;
+  height: 100%;
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  .item-title {
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    display: block;
+    text-transform: capitalize;
+    text-align: center;
+  }
+
+  .item-description {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 0.88em;
+
+    ul {
+      padding-left: 20px;
+    }
+
+    ul.benefits {
+
+      list-style: none;
+      margin-left: -20px;
+
+      li:before {
+        font-family: Font Awesome\ 5 Free;
+        font-weight: 400;
+        content: "\f058";
+        color: #228b22;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  img {
+    height: auto;
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 1em;
+  }
+}
 
 /* Customised user-defined styles */
-@import "custom";
+/* @import "custom"; */

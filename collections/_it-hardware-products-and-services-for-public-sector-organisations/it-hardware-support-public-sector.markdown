@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/it-support.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#6a2900"
-  min_height: "650px"
   more_text: "Discover I.T Hardware Support Services"
   more_text_colour: "#00416a"
   

@@ -14,6 +14,8 @@ header:
 
 {% include breadcrumbs.html %}
 
+<a href='/about/our-approach-to-it-consultancy/'>Demonstrating what I.T systems are capable of</a>, <a href='/about/our-approach-to-project-management/'>handling project management</a>, developing high quality Apps, Software, & Websites, and <a href='/about/our-approach-to-it-infrastructure-management/'>running I.T infrastructure effectively</a> is what we do.
+
 ## The process of working with us
 
 If you've never worked with an I.T consultancy company before, we want to make it easier for you to understand the process involved with working with us.

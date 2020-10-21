@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/web-development.jpg
   overlay_filter: 0.59 
   page_lead_text_colour: "#6a2900"
-  min_height: "600px"
   more_text: "Discover our Website Products and Services for Businesses"
   more_text_colour: "#00416a"
     

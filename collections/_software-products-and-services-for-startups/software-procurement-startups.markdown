@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/cad-software.jpg
   overlay_filter: 0.66 
   page_lead_text_colour: "#4f4036"
-  min_height: "600px"
   more_text: "Discover our I.T Software Procurement Services for Startup Businesses"
   more_text_colour: "#36454f"
 

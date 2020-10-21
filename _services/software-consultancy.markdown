@@ -8,7 +8,6 @@ excerpt: "Learn how Keep-Alive I.T's expert backed I.T Software services can hel
 header:
   overlay_image: /assets/images/businesses.jpg
   overlay_filter: 0.54
-  min_height: "750px"
   
 ---
 

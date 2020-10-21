@@ -3,6 +3,9 @@ layout: splash
 title: "Amazon Web Services (AWS) Cloud Consultancy Services for UK Based Small-to-Medium-Sized Enterprise Businesses (SMEs)"
 permalink: /cloud-products-and-services-for-smes/amazon-web-services-aws
 
+classes: 
+    - page__aws-smes
+    
 assetEntryPoints:
     - aws-smes
     
@@ -136,10 +139,12 @@ Since its launch in 2006, AWS has gained phenomenal
     </div>
 </section>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <h3 id="aws-customers">Top AWS customers</h3>
 Amazon has some of the largest companies in the world onboard with its cloud subscription model. These companies often hire dedicated cloud specialists to setup and maintain their I.T infrastructure, but some choose to hire an I.T agency like ours to get the job done without the cost and effort overhead of having to hire in-house.
 
-<img src="https://kinsta.com/wp-content/uploads/2017/10/companies-using-aws-ec2.png" />
+<img src="https://kinsta.com/wp-content/uploads/2017/10/companies-using-aws-ec2.png" class="img-fluid" />
 
 What Amazon says about their Cloud Infrastructure:
 >AWS pioneered cloud computing in 2006, creating cloud infrastructure that allows you to securely build and innovate faster. We are continuously innovating the design and systems of our data centers to protect them from man-made and natural risks. Then we implement controls, build automated systems, and undergo third-party audits to confirm security and compliance. As a result, the most highly-regulated organizations in the world trust AWS every day.
@@ -151,11 +156,12 @@ If you're looking for a more comprehensive
 
 If you're new to AWS but have foundational knowledge of Storage, Network, and Compute Services the platform can still seem quite overwhelming as there are literally hundreds of services offered by AWS. This article aims to demystify some of the core Cloud services offered by AWS and and give an explanation of the Cloud consultancy services that we offer to assist with improving Cloud based I.T workloads at your SME.
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 <h3 id="aws-benefits">Benefits of AWS</h3>
 If you're completely new to AWS, then there's little we need to do to convince you that AWS is *probably* the right Cloud platform choice for your SME. Here are just some advantages moving to the Cloud can bring to an organisation:
 
 {% assign items = site.benefit %}
-
 
 <div class="row">    
     {% for item in items %}            
@@ -177,6 +183,8 @@ If you're completely new to AWS, then there's little we need to do to convince y
         </div>
     {% endfor %}
 </div>
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 <h3 id="aws-regions">AWS Regions</h3>
 AWS are always trying to expand their global network of data centres. There are currently 5 AWS Regions globally and 237823789789239 Availability Domains associated with those regions.
@@ -359,6 +367,8 @@ AWS are always trying to expand their global network of data centres. There are 
     </table>
 </div>
 
+<div class="divider div-transparent div-arrow-down"></div>
+
 ## <i class="fas fa-cloud page-title-icon" aria-hidden="true"></i>AWS Cloud Consultancy Services for SME's new to AWS
 
 Is your SME thinking of migrating its existing I.T services, or implementing new I.T services onto AWS infrastructure? Moving I.T workloads to the Cloud is a difficult task which requires sophisticated planning and a deep technical understanding to be successful - especially for production environments. However, don't let this put you off! Our Cloud consultants and project managers are here to help simplify the process of creating new cloud workloads, or migrating existing I.T workloads onto AWS so that companies can reap the benefits of Cloud technology. 
@@ -437,7 +447,7 @@ So, to summarise; Just as if your company was to build a fleet of servers and pl
     <div class="col-lg-8 order-1 order-lg-2">
         <div class="service-details">
             <div class="service-details-thumb">
-                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="">
+                <img src="https://demo.hasthemes.com/karen-preview/karen/assets/img/blog/blog-details-1.jpg" alt="" class="img-fluid">
             </div>
             <h2 class="h1 title">Technology</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, sunt perspiciatis error id ipsa atque unde quis dolore nobis eum aperiam enim blanditiis pariatur inventore eius commodi consectetur ut. Totam, assumenda! Laboriosam possimus, corporis dicta!</p>
@@ -683,10 +693,12 @@ On-hand assistance
 Never wait until you’re back in the office. Hosted environments allow all service-related issues to be handled remotely, which can be called upon twenty-four hours a day (if required).
 {% endcomment %}
 
-{% include industry-consultation.md %}
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Why choose Keep-Alive I.T?
 {% include why-us-section.html %}
+
+<div class="divider div-transparent div-arrow-down"></div>
 
 ## Not convinced AWS is the Cloud platform for your SME? 
 No problem. There are other cloud providers that we offer consultancy services for which may better suit the needs of your SME:

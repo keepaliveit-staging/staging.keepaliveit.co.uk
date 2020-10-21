@@ -13,7 +13,6 @@ header:
   page_lead_text_colour: "#6a2900"
   more_text: "Browse our I.T Security Services"
   more_text_colour: "#00416a"
-  min_height: "700px"
 
 ---
 

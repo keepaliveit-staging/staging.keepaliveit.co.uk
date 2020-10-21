@@ -7,7 +7,6 @@ excerpt: "Do you need to know how to update the Software on your Android Phone? 
 header:
   overlay_image: /assets/images/techtip/android-phone.jpg
   overlay_filter: 0.5 
-  min_height: "600px"
   more_text: "Learn how to update an Android OS"
   
 thumbnail: /assets/images/techtip/thumbnail/android-phone.jpg

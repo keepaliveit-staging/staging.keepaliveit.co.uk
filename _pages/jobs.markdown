@@ -13,7 +13,7 @@ header:
   overlay_filter: 0.74
   page_lead_text_colour: "#aa0000"
   more_text: "Discover I.T Career Opportunities"
-  min_height: "650px"
+  
 ---
 
 {% include breadcrumbs.html %}
@@ -243,5 +243,5 @@ Check us out on <a href="https://www.glassdoor.com/Overview/Working-at-Keep-Aliv
 <div class="divider div-transparent div-arrow-down"></div>
 
 ## Jobs for Freelancers
-<img src="/assets/images/jobs/freelancers-banner.png" alt="Looking for freelancers" class="lazy"> 
+<img src="/assets/images/jobs/freelancers-banner.png" alt="Looking for freelancers" class="lazy img-fluid"> 
 We have created a portal for freelancing jobs that become available.

@@ -49,13 +49,14 @@ $menu_width: 100vw !default;
         left: 0;
     }
 
-    &.pushy-right{
-        right: 0;
-    }
-
     .pushy-content {
         & > ul {
             margin: 10px;
+            padding-left: 0;
+
+            li {
+                list-style: none;
+            }
         }
     }
 }

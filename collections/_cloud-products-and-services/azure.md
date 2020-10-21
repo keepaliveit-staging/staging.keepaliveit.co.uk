@@ -11,7 +11,6 @@ header:
   overlay_image: /assets/images/benefit/flexible.jpg
   overlay_filter: 0.5 
   page_lead_text_colour: "#215e51"
-  min_height: 750px
   image_overlay_url: /assets/images/cloud/azure-logo-flat.png 
   more_text: "Discover our Azure consultancy services"
   more_text_colour: "#215e51"
