@@ -695,4 +695,37 @@ $color-primary-border: #e5ebc3;
     border-radius: 30px;
     background: #aa0000;
   }
+
+
+  .service-matrix {
+    $sme-colour: #215e51;
+    $startup-colour: #36454f;
+    $public-sector-colour: #00416a;
+    $consumer-colour: #35344b;
+    $non-profit-colour: #563a29;
+
+    .service-tick {
+      text-align: center;
+    }
+
+    .sme-colour {
+      color: $sme-colour;
+    }
+
+    .startup-colour {
+      color: $startup-colour;
+    }
+
+    .public-sector-colour {
+      color: $public-sector-colour;
+    }
+
+    .consumer-colour {
+      color: $consumer-colour;
+    }
+
+    .non-profit-colour {
+      color: $non-profit-colour;
+    }
+  }
 }

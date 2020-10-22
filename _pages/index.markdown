@@ -285,10 +285,13 @@ Help improve citizen services, increase operational effectiveness, and deliver p
 <p>We get that complex I.T terms can cause confusion and make understanding the bigger picture.</p>
 <p>Part of our ongoing service is to explain I.T terms that don't make sense to you in a language that's down to earth, versatile, and correct.</p>
 
-<table class="table">
+Know what service you require?
+If you're already somewhat of a techy, and know your way around technology, we've created this service matrix to show what I.T services we are able to offer to the different type of customer.
+
+<table class="table service-matrix">
   <thead class="thead-light">
     <tr>
-      <th scope="col">Service name</th>
+      <th scope="col">Name of I.T service / I.T product</th>
       <th scope="col">Consumer</th>
       <th scope="col">Public Sector</th>
       <th scope="col">SME</th>
@@ -298,118 +301,505 @@ Help improve citizen services, increase operational effectiveness, and deliver p
   </thead>
   <tbody>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">Cloud Products & Services</td>
+        <td colspan="8" style="background: #e0e0e0;">Cloud Products & Services</td>
     </tr>
     <tr>
       <td>AWS Cloud Management</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr>
       <td>Azure Cloud Management</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr>
       <td>DigitalOcean Cloud Management</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr>
       <td>Google Cloud Platform Cloud Management</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
      <tr>
       <td>Linode Cloud Management</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>Oracle Cloud Infrastructure Cloud Management</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">I.T Consultancy Services</td>
+        <td colspan="8" style="background: #e0e0e0;">I.T Consultancy Services</td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>Software Development Team Formation & Software Developer On-boarding Consultancy</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>I.T Compliance & Security Consultancy</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>I.T Infrastructure Management Consultancy</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Project Management Consultancy</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">I.T Consultancy Services</td>
+        <td colspan="8" style="background: #e0e0e0;">I.T Hardware Services</td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>I.T Hardware Procurement</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Hardware Setup</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Hardware Support</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+        <td colspan="8" style="background: #e0e0e0;">Website Development Services</td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>Website Development</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>Website Maintenance</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+        <td colspan="8" style="background: #e0e0e0;">I.T Software Services</td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>I.T Software Training Services</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Software Procurement Services</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Software Setup Services</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Software Development Services</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+    </tr>
+    <tr>
+      <td>I.T Software Support Services</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
     <tr class="status-category">
-        <td colspan="8" style="background: orange;">TI.T Consultancy Services</td>
+        <td colspan="8" style="background: #e0e0e0;">I.T Office Fitting Services</td>
     </tr>
     <tr>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
-      <td>•</td>
+      <td>Office Fitting in South Wales</td>
+      <td class="service-tick consumer-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick public-sector-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick sme-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick startup-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
+      <td class="service-tick non-profit-colour"><span class="fa-stack">
+  <i class="fas fa-circle fa-stack-2x"></i>
+  <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+</span></td>
     </tr>
   </tbody>
 </table>
